@@ -2041,7 +2041,7 @@ slect:
 
 ##1X
 ###Photos
- - /1x/latest/all
+ #- /1x/latest/all
 
 ##8KCosplay
 ###最新
@@ -2115,7 +2115,7 @@ slect:
 ###标签
 # - /95mm/tag/黑丝
 ###集合
- - /95mm/category/1
+# - /95mm/category/1
 
 ##NASA 每日天文图片
 ###NASA
@@ -2162,7 +2162,7 @@ slect:
 
 ##不羞涩
 ###分类
- - /dbmv
+# - /dbmv
 
 ##国家地理
 ###每日一图
@@ -2172,7 +2172,7 @@ slect:
 ###无聊图
 # - /jandan/pic
 ###首页
- - /jandan/article
+# - /jandan/article
 
 ##绝对领域
 ###图集文章
@@ -2212,7 +2212,7 @@ slect:
 
 ##致美化
 ###最新主题
-# - /zhutix/latest
+ - /zhutix/latest
 #编程
 #--------------------
 
