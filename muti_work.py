@@ -250,7 +250,7 @@ class Crawl(threading.Thread):
         print('启动采集线程%d号' % self.number)
         while self.req_list.qsize() > 0:
             url = self.req_list.get()
-            requests_url = 'https://rss.tianli0.top' + url['link']
+            requests_url = 'https://rsshub-vercel.api.slqwq.cn' + url['link']
             print('%d号线程采集：%s' % (self.number, url))
             # time.sleep(random.randint(1, 3))
             response = get_data(requests_url)
