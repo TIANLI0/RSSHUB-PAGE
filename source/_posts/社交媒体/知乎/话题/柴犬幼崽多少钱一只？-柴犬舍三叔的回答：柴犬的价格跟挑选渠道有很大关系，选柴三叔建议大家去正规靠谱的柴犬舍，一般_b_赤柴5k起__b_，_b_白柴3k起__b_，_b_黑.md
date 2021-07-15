@@ -1,0 +1,18 @@
+
+---
+title: '柴犬幼崽多少钱一只？-柴犬舍三叔的回答：柴犬的价格跟挑选渠道有很大关系，选柴三叔建议大家去正规靠谱的柴犬舍，一般_b_赤柴5k起__b_，_b_白柴3k起__b_，_b_黑...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-6daaa286bc22fe26e93e63e3bb3cca44_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Thu, 15 Jul 2021 04:20:42 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-6daaa286bc22fe26e93e63e3bb3cca44_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>柴犬幼崽多少钱一只？</strong><br>柴犬舍三叔的回答<br><p>柴犬的jiage跟挑选渠道有很大关系，选柴三叔建议大家去正规靠谱的柴犬舍，一般<b>赤柴5k起</b>，<b>白柴3k起</b>，<b>黑柴8k起</b>，因为是正规繁育柴犬的地方，一般都可以挑选到血统纯正、品相好又健康的小柴，这个大家在挑选时就可以感受到！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-6daaa286bc22fe26e93e63e3bb3cca44_720w.jpg?source=54b3c3a5" data-rawwidth="1280" data-rawheight="854" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-1eedb56a85feccafbd014cce9fd794a2_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-6daaa286bc22fe26e93e63e3bb3cca44_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-6daaa286bc22fe26e93e63e3bb3cca44_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-04b61bad45f07ec84a226b29b88d843d_720w.jpg?source=54b3c3a5" data-rawwidth="1280" data-rawheight="854" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-5f310141154df1b874591fc364d9c16a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-04b61bad45f07ec84a226b29b88d843d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-04b61bad45f07ec84a226b29b88d843d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1398249027088023552" target="_blank" data-video-id data-video-playable data-name data-poster="https://pic1.zhimg.com/v2-5bc46e26ca69a05005cd8324f9e85326.jpeg" data-lens-id="1398249027088023552">              <img class="thumbnail" src="https://pic1.zhimg.com/v2-5bc46e26ca69a05005cd8324f9e85326.jpeg" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1398249027088023552</span>              </span>            </span></span></span></a>            <p>而且在正规柴犬舍挑选小柴shouhou也会有保障，一是不会挑选到串串柴和星期柴，二是小柴到家后在饲养中有任何问题正规柴犬舍都可以解决，这样给大家之后的饲养省去了很多麻烦！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-4243b5bf9b08cb7ed4effc27942f8a7a_720w.jpg?source=54b3c3a5" data-rawwidth="1498" data-rawheight="1202" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-066ff3d6fa7db77953d79c89faf65081_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-4243b5bf9b08cb7ed4effc27942f8a7a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-4243b5bf9b08cb7ed4effc27942f8a7a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>如果大家想挑选一只健康的<b>小柴犬</b>，三叔有几篇文章可能会帮助到大家，有需要的朋友可以看看！</p><p><a href="https://zhuanlan.zhihu.com/p/364245053" class="internal">选柴指南|如何挑选一只纯种柴犬？</a></p><p><a href="https://zhuanlan.zhihu.com/p/341723347" class="internal">选柴指南|如何挑选正规靠谱的柴犬舍？</a></p><h2>我是犬舍三叔，距百年犬舍还有94的柴犬舍繁育人！选柴、养柴等相关问题，欢迎交流~</h2>  
+</div>
+            
