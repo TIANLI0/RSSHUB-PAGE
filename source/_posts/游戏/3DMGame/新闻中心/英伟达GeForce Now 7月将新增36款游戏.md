@@ -77,6 +77,48 @@ Now持续加入新游戏阵容，包括《永恒轮回：黑色幸存者》《�
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210716/1626437966_646522.jpg" alt="英伟达GeForce Now 7月将新增36款游戏" referrerpolicy="no-referrer">
 </p>
+<p style="text-indent:2em;">
+<strong>本周新增游戏：</strong>
+</p>
+<p style="text-indent:2em;">
+The Immortal Mayor (7.15，Steam）
+</p>
+<p style="text-indent:2em;">
+Lost at Sea(7.15，Steam）
+</p>
+<p style="text-indent:2em;">
+《仰冲异界》
+</p>
+<p style="text-indent:2em;">
+《炼金术士大冒险》 (Steam)
+</p>
+<p style="text-indent:2em;">
+《复古机械城》(Steam)
+</p>
+<p style="text-indent:2em;">
+《太空殖民地》(Steam)
+</p>
+<p style="text-indent:2em;">
+《Tained Grail: Conquest》 (Steam)
+</p>
+<p style="text-indent:2em;">
+《统一指挥2》 (Steam)
+</p>
+<p style="text-indent:2em;">
+《星际战甲》 (Digital Extremes)
+</p>
+<p style="text-indent:2em;">
+《漫野奇谭》(Steam)
+</p>
+<p style="text-indent:2em;">
+《X3：阿尔比恩序曲》(Steam)
+</p>
+<p style="text-indent:2em;">
+《Ys: Memories of Celceta》(Steam)
+</p>
+<p style="text-indent:2em;">
+《7日起源》 (Steam)
+</p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210716/1626438408_676542.jpg" alt="英伟达GeForce Now 7月将新增36款游戏" referrerpolicy="no-referrer">
 </p>          
