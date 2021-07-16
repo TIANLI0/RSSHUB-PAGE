@@ -1,0 +1,19 @@
+
+---
+title: 'iPhone 12推出外接电池，价格劝退！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1953/202107/15190935387009.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 16 Jul 2021 00:43:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1953/202107/15190935387009.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">文|明美无限</p><p style="text-indent: 2em; text-align: left;">随着 2021 年 6 月份的正式结束,预示着 2021 年的上半年已经结束,下半年正式开始,对于手机行业来讲,下半年的市场发展也同样重要。因为在经历了上半年市场的激烈竞争以后,下半年如果不能拿出一个优秀的产品继续保持热度,那么市场将会很容易被对手夺走。所以说下半年开始之后,各大手机厂商也都开始紧锣密鼓的筹备当中。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202107/15190935387009.png" alt="iPhone 12“新伴侣”来了，但价格会劝退你！" title="iPhone 12“新伴侣”来了，但价格会劝退你！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在等待 iPhone 13 正式发布的前夕,不少 " 果粉 " 却发现,苹果突然在官网上架了一个新品,一个新款的 MagSafe 的外接<span class="hrefStyle"><a href="https://dianyuan.ofweek.com/IND-8321046-dianchi.html" target="_blank" title="电池">电池</a></span>,价格为 749 元。这个新款的 MagSafe 外接电池简单来说就相当于一块可以实现有线和无线的<span class="hrefStyle"><a href="https://dianyuan.ofweek.com/KW-yidongdianyuan.html" target="_blank" title="移动电源">移动电源</a></span>。从容量上来看,该<span class="hrefStyle"><a href="https://dianyuan.ofweek.com/" target="_blank" title="电源">电源</a></span>的容量为 1460mAh,官方表示可以为 iPhone12 提供额外 65% 的续航时间,最高支持 27W 的充电功率。同时苹果官方也标注称 " 如果您同时为 iPhone 和 MagSafe 电池组充电,您的 iPhone 可能会在 MagSafe 电池组开始充电之前充电到 80% 或更高。" 不仅证明了两款设备同时充电时会依旧以 iPhone 为优先级进行充电,同时证明了 iPhone 12 系列是支持反向充电功能的。</p><p style="text-indent: 2em; text-align: left;">毕竟在二者通过 MagSafe 磁吸连接时,内部的充电线圈也是相连接的工作状态。此时充电线是连接在 iPhone 12 系列手机上的,在充至 80% 电量时开始通过无线充电线圈将电量反向供给给 MagSafe 外接电池模块,不过由于目前产品还未上市,并无法测得其反向充电的实际功率,但也证明了苹果为 iPhone 12 系列准备了该功能,并有可能会在后续的产品中作为基础功能加入。</p><p style="text-indent: 2em; text-align: left;">当然了,果粉们一般肯定不会拿iPhone 12的电量去充外接电池,毕竟iPhone 12的续航能力本身就不是很强。其实这也是苹果推出MagSafe外接电池的主要原因之一,考虑到iPhone 12的续航水平,果粉们出门带个充电宝还是很有必要的。</p><p style="text-indent: 2em; text-align: left;">还有,MagSafe 外接电池需要手机系统版本不低于 iOS 14．7 才能正常使用,目前已可在官网预订,预计 7 月 20 日开始出货。</p><p style="text-indent: 2em; text-align: left;">另外,今天明美无限还要值得一提的是,苹果在 iPhone 13 发布前夕突然上架了这款新产品,不免引起了很多 " 果粉 " 的猜测。要知道,苹果 iPhone 12 在上市之后就一直被吐槽续航拉胯,其实不仅仅是 iPhone 12,历代 iPhone 都有这个缺点。所以苹果推出这个新产品对于 iPhone 12 的用户来说是一个好消息,终于可以解决自己的续航问题了,库克变相承认了 iPhone 12 的问题所在。但是价格问题却有些难以接受。</p><p style="text-indent: 2em; text-align: left;">再有,如果你说苹果无线耳机airpods价格昂贵是因为其出色的佩戴体验和无与伦比的降噪效果,那么这个1460毫安的充电宝存在意义在哪里?我实在是想不通。当然可能不差钱的人会说这也没什么,毕竟人家是苹果嘛,那这和之前把iPhone当奢侈品的价值观又有什么区别呢?</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202107/15190935939424.jpg" alt="iPhone 12“新伴侣”来了，但价格会劝退你！" title="iPhone 12“新伴侣”来了，但价格会劝退你！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">但与此同时,苹果官方推出的产品也使其带来了更好的设备兼容性。在充电的过程中,用户还可以直观地看到MagSafe 外接电池的电量变化情况。苹果还为其带来了保护设置,可以更好的保障电池健康。</p><p style="text-indent: 2em; text-align: left;">此外呢,今天明美无限还要顺便一提的是,如果现在问我哪一款高端旗舰机最值得入手?我会毫不犹豫地向你推荐iPhone 12,虽然iPhone 12依旧保留上一代续航表现差、发热严重的问题,但它采用了iPhone 4经典的不锈钢材质设计,不仅整体更有质感,而且拿在手上也非常轻盈。同时有了A14仿生芯片的加持,配合上iOS14系统的流畅,整体体验确实没话说,要比安卓手机更好。</p><p style="text-indent: 2em; text-align: left;">最后,明美无限还想说的就是:MagSafe外接电池这款苹果新品的上架,尽管也引起了很多果粉的关注,但更多的却是争议和吐槽,因为749元的价格确实比较昂贵。至于iPhone 12的用户会不会买单,就要看他们自己的选择了,如果苹果能便宜一点,其销量应该不会太差。</p><p style="text-indent: 2em; text-align: left;">除此之外明美无限说实话,苹果这次推出的 MagSafe 外接电池可能使用体验还不错,但如果真的是这种配置和价格,这似乎就有点过了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202107/15190936117020.png" alt="iPhone 12“新伴侣”来了，但价格会劝退你！" title="iPhone 12“新伴侣”来了，但价格会劝退你！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">对此,你们怎么看呢?欢迎留言和转发。</p> 
+  
+</div>
+            
