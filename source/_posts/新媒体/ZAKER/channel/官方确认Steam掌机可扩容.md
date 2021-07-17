@@ -1,0 +1,18 @@
+
+---
+title: '官方确认Steam掌机可扩容'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe885_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 17 Jul 2021 00:06:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe885_1024.jpg'
+---
+
+<div>   
+<p>设计人员接受采访时曾表示内部存储无法升级，而 G 胖回答粉丝邮件时明确表示 64GB 丐版也有 M2. 槽，看来大家都没骗人：</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe885_1024.jpg" data-height="287" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe885_1024.jpg" referrerpolicy="no-referrer"></div></div>根据升级后的 Steam 掌机规格表可知，所有型号均配有 2230 M.2 插槽并支持 NVMe SSD，区别是 64GB 版本的 M.2 插槽是空的。但官方并不建议最终用户自行扩容，理由是难度太高（据说藏在 EMI 屏蔽层与散热垫之后），可能失去质保。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202107/60f271a4b15ec07f9a7fe886_1024.jpg" data-height="300" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f271a4b15ec07f9a7fe886_1024.jpg" referrerpolicy="no-referrer"></div></div>但 399 美元的友情价实在难以抵挡，即便失去质保代价也不算高，丐版大甲板与大船版 M.2 2230 会成为近期热门商品。<p></p><p>DF 数毛社梳理了大甲板的技术参数，试图解释它为何这般魁梧，尤其与 Switch 相比。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202107/60f271a4b15ec07f9a7fe887_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f271a4b15ec07f9a7fe887_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe888_1024.jpg" data-height="332" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe888_1024.jpg" referrerpolicy="no-referrer"></div></div>大甲板机身长接近一尺（29.8 厘米），比 Switch 长 6 厘米（诸位自行体会多出 6 厘米是什么概念）；比 Switch 重半斤（669 克 vs. 400 克）。<p></p><p>DF 认为这头怪兽在功率及散热方面的要求使瘦身成为不可能，再加上 40 瓦时的大电池（13 寸 XPS 笔记本的电池也不过 52 瓦时），铸就了大甲板的魁梧身姿（据说手感很好）。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe889_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe889_1024.jpg" referrerpolicy="no-referrer"></div></div>何况还要容纳史上最复杂的掌机操控界面：双电容杆，双电容触摸板，全套手柄按键，肩键，精英式背键……以满足任何一款 PC 游戏的要求（从模拟到 RTS，从动作到射击）。<p></p><p>附 V 社大甲板与微软 XSS 技术参数对比，后者被视为次世代游戏的入门配置：</p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe88a_1024.jpg" data-height="426" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f271a4b15ec07f9a7fe88a_1024.jpg" referrerpolicy="no-referrer"></div></div>要指出的是，XSS 以 1080p@60FPS 为目标，而大甲板只有 800p（1280x800），只要游戏继续提供 1080p 以下分辨率，大甲板就能应付自如。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
