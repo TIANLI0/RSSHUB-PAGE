@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-dc5b6f73cee4c0adf76ae5585c62ff3
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><img alt height="298" src="https://oscimg.oschina.net/oscnet/up-dc5b6f73cee4c0adf76ae5585c62ff35369.JPEG" width="700" referrerpolicy="no-referrer"></p> 
+                                                                                            <p><img alt height="298" src="https://oscimg.oschina.net/oscnet/up-dc5b6f73cee4c0adf76ae5585c62ff35369.JPEG" width="700" referrerpolicy="no-referrer"></p> 
 <p><strong>Zadig 又发版啦</strong></p> 
 <p>虽然距离上次 v1.1.0 发版仅 2 周，但本版本我们新添了不少重磅支持，包括：</p> 
 <ul> 

@@ -14,8 +14,7 @@ thumbnail: 'https://gitee.com/AhooWang/CosId/raw/main/docs/Snowflake-identifier.
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h1 style="text-align:left"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId" target="_blank">CosId</a> 通用、灵活、高性能的分布式 ID 生成器</h1> 
+                                                                                            <h1 style="text-align:left"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId" target="_blank">CosId</a> 通用、灵活、高性能的分布式 ID 生成器</h1> 
 <h2 style="text-align:left">更新内容（1.3.2） 🎉 🎉 🎉</h2> 
 <ol> 
  <li>增强：新增 <code>MergedIdSegment</code> 合并 <code>IdSegment</code> 避免创建过多 <code>IdSegment</code> 对象。</li> 

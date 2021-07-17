@@ -14,8 +14,7 @@ thumbnail: 'https://gitee.com/AhooWang/CoSky/raw/main/docs/CoSky-Discovery.png'
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h1 style="text-align:left"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCoSky" target="_blank">CoSky</a> 高性能、低成本微服务治理平台（服务注册/发现 & 配置中心）</h1> 
+                                                                                            <h1 style="text-align:left"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCoSky" target="_blank">CoSky</a> 高性能、低成本微服务治理平台（服务注册/发现 & 配置中心）</h1> 
 <p style="text-align:left"><em><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCoSky" target="_blank">CoSky</a></em> 是一个轻量级、低成本的服务注册、服务发现、 配置服务 SDK，通过使用现有基础设施中的 Redis （相信你已经部署了Redis），不用给运维部署带来额外的成本与负担。 借助于 Redis 的高性能， <em>CoSky</em> 提供了超高TPS&QPS (10W+/s <a href="https://gitee.com/AhooWang/CoSky#jmh-benchmark">JMH 基准测试</a>)。<em>CoSky</em> 结合本地进程缓存策略 + <em>Redis PubSub</em>，实现实时进程缓存刷新，兼具无与伦比的QPS性能 (7000W+/s <a href="https://gitee.com/AhooWang/CoSky#jmh-benchmark">JMH 基准测试</a>)、进程缓存与 Redis 的实时一致性。</p> 
 <h2 style="text-align:left">更新内容（1.2.1） 🎉 🎉 🎉</h2> 
 <ol> 

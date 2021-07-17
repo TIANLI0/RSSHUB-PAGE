@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6782'
+headimg: 'https://picsum.photos/400/300?random=4836'
 author: 开源中国
 comments: false
 date: Sat, 17 Jul 2021 07:34:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6782'
+thumbnail: 'https://picsum.photos/400/300?random=4836'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Sublime Text 4 Build 4113 正式发布，更新内容如下：</p> 
+                                                                                            <p>Sublime Text 4 Build 4113 正式发布，更新内容如下：</p> 
 <ul> 
  <li>改进了编辑大文件时的性能；</li> 
  <li>改进了 OpenGL 的渲染性能；</li> 

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9267'
+headimg: 'https://picsum.photos/400/300?random=4067'
 author: 开源中国
 comments: false
 date: Sat, 17 Jul 2021 07:39:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9267'
+thumbnail: 'https://picsum.photos/400/300?random=4067'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Qt Creator 4.15.2 现已发布。此版本修复了在 qmake 项目中执行系统调用的问题，以及在 CMake 项目中出现的崩溃和一些性能问题。</p> 
+                                                                                            <p>Qt Creator 4.15.2 现已发布。此版本修复了在 qmake 项目中执行系统调用的问题，以及在 CMake 项目中出现的崩溃和一些性能问题。</p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>改善项目加载和重新解析后的性能</li> 

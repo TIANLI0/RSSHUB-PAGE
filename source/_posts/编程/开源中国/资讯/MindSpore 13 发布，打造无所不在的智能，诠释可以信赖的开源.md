@@ -14,8 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2021/0712/141529_V1P1_27201
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><img src="https://static.oschina.net/uploads/space/2021/0712/141529_V1P1_2720166.gif" referrerpolicy="no-referrer"></p> 
+                                                                                            <p><img src="https://static.oschina.net/uploads/space/2021/0712/141529_V1P1_2720166.gif" referrerpolicy="no-referrer"></p> 
 <p>夏日的阳光已经洒在树梢枝畔，奋斗了又3个月的MindSpore社区开发者们，带着无比的兴奋，为大家献上全新的1.3版本！日益精进的我们，在这个版本中为大家带来了全新的MindSpore Federated能力，解锁了支撑盘古千亿稠密大模型的众多关键特性、以及面向更多类型硬件的推理优化、图算融合、简易部署等新工艺，犹如开源时所誓言，持续不断的为AI开发者带来惊喜。下面就带大家快速浏览1.3版本的关键特性。</p> 
 <h1><strong>MindSpore Federated——支持千万级无状态设备的联邦学习</strong></h1> 
 <p>联邦学习是一种加密的分布式机器学习技术，它是指参与联邦学习的各用户在不共享本地数据的前提下共建AI模型，主要用于解决数据隐私和数据孤岛的问题。MindSpore Federated优先专注于大规模参与方的横向联邦的应用场景。</p> 

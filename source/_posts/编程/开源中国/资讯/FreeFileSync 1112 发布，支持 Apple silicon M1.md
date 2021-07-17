@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5708'
+headimg: 'https://picsum.photos/400/300?random=1380'
 author: 开源中国
 comments: false
 date: Sat, 17 Jul 2021 07:53:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5708'
+thumbnail: 'https://picsum.photos/400/300?random=1380'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>FreeFileSync 11.12 现已发布。FreeFileSync 是一款开源软件，适用于 Windows、macOS 和 Linux。FreeFileSync 本质是一个用于文件夹对比和同步的软件，它可以创建和管理所有重要文件的备份副本。FreeFileSync 不是每次都复制每个文件，而是确定源文件夹和目标文件夹之间的差异，并只传输所需的最低数据量。</p> 
+                                                                                            <p>FreeFileSync 11.12 现已发布。FreeFileSync 是一款开源软件，适用于 Windows、macOS 和 Linux。FreeFileSync 本质是一个用于文件夹对比和同步的软件，它可以创建和管理所有重要文件的备份副本。FreeFileSync 不是每次都复制每个文件，而是确定源文件夹和目标文件夹之间的差异，并只传输所需的最低数据量。</p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>原生 ARM64 构建以支持 Apple silicon M1 (macOS)</li> 

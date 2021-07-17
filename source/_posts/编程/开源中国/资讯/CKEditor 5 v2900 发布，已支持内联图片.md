@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1666'
+headimg: 'https://picsum.photos/400/300?random=7029'
 author: 开源中国
 comments: false
 date: Sat, 17 Jul 2021 07:01:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1666'
+thumbnail: 'https://picsum.photos/400/300?random=7029'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>CKEditor 5 是一个强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。CKEditor 5 v29.0.0 正式发布，更新内容如下：</p> 
+                                                                                            <p>CKEditor 5 是一个强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。CKEditor 5 v29.0.0 正式发布，更新内容如下：</p> 
 <p><strong>这个版本引入了几个新的功能：</strong></p> 
 <ul> 
  <li>内联图片——支持单个区块中的多个图片；</li> 

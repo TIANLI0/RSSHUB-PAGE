@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9285'
+headimg: 'https://picsum.photos/400/300?random=8172'
 author: 开源中国
 comments: false
 date: Sat, 17 Jul 2021 07:19:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9285'
+thumbnail: 'https://picsum.photos/400/300?random=8172'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>pgAdmin 是 PostgreSQL 领先的开源图形化管理工具。pgAdmin 4 5.5 版本正式发布。本次版本更新中值得注意的变化包括：</p> 
+                                                                                            <p>pgAdmin 是 PostgreSQL 领先的开源图形化管理工具。pgAdmin 4 5.5 版本正式发布。本次版本更新中值得注意的变化包括：</p> 
 <p><strong>功能：</strong></p> 
 <ul> 
  <li> <p>在仪表板上高亮显示长期运行的查询</p> <p>它允许用户提供以分钟为单位的警告和警报阈值。根据阈值，pgAdmin4 在仪表板上高亮显示长期运行的查询。</p> </li> 

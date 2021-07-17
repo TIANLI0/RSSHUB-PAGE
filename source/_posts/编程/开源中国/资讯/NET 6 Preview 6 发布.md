@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-cfabffec60c94b51e21f6b6faed3337
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>.NET 6 Preview 6 现已发布，此版本是进入 RC 时期之前的倒数第二个预览版，RC 版本将会有两个 。官方表示，Preview 6 本身相对较小，Preview 7 将会更大。在那之后，团队将进行质量修复，直至 11 月的最终版本发布。</p> 
+                                                                                            <p>.NET 6 Preview 6 现已发布，此版本是进入 RC 时期之前的倒数第二个预览版，RC 版本将会有两个 。官方表示，Preview 6 本身相对较小，Preview 7 将会更大。在那之后，团队将进行质量修复，直至 11 月的最终版本发布。</p> 
 <h4>x64 仿真更新</h4> 
 <p>开发团队已经完成了对 macOS 的 Apple Silicon 和 Windows 的 Arm64 的支持。剩下的就是在 macOS Apple Silicon 和 Windows Arm64 上支持 x64 仿真。其需要做两件事来实现这一点：</p> 
 <ul> 
