@@ -127,7 +127,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e84
 <li>无法利用<code>空安全</code>特性，指定某个属性必须有值</li>
 </ul>
 <blockquote>
-<p>提示：<code>自定义类型</code>还有个好处，例如<code>JSON</code>转<code>自定义类型</code>时会进行<code>类型/nil/属性名</code>检查，如果数据不正确可以避免将错误数据丢到下一层。</p>
+<p>提示：<code>自定义类型</code>还有个好处，例如<code>JSON</code>转<code>自定义类型</code>时会进行<code>类型/nil/属性名</code>检查，可以避免将错误数据丢到下一层。</p>
 </blockquote>
 <h5 data-id="heading-15">不推荐</h5>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-keyword">let</span> dic: [<span class="hljs-type">String</span>: <span class="hljs-keyword">Any</span>]
@@ -145,7 +145,7 @@ data.name <span class="hljs-operator">=</span> <span class="hljs-string">"name"<
 <h5 data-id="heading-17">适合使用<code>Dictionary</code>的场景</h5>
 <ul>
 <li><code>数据不使用</code> - 数据并不<code>读取</code>只是用来传递。</li>
-<li><code>解耦</code> - 例如<code>组件间通信/混合栈间通信/前后端通信</code>，对于这类跨技术栈边界的场景我们通常使用<code>HashMap</code>来传递参数。</li>
+<li><code>解耦</code> - 1.<code>组件间通信</code>解耦使用<code>HashMap</code>传递参数进行通信。2.跨技术栈边界的场景，<code>混合栈间通信/前后端通信</code>使用<code>HashMap</code>/<code>JSON</code>进行通信。</li>
 </ul>
 <h4 data-id="heading-18">使用<code>枚举关联值</code>代替<code>Any</code></h4>
 <p>例如使用枚举改造<code>NSAttributedString</code>API，原有API<code>value</code>为<code>Any</code>类型无法限制特定的类型。</p>
