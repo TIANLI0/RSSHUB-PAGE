@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/040/173/830/original/2b4f06ba82d46565.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/040/175/163/original/9c4cb2e3cd099d78.jpg'
 author: Mastodon
 comments: false
-date: Mon, 15 Nov 2021 11:12:20 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/040/173/830/original/2b4f06ba82d46565.jpg'
+date: Mon, 15 Nov 2021 12:23:14 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/040/175/163/original/9c4cb2e3cd099d78.jpg'
 ---
 
 <div>   
-<hr><p>looking for a partner who would fuck me hard in all holes, write here - www.ddating.fun</p><br><img src="https://img.pawoo.net/media_attachments/files/040/173/830/original/2b4f06ba82d46565.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>looking for a partner who would fuck me hard in all holes, my contacts are here - <a href="https://www.ddating.fun/" rel="nofollow noopener" target="_blank">https://www.ddating.fun</a></p><br><img src="https://img.pawoo.net/media_attachments/files/040/175/163/original/9c4cb2e3cd099d78.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
