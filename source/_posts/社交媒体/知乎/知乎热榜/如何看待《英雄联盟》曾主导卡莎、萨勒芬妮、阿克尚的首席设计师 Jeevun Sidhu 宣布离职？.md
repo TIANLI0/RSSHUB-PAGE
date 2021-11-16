@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3480'
+headimg: 'https://pic4.zhimg.com/v2-6d94c15307fc5acf738e422b7d175b88_1440w.jpg'
 author: 知乎
 comments: false
-date: Tue, 16 Nov 2021 10:52:45 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3480'
+date: Tue, 16 Nov 2021 15:13:39 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-6d94c15307fc5acf738e422b7d175b88_1440w.jpg'
 ---
 
 <div>   
-上野绅的回答<br><br><p data-pid="tDPb_YLa">走的好啊！走得好啊！走得好啊！    （走好）</p><p data-pid="cJ8r52FF">青钢影，卡密尔</p><p data-pid="iGZdS00-">完全是蔚的上位替代，你蔚用拳头  ，那我就用脚 。</p><p data-pid="JsXT7jNd">你是皮城执法官，老娘就是皮城的灰夫人，皮城幕后的女人，逼格比你高多了。</p><p data-pid="CXtZOJwd">蔚被动是护盾，我也是护盾还是双盾。</p><p data-pid="qiyWDy4j">蔚q位移➕控制，我e技能也是，而且比蔚的q要灵活得多。</p><p data-pid="3W-CZE3X">蔚的w是百分比，我的也是百分比，还附赠回血和aoe减速</p><p data-pid="eHBQSday">蔚的e技能是强化普攻，我的q也是，至于伤害嘛，我一个真实伤害拉起连坦克都能踹死。</p><p data-pid="dCfurMUT">蔚的大招是点控，我也是，我还附带一个不可选取。</p><p data-pid="ukFL8GAn">歌姬</p><p data-pid="Vt53UHev">歌姬和琴女的相似就不说了，我记得背景故事，人家以前的琴女是很受欢迎的，连斯维因都赞叹过“娑娜无声似有声。”</p><p data-pid="1Cbu8sjn">那我就创造一个女明星，一堆人等着要签名，比你这个只会弹琴的哑巴要厉害  </p><p data-pid="gy0QYhRQ">技能组</p><p data-pid="g9nfJVlE">三次技能强化下次施法，护盾，回血，加速光环，大招群控，熟悉不</p><p data-pid="v8zaMEk_">还有你琴女不是手上拿个大琴吗？那我就直接搞个舞台在脚下踩着</p><p data-pid="RwhRkmxB">（琴女之前调整，结果搞了一个施法小技能累计琴音，也是这位的功劳）</p><p data-pid="eJ-mKU5N">卡莎</p><p data-pid="NZexyMWS">在之前很长一段时间都是薇恩的上位替代（经过几轮削弱稍微好点）</p><p data-pid="4ta674co">甚至连故事背景，一个是猎杀魔法生物（vn）,那我就猎杀虚空生物（卡莎）</p><p data-pid="ljxPCOox">卡莎的全能，被动额外伤害➕四环伤害，q爆发，w消耗，e隐身➕攻速，r位移和护盾，可ap可ad，多少老英雄看着这些搭配泪流满面。</p><p data-pid="AOF-7v40">我非常不喜欢看到那些缝合怪，也希望新的设计师能多一点返璞归真的设计</p><p data-pid="YyrlJZCi">别再来那些一个小技能毁天灭地的英雄了</p><p data-pid="E7zOfDZa">说你呢，你跑啥！那个长猫耳的男人！</p><p></p>  
+看透一切的憨憨的回答<br><br><p data-pid="kSwODxj4">为什么其他答案都答非所问的…人家问这个人离职咋地咋地结果全都在说机制版本balabala…</p><p data-pid="4wr_5LBZ">先来看看这个设计师主要的功劳吧：</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-6d94c15307fc5acf738e422b7d175b88_1440w.jpg" data-rawwidth="1284" data-rawheight="2778" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-8e5d84bd04caa1c110187155f4a8f5b8_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-6d94c15307fc5acf738e422b7d175b88_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="JwjgINWn">英雄里面，他设计的最出彩的毫无疑问肯定是青钢影，一个非常难过时的经典机制设计。最拉闸的那肯定就是大号琴女（笑）。卡莎和阿克尚各自都有亮点，但共同的问题都是机制太强导致数值难以平衡。</p><p data-pid="Ms0hSwe3">卢锡安和剑魔的重做也算是可圈可点。</p><p data-pid="7OQJ2Ifk">地图机制上，这位设计师最大的贡献看来就是峡谷先锋。</p><p data-pid="yMwPjbCO">总而言之肯定是一个很有才华的设计师，虽然有萨勒芬妮这种败笔…拳头没他算是一个损失。</p><p data-pid="u7kCJOY-">不过现在英雄设计的机制已经越来越接近于枯竭了…多一个人少一个人感觉都改变不了这游戏增量困难的现实，还是只能发展周边用IP变现（比如Arcane，那是做得真好）。</p><p data-pid="Vw1Ryapi">对了，大家也少喷这设计师两句吧，没卡莎这种理论完美的英雄，LPL S8开始能拿多少国际赛事冠军都说不定（笑）。卡莎真的是LPL的福星。</p>  
 </div>
             
