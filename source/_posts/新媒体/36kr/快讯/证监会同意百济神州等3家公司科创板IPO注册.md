@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 36kr
  - 快讯
-headimg: 'https://picsum.photos/400/300?random=827'
+headimg: 'https://picsum.photos/400/300?random=3847'
 author: 36kr
 comments: false
 date: Tue, 16 Nov 2021 11:11:42 GMT
-thumbnail: 'https://picsum.photos/400/300?random=827'
+thumbnail: 'https://picsum.photos/400/300?random=3847'
 ---
 
 <div>   
