@@ -1,0 +1,18 @@
+
+---
+title: '想养猫但是猫身上的味道太重了怎么办？-Bella七七的回答：先放我香香的儿子哈哈 _图片_ _图片_ 我养猫一年半了，我儿子身上什么味道都没有…偶尔洗完澡香香的 还...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-65670af0e0b36561779f297f6274b93f_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 16 Nov 2021 07:14:55 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-65670af0e0b36561779f297f6274b93f_1440w.jpg'
+---
+
+<div>   
+<strong>想养猫但是猫身上的味道太重了怎么办？</strong><br>Bella七七的回答<br><p data-pid="q4wrIB3Y">先放我香香的儿子哈哈</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-65670af0e0b36561779f297f6274b93f_1440w.jpg" data-rawwidth="2560" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-d7a8731b6040a77bdb2b8b2f4482bba3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-65670af0e0b36561779f297f6274b93f_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-a05c7f026de90f36a4cea674952a3ff3_1440w.jpg" data-rawwidth="1920" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-c77a3846de780e91586ce7097c50420d_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-a05c7f026de90f36a4cea674952a3ff3_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="RuL-fB4x">我养猫一年半了，我儿子身上什么味道都没有……偶尔洗完澡香香的 还会闻哈哈。几个建议参考吧：</p><ol><li data-pid="zDwUMn_L">首先要确定没有任何疾病哈 可以养猫前进行全面体检了，像口臭身上异味等有可能是生病了</li><li data-pid="BvnjkqZG">居住环境要通风，猫砂盆放在阳台可通风处，每日铲屎（非常重要），每周换砂。猫砂推荐除味的混合猫砂，我无限回购的猫殿下推荐给你。如果你非常洁癖，可以给主子搞两个猫砂盆</li><li data-pid="IjGYeH_3">定期洗澡。猫咪其实很爱干净，一年洗两次就行，但如果你洁癖且猫咪性格好，可以去专业的美容院洗护，我是每三个月洗护SPA一次，用的产品是最好的。</li><li data-pid="9dP3bb9l">日常清洁。每周在家要进行梳毛、洗耳、洗牙，修剪指甲，擦擦爪子等 </li><li data-pid="X3mdOFbD">日常消毒喷雾。可以购买一些专业靠谱的消毒除味喷雾</li><li data-pid="-Anb5Ruu">猫粮避免过油的</li></ol><p data-pid="WbXxItYL">以上希望有帮助吧，小猫咪那么可爱，怎么有味道呢。我儿子香的不行哈哈哈</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-f16adcf266f775858374a083365e5aaa_1440w.jpg" data-rawwidth="2560" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-3a9b30deabe68486428211322a15bdfe_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-f16adcf266f775858374a083365e5aaa_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-9a62c2c441aedb635e59acdfc0b72915_1440w.jpg" data-rawwidth="2560" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-722b4289d078fe811ca2862f80d24386_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-9a62c2c441aedb635e59acdfc0b72915_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-973fd1d0dd1d78c8f26a4dc1a446345e_1440w.jpg" data-rawwidth="2560" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-58abf74db679369a74a449d24ec54013_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-973fd1d0dd1d78c8f26a4dc1a446345e_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-143236dc1c2894018364bd1a493c35a2_1440w.jpg" data-rawwidth="2560" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-e4244a4867c9abdedc8e590b750ae03a_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-143236dc1c2894018364bd1a493c35a2_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
