@@ -18,7 +18,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211117/s_91f6d2b12c6c44b781e89a77bf
 <p>外形方面，<strong>12.6英寸显示屏</strong>，16：10比例，四边对称等边框，<strong>不含键盘机身厚度7.99mm，不含键盘重量仅709g，</strong>后盖采用微米级硅树脂材料塑造绒毛纹理，拥有星际蓝和星云灰两种配色。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211117/91f6d2b12c6c44b781e89a77bf76a27c.jpg" target="_blank"><img alt="华为MateBook E二合一笔记本发布：首次采用OLED原色屏" h="338" src="https://img1.mydrivers.com/img/20211117/s_91f6d2b12c6c44b781e89a77bf76a27c.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>比较特别是，MateBook E采用二合一形态，可实现笔记本模式、创作模式和平板模式灵活切换。</p>
-<p>基本配置方面，MateBook E<strong>采用Intel 11代酷睿处理器（最高i7-1160G7），最大16GB双通道内存和512GB SSD</strong>，四麦克风四扬声器，支持AI降噪，前置800万后置1300万像素摄像头，带你吃支持65W快充，30分钟充至54%。</p>
+<p>基本配置方面，MateBook E<strong>采用Intel 11代酷睿处理器（最高i7-1160G7），最大16GB双通道内存和512GB SSD</strong>，四麦克风四扬声器，支持AI降噪，前置800万后置1300万像素摄像头，支持65W快充，30分钟充至54%。</p>
 <p>散热方面，内部采用多层结构，集超薄风冷VC、鲨鱼鳍风扇、高导热石墨烯等一体。此外还有指纹电源键、雷电4接口等。</p>
 <p>配套方面，悦滑键盘保留触控板和NFC感应，127度支撑角度，可单手开合、采用复合纯碳纤维材质等。智能磁吸键盘使用超轻PU皮材质，110~160度调节，轻至440g，1.3mm键程。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211117/4f0f3315a1cf42fdba08b0335f7a087f.jpg" target="_blank"><img alt="华为MateBook E二合一笔记本发布：首次采用OLED原色屏" h="274" src="https://img1.mydrivers.com/img/20211117/s_4f0f3315a1cf42fdba08b0335f7a087f.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
