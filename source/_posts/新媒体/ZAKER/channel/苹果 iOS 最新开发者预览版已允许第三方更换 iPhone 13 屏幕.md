@@ -1,0 +1,18 @@
+
+---
+title: '苹果 iOS 最新开发者预览版已允许第三方更换 iPhone 13 屏幕'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2a_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 16 Nov 2021 23:56:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2a_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 11 月 17 日消息，第三方更换 iPhone 13 显示屏会使 Face ID 无法使用，提示 " 无法在此 iPhone 上激活 Face ID"。上周，苹果已向 The Verge 回应，计划推出一项软件更新，允许在不禁用 Face ID 的情况下进行显示屏维修，但没有说明将在什么时候推出。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2a_1024.jpg" data-height="461" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2a_1024.jpg" referrerpolicy="no-referrer"></div></div>据 The Verge 今日报道，iCorrect 在将 iPhone 13 升级到最新的开发者预览版后，也就是今日推送的 iOS 15.2 开发者预览版 Beta3，更换屏幕不再出现错误提示，Face ID 也仍然可以工作。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202111/619484098e9f0959ec31fb2b_1024.jpg" data-height="506" data-width="901" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/619484098e9f0959ec31fb2b_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，在 iPhone 13 中，苹果添加了一个小型微控制器，可将 iPhone 13 与其显示屏配对。在进行显示屏维修时，必须使用苹果的工具将该微控制器与新显示屏配对，而独立维修店很难使用这些工具。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202111/618afe0eb15ec077452b625e_1024.jpg" data-height="430" data-width="771" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/618afe0eb15ec077452b625e_1024.jpg" referrerpolicy="no-referrer"></div></div>而最新的测试显示，第三方维修店更换 iPhone 13 屏幕时，即使不将该微控制器进行移植，功能也丝毫不受影响，只是会弹出一条提醒：" 设备无法验证屏幕是否为苹果正品部件 "。<p></p><p>▼ 新的屏幕没有将微控制器移植过来</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2c_1024.jpg" data-height="500" data-width="911" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2c_1024.jpg" referrerpolicy="no-referrer"></div></div>▼ 更换屏幕后会出现提示信息，关掉就好<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2d_1024.jpg" data-height="506" data-width="909" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2d_1024.jpg" referrerpolicy="no-referrer"></div></div>iOS 15.2 开发者预览版 Beta3 还为 iPhone 13 Pro 和 iPhone 13 Pro Max 增加了使用超广角镜头拍摄特写照片的微距选项，并进行了一系列修复。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2e_1024.jpg" data-height="191" data-width="677" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619484098e9f0959ec31fb2e_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
