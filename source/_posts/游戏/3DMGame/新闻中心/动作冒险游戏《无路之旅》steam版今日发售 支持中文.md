@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211117/1637134387_7460
 
 <div>   
 <p style="text-indent:2em;">
-由《ABZÛ》的创作团队Giant Squid开发的动作冒险游戏《无路之旅》（The Pathless）今日在steam平台开售，原价120元，现在至11月24日期间购买有优惠，售价为78元，支持中文。游戏曾于2020年11月12日在PS4/5、Epic商城和Apple Arcade发行。
+由《ABZÛ》的创作团队Giant Squid开发的动作冒险游戏《无路之旅》（<a target="_blank" href="https://www.3dmgame.com/games/thepathless/">The Pathless</a>）今日在steam平台开售，原价120元，现在至11月24日期间购买有优惠，售价为78元，支持中文。游戏曾于2020年11月12日在PS4/5、Epic商城和Apple Arcade发行。
 </p>
 <h3>
 预告片
@@ -42,7 +42,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211117/1637134387_7460
 亨特是一名女性神射手。为了驱除笼罩世界的黑暗诅咒，你将化身这名神射手，踏上一座神秘的岛屿。与你的猎鹰结伴，翱翔天际。施展天衣无缝的特技，展现令人叫绝的箭法。独一无二的箭术系统让你可以一边高速移动，一边巧发奇中。
 </p>
 <p style="text-indent:2em;">
-· 探索开放世界
+· 探索<a target="_blank" href="https://www.3dmgame.com/tag/kaifangshijie_1/">开放世界</a>
 </p>
 <p style="text-indent:2em;">
 在美丽的开放世界中，开辟自己的路径，发现无穷无尽的秘密。游历雾气弥漫的森林、郁郁葱葱的草地和白雪皑皑的苔原。随着你穿行于树梢、揭开古老遗址的谜题，这座岛屿的黑暗历史也将逐渐铺展开来。
