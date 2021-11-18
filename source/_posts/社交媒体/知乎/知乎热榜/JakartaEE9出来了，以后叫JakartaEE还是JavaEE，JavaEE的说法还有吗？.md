@@ -1,0 +1,18 @@
+
+---
+title: 'JakartaEE9出来了，以后叫JakartaEE还是JavaEE，JavaEE的说法还有吗？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-6b04cc2e0705208ca846c246a37513ef_1440w.jpg'
+author: 知乎
+comments: false
+date: Thu, 18 Nov 2021 01:06:14 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-6b04cc2e0705208ca846c246a37513ef_1440w.jpg'
+---
+
+<div>   
+动力节点的回答<br><br><h2>发问题的初衷</h2><p data-pid="KuVGScy3">那天我正在摸鱼（不是）矜矜业业的工作，杜老师钉钉让我过去一下。于是就有了下面的对话</p><p data-pid="ZQEZAWBj">老杜：小x阿，我想给学生们留个作业，让他们换换脑子</p><p data-pid="6Spp2GGE">小x：换脑子！？大佬你搞乜嘢啊？</p><p data-pid="RZn6QzNw">老杜：就是觉得的他们学的太辛苦，想了一个有趣的问题考考他们，算是作业。让他们不停思考代码的脑细胞休息一下。</p><p data-pid="7McMHs07">小x：哦哦，嗰个我要点做？</p><p data-pid="nO9Ekhzu">老杜：你在知乎发个问题，我会在直播的时候告诉大家，另外除了回答这个问题，大家学习上有什么问题也可以在回答里提出来，我有空了会一一回复。</p><p data-pid="UGk8VwRL">小x：老师定晒，冇嘢！</p><h2>视频讲的什么</h2><p data-pid="8EwnFM10">有人问杜老师为什么好端端的留了个问题？这是在直播时录得视频吗？讲的什么课程；还有好多人私信问在哪学习，有没有录播等等，我都回复麻了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-6b04cc2e0705208ca846c246a37513ef_1440w.jpg" data-caption data-size="normal" data-rawwidth="545" data-rawheight="356" data-default-watermark-src="https://pic3.zhimg.com/v2-0e6349736fe4340da0bfbab89d5fe1aa_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-6b04cc2e0705208ca846c246a37513ef_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-c07bf380f4d452f7cb61c2842669ecde_1440w.jpg" data-caption data-size="normal" data-rawwidth="559" data-rawheight="325" data-default-watermark-src="https://pic2.zhimg.com/v2-a71cf9a9e5f3b3bf5039c6a516623604_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c07bf380f4d452f7cb61c2842669ecde_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="HjvenVMs">告诉大家，杜老师开了一节新课程专门讲Javaweb，每周直播三次，直播完的视频会上传到B站。</p><p data-pid="2G_QdoAF">喏，你们要的Javaweb录播。</p><a href="http://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1Z3411C7NZ" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-243458b09c86d59bb78655434605ddb0_bh.jpg" data-image-width="1146" data-image-height="716" class=" wrap external" target="_blank" rel="nofollow noreferrer">你们要的Javaweb教程，拿走不谢！</a><h2>自卖自夸</h2><p data-pid="u95P_Oiw">领导知道我们要在知乎提问，把我叫到会议室</p><p data-pid="l-ubHH2U">领导：听说你们要在知乎提问？</p><p data-pid="9FztXb8S">我：是的领导</p><p data-pid="zpcXbA45">领导：什么问题？是杜老师那个Javaweb视频教程的吗？</p><p data-pid="n6sYFpQp">我：是的领导，问题是JakartaEE9出来了，以后叫JakartaEE还是JavaEE，JavaEE的说法还有吗？</p><p data-pid="HbF4N7wh">领导：能不能借机宣传一下咱们这个视频教程？</p><p data-pid="PUYBLrlt">我：不行的领导</p><p data-pid="7QCu2xx3">领导：什么不行~！你就说说咱们这个教程的优点有哪些就行了</p><p data-pid="qheTUeEz">我：不知道领导</p><p data-pid="E9oP16q_">领导：你TM是要气死我是不是？这套视频教程讲述了JavaWeb从入门到实战全部的知识点你不知道？老杜讲课细，每个知识点都泥沙俱下你不知道？你比如servlet讲的像列文虎克一样详细，既适合这个阶段刚接触的学习，也适合学完了再回过来复习的（会加深理解）。你比如编外学员们都习惯了倍数1.5学习老杜的教程，在老杜慷慨激昂、抑扬顿挫的讲课声中体会着别样的快乐；你再比如老杜的课程防瞌睡，刚有了一点睡意，老杜一声河东狮吼瞬间让人重新投入到学习编程的伟大事业中；你再再比如世人皆爱老杜，予独爱莲之出淤泥而不染！你再再在比如……</p><p data-pid="NLZLQfOB">我：&#123;-_-&#125;…… 知道了领导。（内心os：泥沙俱下是个什么鬼？出淤泥而不染又是什么鬼？）</p><h2>最后</h2><p data-pid="-kILe9Pe">写了这么多，有点累了，反正事就是这么个事。各位可以回答一下这个问题换换脑子，学习中有什么问题也可以写到回答里或者我这个评论里，我会收集整理交给老杜，然后回复你们，老杜也会在直播中跟大家聊一聊这些问题。</p><p data-pid="lWy8hgZE">各位，江湖再见</p><h3>另外</h3><p data-pid="XBdhCRI0">感谢 <a class="member_mention" href="http://www.zhihu.com/people/497fb5cec42981a04d8af4cdf57d631d" data-hash="497fb5cec42981a04d8af4cdf57d631d" data-hovercard="p$b$497fb5cec42981a04d8af4cdf57d631d">@盐水泡芙</a> 给的解答。给你点个大大的赞</p>  
+</div>
+            
