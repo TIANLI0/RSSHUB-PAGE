@@ -1,0 +1,18 @@
+
+---
+title: '笼中窥梦 Moncage背后的故事'
+categories: 
+ - 游戏
+ - 游研社
+ - 游研社 - 全部文章
+headimg: 'https://picsum.photos/400/300?random=3842'
+author: 游研社
+comments: false
+date: Thu, 18 Nov 2021 08:24:38 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3842'
+---
+
+<div>   
+《笼中窥梦》目前正在Steam特别好评。本文作者为《笼中窥梦》主创女朋友，她为我们记录呈现了一个特殊的游戏开发视角。  
+</div>
+            
