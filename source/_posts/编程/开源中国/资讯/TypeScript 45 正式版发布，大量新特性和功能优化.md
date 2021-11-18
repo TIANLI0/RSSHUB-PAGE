@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=886'
+headimg: 'https://picsum.photos/400/300?random=7580'
 author: 开源中国
 comments: false
-date: Thu, 18 Nov 2021 00:24:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=886'
+date: Thu, 18 Nov 2021 08:24:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7580'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>11月17日，微软发布了 TypeScript 4.5<strong> 正式版本 ，</strong>4.5<strong> 正式</strong>版本和 RC 版本在功能上并没有什么改动，除了添加关于新 JSDoc 特性的注释 ，不过这个特性也是 RC 版本的新功能，只是当时没有写出来。</p> 
+                                                                    
+                                                        <p>11月17日，微软发布了 TypeScript 4.5<strong> 正式版本 ，</strong>4.5<strong> 正式</strong>版本和 RC 版本在功能上并没有什么改动，除了添加关于新 JSDoc 特性的注释 ，不过这个特性也是 RC 版本的新功能，只是当时没有写出来。</p> 
 <p>TypeScript 4.5 正式版新特性：</p> 
 <ul> 
  <li>实验性功能：在夜间版本支持  Node.js 运行 ECMAScript 模块</li> 

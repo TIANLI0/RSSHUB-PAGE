@@ -58,7 +58,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p>就目前而言，我们在虚拟世界的嗅觉、味觉与触觉还未实现，何谈超越现在的虚拟世界？</p>
 <p>这里分享一些学者对于元宇宙的描述，就目前来说，<strong>元宇宙不可预测，正如同</strong><strong>19</strong><strong>世纪无法预测电力将如何彻底改变世界。</strong></p>
 <p><strong><img data-action="zoom" class="size-full wp-image-5217336 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/11/TuRxrWj9hbVgVifkT309.jpg" alt width="700" height="720" referrerpolicy="no-referrer"></strong></p>
-<p>元宇宙很遥远，所以我们也很难描述清楚这是一个什么东西。<strong>但元宇宙仍在不断发展、演变，不同参与者以自己的方式不断丰富着它的含义</strong></p>
+<p>元宇宙很遥远，所以我们也很难描述清楚这是一个什么东西。<strong>但元宇宙仍在不断发展、演变，不同参与者以自己的方式不断丰富着它的含义。</strong></p>
 <p>那么元宇宙为什么会这么火？</p>
 <h3>2. 用户期待新体验</h3>
 <p>首先，现实世界是唯一的，它只能“是其所是”，但意义只有在比较中才浮现， “只活一次等于没活”。而虚构世界可以“是其所不是”，如果这次人生不满意能够重新来过，从而挖掘出存在的多种可能性。</p>
@@ -93,7 +93,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p>虚拟社交&虚拟人，大家应该是比较熟悉的了，比如Roblox以及前段时间的虚拟发布会。</p>
 <p><img data-action="zoom" class="size-full wp-image-5217343 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/11/61qqUH1dTGHzHEeG0jOw.jpg" alt width="700" height="720" referrerpolicy="no-referrer"></p>
 <h3>8. 破圈的NFT</h3>
-<p>虚拟货币的发展真的是有点超出我们的认知，但随着这个原理做的概念啊越来越越清晰，解读越来越多。我们其实可以更好地理解这个东西为什么可以发展得迅速。这里给大家分享几个案例，你就能够理解了。</p>
+<p>虚拟货币的发展真的是有点超出我们的认知，但随着这个原理做的概念啊越来越清晰，解读越来越多。我们其实可以更好地理解这个东西为什么可以发展得迅速。这里给大家分享几个案例，你就能够理解了。</p>
 <p>最左边是一个美国的艺术家，他坚持了十三年半，创作了《每天：前5000天》，这是用5000张画拼接而成的独立作品。这个NFT之所以能卖出这么高的价格，是因为这幅拼接画确实充满了故事。</p>
 <p><img data-action="zoom" class="size-full wp-image-5217345 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/11/oB8PN7KlrHVFLrDRldhG.jpg" alt width="700" height="720" referrerpolicy="no-referrer"></p>
 <p>第二个是库里的头像，价值大概18万美元。最后这个游戏用了大概三个月的时间就超越了王者荣耀的月收入，它的虚拟货币大概半年时间涨了70倍。</p>

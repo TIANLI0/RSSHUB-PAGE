@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4267'
+headimg: 'https://picsum.photos/400/300?random=8537'
 author: 开源中国
 comments: false
-date: Thu, 18 Nov 2021 00:31:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4267'
+date: Thu, 18 Nov 2021 08:31:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8537'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">nginx 1.20.2 稳定版的变化如下：</p> 
+                                                                    
+                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">nginx 1.20.2 稳定版的变化如下：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>特性：兼容 OpenSSL 3.0</li> 
  <li>错误修正：SSL 变量在日志中使用时可能为空，该错误在 1.19.5 版本中出现过</li> 
