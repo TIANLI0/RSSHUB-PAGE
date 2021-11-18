@@ -1,0 +1,18 @@
+
+---
+title: '如何看待大量博主让粉丝支持《反虐待动物法》？从法律角度分析，针对立法还有哪些建议？-Papilloong的回答：《反虐待动物法》的核心是什么？ 反虐待动物一定不能...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-930780d3032edf0883761b52d6e47ebd_1440w.jpg'
+author: 知乎
+comments: false
+date: Thu, 18 Nov 2021 03:15:58 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-930780d3032edf0883761b52d6e47ebd_1440w.jpg'
+---
+
+<div>   
+<strong>如何看待大量博主让粉丝支持《反虐待动物法》？从法律角度分析，针对立法还有哪些建议？</strong><br>Papilloong的回答<br><p data-pid="khjymcf_">《反虐待动物法》的核心是什么？</p><p data-pid="_9n0AZ4r">反虐待动物一定不能等同于反虐待宠物！首先要定义什么是虐待！<b>以圈禁饲养为目的胁迫控制一个动物的行为模式就可以看作是虐待！</b></p><p data-pid="Z3tS_Scm">所以，我给出的建议是：</p><p data-pid="Le8E_lFi">一、以世界动物富豪为核心推动成立动物平权基金会（Animal Equality Foundation）以下简称动基会（AEF）！</p><p data-pid="ZjsEVpsC">来打造动物平权运动！</p><p data-pid="qRD46f3L">口号：<b>地球不是人类的地球！The earth is not human earth！ENHE！</b></p><p data-pid="j4eiVjgC">我们这个地球上的动物是很有钱的！</p><p data-pid="VmFNreGe">牧羊犬冈瑟四世：身家25亿人民币！他的仆人都是一水儿的白人！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-930780d3032edf0883761b52d6e47ebd_1440w.jpg" data-rawwidth="1125" data-rawheight="768" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-152777faa2deefa6e342b1455b1decd3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-930780d3032edf0883761b52d6e47ebd_r.jpg" referrerpolicy="no-referrer"><figcaption>牧羊犬冈瑟四世：身家25亿人民币</figcaption></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-e61f13f97537f87d05e87d939995fad8_1440w.jpg" data-rawwidth="1125" data-rawheight="732" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-248f1de549042ed2566d52c2c62aba3b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-e61f13f97537f87d05e87d939995fad8_r.jpg" referrerpolicy="no-referrer"><figcaption>牧羊犬冈瑟四世骄奢淫逸的生活</figcaption></figure><p data-pid="l83Tr2YE">除此之外还有黑猩猩卢卡：身家4亿人民币，虎鲸凯科：身家2.58亿人民币短毛猫托马西诺：身家1亿人民币！马其他犬麻烦：身家1.1亿人民币！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-3c9909ad336984cfa2d04455b69c24bd_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-061c3c950b88e5bb98964fdac794123c_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-3c9909ad336984cfa2d04455b69c24bd_r.jpg" referrerpolicy="no-referrer"><figcaption>AEF五常</figcaption></figure><p data-pid="ii-zbN3y">以这五位动物富豪为核心成立动基会五常！推选冈瑟为精神领袖——<b>狗德鲁德金！</b></p><p data-pid="3LJs9TX_">就由不才在下代为撰写《动物平权宣言》</p><p data-pid="YU9bJEFb">然后开始发动轰轰烈烈的舆论造势！这区区几十亿肯定是不够用的！</p><p data-pid="eaCimndi">我们还要向曾经豢养过动物的人类一次性收取等同动物寿命长度五倍的动物使用税！</p><p data-pid="wGAOu3TG">对属于外来品种的增收奢侈品种税！</p><p data-pid="e__QMpJL">并对动物实施过阉割的人类及其子嗣后裔加以同样的阉割对待。</p><p data-pid="O47YolI8">总之在全球范围内营造“<b>动命贵</b>！”、“<b>动物的命也是命</b>！”的舆论环境来推动《反虐待动物》法案的实施颁布！</p><p data-pid="457oNOFH">下一步由AEF与联合国进行谈判，要求人类让出一部分土地以及全部海洋和天空（理由是人类无法在天空海洋生存，理应让渡权利给动物）成立动物民主自由合众国！建立圣城——<b>动路撒冷</b>！</p><p data-pid="5Vd5AUWC">把那些阉割圈禁过动物的人类推向审判法庭，送到动路撒冷为动物提供服务来赎罪。</p><p data-pid="oA1blzOm">到时候，希望曾经<b>把动物当作宠物，把动物圈禁在人类居住地，对动物实施阉割，以训练动物为乐的人</b>请自觉购买赎罪券前往圣城赎罪！</p><p data-pid="r5USQkmR">然后以动路撒冷为核心打造各类产业，并向人类收取海洋及大气层使用税来保障全球动物权利。</p><p data-pid="U4Fbua29">然后用大量资金成立“<b>动撒奇人类元宇宙计划</b>”，致力于帮助人类定居在虚拟世界，最终将实体地球交还给动物！</p><p data-pid="k7xFruXY">区区在下不才就担任一个AEF发言人，每年抽取基金会1%的收入就行了！</p><p data-pid="RxXqrP59">不想住进元宇宙的跟我高呼：ENHE！</p><p data-pid="w4zCkYTH">一起加入AEF！</p>  
+</div>
+            
