@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211119/1637291059_9357
 光荣特库摩新作《真<a target="_blank" href="https://www.3dmgame.com/tag/sanguo_1/">三国</a><a target="_blank" href="https://www.3dmgame.com/tag/wushuang_1/">无双</a>8帝国》今日正式上线steam，游戏现已开启预售，价格为人民币329元，豪华版价格为557元，预购即送特典。游戏支持简繁体中文，将于12月23日解锁。
 </p>
 <p align="center">
-<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637291059_935735.png" referrerpolicy="no-referrer">
+<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637291059_935735.png" referrerpolicy="no-referrer"> 
 </p>
 <h4 style="text-indent:2em;">
-游戏预购页面：<a href="https://store.steampowered.com/app/1341200/_/" target="_blank">点击此处</a>
+游戏预购页面：<a href="https://store.steampowered.com/app/1341200/_/" target="_blank">点击此处</a> 
 </h4>
 <h3>
 游戏简介
@@ -119,22 +119,22 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211119/1637291059_9357
 游戏截图
 </h3>
 <p align="center">
-<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290898_794290.png" referrerpolicy="no-referrer">
+<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290898_794290.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290905_662370.png" referrerpolicy="no-referrer">
+<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290905_662370.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290912_960072.png" referrerpolicy="no-referrer">
+<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290912_960072.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290923_498217.png" referrerpolicy="no-referrer">
+<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290923_498217.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290930_266554.png" referrerpolicy="no-referrer">
+<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290930_266554.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290937_127930.png" referrerpolicy="no-referrer">
+<img alt="《真三国无双８ 帝国》今日上线steam 游戏开启预购" src="https://img.3dmgame.com/uploads/images/news/20211119/1637290937_127930.png" referrerpolicy="no-referrer"> 
 </p>
 <h3>
 系统需求
