@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/judy-wert-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-11-21 05:18:30
+date: 2021-11-21 06:24:27
 thumbnail: 'https://www.invisionapp.com/inside-design/judy-wert-design-better-podcast/'
 ---
 
