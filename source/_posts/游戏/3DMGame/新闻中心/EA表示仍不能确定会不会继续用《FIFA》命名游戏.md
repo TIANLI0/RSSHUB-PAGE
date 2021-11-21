@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211121/1637478717_4394
 FIFA品牌老大David Jackson介绍道，当前双方对这一问题的谈判依然非常“激烈”。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637478717_439406.jpg" alt="EA表示仍不能确定会不会继续用《FIFA》命名游戏" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637478717_439406.jpg" alt="EA表示仍不能确定会不会继续用《FIFA》命名游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 不过，Jackson对EA旗下这款足球游戏改名的可能性和前景非常有信心。他表示，世界上有成千上万的玩家喜爱这个品牌，而他认为短期内这一状况不会有所改变。
