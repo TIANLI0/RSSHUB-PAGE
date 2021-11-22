@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=8675'
+headimg: 'https://picsum.photos/400/300?random=4170'
 author: Paul Graham 博客
 comments: false
-date: 2021-11-21 15:22:17
-thumbnail: 'https://picsum.photos/400/300?random=8675'
+date: 2021-11-22 01:08:04
+thumbnail: 'https://picsum.photos/400/300?random=4170'
 ---
 
 <div>   
@@ -72,7 +72,7 @@ that I can even ask this question proves the point I raised earlier
 intelligence that matters. Otherwise we'd all know the answers
 to such a fundamental question.
 <font color="#dddddd">[<a href="http://www.paulgraham.com/smart.html#f3n"><font color="#dddddd">3</font></a>]</font><br><br>I'm not going to try to provide a complete catalogue of the other
-ingredients besides intelligence. This is the first time I've posed
+ingredients here. This is the first time I've posed
 the question to myself this way, and I think it may take a while
 to answer. But I wrote recently about one of the most important:
 an obsessive <a href="http://www.paulgraham.com/genius.html"><u>interest</u></a> in a particular topic. 
