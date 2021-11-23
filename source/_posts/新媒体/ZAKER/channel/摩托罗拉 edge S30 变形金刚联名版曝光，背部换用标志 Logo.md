@@ -1,0 +1,18 @@
+
+---
+title: '摩托罗拉 edge S30 变形金刚联名版曝光，背部换用标志 Logo'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52daf5_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 22 Nov 2021 15:06:22 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52daf5_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 11 月 22 日消息，今日有网友爆料，放出了一系列摩托罗拉新机渲染图，采用变形金刚元素的纹理设计，背部的 "M" 标识换成了汽车人的标志性 Logo，这表明摩托罗拉或将推出变形金刚联名版 edge S30。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52daf5_1024.jpg" data-height="810" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52daf5_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202111/619bafb38e9f097d9f52daf6_1024.jpg" data-height="900" data-width="1351" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/619bafb38e9f097d9f52daf6_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，联想近日联合变形金刚推出了新的联名活动，但目前上架的多款机型均未提供联名版本，仅仅是提供部分折扣。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202111/619bafb38e9f097d9f52daf7_1024.jpg" data-height="639" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/619bafb38e9f097d9f52daf7_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52daf8_1024.jpg" data-height="756" data-width="1132" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52daf8_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202111/619bafb38e9f097d9f52daf9_1024.jpg" data-height="729" data-width="1248" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/619bafb38e9f097d9f52daf9_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52dafa_1024.jpg" data-height="723" data-width="1185" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52dafa_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52dafb_1024.jpg" data-height="783" data-width="1211" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/619bafb38e9f097d9f52dafb_1024.jpg" referrerpolicy="no-referrer"></div></div>从此前官方预热来看，摩托罗拉 edge S 系列新机有望在年底或明年发布，敬请期待。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

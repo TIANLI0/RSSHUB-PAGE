@@ -34,7 +34,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/AAP
 <p>Corroborating the <a href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"><em>Bloomberg</em> report</a>, analysts at Morgan Stanley say that it remains a “working assumption that Apple will, one day, enter the electric shared-autonomy space in transportation.” When this day comes, the “implications for the auto industry” would be “significant.”</p>
 <p>Yesterday’s <em>Bloomberg</em> report indicated that Apple’s ideal outcome is that the Apple Car “would have no steering wheel and pedals.” Instead, it would be designed for complete autonomy. While it’s unclear whether Apple would be able to achieve this with its 2025 timeline, Morgan Stanley analysts say that a car without a steering wheels or pedals “must be a shared service and not an owned car.”</p>
 </blockquote>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3CGaR8J"><img class="aligncenter wp-image-770676 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/9to5-Placement.png" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
