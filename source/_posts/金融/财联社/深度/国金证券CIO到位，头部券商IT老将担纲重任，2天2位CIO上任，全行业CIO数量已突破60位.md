@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://img.cls.cn/images/20211125/Y2NwfC8NDX.png'
+headimg: 'https://img.cls.cn/images/20211125/ij2UIG8G43.png'
 author: 财联社
 comments: false
 date: Thu, 25 Nov 2021 12:48:54 GMT
-thumbnail: 'https://img.cls.cn/images/20211125/Y2NwfC8NDX.png'
+thumbnail: 'https://img.cls.cn/images/20211125/ij2UIG8G43.png'
 ---
 
 <div>   
@@ -30,7 +30,7 @@ thumbnail: 'https://img.cls.cn/images/20211125/Y2NwfC8NDX.png'
 <p><strong>至少60家券商拥有CIO</strong></p>
 <p>随着证券行业对信息技术的重视程度与日俱增，财联社记者统计，至少已有60家券商设立了首席信息官。</p>
 <p>统计显示，首席信息官的平均年龄超过50岁，最年轻仅38岁，为华林证券雷杰。除了资历深厚，高学历也是首席信息官的标签，硕士和博士人数占比近七成。</p>
-<p><img src="https://img.cls.cn/images/20211125/Y2NwfC8NDX.png" alt="image" referrerpolicy="no-referrer"></p>
+<p><img src="https://img.cls.cn/images/20211125/ij2UIG8G43.png" alt="image" referrerpolicy="no-referrer"></p>
 <p><strong>多家券商正在招聘中</strong></p>
 <p>2021年新设CIO的券商明显增多，全行业首席信息官的数量也突破60位，但是对一部分券商而言，虽然对首席信息官求贤若渴，但由于该岗位任职要求颇高，尚未完成设立首席信息官的任务。</p>
 <p>证券业协会官网显示，2021年来，长城证券和爱建证券先后发布了公开招聘首席信息官的公告，发布时间分别为1月、5月，目前招聘时间已半年有余，但尚未看到相关首席信息官任职公告。</p>
