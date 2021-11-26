@@ -1,0 +1,19 @@
+
+---
+title: '庆祝宝可梦25周年 Pokémon x Converse联动推出多款鞋子_帽子_服装'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1126/b141bef5fd4b120.webp'
+author: cnBeta
+comments: false
+date: Fri, 26 Nov 2021 00:40:22 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1126/b141bef5fd4b120.webp'
+---
+
+<div>   
+<strong>为庆祝“宝可梦”（Pokemon）25 周年，Pokémon Company 宣布将和匡威（Converse）合作，推出包含多个经典元素的鞋子系列。</strong>双方合作推出的第一款鞋子是匡威的 Chuck Taylor All Star 鞋子--First Partners。该特别版鞋子将包含 Bulbasaur, Charmander, Squirtle, Pikachu, Meowth, 和 Jigglypuff 这几个知名的宝可梦角色。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/b141bef5fd4b120.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/017e58b147d95cb.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/a210636b4e45472.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/c3ed7f31309bc20.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">此外还有一双叫做“Poké Ball”的鞋子，虽然角色相同，但是会采用单色风格，鞋的侧面有一个 Poké Ball 装饰。<br style="text-align: left;"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/916b91b542b59e0.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/d7fd3d863849527.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">除了Chuck Taylor All Star训练师的设计，这次Pokémon X Converse合作还将包括基于Jigglypuff和Pikachu的儿童训练师，以及一系列其他服装，如包、T恤和帽子。Pokémon X Converse 系列将于12月10日通过Converse的网站和特定的零售商发售。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/950d10dfcc6cebd.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/87a65df54c552a0.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/6700f01c3e9d176.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/10f487f496162d6.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/2a98f4da699a060.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/e2db76d48e9413c.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/9eb07c45562e498.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/e0f99b32713fd6e.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/cb3aae66daadbcb.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/6aca15547fae0c3.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/94f0aeee6e2fb68.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/a5b03aaa9c6bba8.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1126/e31b1c1e5f11f10.webp" referrerpolicy="no-referrer"></p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2021/1126/393e77a3a266186.webp" referrerpolicy="no-referrer"></p>   
+</div>
+            
