@@ -1,0 +1,18 @@
+
+---
+title: '山寨PS5国外走红 西班牙买家给出五星好评'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61a4432c8e9f094ec9766fa3_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 28 Nov 2021 20:20:05 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61a4432c8e9f094ec9766fa3_1024.jpg'
+---
+
+<div>   
+<p>全球芯片短缺造成了 PS5 和 Xbox Series 游戏主机的缺货，索尼甚至不得不选择将本应面向次世代 PS5 的数款游戏新作反向移植到基数更大的 PS4 上。也许是看到了 PS5 缺货出现的商机，已经有国内厂商推出了 PS5 外形的山寨游戏机—— GameSatation 5。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202111/61a4432c8e9f094ec9766fa3_1024.jpg" data-height="600" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61a4432c8e9f094ec9766fa3_1024.jpg" referrerpolicy="no-referrer"></div></div>被广大卖家称为 " 国际版淘宝 " 的全球速卖通（英文名：AliExpress）是阿里巴巴旗下的国际电商平台，有玩家在这里买到了与 PS5 外形几乎一致的 GameSatation 5，虽然硬核玩家绝对不会买错，但是对于年末期间送孩子玩具的国外家长，很有可能选择这款外形完全一致的 " 廉价版 PS5"。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202111/61a4432c8e9f094ec9766fa4_1024.jpg" data-height="891" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61a4432c8e9f094ec9766fa4_1024.jpg" referrerpolicy="no-referrer"></div></div>通过该商品的内容介绍页面可以看到，其实这款售价约 25 美元（约合人民币 160 元）的 GameSatation 5 就是一台只能运行 FC 游戏的山寨版 PS5。配备不但只有一个手柄，而且还是有线的。不过好在为了能够站立摆放，厂商还配备了支架。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202111/61a4432c8e9f094ec9766fa5_1024.jpg" data-height="700" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61a4432c8e9f094ec9766fa5_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202111/61a4432d8e9f094ec9766fa6_1024.jpg" data-height="700" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61a4432d8e9f094ec9766fa6_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202111/61a4432d8e9f094ec9766fa7_1024.jpg" data-height="700" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61a4432d8e9f094ec9766fa7_1024.jpg" referrerpolicy="no-referrer"></div></div>大部分卖家在全球速卖通都给 GS5 打出好评，有位西班牙妈妈对于将 GS5 作为自己儿子的生日礼物的选择甚是满意。至少这款 GS5 开机后不会显示下面视频中的 Logo。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202111/61a4432d8e9f094ec9766fa8_1024.jpg" data-height="206" data-width="567" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61a4432d8e9f094ec9766fa8_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
