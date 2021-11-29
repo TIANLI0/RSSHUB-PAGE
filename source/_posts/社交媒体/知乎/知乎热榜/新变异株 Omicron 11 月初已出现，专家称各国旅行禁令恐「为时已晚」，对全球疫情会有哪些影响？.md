@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-e175da33e3dcadc2470aca44746c83aa_1440w.jpg'
+headimg: 'https://pic2.zhimg.com/v2-2342e3ea45865b95f8ff17ff273b54ca_1440w.jpg'
 author: 知乎
 comments: false
-date: Sat, 27 Nov 2021 13:27:43 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-e175da33e3dcadc2470aca44746c83aa_1440w.jpg'
+date: Sun, 28 Nov 2021 06:32:55 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-2342e3ea45865b95f8ff17ff273b54ca_1440w.jpg'
 ---
 
 <div>   
-浩浩耗的回答<br><br><p data-pid="KEoaRzoO">昨天还是 B.1.1.529，没想到今天就有正式的名字了，说明世卫还是相当关注这个毒株的。不过目前还没有实质性的实验数据，所以下结论还为时尚早。</p><p data-pid="OQb9ao0W">只不过，最让人担心的莫过于有可能逃逸T细胞的特性，这个我昨天写的回答里已经有提到:</p><p data-pid="bBaUjAWW">至于B.1.1.529变异毒株对疫苗的反应，虽然前文也提到，还没有实质性的实验数据，但是根据目前的突变谱推断，在之前的变异毒株上已被证实会产生免疫逃逸的突变基础上，B.1.1.529还有一些额外的突变，有可能会进一步导致其免疫逃逸的能力增加。有研究团队通过其序列进行算法模型预测，甚至发现其有可能具备连T细胞都能躲避的能力（人体免疫不仅仅靠抗体，还有T细胞这些做辅助才行）。</p><blockquote data-pid="OR6-QB3i">"There are even hints from computer modelling that B.1.1.529 could dodge immunity conferred by another component of the immune system called T cells"</blockquote><p data-pid="czPsbpGQ">但要谈到对全球的影响，其实现在来看，跟当初德尔塔横空出世时的应对也没有什么区别。就算免疫逃逸能力有进一步加强，依然不代表疫苗没用，所以社交管控，加强针，甚至新一代疫苗仍然是构筑人类防线的杀手锏。</p><p data-pid="5Tvs1vJe">只不过的确不得不承认，目前防疫的态势亦然称为全球共同体了，就跟打LOL一样，有一个猪队友，都有可能带不动。所以，接下来全球其它国家的动向非常值得关注。如果Omicron最终展现出的能力甚至比预测的情况还要强，而不少国家的抗疫政策一如既往的拉胯。那新冠疫情的抗战时间恐怕难以避免的延长了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e175da33e3dcadc2470aca44746c83aa_1440w.jpg" data-rawwidth="700" data-rawheight="443" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-669cbef6474ceb48ef1aeea679437157_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e175da33e3dcadc2470aca44746c83aa_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="MMS72-ct">对了，倒是还有一点，按目前的数据，估计在至少南非全国肯定是控不住了，而南非可是有超过10%的人是感染了HIV的，属于免疫缺陷人群，而且疫苗接种率也不高。那么新冠在这样一个极有利的环境下，说不好还能进化出什么花来....</p>  
+六爷阿旦的回答<br><br><p data-pid="6dIRRrYi">说实话以前可能真有点错看英国和以色列了，这两个国家是西方发达国家里面，最早宣布放弃常规防疫措施的，这某种意义上说，他们其实是在给全世界，尤其是给西方国家探路。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-2342e3ea45865b95f8ff17ff273b54ca_1440w.jpg" data-rawwidth="1400" data-rawheight="790" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pic2.zhimg.com/v2-540a86b94c24e9af0f1e38a84989ba43_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-2342e3ea45865b95f8ff17ff273b54ca_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="UVvwwCv6">在明确了只有老年人死亡率比较高的情况下，他们以大无畏的精神，探索一条和病毒共存的路线。以至于在某个时期，对国内很多人都产生了一种莫名的吸引力。但还好，他们的路确实要求高，既要风险最高的老年人不反抗，又要有足够的医疗资源，还要老百姓也接受。</p><p><br></p><p data-pid="TH0PYOnA">从这几方面来说，我们确实跟这种自私自利的选择格格不入。更何况，他们保底，还有个船小好掉头的反悔选项呢。</p><p><br></p><p data-pid="zLkHQJ-I">宣布要与病毒共存的英国，在得知新的病毒变种后，第一个宣布与非洲六国断航，稍有点风吹草动，就不搞共存了？</p><p><br></p><p data-pid="Uc_f-mCE">另一个以色列，更夸张。</p><p><br></p><p data-pid="5_S0Lddt">据路透社耶路撒冷消息，以色列当地时间27日表示，将禁止所有外国人入境，这使以色列成为第一个因可能更具传染性的奥密克戎变异株而完全关闭边境的国家。以色列还表示将重新引入反恐电话追踪技术，以遏制该毒株的扩散。报道称，以色列总理纳夫塔利·贝内特在一份声明中称，这项禁令将持续14天。这项禁令将在28日午夜至29日之间开始生效。</p><p><br></p><p data-pid="Y8VvVUEF">英国和以色列，这反应速度，确实杠杠的。他们这么一搞，那些之前鼓吹开放国门，与病毒共存的人，一时之间可能还有点不适应，不是说好共存的吗？</p>  
 </div>
             
