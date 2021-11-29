@@ -1,0 +1,19 @@
+
+---
+title: '智慧大脑，赋能上海！保伦电子itc助力某城市运营指挥中心建设_一把手_工程！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-11/29/xiaoyu/20211129113249_1638156769487665075.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 29 Nov 2021 03:27:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-11/29/xiaoyu/20211129113249_1638156769487665075.jpg'
+---
+
+<div>   
+<p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-11/29/xiaoyu/20211129113249_1638156769487665075.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">随着大数据、人工智能、云计算、物联网为代表的新一代信息技术与传统产业不断融合，不仅改变了人们的生产和生活方式，也从根本上提升了城市运营、管理、服务的要求。在以数字化转型为核心的第四次工业革命发展中，以<span class="hrefStyle"><a href="https://www.ofweek.com/ai/" target="_blank" title="AI">AI</a></span>与设备结合的<span class="hrefStyle"><a href="https://www.ofweek.com/smartcity/" target="_blank" title="智慧城市">智慧城市</a></span>运营理念迅速崛起。</p><p style="text-indent: 2em; text-align: left;">对城市进行实时监测、分析预警、指挥控制是政府掌握城市运行态势的工作重点。根据应用需求，itc助力某指挥中心筑建监测预警平台，统筹各类行业信息，汇聚经济、气象、环保、公安、交管、地理等资源，以直观、形象方式显示数据，将现实与虚拟世界融合，彻底打破信息独立孤岛的现象，解决城镇化进程中的各种“大城市病”，保障城市日常安全运作。</p><p style="text-indent: 2em; text-align: left;"><strong>可视化调度，数据链通</strong></p><p style="text-indent: 2em; text-align: left;"><strong>一个中心 多个平台</strong></p><p style="text-indent: 2em; text-align: left;">此运营中心管理领域覆盖公共安全、公共服务、基础设施、市场经营、居住环境等方面，同时集成了智慧城管、<span class="hrefStyle"><a href="https://www.ofweek.com/smartcity/CAT-201803-traffic.html" target="_blank" title="智慧交通">智慧交通</a></span>、<span class="hrefStyle"><a href="https://www.ofweek.com/smartcity/CAT-201804-medical.html" target="_blank" title="智慧医疗">智慧医疗</a></span>、<span class="hrefStyle"><a href="https://www.ofweek.com/smartcity/CAT-201810-smartcommunity.html" target="_blank" title="智慧社区">智慧社区</a></span>服务、应急管理等三十多个应用场景。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-11/29/xiaoyu/20211129113249_163815676970550224.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">itc在大厅装置了超大广角、无缝拼接的LED小间距显示屏，还借助分布式综合管理平台，让分布在不同地点的现场画面清晰的投放到屏幕上，同时实现多路画面自由缩放、切割、拼接、叠加、同步的显示效果。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-11/29/xiaoyu/20211129113249_1638156769787174624.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">遇到紧急情况，调度人员还能借助平板、触屏电脑等终端，快速调取电子地图、监控信号、天气情况等图像上墙，进行远程应急指挥，不仅降低人员伤亡、财产损失的可能性，还充分展现了城市监测预警能力、协同处理与联动指挥的能力。</p><p style="text-indent: 2em; text-align: left;"><strong>深耕会议需求 打造<span class="hrefStyle"><a href="https://www.ofweek.com/smartcity/CAT-201801-gov.html" target="_blank" title="智慧政务">智慧政务</a></span></strong></p><p style="text-indent: 2em; text-align: left;"><strong>管理智能高效 服务精准及时</strong></p><p style="text-indent: 2em; text-align: left;">运营指挥中心大厅面积空旷，itc参照厅堂一级设计标准，建造出专业级扩声系统。通过音箱内置精确设计的分频器，优化音质，高度还原纯净人声。在会议室中放置的数字会讨系统，具有高保真音质，可以达到轻松发言，声音清晰自然的效果，共同助力决策内容高效传达。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-11/29/xiaoyu/20211129113249_1638156769842634078.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">itc智能交互平板是集显示、投屏、触摸手写于一体的智能设备。在会议进行时，不仅能将会议文档投屏到平板上进行随页批注；同时还能借助白板延伸书写空间，打造全程数字化会议模式；会议结束后，将会议纪要及重要内容保存后还能扫码分享、一键带走。不仅简化了会议流程，达到绿色环保，还能让会议协作场景更轻松、真实。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-11/29/xiaoyu/20211129113249_1638156769890315660.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">城市运营指挥中心的建设，是推动城市发展，加速产业延伸，保障市民安全的“一把手”工程。itc研发的音视频设备，通过对数量巨大、来源分散的数据进行收集、存储、处理、分析，有效破解当前城市面临的许多困局。未来，itc会继续打造智慧指挥中心整体解决方案，让城市更加科学、高效、低碳和安全地运行。更多信息请关注公众号《itc声光电视讯》</p> 
+  
+</div>
+            
