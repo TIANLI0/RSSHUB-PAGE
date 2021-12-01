@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2857'
+headimg: 'https://picsum.photos/400/300?random=3754'
 author: 开源中国
 comments: false
 date: Wed, 01 Dec 2021 07:28:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2857'
+thumbnail: 'https://picsum.photos/400/300?random=3754'
 ---
 
 <div>   
@@ -28,8 +28,10 @@ thumbnail: 'https://picsum.photos/400/300?random=2857'
  <li><span style="background-color:#ffffff; color:#24292f">添加全文索引功能 (</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flaravel%2Fframework%2Fpull%2F39821" target="_blank">#39821</a><span style="background-color:#ffffff; color:#24292f">)</span></li> 
 </ul> 
 <h2><span style="background-color:#ffffff; color:#24292f">修复</span></h2> 
-<p><span style="background-color:#ffffff; color:#2e3033">修正了在框架外加载总线服务提供者的问题 </span><span style="background-color:#ffffff; color:#24292f">(</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flaravel%2Fframework%2Fpull%2F39740" target="_blank">#39740</a><span style="background-color:#ffffff; color:#24292f">)</span></p> 
-<p><span style="background-color:#ffffff; color:#2e3033">修复了空驱动不存在时的日志弃用问题 </span><span style="background-color:#ffffff; color:#24292f">(</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flaravel%2Fframework%2Fpull%2F39809" target="_blank">#39809</a><span style="background-color:#ffffff; color:#24292f">)</span></p> 
+<ul> 
+ <li><span style="background-color:#ffffff; color:#2e3033">修正了在框架外加载总线服务提供者的问题 </span><span style="background-color:#ffffff; color:#24292f">(</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flaravel%2Fframework%2Fpull%2F39740" target="_blank">#39740</a><span style="background-color:#ffffff; color:#24292f">)</span></li> 
+ <li><span style="background-color:#ffffff; color:#2e3033">修复了空驱动不存在时的日志弃用问题 </span><span style="background-color:#ffffff; color:#24292f">(</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flaravel%2Fframework%2Fpull%2F39809" target="_blank">#39809</a><span style="background-color:#ffffff; color:#24292f">)</span></li> 
+</ul> 
 <h2>变更</h2> 
 <ul> 
  <li>在解析队列连接之前验证连接的名称 ( <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flaravel%2Fframework%2Fpull%2F39751" target="_blank">#39751</a> )</li> 
