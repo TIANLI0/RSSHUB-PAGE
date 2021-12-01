@@ -8,7 +8,7 @@ categories:
 headimg: 'https://picsum.photos/400/300?random=2129'
 author: Paul Graham 博客
 comments: false
-date: 2021-12-01 08:26:19
+date: 2021-12-01 09:22:52
 thumbnail: 'https://picsum.photos/400/300?random=2129'
 ---
 
