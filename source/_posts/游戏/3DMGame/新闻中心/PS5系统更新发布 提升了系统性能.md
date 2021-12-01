@@ -22,6 +22,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211201/1638361279_1539
 <p style="text-indent:2em;">
 PS5上一次重大更新是21.02-04.00.00，于今年9月推出，允许用户使用现成的M.2 SSD扩展存储，并通过电视扬声器引入了3D音频支持。 
 索尼表示，在启用3D耳机音频后，它还提高了一些游戏的音频质量。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211201/1638363209_723276.jpg" alt="PS5系统更新发布 提升了系统性能" referrerpolicy="no-referrer">
 </p>          
 </div>
             

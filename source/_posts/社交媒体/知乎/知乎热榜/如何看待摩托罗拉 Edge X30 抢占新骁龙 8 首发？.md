@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-1691c2c1c0fa03abcc1681be95e35d2f_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=5325'
 author: 知乎
 comments: false
-date: Wed, 01 Dec 2021 11:30:01 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-1691c2c1c0fa03abcc1681be95e35d2f_1440w.jpg'
+date: Wed, 01 Dec 2021 12:30:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5325'
 ---
 
 <div>   
-大问号的回答<br><br><p data-pid="Z7gTyCdC">我给整不明白了：</p><p data-pid="UXdSYosd">到底是小米首发还是摩托罗拉首发？</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-1691c2c1c0fa03abcc1681be95e35d2f_1440w.jpg" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-e4d7384bfb0038ca7bd853bbc91badba_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-1691c2c1c0fa03abcc1681be95e35d2f_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="uOA_DGDE">看摩托罗拉这个新品发布会的预告海报，应该是摩托罗拉首发吧？</p><p data-pid="YDQ55FpM">为什么手机厂家要抢着首发？</p><p data-pid="ERFeT_Va">第一，为了证明自己技术厉害，已经把芯片打磨好了。</p><p data-pid="y5jVzxIZ">关于这一点，是不是真首发，还得看谁最先开卖。</p><p data-pid="5Nx7TguJ">第二，从营销的角度去看，可以给品牌带来更多的流量，并且，这些流量中的一部分可能会转化为销量。</p><p data-pid="vqEF1GsX">说实话，对于摩托罗拉而言，首发对其在营销上的帮助可能会更大一些。</p><p data-pid="ZbJVbXYX">当然，至于首发的Edge X30实际表现怎么样，还是得看摩托罗拉如何打磨这块8G1芯片。</p>  
+Eidosper的回答<br><br><p data-pid="SJNr4ACI">最近看到骁龙8Gen1首发的消息后还是比较感慨，中国又回到了“为美国芯片集成加工”的时代。不仅手机如此，电脑也是如此，都是使用美国芯片组装，使用美国的操作系统，为美国的软硬件体系添砖加瓦。</p><p data-pid="TmxHHmIG">在二十年前刚加入WTO的时候，能够成为“针对美国芯片集成组装”的一环代表着先进的生产力发展方向，二十年过去了，还是在做这样的事情，也是令人感慨。</p><p data-pid="nR3HhFQ1">当然，具体到产品上来说，抢占首发是个很好的宣传策略，无可厚非。如果这个不重要，那么也不会有企业抢占了。毕竟不像苹果谷歌，不需要抢占A系列/Tensor SOC的首发以证明自己。</p><p data-pid="2dQ42GxV">没什么，都是我的碎碎念而已，这种地位毕竟印度越南还求之不得呢，也是现阶段的出口产业的核心之一。</p><p><br></p><p data-pid="cAeKsRha">——就像我高三的时候无数次幻想高考后一样，现在的我也无数次想象过未来。</p><p></p>  
 </div>
             
