@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=694'
+headimg: 'https://picsum.photos/400/300?random=8579'
 author: 财联社
 comments: false
 date: Fri, 03 Dec 2021 05:02:54 GMT
-thumbnail: 'https://picsum.photos/400/300?random=694'
+thumbnail: 'https://picsum.photos/400/300?random=8579'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://picsum.photos/400/300?random=694'
 <p>两年前，博世便宣布，将持续推进SiC芯片研发，并于今年初开始生产样品，供客户验证。据公司董事会成员透露，由于新能源车领域需求高涨，博世已获得“相当多的”SiC芯片订单——这也是其产能扩张的主要驱动力。</p>
 <p>公司已为SiC芯片生产增建了1000平方米的无尘车间；公司计划2023年底再新建3000平方米无尘车间。</p>
 <p>除此之外，扩大衬底晶圆面积也是博世提高生产效率的一个手段。目前，业内主要使用6英寸晶圆生产SiC半导体，8英寸晶圆则是发展方向。从6英寸到8英寸，每片晶圆可用制造面积几乎扩大一倍，产能近乎倍增。</p>
-<p><strong>汽车、光伏双驱动 SiC产业扩产动向频现</strong></p>
+<h1 id="-sic-">汽车、光伏双驱动 SiC产业扩产动向频现</h1>
 <p>“上亿颗”是什么概念？</p>
 <p>今年数据显示，三安集成完成从650V到1700V SiC二极管产品线布局，累计出货达百余万颗；今年4月，韩国第三代半导体厂商Yes Power与一家中国公司达成SiC芯片合作，预计到2025年12月，将向后者供应约8000万颗SiC芯片。</p>
 <p>相较之下，足见博世的扩产野心。而在大规模扩产SiC这条路上，博世并不孤单。</p>
