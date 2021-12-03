@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=8759'
+headimg: 'https://picsum.photos/400/300?random=4333'
 author: 知乎
 comments: false
-date: Fri, 03 Dec 2021 06:35:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8759'
+date: Fri, 03 Dec 2021 06:29:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4333'
 ---
 
 <div>   
-努力努力再努力的回答<br><br><p data-pid="uBcjbzcu">小米虽然已经发布了，但是关于产品啥时上市和消费者能收到实物还有段日子呢~</p><p data-pid="Kn_7G1wc">摩托罗拉这边就不一样了，微博上已经宣布有了量产的机子，而且还在做活动抽奖要送给用户呢~</p><p data-pid="X5To11Lg">正所谓：耳听为虚眼见为实，看到实物才能说是和消费者见面了吧！估计15号发售之后消费者能够很快收到产品了，可以美滋滋的用起来啦~</p><p data-pid="CpAx4OCx">别再纠结到底是谁首发，这个话题自嗨就好了。反正对于真正的用户来说，能用到手的产品才是对我们有意义的，期望能够早点在线下实体店体验这两款产品，再作比较。</p>  
+阿朱爱生活的回答<br><br><p data-pid="7RwZ-8eo">对于谁才是真正的首发这个问题</p><p data-pid="Sc6_RvkC">让我觉得真的是有drama才会有流量啊</p><p data-pid="MPxLhVY_">不管是小米还是摩托罗拉都在这次大戏之中收获了足够的流量</p><p data-pid="gWwuu3M-">再加上各路媒体的多方对比，都是实打实的曝光</p><p data-pid="RNfDgeul">对这两个品牌来说已经是一种双赢的结果了</p><p data-pid="VDsgpmeG">而真正到底谁首发已经没那么重要了</p><p data-pid="u5IqP7Fc">毕竟抢这个名头的作用就是为了宣传嘛</p><p data-pid="8Qn_HmGA">让产品有一个很好的吸睛点和爆点，现在嘛目的已经达到了</p><p data-pid="fdr_atx2">相信很多最近很多要换手机的用户都会注意到这俩品牌</p><p data-pid="UCRv_oYd">优先把它们作为优先选项，小米宣得更早，摩托罗拉发售更早，到底谁是首发，就看谁能先把手机送到消费者手里了</p>  
 </div>
             
