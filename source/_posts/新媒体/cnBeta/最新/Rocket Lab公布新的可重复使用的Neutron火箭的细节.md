@@ -1,0 +1,19 @@
+
+---
+title: 'Rocket Lab公布新的可重复使用的Neutron火箭的细节'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1203/933b40a72c43b4e.png'
+author: cnBeta
+comments: false
+date: Fri, 03 Dec 2021 00:56:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1203/933b40a72c43b4e.png'
+---
+
+<div>   
+据The Verge报道，当地时间周四上午，<strong>小型卫星发射公司Rocket Lab公布了其未来更强大的Neutron火箭的细节-</strong>-这是一种经过优化的运载工具，可将卫星送入轨道，用于未来的大型卫星星座。Neutron火箭由Rocket Lab创造的一种特殊的碳复合材料制成，也将是大部分可重复使用的，旨在发射后降落在一个着陆台--类似于SpaceX公司降落其猎鹰9号火箭的方式。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1203/933b40a72c43b4e.png" alt="PUD(77GOCYJ%$V02_C(8V%1.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">“这不是一个传统的火箭，”Rocket Lab首席执行官Peter Beck在YouTube上直播的揭幕式上说。“这就是2050年的火箭应该有的样子。但我们今天正在建造它。”Neutron火箭计划在2024年进行首次飞行。</p><p style="text-align: left;">Rocket Lab已经有一枚名为Electron的火箭，该公司自2017年以来一直在向轨道发射。Electron火箭旨在将相对较小的卫星送入低地球轨道。但在3月，Rocket Lab宣布它打算建造另一个更大的火箭，名为Neutron，同时计划通过SPAC合并上市。这对该公司来说是一个巨大的变化，因为Beck曾经发誓，如果他制造出可重复使用的火箭或更大的火箭，他将"吃掉自己的帽子"。</p><p style="text-align: left;">Neutron将有131英尺（或40米）高，比Electron高得多，后者只有59英尺（18米）高。在七个名为Archimedes的新主发动机的推动下，该火箭将能够把8至15吨的有效载荷送入低地球轨道。Rocket Lab声称，该火箭将非常适合发射中型卫星，这些卫星是拟议中的大型卫星星座的一部分，是旨在向地球下方提供宽带覆盖的大规模卫星计划。然而，Beck为Neutron设想了其他机会，如载人航天，甚至星际飞行。</p><p style="text-align: left;">“我们想确保我们没有费尽心思去制造一个无法通过人类认证和能够进行人类太空飞行的运载火箭，” Beck告诉The Verge。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1203/db7fec7108a0827.png" alt="_IZ09$8J85JSN1BLG12$$45.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">也许Neutron设计最值得注意的是，它将是可重复使用的，这意味着实际上火箭的每一个部分都将在发射后返回到地球。它还违背了当今大多数轨道火箭工作方式的现代惯例。通常情况下，火箭是以相互堆叠的部分发射的。在发射过程中，随着火箭迅速吞噬其推进剂，火箭的第一级--或火箭的大部分主体--最终会脱离并落回地球。燃料耗尽后，这一级就成了无谓的重量。随着火箭体的脱落，火箭的上部--或第二级--将点燃其发动机（或引擎），将有效载荷推进到更远的空间，并将其部署在轨道上。</p><p style="text-align: left;">Neutron火箭将有一点不同。Rocket Lab计划将第二级放在第一级的内部，而不是将两级叠加在一起。第二级由一个Archimedes发动机推动，将连接到有效载荷上，并保持在火箭的整个机身内，在发射过程中受到完全保护。一旦进入太空，火箭的顶部将打开，释放第二级/有效载荷的组合。然后，两者继续其进入轨道的旅程。</p><p style="text-align:center"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=307963217&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: left;">这就是事情变得奇怪的地方。对于现在大多数典型的火箭来说，被发射的主要有效载荷或卫星在飞行过程中被包裹在一个鼻锥体或整流罩中。火箭顶部的球状结构在穿越地球大气层时保护有效载荷。一旦进入太空，整流罩就会破裂并落回地球，在那里它通常会丢失。Neutron火箭的情况不会是这样的。相反，整流罩将铰链打开，允许有效载荷部署到太空，同时保持整流罩与火箭的连接。这样一来，整流罩就不会离开火箭。</p><p style="text-align: left;">“答案不是扔掉整流罩，甚至不是试图抓住它们，”Beck在视频中说。“最好的办法是一开始就不要把它们扔掉。” Rocket Lab将整流罩称为 “Hungry Hippo” 整流罩设计。</p><p style="text-align: left;">一旦第二级和有效载荷进入轨道，Neutron的主体--拖着整流罩--将返回地球并在一个着陆平台上直立着陆。这个过程的动画很容易让人联想到SpaceX的猎鹰9号火箭在起飞后降落在发射台上的情景。Beck说，整个过程是为了尽量减少运营成本。“与实际的建筑材料或火箭部件相比，运营远远使把东西送上轨道的实际成本相形见绌，”Beck告诉The Verge。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1203/a77c276d1b465ad.png" alt="@)AJ0G(S@H[JGLQXQPBWW_A.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">在演讲中，Rocket Lab有很多对SpaceX的微妙嘲讽。首先，Rocket Lab不打算像SpaceX那样将 Neutron火箭降落在海洋中的船只上。此外，整流罩的设计似乎是对SpaceX公司的直接回应，该公司多年来一直试图使用连接在船上的大网来捕捉其火箭的整流罩。虽然该公司有几次成功地抓住了整流罩，但最终，由于可靠性差，SpaceX放弃了这一举措。相反，SpaceX首席执行官埃隆·马斯克在4月表示，SpaceX将把整流罩从水中捞起，并对其进行翻新以重新使用。</p><p style="text-align: left;">当Beck讨论Neutron的制造材料时，他敲了敲不锈钢，暗示这是SpaceX用来制造其新的星际飞船火箭的主要材料。为了进一步说明问题，他用一个撞锤敲击不锈钢板，展示它是如何弯曲的。相反，Neutron将由Rocket Lab创造的一种特殊的碳复合材料制成，该公司暗示这种材料更坚固。</p><p style="text-align: left;">最终，Beck说他并没有特别针对任何公司。他告诉The Verge：“当然，我无意提及SpaceX。只是碰巧，SpaceX使用不锈钢，但顺便说一下，ULA也是如此。”</p><p style="text-align: left;">然而，Rocket Lab不能完全声称的一件事是Neutron是完全可重复使用的。就像猎鹰9号火箭一样，第二级一旦将有效载荷送入轨道就不会返回地球。Beck说，该公司没有看到使第二级可重复使用与以"非常、非常低的成本"制造第二级的任何明显好处。</p><p style="text-align: left;">但如果它成功了，它将是一种独特的火箭，虽然目前还没有出现在市场上。Rocket Lab说，它已经在制作原型，Archimedes发动机将在明年某个时候进行首次点火试验。</p>   
+</div>
+            
