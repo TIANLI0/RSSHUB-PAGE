@@ -1,0 +1,20 @@
+
+---
+title: 'Epic 喜加二：《黎明杀机》《while True_ learn ()》免费领取，下周可领《众神陨落》'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/12/160f1a52-4cff-46a0-bfa8-18ac71e6993d.png'
+author: IT 之家
+comments: false
+date: Thu, 02 Dec 2021 16:10:10 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/12/160f1a52-4cff-46a0-bfa8-18ac71e6993d.png'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://www.ithome.com/0/590/200.htm#">肖战割割</a> 的线索投递！</div>
+            <p data-vmark="31b2"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 12 月 2 日消息，Epic 新一周的“喜加二”游戏已推出，生存恐怖游戏《黎明杀机》和益智编程游戏《while True: learn ()》免费领取。</p><p data-vmark="aee5"><img src="https://img.ithome.com/newsuploadfiles/2021/12/160f1a52-4cff-46a0-bfa8-18ac71e6993d.png" w="1400" h="649" title="Epic 喜加二：《黎明杀机》《while True: learn ()》免费领取，下周可领《众神陨落》" width="1400" height="380" referrerpolicy="no-referrer"></p><h2 data-vmark="7fe8">《黎明杀机》</h2><p data-vmark="ba05"><span class="accentTextColor">《黎明杀机》是一款多人（4vs1）的恐怖游戏</span>。游戏由其中一人扮演野蛮杀手，另外四人扮演逃生者。逃生者们将试图从野蛮杀手手中奋力逃脱，从而让自己免去被残忍杀害的危险。</p><p data-vmark="0bea"><img src="https://img.ithome.com/newsuploadfiles/2021/12/a3b9c267-ff9a-48e7-9e2f-a3da425203d1.jpg@s_2,w_820,h_448" w="1440" h="787" title="Epic 喜加二：《黎明杀机》《while True: learn ()》免费领取，下周可领《众神陨落》" srcset="https://img.ithome.com/newsuploadfiles/2021/12/a3b9c267-ff9a-48e7-9e2f-a3da425203d1.jpg 2x" width="1440" height="448" referrerpolicy="no-referrer"></p><p data-vmark="fa71">逃生者们将以第三视角进行游戏，其优势在于对周围环境拥有更开阔的视野。而杀手则将以第一视角进行游戏并且更着眼于眼前的猎物。</p><p data-vmark="50da"><img src="https://img.ithome.com/newsuploadfiles/2021/12/3ddc2690-1a47-4b40-ad53-2276d8895e12.jpg@s_2,w_820,h_461" w="1440" h="810" title="Epic 喜加二：《黎明杀机》《while True: learn ()》免费领取，下周可领《众神陨落》" srcset="https://img.ithome.com/newsuploadfiles/2021/12/3ddc2690-1a47-4b40-ad53-2276d8895e12.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><p data-vmark="f074"><strong>《黎明杀机》：</strong><a href="https://www.epicgames.com/store/zh-CN/p/dead-by-daylight" target="_blank">点此领取</a></p><h2 data-vmark="17d6">《while True: learn ()》</h2><p data-vmark="0873">《while True: learn ()》从名字看就和编程相关，直接一个循环学习语句。</p><p data-vmark="e148"><img src="https://img.ithome.com/newsuploadfiles/2021/12/9e623cbf-2d13-4863-9d45-5ca17bb79c45.jpg" w="460" h="215" title="Epic 喜加二：《黎明杀机》《while True: learn ()》免费领取，下周可领《众神陨落》" width="460" height="215" referrerpolicy="no-referrer"></p><p data-vmark="6771">据介绍，《while True: learn ()》看起来是一款关于<span class="accentTextColor">机器学习、神经网络、大数据和人工智能</span>的烧脑型益智/拼图类游戏。但是其实这是让你了解你猫主子的神器。</p><p data-vmark="4d4c"><img src="https://img.ithome.com/newsuploadfiles/2021/12/f1d9bf8a-480a-48b7-9e70-06f05ed9a6e8.gif" w="480" h="270" title="Epic 喜加二：《黎明杀机》《while True: learn ()》免费领取，下周可领《众神陨落》" width="480" height="270" referrerpolicy="no-referrer"></p><p data-vmark="20e1">在这款游戏中，你将扮演一个不小心发现你猫主子的代码竟然写的比你还 666 的程序猿。所以为了掌握猫族的核心科技，你感到天将降大任于斯人也，<span class="accentTextColor">开始整合你所掌握的所有黑科技来研发一款猫语翻译器</span>。</p><p data-vmark="981d"><img src="https://img.ithome.com/newsuploadfiles/2021/12/90433e2e-f0e9-4267-a41b-5ca6daeafb9f.gif" w="480" h="270" title="Epic 喜加二：《黎明杀机》《while True: learn ()》免费领取，下周可领《众神陨落》" width="480" height="270" referrerpolicy="no-referrer"></p><p data-vmark="73b7"><strong>《while True: learn ()》：</strong><a href="https://www.epicgames.com/store/zh-CN/p/while-true-learn" target="_blank">点此领取</a></p><p data-vmark="45f2">IT之家了解到，下周的免费领取游戏为<span class="accentTextColor">第三人称打怪杀戮类奇幻游戏《众神陨落：挑战者版》和战略游戏《监狱建筑师》</span>。</p><p data-vmark="46f4"><img src="https://img.ithome.com/newsuploadfiles/2021/12/53c4cf36-0c2b-4e8f-b2db-737819f329e8.png" w="941" h="519" title="Epic 喜加二：《黎明杀机》《while True: learn ()》免费领取，下周可领《众神陨落》" width="941" height="452" referrerpolicy="no-referrer"></p><p data-vmark="beff"><img src="https://img.ithome.com/newsuploadfiles/2021/12/36c44ae1-ddbd-4a96-aa0d-5bde1aed58e6.jpg" w="460" h="215" title="Epic 喜加二：《黎明杀机》《while True: learn ()》免费领取，下周可领《众神陨落》" width="460" height="215" referrerpolicy="no-referrer"></p>
+          
+</div>
+            

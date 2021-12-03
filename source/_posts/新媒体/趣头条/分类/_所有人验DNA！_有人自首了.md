@@ -1,0 +1,18 @@
+
+---
+title: '_所有人验DNA！_有人自首了'
+categories: 
+ - 新媒体
+ - 趣头条
+ - 分类
+headimg: 'https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/01ef60f35cfea8fb5b5d424b1fcb75d1.jpeg'
+author: 趣头条
+comments: false
+date: Fri, 03 Dec 2021 15:11:47 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/01ef60f35cfea8fb5b5d424b1fcb75d1.jpeg'
+---
+
+<div>   
+<p>高空抛物又惹祸！</p><p>民警喊话：查每个人DNA</p><p>网友：支持！</p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/01ef60f35cfea8fb5b5d424b1fcb75d1.jpeg" data-size="950,1216" referrerpolicy="no-referrer"></p><p><br></p><p>12月2日，记者从泸州市龙马潭区公安分局了解到，<strong>目前对事发小区采集烟头的DNA检测已经完成，结果显示是一名男性的DNA。</strong></p><p><br></p><p>民警表示，若第一批采集的结果未与烟头上的DNA比对上，警方将进一步扩大采集范围。</p><p><br></p><p>12月3日，记者从四川泸州警方获悉，<strong>12月2日晚事发小区已有人到警方自首，称烟头为自己所扔，警方正在对自首者进行审讯，DNA比对也在同步进行中。</strong></p><p><br></p><p>近日，四川泸州某小区，</p><p>一个未熄灭的烟头从天而降，</p><p>掉落在楼下一婴儿车上，</p><p>直接将车顶烫穿。</p><p><br></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/f90bcec8f066b93b9f7d6605d5a2553b.jpeg" data-size="942,550" referrerpolicy="no-referrer"></p><p><br></p><p>家人发现婴儿车里有烟气冒出，</p><p>赶紧检查竟是烟头！</p><p>而婴儿当时就躺在车里</p><p><br></p><p>在场群众说：</p><p><strong>烟头捡起来还是燃着的</strong></p><p><strong>甩到地上也没甩熄</strong></p><p><br></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/966c4fdaf73bb8b9794ca49ef0d459cd.png" data-size="476,366" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/85b1c046455e3ad905c4507492dbfa6e.png" data-size="475,54" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/a1ec6020fb4ad0e10179a0f5060e88f9.png" data-size="474,52" referrerpolicy="no-referrer"></p><p><br></p><p>视频显示，推着婴儿车的女士见到警察，情绪激动地说，“婴儿车烧这么大一个洞！我娃儿脑壳就在下面，烟锅巴我甩地下都没甩熄。”所幸婴儿的家人发现及时，未对婴儿造成伤害。</p><p><br></p><p>事后没有人承认此事，</p><p>为找出罪魁祸首，</p><p>民警经过申请硬核喊话：</p><p>通知一下这所有业主，</p><p>可能我们到时候会采每个人的DNA。</p><p><br></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/cfa12ad5c068932ab5b92661e5f475e9.jpeg" data-size="950,700" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/fdfd8a1e1b888e9d9a7d97f9ffab8c64.png" data-size="476,60" referrerpolicy="no-referrer"></p><p><br></p><p>对于高空抛物的恶劣行为</p><p>网友除了齐声谴责</p><p>同时也<strong>对全体业主验DNA表示支持</strong></p><p><strong>并且希望肇事者承担所有费用</strong></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/c5bba7bef64524475ab6b152c527bc73.png" data-size="1080,764" referrerpolicy="no-referrer"></p><p><br></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/496e0ceb9f3536f2c2b0e95e4ef1ec41.png" data-size="1080,392" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/03/4ef4f1537877eec730fc27e7eb9299fb.png" data-size="1080,577" referrerpolicy="no-referrer"></p><p><br></p><p><br></p><p>从2021年3月1号起，《中华人民共和国刑法修正案(十一)》生效，“高空抛物”已正式入刑。</p><p><br></p><p><br></p><p>刑法第二百九十一条之二规定：<strong>“从建筑物或者其他高空抛掷物品，情节严重的，处一年以下有期徒刑、拘役或者管制，并处或者单处罚金。”“有前款行为，同时构成其他犯罪的，依照处罚较重的规定定罪处罚。”</strong></p><p><br></p><p>今年3月17日，成都市温江区人民法院开庭审理了江某被诉高空抛物罪一案并当庭宣判。<strong>被告人江某犯高空抛物罪，被判处有期徒刑六个月，并处罚金3000元。</strong></p><p><br></p><p><br></p><p>来源：人民视频、平安泸州、央视新闻、红星新闻、网友评论等</p><p>部分素材来源于网络，如有侵权，请联系我们，谢谢</p><p>编辑：孙懿辞</p>  
+</div>
+            
