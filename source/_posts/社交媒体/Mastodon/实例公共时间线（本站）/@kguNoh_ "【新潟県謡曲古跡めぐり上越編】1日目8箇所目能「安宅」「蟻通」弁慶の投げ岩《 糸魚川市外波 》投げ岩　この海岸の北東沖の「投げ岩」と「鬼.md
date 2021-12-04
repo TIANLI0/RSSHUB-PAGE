@@ -1,0 +1,26 @@
+
+---
+title: '@kguNoh_ "
+【新潟県謡曲古跡めぐり上越編】1日目8箇所目
+
+能「安宅」「蟻通」
+
+弁慶の投げ岩
+《 糸魚川市外波 》
+投げ岩
+　この海岸の北東沖の「投げ岩」と「鬼...'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/040/586/582/original/cb54c7ba6fbc8d27.jpeg'
+author: Mastodon
+comments: false
+date: Sat, 04 Dec 2021 13:18:09 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/040/586/582/original/cb54c7ba6fbc8d27.jpeg'
+---
+
+<div>   
+<hr><p>【新潟県謡曲古跡めぐり上越編】1日目8箇所目</p><p>能「安宅」「蟻通」</p><p>弁慶の投げ岩<br>《 糸魚川市外波 》<br>投げ岩<br>　この海岸の北東沖の「投げ岩」と「鬼けり岩」<br>弁慶が通りかかったときに、このあたりで悪事をはたらいていた鬼と力比べをした。<br>鬼が投げた岩は海の近くに転がり、あとから投げた弁慶の岩は鬼よりはるかに大きくて、海の沖に落ちた。<br>鬼は悔しがって岩を蹴り、二度と悪事を働くことはなかったという。<br>鬼が蹴った岩は鬼蹴り岩と呼ばれ、鬼の足跡がついているのだとか。</p><p><a href="https://pawoo.net/tags/%E8%83%BD%E6%A5%BD" class="mention hashtag" rel="tag">#能楽</a>　<a href="https://pawoo.net/tags/%E8%83%BD" class="mention hashtag" rel="tag">#能</a>　<a href="https://pawoo.net/tags/Noh" class="mention hashtag" rel="tag">#Noh</a>　<a href="https://pawoo.net/tags/%E8%8A%B8%E8%A1%93%E8%AB%96" class="mention hashtag" rel="tag">#芸術論</a>　<a href="https://pawoo.net/tags/%E5%B9%BD%E7%8E%84" class="mention hashtag" rel="tag">#幽玄</a>　<a href="https://pawoo.net/tags/%E6%AD%8C%E8%88%9E%E5%8A%87" class="mention hashtag" rel="tag">#歌舞劇</a>　<a href="https://pawoo.net/tags/%E6%BC%94%E5%8A%87" class="mention hashtag" rel="tag">#演劇</a> <a href="https://pawoo.net/tags/%E6%96%87%E5%8C%96" class="mention hashtag" rel="tag">#文化</a>　<a href="https://pawoo.net/tags/%E6%97%85%E8%A1%8C" class="mention hashtag" rel="tag">#旅行</a>　<a href="https://pawoo.net/tags/%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB" class="mention hashtag" rel="tag">#トラベル</a>　<a href="https://pawoo.net/tags/%E5%90%8D%E6%89%80%E6%97%A7%E8%B7%A1" class="mention hashtag" rel="tag">#名所旧跡</a>　<a href="https://pawoo.net/tags/%E5%B7%A1%E7%A4%BC" class="mention hashtag" rel="tag">#巡礼</a>　<a href="https://pawoo.net/tags/%E5%8F%A4%E8%B7%A1" class="mention hashtag" rel="tag">#古跡</a>　<a href="https://pawoo.net/tags/%E8%AC%A1%E6%9B%B2" class="mention hashtag" rel="tag">#謡曲</a>　<a href="https://pawoo.net/tags/%E6%96%B0%E6%BD%9F" class="mention hashtag" rel="tag">#新潟</a>　<a href="https://pawoo.net/tags/%E4%B8%8A%E8%B6%8A" class="mention hashtag" rel="tag">#上越</a>　<a href="https://pawoo.net/tags/%E4%BC%9D%E7%B5%B1" class="mention hashtag" rel="tag">#伝統</a>　<a href="https://pawoo.net/tags/Travel" class="mention hashtag" rel="tag">#Travel</a>　<a href="https://pawoo.net/tags/throwing" class="mention hashtag" rel="tag">#throwing</a>　<a href="https://pawoo.net/tags/Stone" class="mention hashtag" rel="tag">#Stone</a>　<a href="https://pawoo.net/tags/rock" class="mention hashtag" rel="tag">#rock</a>　<a href="https://pawoo.net/tags/comparison" class="mention hashtag" rel="tag">#comparison</a>　<a href="https://pawoo.net/tags/Power" class="mention hashtag" rel="tag">#Power</a> <a href="https://pawoo.net/tags/game" class="mention hashtag" rel="tag">#game</a>　<a href="https://pawoo.net/tags/match" class="mention hashtag" rel="tag">#match</a>　<a href="https://pawoo.net/tags/bout" class="mention hashtag" rel="tag">#bout</a>　<a href="https://pawoo.net/tags/demon" class="mention hashtag" rel="tag">#demon</a>　<a href="https://pawoo.net/tags/ogre" class="mention hashtag" rel="tag">#ogre</a>　<a href="https://pawoo.net/tags/daemon" class="mention hashtag" rel="tag">#daemon</a>　<a href="https://pawoo.net/tags/mythology" class="mention hashtag" rel="tag">#mythology</a>　<a href="https://pawoo.net/tags/myth" class="mention hashtag" rel="tag">#myth</a>　<a href="https://pawoo.net/tags/legend" class="mention hashtag" rel="tag">#legend</a>　<a href="https://pawoo.net/tags/deity" class="mention hashtag" rel="tag">#deity</a>　<a href="https://pawoo.net/tags/%E7%A5%9E" class="mention hashtag" rel="tag">#神</a>　<a href="https://pawoo.net/tags/%E4%BE%8D" class="mention hashtag" rel="tag">#侍</a>　<a href="https://pawoo.net/tags/%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4" class="mention hashtag" rel="tag">#サムライ</a>　<a href="https://pawoo.net/tags/%E9%AC%BC" class="mention hashtag" rel="tag">#鬼</a>　<a href="https://pawoo.net/tags/%E5%8B%9D%E8%B2%A0" class="mention hashtag" rel="tag">#勝負</a>　<a href="https://pawoo.net/tags/%E5%B2%A9" class="mention hashtag" rel="tag">#岩</a>　<a href="https://pawoo.net/tags/%E7%9F%B3" class="mention hashtag" rel="tag">#石</a>　<a href="https://pawoo.net/tags/%E6%8A%95%E6%93%B2" class="mention hashtag" rel="tag">#投擲</a>　<a href="https://pawoo.net/tags/%E6%8A%95%E7%9F%B3" class="mention hashtag" rel="tag">#投石</a>　<a href="https://pawoo.net/tags/%E6%8A%95%E3%81%92%E3%82%8B" class="mention hashtag" rel="tag">#投げる</a>　<a href="https://pawoo.net/tags/%E5%8A%9B%E6%AF%94%E3%81%B9" class="mention hashtag" rel="tag">#力比べ</a>　<a href="https://pawoo.net/tags/%E6%AF%94%E8%BC%83" class="mention hashtag" rel="tag">#比較</a>　<a href="https://pawoo.net/tags/%E6%B5%B7%E5%B2%B8" class="mention hashtag" rel="tag">#海岸</a>　<a href="https://pawoo.net/tags/coast" class="mention hashtag" rel="tag">#coast</a>　<a href="https://pawoo.net/tags/beach" class="mention hashtag" rel="tag">#beach</a></p><br><img src="https://img.pawoo.net/media_attachments/files/040/586/582/original/cb54c7ba6fbc8d27.jpeg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
