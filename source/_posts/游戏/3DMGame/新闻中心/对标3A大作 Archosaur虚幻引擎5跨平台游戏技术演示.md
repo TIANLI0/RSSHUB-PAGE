@@ -27,7 +27,7 @@ Games在一年一度的虚幻引擎技术开放日上发布了一段使用虚幻
 技术演示视频：
 </p>
 <p style="text-align:center;">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTIwMTQ2MTkwMA==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTIwMTQ2MTkwMA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
 <p style="text-indent:2em;">
@@ -37,7 +37,7 @@ Games在一年一度的虚幻引擎技术开放日上发布了一段使用虚幻
 《诺亚之心》预告片：
 </p>
 <p style="text-align:center;">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTgyNDg0NzUyMA==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTgyNDg0NzUyMA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>          
 </div>
