@@ -1,0 +1,18 @@
+
+---
+title: '你家的宠物冬天怎么办？-DOGNESS的回答：天气渐冷，宠物身体也正悄然发生变化，最明显的就是_秃_如其来的掉毛，让家里随时漫天毛发飞舞。 今天跟着小多一起来...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-9e88b79456e0326e080b9f95098a8a30_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 04 Dec 2021 03:18:25 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-9e88b79456e0326e080b9f95098a8a30_1440w.jpg'
+---
+
+<div>   
+<strong>你家的宠物冬天怎么办？</strong><br>DOGNESS的回答<br><p data-pid="9hOxzCDT">天气渐冷，宠物身体也正悄然发生变化，最明显的就是“秃”如其来的掉毛，让家里随时漫天毛发飞舞。</p><p data-pid="7BeneVnS">今天跟着小多一起来盘点宠物冬季养护小tips。</p><h3><b>1、为换毛宠物经常梳毛</b></h3><p data-pid="W3NJk7SB">秋冬是宠物的换毛期，为了让自己在冬天变得温暖，它们会给自己做“衣服”过冬，夏天里的粗毛要用柔软的长毛替换掉，以保证足以蓄暖抵御严寒。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9e88b79456e0326e080b9f95098a8a30_1440w.jpg" data-caption data-size="normal" data-rawwidth="529" data-rawheight="300" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9e88b79456e0326e080b9f95098a8a30_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="OAlujqsi">如果家里的宠物猫狗化身“蒲公英”，宠物主需要为它们勤梳理去除浮毛，它们睡觉的小窝窝、毯子，也需定时用吸尘器吸除杂毛，并放在太阳下暴晒，去除湿气。</p><h3><b>2、减少宠物洗澡频率，养护皮肤</b></h3><p data-pid="a3ANxUF-">冬季天气干燥，宠物皮肤分泌油脂的速度变慢。过于频繁洗澡会将宠物身上的油脂清洗干净，缺少油脂的保护，毛发容易干枯、起静电、也容易脱落。</p><p data-pid="cxqEVU6A">冬天狗狗洗澡频率应该相较于夏季长，一般建议14~20天洗一次为佳。至于胆小怕水的猫咪们，可延长至4个月左右洗一次澡。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-b0e95bdacf069a62c2528d75592920ee_1440w.jpg" data-caption data-size="normal" data-rawwidth="900" data-rawheight="566" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-b0e95bdacf069a62c2528d75592920ee_r.jpg" referrerpolicy="no-referrer"></figure><h3><b>3、营造舒适温暖居住环境</b></h3><p data-pid="CxvDAM8c">宠物抵抗力随着天气的转冷而下降，即使是平时健康的宠物也容易感冒和拉肚子，需要主人为宠物猫狗营造舒适温暖的居住环境，添一床柔软透气的毯子，避免直接睡在地板上受凉。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-10bc5abb16ee14b6447e78112ae0057a_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="692" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-10bc5abb16ee14b6447e78112ae0057a_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="qGoACEpH">特别是体质弱的、步入老年自身保暖能力差的宠物应特别注意保暖问题，可以适当增添衣物。</p><h3><b>4、宠物绝育的最佳时期</b></h3><p data-pid="GiWjnf_z">冬季是宠物绝育的最好时节，有打算给宠物绝育的宠主可以在这个时间，约好宠物医院把手术提上日程。</p><p data-pid="rOvBWVTQ">舒爽干燥的天气，有助于伤口恢复，能更大程度减轻伤口给宠物带来的痛苦，也减少宠主照顾宠物的压力。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-c2b8348183488f4e6451c805479deaf2_1440w.jpg" data-caption data-size="normal" data-rawwidth="842" data-rawheight="535" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-c2b8348183488f4e6451c805479deaf2_r.jpg" referrerpolicy="no-referrer"></figure><h3><b>5、增加饮食，储备能量</b></h3><p data-pid="_l_Sk2Cy">凉爽的天气里，宠物新陈代谢旺盛，夏季萎靡的味蕾也彻底打开，食欲大增。</p><p data-pid="IyNXHWMW">主人可以通过多尼斯喂食器适当增加喂食量，以少食多餐的形式帮助它们储备过冬能量。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-8d8bcda79e0149bee5b516593613a343_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="719" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-8d8bcda79e0149bee5b516593613a343_r.jpg" referrerpolicy="no-referrer"></figure><h3><b>6、适当增加运动量</b></h3><p data-pid="Esfvpjxb">调整增加饮食需搭配一定的运动量，才能保障宠物不过度肥胖。慢跑、散步、爬山、逗猫棒逗猫等等的运动都可以安排起来。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-ed48705ee7be00aa8d52f60d49f27f96_1440w.jpg" data-caption data-size="normal" data-rawwidth="600" data-rawheight="400" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-ed48705ee7be00aa8d52f60d49f27f96_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="wWrdxXKW">换季“养生”秘诀get起来，宠物才能更健康。希望所有毛孩都能在温暖的呵护下，快乐过冬。</p>  
+</div>
+            
