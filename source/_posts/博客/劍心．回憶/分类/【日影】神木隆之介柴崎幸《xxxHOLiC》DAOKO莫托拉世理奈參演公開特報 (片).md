@@ -17,7 +17,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202112
 <p>
 【日影】12/06：神木隆之介及柴崎幸主演《xxxHOLiC》公佈新參演者名單，包括有獨特音樂世界觀的歌手 DAOKO，還有以「厭世臉」為人熟悉的模特兒莫托拉世理奈。二人分別演全露及多露，都是次元魔女壹原侑子（柴崎幸）創造的侍童，她們不能離開侑子的店，個性像小孩子，說著童言童語，經常捉弄來打工的四月一日君尋（神木隆之介）。</p>
 <p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202112/20211206-6a.jpg" referrerpolicy="no-referrer"></p>
-
 <p>同時公開首支特報影像，一開始是四月一日打開店門，侑子和全露多露在店內迎接。之後有四月一日被妖怪糾纏的樣子，百目鬼靜（松村北斗）及九軒葵（玉城蒂娜）出現，影像鮮艷華麗，充滿蜷川實花的感覺。《xxxHOLiC》2022年4月29日公映。</p>
 <div class="videoWrapper"><iframe width="720" height="405" src="https://www.youtube.com/embed/iSO-KRyaxyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>新聞源自：<a href="http://www.cinemacafe.net/" target="_blank">CinemaCafe.net</a></p>
