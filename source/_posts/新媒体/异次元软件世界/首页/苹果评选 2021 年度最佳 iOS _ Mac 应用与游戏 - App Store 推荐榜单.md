@@ -14,8 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2021/appstore-award-202
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/3586">支付宝”红包“大放水！年底加码，简直疯了</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元 (电视端可选)</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD 17 虚拟机最后官网史低</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.4 折</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/aliyun">阿里云代金券+特惠机型</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+优酷 / 百度网盘+文库 联合会员</a></li></ul><p>苹果每年都会为 <a href="https://www.iplaysoft.com/os/ios-platform" target="_blank" rel="noopener">iOS</a> 和 <a href="https://www.iplaysoft.com/os/mac-platform" target="_blank" rel="noopener">macOS</a> 平台评选出最值得推荐的 Apps of The Year「<strong>年度最佳应用</strong>」以及 Games of The Year 「<strong>年度最佳游戏</strong>」榜单，2021 年当然也不例外。</p><p>每年在苹果 <a href="https://www.iplaysoft.com/go/iphone" target="_blank" rel="noopener">iPhone</a> / <a href="https://www.iplaysoft.com/go/ipad" target="_blank" rel="noopener">iPad</a> / <a href="https://www.iplaysoft.com/go/mac" target="_blank" rel="noopener">Mac</a> 的 <strong>App Store</strong> 上架的精品应用和<a href="https://www.iplaysoft.com/category/game" target="_blank" rel="noopener">游戏</a>数量非常惊人，在如此茫茫海洋里能脱颖而出获得苹果青睐的，肯定都是极具实力且相当用心的制作。对大家来说，这个 <strong>2021 年度最佳 App 榜单</strong>可以帮我们发现一些可能被错过的优秀 APP 应用和游戏……</p><p class="aligncenter"><a class="button" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/apple"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>访问：Apple 中国官网</a></p><h3>App Store Award 2021 官方年度 APP 和游戏榜单：</h3><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">
