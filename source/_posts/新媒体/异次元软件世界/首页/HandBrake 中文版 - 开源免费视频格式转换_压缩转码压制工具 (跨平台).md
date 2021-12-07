@@ -14,8 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2019/handbrake/handbrak
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/3586">支付宝”红包“大放水！年底加码，简直疯了</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元 (电视端可选)</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD 17 虚拟机最后官网史低</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.4 折</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/aliyun">阿里云代金券+特惠机型</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+优酷 / 百度网盘+文库 联合会员</a></li></ul><p>无论是下载高清<a href="https://www.iplaysoft.com/tag/%E7%94%B5%E5%BD%B1" target="_blank" rel="noopener">电影</a>，还是用手机录制的<a href="https://www.iplaysoft.com/tag/%E8%A7%86%E9%A2%91" target="_blank" rel="noopener">视频</a>，很多时候文件体积都非常巨大。收藏保存或分享时会比较麻烦，因此常备一款真正好用的<strong>免费视频压缩压制/格式转换软件</strong>是很有必要的。</p><p>网上的视频处理工具非常繁多，收费免费的一大堆，很多人根本不知道怎么选。而在尝试过的软件中，我认为 <strong>Handbrake</strong> 可能是最好的<a href="https://www.iplaysoft.com/tag/%E5%BC%80%E6%BA%90" target="_blank" rel="noopener">开源</a>免费跨平台视频压缩和格式<a href="https://www.iplaysoft.com/tag/%E8%BD%AC%E6%8D%A2" target="_blank" rel="noopener">转换</a>软件了！作为一<strong>款万能视频转码压制工具</strong>，它不仅免费，还跨平台支持 Win、<a href="https://www.iplaysoft.com/go/mac" target="_blank" rel="noopener">Mac</a>、<a href="https://www.iplaysoft.com/tag/linux" target="_blank" rel="noopener">Linux</a> 三大操作系统……</p><p class="aligncenter"><a class="button" target="_blank" isconvert="1" href="https://www.iplaysoft.com/downie.html"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>推荐：Downie 网络视频下载利器</a></p><h3>HandBrake 官方汉化绿色中文版 - 开源免费的视频转码软件</h3><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">

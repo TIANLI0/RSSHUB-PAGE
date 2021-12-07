@@ -14,8 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2015/7zip/7zip_image.jp
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/3586">支付宝”红包“大放水！年底加码，简直疯了</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元 (电视端可选)</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD 17 虚拟机最后官网史低</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.4 折</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/aliyun">阿里云代金券+特惠机型</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+优酷 / 百度网盘+文库 联合会员</a></li></ul><p>说到文件<a href="https://www.iplaysoft.com/category/archive" target="_blank" rel="noopener">压缩/解压缩软件</a>，大家都会想到 <a href="https://www.iplaysoft.com/winrar.html" target="_blank" rel="noopener">WinRAR</a>、<a href="https://www.iplaysoft.com/bandizip.html" target="_blank" rel="noopener">BandiZip</a>、<a href="https://www.iplaysoft.com/p/winzip" target="_blank" rel="noopener">WinZip</a> 几大经典工具。不过它们大多是商业软件，要么收费要么有广告，而 <strong>7Zip</strong> 则是完全免费<a href="https://www.iplaysoft.com/tag/%E5%BC%80%E6%BA%90" target="_blank" rel="noopener">开源</a>且无广告的软件。</p><p><strong>7-Zip</strong> 除了能支持压缩、解压缩 .zip、.rar、tar、gzip 等常见文件格式外，还独家支持压缩率更高的 .7z 格式。不过 <a href="https://www.iplaysoft.com/7-zip.html">7-Zip</a> 自从 2010 年发布过正式版后，一直长期保持着 Beta 测试版更新，在等待整整五年后，终于迎来了正式版！而最近，官方再次发布最新的 <strong>7-ZIP 21.06 正式版</strong>……</p><p style="text-align: center;">「<span style="color: #ff0000;">2021-11-29：大版本更新！ 7-Zip v21.06 官方正式版</span>」<br>

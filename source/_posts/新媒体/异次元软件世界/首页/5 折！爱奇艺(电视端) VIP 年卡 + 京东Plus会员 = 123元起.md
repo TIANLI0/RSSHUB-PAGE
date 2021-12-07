@@ -8,14 +8,15 @@ categories:
 headimg: 'https://img.iplaysoft.com/wp-content/uploads/2018/news/4313/iqiyi_logo.jpg'
 author: 异次元软件世界
 comments: false
-date: Thu, 02 Dec 2021 03:20:32 GMT
+date: Sun, 05 Dec 2021 03:20:32 GMT
 thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2018/news/4313/iqiyi_logo.jpg'
 ---
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/3586">支付宝”红包“大放水！年底加码，简直疯了</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元 (电视端可选)</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD 17 虚拟机最后官网史低</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.4 折</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/aliyun">阿里云代金券+特惠机型</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+优酷 / 百度网盘+文库 联合会员</a></li></ul><p>看剧基本必备<a href="https://www.iplaysoft.com/go/iqiyi" target="_blank" rel="noopener">爱奇艺会员</a>，相信不用多做介绍了；而如果你经常会在<a href="https://www.iplaysoft.com/go/jd" target="_blank" rel="noopener">京东商城</a>买东西，那么自然也知道<a href="https://www.iplaysoft.com/go/jdplus" target="_blank" rel="noopener">京东 Plus 会员</a>的各种好处！比如每月免邮运费券、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。</p><p><a href="https://www.iplaysoft.com/go/iqiyisale" target="_blank" rel="noopener"><img loading="lazy" class="aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2018/news/4313/iqiyi_logo.jpg" alt="爱奇艺会员 VIP 年卡" width="680" height="425" referrerpolicy="no-referrer"></a></p><p>但原本爱奇艺 VIP 年卡定价 218 元，京东 PLUS 会员定价 299 元/年，正价购买还是很贵的。而这次爱奇艺+京东联名会员推出了「<a href="https://www.iplaysoft.com/blackfriday.html" target="_blank" rel="noopener">黑色星期五</a>」限时促销，<span style="color: #339966;">活动时间有限</span>，大家手要快！</p><ul><li><span style="color: #ff6600;">爱奇艺黄金会员 (手机电脑平板) + 京东 Plus 会员 = 123 元 (老用户续费 138 元) </span></li><li><span style="color: #ff6600;">爱奇艺星钻会员 (含电视端与手机电脑平板) + 京东 Plus = 239 元 (老用户续费 278 元)</span></li></ul><p class="aligncenter"><a class="button button_orange" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/iqiyisale"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>爱奇艺会员+京东Plus</a><br><span class="button-hint">推荐：星钻会员支持 TV 电视端及手机 iPad 全平台</span></p>

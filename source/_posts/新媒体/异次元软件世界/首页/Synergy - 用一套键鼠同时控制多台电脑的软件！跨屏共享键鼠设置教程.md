@@ -14,8 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2021/synergy/synergy.pn
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/3586">支付宝”红包“大放水！年底加码，简直疯了</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元 (电视端可选)</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD 17 虚拟机最后官网史低</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.4 折</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/aliyun">阿里云代金券+特惠机型</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+优酷 / 百度网盘+文库 联合会员</a></li></ul><p>很多人都会同时使用多台电脑，譬如台式机+笔记本，但如果桌子上要摆放多套<a href="https://www.iplaysoft.com/go/keyboardmouse" target="_blank" rel="noopener">键盘鼠标</a>，是不是很凌乱，使用也很累呢？其实，咱们可以实现只用一套键鼠，就能“同时控制”你全部的电脑。</p><p><a href="https://www.iplaysoft.com/go/synergy" target="_blank" rel="noopener">Synergy</a> 正是为此而生的好工具！它能让你的多台电脑<a href="https://www.iplaysoft.com/tag/%E5%85%B1%E4%BA%AB" target="_blank" rel="noopener">共享</a>使用同一套键鼠，甚至<strong>还能共享剪贴板</strong>，你只需移动鼠标，指针就可以神奇般地在各台电脑屏幕之间来回穿梭，无缝切换，体验极佳。同时 Synergy 跨平台支持 Win / <a href="https://www.iplaysoft.com/os/mac-platform" target="_blank" rel="noopener">Mac</a> / <a href="https://www.iplaysoft.com/os/linux-platform" target="_blank" rel="noopener">Linux</a> 三大系统！使用后，工作<a href="https://www.iplaysoft.com/tag/%E6%95%88%E7%8E%87" target="_blank" rel="noopener">效率</a>提高，腿不酸腰不疼，桌面也干净了，绝对是必备的<a href="https://www.iplaysoft.com/tag/%E7%A5%9E%E5%99%A8" target="_blank" rel="noopener">神器</a>……</p><p class="aligncenter"><a class="button button_orange" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/synergy"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>获取 Synergy 专业版</a></p><h3>Synergy 鼠标键盘跨电脑共享工具</h3><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">

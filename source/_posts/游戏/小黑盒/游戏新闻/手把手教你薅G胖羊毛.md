@@ -1,0 +1,18 @@
+
+---
+title: '手把手教你薅G胖羊毛'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2021/12/07/dde4d50f7b215c4a4928c8f3adc949e6/thumb.png'
+author: 小黑盒
+comments: false
+date: Tue, 07 Dec 2021 16:17:14 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2021/12/07/dde4d50f7b215c4a4928c8f3adc949e6/thumb.png'
+---
+
+<div>   
+<p><b>前言：</b>steam上好游戏千千万，但大多数价格都比较贵，原价买的话，对我们大多数普通玩家是有点肉痛的（况且能省则省不是么）。</p><p>所谓决定来写写，如何才能薅到G胖羊毛，低价买到自己心仪的游戏。</p><p>先说明：本文只给国内人士参考，如果你是什么俄罗斯人阿根廷人之类的，相信你有更好的购买方式，就不多说了。</p><p> </p><hr><p><br></p><p>首先当然是steam自己的活动，每年都会有几次大的促销活动。</p><p> </p><p><img class="lazy" data-height="429" src="https://imgheybox.max-c.com/web/2021/12/07/dde4d50f7b215c4a4928c8f3adc949e6/thumb.png" data-width="515" referrerpolicy="no-referrer"></p><h4 class="img-desc">图源自3大妈平台，日期非准确，大差不差</h4><p><br></p><p>这一部分基本大家都知道，就不过多介绍了。</p><p>简单说，每年力度最大的是夏促和圣诞促销，其他略次，万圣节主打恐怖游戏。另外，夏促相对是平史低游戏多，打折范围广，但新史低不一定多。</p><p>如果你在这几个时间点前（不一定完全准确，但基本是这些时间段）购买游戏，建议想忍一忍，否则玩不到几天就大呼“背刺”真疼可没办法了。</p><p><b>总结：</b><b></b></p><p>优点：最方便</p><p>缺点：不够便宜，需要等</p><p> </p><hr><p><br></p><p>第二种方式，各大游戏平台的促销活动。</p><p>首先当然是我们的<b>小黑盒</b>啦。比如在之前的双十一促销、秋促里，不少游戏达到一个比steam史低还低的价格。比如B社的老滚5，辐射等，十几块就能买到，简直不要太香。</p><p> </p><p><img class="lazy" data-height="624" src="https://imgheybox.max-c.com/web/2021/12/07/7d6ef5ff1f811a2ca57e4ec75696701e/thumb.png" data-width="591" referrerpolicy="no-referrer"></p><p>更舒服的是，还可以用盒币来白嫖，这点太舒服了。</p><p> </p><p><img class="lazy" data-height="752" src="https://imgheybox.max-c.com/web/2021/12/07/3bd0d5bd558e7a1628cbb25984842162/thumb.png" data-width="561" referrerpolicy="no-referrer"></p><h4 class="img-desc">白嫖只狼太香</h4><p> </p><p>还有一些其他的平台也有不错的优惠，具体就不说了，大家自行了解即可。</p><p><br></p><p> </p><p><b>总结：</b><b></b></p><p>优点：方便，可以盒币白嫖</p><p>缺点：需要等打折，无法退款</p><p> </p><p> </p><hr><p><b>其他不属于薅G胖羊毛但也不错的路子：</b></p><p>Epic白嫖与特惠：</p><p>Epic是和steam类似的游戏平台，现阶段每周四会送1-3款游戏（永久的）。虽然多数都是4399，但经常也能出现好的游戏，比如前段时间的<b>仁王、瘟疫传说无罪，这周的黎明杀机</b>等等。</p><p> </p><p><img class="lazy" data-height="869" src="https://imgheybox.max-c.com/web/2021/12/07/28324ca17e68e196dfce0d0dd65812c6/thumb.png" data-width="1469" referrerpolicy="no-referrer"></p><p>而和steam一样，epic也有一系列促销。但epic有另一个好东西——<b>代金券。</b>每年促销中会有1-2次发放代金券，可以满90-65.于是也就有了80的大表哥，40的死亡搁浅等等（去年价格，今年圣诞可能更低）。</p><p><b>总结：</b><b></b></p><p>优点：足够便宜，还能白嫖</p><p>缺点：客户端体验远远不如steam，网不好可能登不上。大促游戏太少，值得买的大作基本就那几个。</p><p> </p><hr><p><br></p><p> </p><p>XGP：</p><p>由微软推出的游戏租借服务。首月10港币即可畅享数百款游戏，而且有极多的大作。另外包含了所有微软第一方首发大作，如<b>地平线5，光环无限，星空</b>等，能让你第一时间免费体验这些大作。</p><p> </p><p><img class="lazy" data-height="877" src="https://imgheybox.max-c.com/web/2021/12/07/2801141699f23eb7e9445d182554c32b/thumb.png" data-width="1407" referrerpolicy="no-referrer"></p><p>什么，你说一个月太短？最近有好价三年哦：</p><p><img data-sku-id="12976" src="https://imgheybox.max-c.com/oa/2021/11/08/01be26c2d69189c1b45a8e2c63736125.png" referrerpolicy="no-referrer"></p><p>另外，关于新旧号的问题，使用出现的问题，可以参考往期文章：</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/72216591" target="_blank">保姆级教学 | XGP你想知道的答案都在这里</a><br></p><p><a href="https://www.xiaoheihe.cn/community/1/list/73661375" target="_blank">选择困难症？XGP精品游戏推荐【8】</a><br></p><p><b>总结：</b></p><p>优点：低价能玩到你玩不完的好游戏</p><p>缺点：非永久拥有，收藏党震怒！</p><p><br></p><hr><p><br></p><p> </p><p><b>结语：薅羊毛的方法千千万，如果你觉得有用，想看到更多方法，不妨点赞关注一波，能给个电电就更好了。</b><b></b></p><p> </p><p contenteditable="false"><img class="lazy" src="https://cdn.max-c.com/stickers/heyboxgirl/1/thumb.png" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#游戏资讯</a><a href="heybox://open_subject" target="_blank">#游戏推荐</a><a href="heybox://open_subject" target="_blank">#薅羊毛#</a><br></p>  
+</div>
+            
