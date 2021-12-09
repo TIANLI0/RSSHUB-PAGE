@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/scott-berkun-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-12-09 01:09:53
+date: 2021-12-09 02:37:28
 thumbnail: 'https://www.invisionapp.com/inside-design/scott-berkun-design-better-podcast/'
 ---
 

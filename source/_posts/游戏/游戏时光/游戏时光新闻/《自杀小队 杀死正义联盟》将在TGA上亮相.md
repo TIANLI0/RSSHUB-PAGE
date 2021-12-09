@@ -18,7 +18,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/12/09/211209083751433_u524.
 
 
 <div class="abstract">
-<p>「图片」</p>
+<p>东西越来越多了。</p>
 </div>
 
                 
