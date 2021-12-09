@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 不安全
  - 全文
-headimg: 'https://picsum.photos/400/300?random=4104'
+headimg: 'https://picsum.photos/400/300?random=1760'
 author: 不安全
 comments: false
 date: Wed, 08 Dec 2021 23:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4104'
+thumbnail: 'https://picsum.photos/400/300?random=1760'
 ---
 
 <div>   
