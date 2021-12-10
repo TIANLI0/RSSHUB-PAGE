@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 4Gamers 新闻
  - 分类
-headimg: 'https://img.4gamers.com.tw/news-image/f2b64ba6-f14c-4f98-9e9c-8d6960881824.jpg'
+headimg: 'https://img.4gamers.com.tw/news-image/3df2fa7d-3a83-49a9-a82f-cb8cd0050661.jpg'
 author: 4Gamers 新闻
 comments: false
-date: Fri, 10 Dec 2021 00:53:18 GMT
-thumbnail: 'https://img.4gamers.com.tw/news-image/f2b64ba6-f14c-4f98-9e9c-8d6960881824.jpg'
+date: Fri, 10 Dec 2021 04:40:18 GMT
+thumbnail: 'https://img.4gamers.com.tw/news-image/3df2fa7d-3a83-49a9-a82f-cb8cd0050661.jpg'
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/f2b64ba6-f14c-4f98-9e9c-8d6960881824.jpg" referrerpolicy="no-referrer"><p>即時開獎名單更新！</p>  
+<img src="https://img.4gamers.com.tw/news-image/3df2fa7d-3a83-49a9-a82f-cb8cd0050661.jpg" referrerpolicy="no-referrer"><p>即時開獎名單更新！</p>  
 </div>
             
