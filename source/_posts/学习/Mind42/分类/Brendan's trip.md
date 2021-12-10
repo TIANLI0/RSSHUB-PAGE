@@ -1,0 +1,19 @@
+
+---
+title: "Brendan's trip"
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=719ee53f-0efd-4df7-bd93-8d193dab7e23&size=gallery'
+author: Mind42
+comments: false
+date: 2021-12-10 10:24:43
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=719ee53f-0efd-4df7-bd93-8d193dab7e23&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=719ee53f-0efd-4df7-bd93-8d193dab7e23&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
