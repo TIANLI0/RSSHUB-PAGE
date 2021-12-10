@@ -51,7 +51,126 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202112/06/102822delze5uej6uh
 <div align="center">
 <img id="aimg_1023493" aid="1023493" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102824sjbxvuwjjbeesrt9.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102824sjbxvuwjjbeesrt9.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102824sjbxvuwjjbeesrt9.jpg" referrerpolicy="no-referrer">
 </div>
+<div align="center">
+<img id="aimg_1023494" aid="1023494" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102824srw9u4vffwk9qqgf.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102824srw9u4vffwk9qqgf.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102824srw9u4vffwk9qqgf.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+刚才的讲的几个例子都是一些简单有效的噪声表达地形的方法。但真实的地形其实有一些特别的地方，比如自相似性。什么意思呢？<br><br>
+我们从不同层次的视角去观察真实地形的时候，会有一些相似的特征。大到山脉，小到山体，更小的山上的每个石头都在起伏。也就是说如果用噪声表达这个特点，需要噪声在多个尺度具有自相似性。<br><br><div align="center"><font size="2">
+<img id="aimg_1023495" aid="1023495" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102824g90ojrxiqt99tqf4.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102824g90ojrxiqt99tqf4.jpg" width="408" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102824g90ojrxiqt99tqf4.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">山脉</font></div>
+<div align="center"><font size="2"><br></font></div>
+<div align="center"><font size="2">
+<img id="aimg_1023496" aid="1023496" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102824uaacxzvztm9vmzvx.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102824uaacxzvztm9vmzvx.jpg" width="404" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102824uaacxzvztm9vmzvx.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">山体</font></div>
+<div align="center"><font size="2"><br></font></div>
+<div align="center"><font size="2">
+<img id="aimg_1023497" aid="1023497" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102824oyo6vm0rynb66rv1.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102824oyo6vm0rynb66rv1.jpg" width="396" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102824oyo6vm0rynb66rv1.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">山石</font></div>
+<br>
+为了实现这个效果，我们其实可以直接把多层噪声叠加起来实现。每一层噪声有自己的频率和振幅，叠加在一起就会形成这种具有分形效果的地形。为了更好的控制分形的效果，我们可以调整每层噪声之间的关系：关系有两种，一种是每层频率之间的变化率，另一种是每层振幅之间的变化率。<br><br>
+特别的，如果每层振幅的变化跟频率的变化互为导数，这种多层噪声叫做粉红噪声。更特别的，如果变化率是 2 的幂次，我们把这种噪声的每层成为一个倍频（Octave），那这种噪声每层频率翻倍，振幅就减半。一般来说，Octave 小于 8 就够用了，太大了计算量增加，效果不会有大的增幅。<br><br>
+这里是我们常见的分层 Perlin 噪声的效果，在 Octave 为 8 的情况下。可以看到这个分层地形，在大的高度变化上是一个低频的变化，在小的尺度上会有一些高频的变化。<br><br><div align="center"><font size="2">
+<img id="aimg_1023498" aid="1023498" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102825wikdg454m9mdggx1.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102825wikdg454m9mdggx1.jpg" width="416" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102825wikdg454m9mdggx1.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">Layered Perlin Noise</font></div>
+<br>
+纯过程化地形做的比较好的游戏，有《无人深空》，Minecraft。《无人深空》的地形是做的很不错的，有很多关于噪声的技巧应用，做出来一些挺不错的风格化的效果。<br><br><div align="center"><font size="2">
+<img id="aimg_1023499" aid="1023499" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102825xf7pcw733eftne6o.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102825xf7pcw733eftne6o.jpg" width="412" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102825xf7pcw733eftne6o.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">《无人深空》</font></div>
+<div align="center"><font size="2"><br></font></div>
+<div align="center"><font size="2">
+<img id="aimg_1023500" aid="1023500" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102825nl5spwfgps5yl2z5.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102825nl5spwfgps5yl2z5.jpg" width="452" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102825nl5spwfgps5yl2z5.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">《我的世界》</font></div>
+<br>
+现在总结一下纯过程化地形的特点：<br><br>
+基于随机的算法；<br><br>
+技术性是比较强的，美术不易理解；<br><br>
+容易重复；<br><br>
+可控性比较差，美术难以调效果<br><br><strong><font color="#de5650">3. 美术主导的过程化地形生成</font></strong><br><br>
+既然纯过程化地形生成有这么多问题，那大世界地形制作又想利用过程化技术来提升效率，怎么办？由于游戏场景的最终效果其实是美术来把控的，其实整个场景很复杂，不仅仅只有地形存在，涉及到的东西很多都需要美术来把关，所以我们需要的是美术主导的过程化生成。<br><br>
+这种工作流需要更多的考量用户友好性，美术使用的工具是交互要人性化，要足够易用的。还需要有良好的艺术性表达性，美术可以很方便的做艺术设计。过程化技术在其中的作用主要是用来提升工作效率，并不像纯粹的过程化地形生成，一键生成地形，美术很难参与其中。<br><br>
+这样的一个工作流，它的主体成员可以是一个比较小的团队组成，由 TA 和引擎工具根据美术需求设计开发地形工具，工具开发完后，美术使用工具设计地形。<br><br>
+具体来说美术主导的过程化地形工作流分为以下三个阶段：<br><br><strong>1：原始地形生成</strong>，这个阶段 LA 和 TA 一起配合，利用一些过程化地形工具，比如 UE4 Landmass，Houdini，World Machine，World Creator，Gaea 之类的，根据世界的结构生成一份原始地形。<br><br><strong>2：过程化工具地形加工</strong>，这个阶段美术会在原始地形的基础上进行场景制作，会添加场景的其他层，比如河流，道路，岩石等等，这些场景元素的制作在过程化管线中对应一个个的过程化工具，这些工具可能会对地形产生影响。<br><br><strong>3：人工编辑</strong>，所有的过程化工具对地形作用完毕后，如果美术还不满意效果，这时需要进行人工调整，调整后形成最终的地形效果。<br><br><strong>3.1 原始地形生成</strong><br><br>
+我们先看原始地形生成，这个阶段的思路是，整个造型过程是从初模到高模，高度图数据从低分辨率到高分辨率的一个过程，然后对真实地形来说侵蚀是很重要的一步。<br><br>
+以 Houdini 来举例，大概有图例画的这些步骤。整个过程可以完全在 Houdini 内部做，也可以通过自定义的 Houdini Engine 在引擎中制作。完全在 Houdini 里做，对TA来说比较方便，在引擎编辑器内做的话，美术会比较方便。各有优缺点。<br><br><div align="center"><font size="2">
+<img id="aimg_1023501" aid="1023501" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102825kmvnvf7bbe9bsvfv.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102825kmvnvf7bbe9bsvfv.jpg" width="556" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102825kmvnvf7bbe9bsvfv.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">Houdini 地形工作流</font></div>
+<br>
+具体的，我们来看下这个流程。首先是 Massing，可以通过手绘，投射几何体或者直接导入高度数据进行一个最粗糙的造型，接下来，为了获得更自然的效果，我们对粗模进行一些细节的扰动，这个过程可以通过应用一些噪声来实现，还可以通过在特定区域添加一些障碍物。<br><br>
+Seeding 后的地形有了一些细节，更自然，也有利于后面的侵蚀效果。再就是裂片，一般真实的山体会被河流或地壳运动切割开来，我们可以通过侵蚀算法加大侵蚀力度来获取这种切割效果。最后我们可以从高度这个层次进行 Remapping，对不同区域进行反复的造型。比如我们在第一遍的时候对地图的平原区域进行造型，第二遍对高原区域进行造型。<br><br><div align="center"><font size="2">
+<img id="aimg_1023502" aid="1023502" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102825e5spvx2rd5hzg1pc.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102825e5spvx2rd5hzg1pc.jpg" width="556" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102825e5spvx2rd5hzg1pc.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">地形粗模过程</font></div>
+<br>
+粗模造型在低精度下进行，迭代效率是比较快的，大的造型设计尽量在粗模阶段进行。粗模完成后对地形精度进行上采样，更高的精度可以拥有更多的细节，之后继续进行 Shaping，再之后就是侵蚀了。<br><br>
+为了获得比较好的侵蚀效果，可以在侵蚀前再进行一次扰动。侵蚀是个比较耗时的操作，要比较快的迭代效果需要 TA 对此很熟悉。如果不满意效果，可以反复的造型和侵蚀，得到最终的原始地形效果。<br><br><div align="center"><font size="2">
+<img id="aimg_1023503" aid="1023503" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102825xanba9zzag94nscz.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102825xanba9zzag94nscz.jpg" width="556" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102825xanba9zzag94nscz.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">地形高模过程</font></div>
+<br><strong>3.2 过程化工具地形加工</strong><br><br>
+原始地形有了后，就进入到了过程化工具地形加工阶段。一般 PCG 的工具管线会按不同的工具种类进行分层，比如按照湖泊，河流，道路，栅栏，植被这样的层次进行划分。<br><br>
+这里需要注意的是，每个工具之间具有依赖关系，前个工具的输出数据对后个工具会产生影响，比如我先用河流工具生成了一条河流，接着在河流经过的一个区域又用道路工具生成了一条路，那道路工具就需要考虑河流工具。比如我们可以通过输出 Mask 来标记河流的区域，这样道路工具就知道这里有一条河了。<br><br>
+一般来说，这样的工具顺序需要事先规定好，做好流程的设计。<br><br><div align="center"><font size="2">
+<img id="aimg_1023504" aid="1023504" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102825ii4vkeisi8awah01.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102825ii4vkeisi8awah01.jpg" width="340" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102825ii4vkeisi8awah01.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">过程化工具流程图</font></div>
+<br>
+这些过程化的工具都可能对地形产生影响，包括高度和材质，那关于地形的变化，这里有个隐藏的含义是后个工具是在上个工具影响后的地形上进行操作的，比如刚才提到的道路工具在河流之后，那河流工具本身会对地形进行形变，道路工具此时地形的输入就是河流工具对地形形变后的结果。<br><br>
+当然有些工具可能对地形不会有形变作用，比如栅栏工具一般不会对地形有影响。所以在这个工作流中，我们需要把每层地形的变化都存储下来，如果没有这些中间结果，后面的工具便没有了地形的输入。<br><br><strong>3.3 人工编辑</strong><br><br>
+既然过程化解决不了所有问题，那接下来进入到人工编辑阶段。问题又来了，哪些阶段需要进行地形的人工编辑呢？<br><br>
+先回顾一下过程化工具的地形流程，如图，是一个链式的结构，可以看到我们可以在每个工具之间都可以进行人工编辑，比如河流工具对地形影响后，美术不满意，可以进行编辑调整，在调整后的地形基础上，再使用道路工具铺设道路，道路工具又会对地形进行影响，之后美术又可以继续在此基础上进行地形效果的调整。<br><br><div align="center"><font size="2">
+<img id="aimg_1023505" aid="1023505" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102826smz3nzn7117y5a25.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102826smz3nzn7117y5a25.jpg" width="548" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102826smz3nzn7117y5a25.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">过程化工具地形流程图</font></div>
+<br>
+有了这样的流程，就存在地形的修改如何存储的问题？<br><br>
+为了实现非破坏性编辑，每层地形的修改都需要存储，推荐不要把修改数据存储到编辑器场景中，而是存到外部文件，这样对 Houdini 比较友好。<br><br>
+另外一个值得思考的问题是人工修改的这部分数据是存储差异还是直接覆盖？存储差异直观上来看，有个优点，前阶段的工具地形输出有变化的时候，人工修改的数据可能可以继承，比如由于某些原因，道路工具把路整体抬高了，由于存储的是差异值，之前对一些局部的人工修改就可以复用。<br><br>
+缺点是，可复用的数据的合理性其实是很模糊的，很多时候差异数据不可用，这种数据应用后出错了也不易发觉。采用覆盖的方式，优缺点是显而易见的，直接覆盖不会出错，但一旦前面的层对地形有修改，后续的每一层的手工修改就全部报废了，后续每一层都需要修改。<br><br>
+基于正确性第一的原则，推荐使用覆盖而非差异的方式。人工修改一般只是修改局部，覆盖的方式就需要存两种数据，一种是标记哪些区域修改了的 Mask 信息，一种是需要覆盖的高度图信息。<br><br>
+这样我们就有了一套完备的地形工作流程，但给美术实际使用时仍然遇到了不少问题。<br><br>
+第一个是可手动编辑的阶段过多，大世界一般都会有十几层甚至几十层，工作流可调整的地方太多，其中的逻辑美术不易理解，第二个可控性差，之前也提到，前面层的修改会影响后面，导致频繁修改，非常容易出错，第三个最直接的就是美术反馈操作太繁琐，不好用。<br><br><div align="center"><font size="2">
+<img id="aimg_1023506" aid="1023506" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102826g0gih834i0ixv3io.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102826g0gih834i0ixv3io.jpg" width="420" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102826g0gih834i0ixv3io.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">过程化工具人工修改流程</font></div>
+<br>
+重新考量了下，这个流程虽说比较完整，但很多阶段其实没必要，由于过程化工具对地形影响频繁，整个阶段可以不需要人工修改地形，所以最终人工修改可以在整个过程化之前和之后进行，这样就可以简化为 4 个大的地形阶段。<br><br>
+原始地形：采用 Houdini，world Machine 输出。<br><br>
+人工修改 1：美术可以在引擎编辑器中对原始地形进行调整。<br><br>
+过程化工具地形阶段：合并为一个大的阶段，中间不允许人工调整。<br><br>
+人工修改 2：对最终地形进行人工调整。<br><br>
+整个过程可以循环重复迭代。<br><br><div align="center"><font size="2">
+<img id="aimg_1023507" aid="1023507" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102826unl7lh229luntaa2.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102826unl7lh229luntaa2.jpg" width="348" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102826unl7lh229luntaa2.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">过程化地形工作流</font></div>
+<br><strong>3.4 一些经验小结</strong><br><br><strong>① 可控性很重要</strong><br><br>
+完全的随机地形生成不可用<br><br>
+美术导向，而非技术导向<br><br><strong>② 非破坏性编辑</strong><br><br>
+原始地形不可丢<br><br>
+可反复快速迭代<br><br><strong>③ 数据存储</strong><br><br>
+便于导入导出<br><br>
+使用覆盖，不要使用差异<br><br><strong>④ 依赖关系</strong><br><br>
+后阶段依赖前阶段地形<br><br>
+杜绝循环依赖<br><br>
+编辑前及时锁定，避免冲突<br><br>
+编辑前及时更新，避免错误修改<br><br><strong>⑤ 不要过度依赖过程化</strong><br><br><strong>⑥ 锁定</strong><br><br>
+阶段越前，越需要更早确定<br><br>
+地形修改工作量非常大<br><br><strong><font color="#de5650">4. PCG 技术的前景</font></strong><br><br>
+PCG 技术不仅仅用来生成地形，还可以用于生成大世界环境中的方方面面，比如植被，道路，河流，湖泊，海洋，街区，建筑等等。<br><br>
+如果把这些问题在实际项目中全部解决，生成符合美术需求的资产，那制作大世界游戏的成本会大大降低。当然并不是说美术没有事情可以做了，而是美术可以专注于艺术创作，去除不需要关心的重复劳动。这样 PCG 技术可以起到加快设计和验证效果的迭代速度。<br><br>
+另外 PCG 技术还可以和机器学习等其他技术融合，来辅助美术设计，这类技术通过对已有的资产库数据进行学习，自动生成一些新的数字资产，美术再进行一些挑战，这样可以加快创作速度。<br><br>
+PCG 技术甚至可以在一定程度上开放给玩家，用于制作 UGC 内容，玩家可以像游戏制作者一样创造游戏世界。整个 PCG 技术的应用前景空间巨大。<br><br>
+目前天美 F1 技术中台除了在 PCG 管线上有不错的积累，其他 AAA 游戏技术我们也取得了一些成绩。<br><br><div align="center"><font size="2">
+<img id="aimg_1023508" aid="1023508" zoomfile="https://di.gameres.com/attachment/forum/202112/06/102826s3ix32r4wgiq0ihr.jpg" data-original="https://di.gameres.com/attachment/forum/202112/06/102826s3ix32r4wgiq0ihr.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202112/06/102826s3ix32r4wgiq0ihr.jpg" referrerpolicy="no-referrer"></font></div>
+<div align="center"><font size="2">F1 技术积累图</font></div>
+<br>
+引擎技术、美术等方面，目前我们已经储备并在不断优化验证的方向包括：<br><br>
+对标顶级 AAA 公司的，支持 AAA 品质开放大世界的 PCG 工业化游戏内容生产管线<br><br>
+次世代主机级渲染技术及美术制作工艺<br><br>
+GTA 级的大都市模拟游戏 AI 技术<br><br>
+超拟真载具物理仿真技术<br><br>
+基于光学动捕和 MotionMatching 的角色动画技术及制作管线<br><br>
+基于 FACS 系统的写实面部表情绑定和动画管线<br><br>
+基于 AI 学习的人物动画生产技术<br><br>
+...<br><br>
+最后欢迎大家加入 F1 工作室，和天美共同成长，做成国产 AAA 大作，实现个人技术突破。<br><br><font size="2"></font><br><font size="2">来源：TiMi Club 天美俱乐部</font><br><font size="2">原文：https://mp.weixin.qq.com/s/miOnAB9wervyBGe7ep1MRQ</font><br><br><br>
 </td></tr></tbody></table>
+
+
   
 </div>
             
