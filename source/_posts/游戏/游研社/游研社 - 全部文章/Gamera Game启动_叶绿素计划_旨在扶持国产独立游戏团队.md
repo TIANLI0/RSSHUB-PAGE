@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 游研社
  - 游研社 - 全部文章
-headimg: 'https://picsum.photos/400/300?random=6891'
+headimg: 'https://picsum.photos/400/300?random=4884'
 author: 游研社
 comments: false
-date: Fri, 10 Dec 2021 08:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6891'
+date: Fri, 10 Dec 2021 08:21:05 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4884'
 ---
 
 <div>   
-“叶绿素计划”启动，帮助国产独立游戏团队。  
+Gamera Game“叶绿素计划”启动，帮助国产独立游戏团队。  
 </div>
             
