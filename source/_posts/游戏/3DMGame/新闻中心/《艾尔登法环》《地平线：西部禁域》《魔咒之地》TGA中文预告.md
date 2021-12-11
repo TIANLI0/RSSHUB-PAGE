@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211211/1639189942_6222
 PlayStation中国台湾油管频道发布了《艾尔登法环》、《地平线：西部禁域》和《魔咒之地》TGA预告片的中文字幕版。
 </p>
 <p style="text-indent:2em;">
-<strong>PS4 / PS5『艾尔登法环』故事宣传影片：</strong>
+<strong>PS4 / PS5『艾尔登法环』故事宣传影片：</strong> 
 </p>
 <p style="text-align:center;">
 <iframe src="https://player.youku.com/embed/XNTgyNjQ4OTAzNg==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
@@ -27,7 +27,7 @@ PlayStation中国台湾油管频道发布了《艾尔登法环》、《地平线
 时间回到很久以前，由于半神对权力的渴望而引发破碎战争，使交界地蒙上黑暗。拉塔恩将军与残身玛莲妮亚交战，但即使是这两位不败战士也无法让如此严重破碎的世界再次统合。只剩最后的希望：希望新的艾尔登之王崛起，揭开玛莉卡领地的阴暗面纱。
 </p>
 <p style="text-indent:2em;">
-<strong>PS4 / PS5『地平线 西域禁地』“新威胁”实机游玩影片：</strong>
+<strong>PS4 / PS5『地平线 西域禁地』“新威胁”实机游玩影片：</strong> 
 </p>
 <p style="text-align:center;">
 <iframe src="https://player.youku.com/embed/XNTgyNjUxMjk5Mg==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
@@ -37,7 +37,7 @@ PlayStation中国台湾油管频道发布了《艾尔登法环》、《地平线
 跟随亚萝伊的脚步，一往无前，向壮阔险恶的西方禁域迈进，揭开种种未知的神秘威胁。
 </p>
 <p style="text-indent:2em;">
-<strong>PS5『魔咒之地（Forspoken）』The Game Awards 2021宣传影片：</strong>
+<strong>PS5『魔咒之地（Forspoken）』The Game Awards 2021宣传影片：</strong> 
 </p>
 <p style="text-align:center;">
 <iframe src="https://player.youku.com/embed/XNTIwMTc1OTY0NA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
