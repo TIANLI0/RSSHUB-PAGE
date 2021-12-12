@@ -33,7 +33,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211212/s_f89c7c8c84ab4a4ea2195b31b5
 <p align="center"><a href="https://img1.mydrivers.com/img/20211212/0f4a488293544596926668b9b8eb3b72.jpg" target="_blank"><img alt="目标RTX 3070 Ti！Intel游戏显卡无死角曝光" h="337" src="https://img1.mydrivers.com/img/20211212/s_0f4a488293544596926668b9b8eb3b72.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>当然，测试过不等于会有实际产品。目前，Intel还在规划调整之中，变数很多，目前看如下：</p>
 <p>桌面上，</p>
-<p>－ 5<strong><span style="color:#ff0000;">12单元、16GB对标RTX 3070、RTX 3070 Ti</span></strong></p>
+<p>－ <strong><span style="color:#ff0000;">512单元、16GB对标RTX 3070、RTX 3070 Ti</span></strong></p>
 <p>－ 384单元、12GB对标RTX 3060、RTX 3060 Ti</p>
 <p>－ 128单元、6GB对标RTX 3050系列、RX 6500系列</p>
 <p>显存频率均为16GHz，512单元版本还可以配18GHz，入门级还可能增加96单元、2/4GB，就看Intel怎么决定了。</p>
