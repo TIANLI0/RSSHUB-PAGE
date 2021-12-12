@@ -5,16 +5,14 @@ categories:
  - 游戏
  - 游研社
  - 游研社 - 全部文章
-headimg: 'https://picsum.photos/400/300?random=5093'
+headimg: 'https://picsum.photos/400/300?random=1390'
 author: 游研社
 comments: false
-date: Sun, 12 Dec 2021 02:18:26 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5093'
+date: Sun, 12 Dec 2021 02:24:20 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1390'
 ---
 
 <div>   
-活在人们儿时的回忆中，才是一款游戏最好的延续方式。
-
-  
+活在人们儿时的回忆中，才是一款游戏最好的延续方式。  
 </div>
             
