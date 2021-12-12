@@ -1,0 +1,18 @@
+
+---
+title: 'HPV疫苗免费接种！江苏两地已启动！'
+categories: 
+ - 新媒体
+ - 趣头条
+ - 分类
+headimg: 'https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/7dd66f742b0c0a99dc5016b9321023f1.jpeg'
+author: 趣头条
+comments: false
+date: Sun, 12 Dec 2021 02:05:48 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/7dd66f742b0c0a99dc5016b9321023f1.jpeg'
+---
+
+<div>   
+<p>日前，江苏省发布“十四五”妇女儿童发展规划，鼓励有条件的地区以9-15周岁在校女学生为重点推广接种HPV疫苗。据了解，江苏无锡、连云港部分地区已启动HPV疫苗免费接种项目。</p><p>无锡、连云港两地</p><p>已启动HPV疫苗免费接种项目</p><p>宫颈癌是发生在女性子宫颈部的恶性肿瘤。在全球范围内，它是第二常见的女性恶性肿瘤。</p><p>在我国，宫颈癌发病率和死亡率呈逐渐升高和年轻化趋势。宫颈癌源于高危型HPV病毒持续感染，是唯一病因明确、可防可控的癌症。</p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/7dd66f742b0c0a99dc5016b9321023f1.jpeg" data-size="480,246" referrerpolicy="no-referrer"></p><p>近日，连云港市连云区卫健委、教育局联合下发了<连云区在校适龄女孩HPV试点接种项目实施方案>，将在今年12月中下旬启动HPV疫苗免费接种项目。</p><p>连云港市连云区卫健委党组成员范师凤介绍：“八年级学段女生免费接种使用的HPV疫苗是二价HPV疫苗，主要针对16和18型这两种，是导致宫颈癌最主要的致病性HPV，可以预防73%的HPV感染相关癌症。”</p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/37118cb85e4e755ef794657872b92231.jpeg" data-size="480,246" referrerpolicy="no-referrer"></p><p>目前项目只针对八年级学生，在征得家长同意后，学生可以在学校预约报名。</p><p>连云港市连云区教育局体卫艺科工作人员赵国表示：“将由学校进行对目标人群的宣传、摸底登记和发放相关材料，组织学生家长填写知情同意书，由所在地社区卫生服务中心安排时间，以班级为单位统一进行接种。”</p><p>自12月起，无锡市区范围内也启动了HPV疫苗免费接种项目。</p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/c0d0b81cb633b147e7f9558db941f45e.jpeg" data-size="480,245" referrerpolicy="no-referrer"></p><p>无锡市疾控中心副主任周伟杰介绍：“主要是对初二学段在校女生开展免费接种，只要健康状况良好，没有HPV疫苗接种禁忌，可按照知情自愿免费的原则进行接种。我们是使用二价HPV疫苗，接种两个剂次。”</p><p>二价、四价和九价疫苗</p><p>均可预防大多数相关癌症</p><p>从公共卫生角度来说，二价、四价和九价疫苗在免疫原性，预防16型、18型（高危型）HPV相关宫颈癌的效力和效果方面均无差别，三种疫苗都可预防大多数的相关癌症。</p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/0e3b23b74ebc59a38c767367c40baf88.jpeg" data-size="480,246" referrerpolicy="no-referrer"></p><p>对于9岁以后女孩，应当在有接种条件的情况下尽早接种。另外国产HPV疫苗9到14岁接种者只需接种两次，即可完成全部接种程序。</p><p>宫颈癌可以预防吗？二价、四价和九价HPV疫苗接种人群有什么不同？疫苗是不是“价”越高越好？男性要打HPV疫苗吗？看图了解！↓↓↓</p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/e7ff37b408fdd3e1eb99bfe752aeed41.jpeg" data-size="480,662" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/ef4b261777087391054ed48ca660dce0.jpeg" data-size="480,662" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/2df557b93f6e203c0eb419127d00afbc.jpeg" data-size="480,662" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/2d7eb3f494ac2e8449ec97f23a58fe22.jpeg" data-size="480,662" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/41c16f1922195f1ae4fbd06c9262201a.jpeg" data-size="480,662" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/6edd83859423617f4664322d57db2df7.jpeg" data-size="480,662" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/07ac82f74280c5a3a436195d2bfd77d8.jpeg" data-size="480,662" referrerpolicy="no-referrer"></p><p><img src="https://cors.zfour.workers.dev/?http://static.1sapp.com/qupost/img/2021/12/12/f625b43efddb3598af26d1e9d489dfcb.jpeg" data-size="480,662" referrerpolicy="no-referrer"></p><p>来源：江苏广电融媒体新闻中心记者/ 范思成 综合 /无锡台 连云港台 图片 / 蓝妹妹 周晶 朱丹 斗斗汤杰</p>  
+</div>
+            
