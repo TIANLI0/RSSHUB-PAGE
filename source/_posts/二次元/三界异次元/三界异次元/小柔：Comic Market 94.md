@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://www.3ycy.com/rs/stimg/1160w/b
 ---
 
 <div>   
-Dick Thomas JohnsonFollow<br>
+Dick Thomas Johnson<br>
 Comic Market 94 Day 3: Cosplayers<br>
 コミックマーケット94 3日目 コスプレイヤー<br>
 <br>
