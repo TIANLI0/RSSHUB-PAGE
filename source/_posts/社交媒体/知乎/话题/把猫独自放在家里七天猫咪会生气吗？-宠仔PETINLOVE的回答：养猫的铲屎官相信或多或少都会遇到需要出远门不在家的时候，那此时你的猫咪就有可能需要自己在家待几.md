@@ -1,0 +1,18 @@
+
+---
+title: '把猫独自放在家里七天猫咪会生气吗？-宠仔PETINLOVE的回答：养猫的铲屎官相信或多或少都会遇到需要出远门不在家的时候，那此时你的猫咪就有可能需要自己在家待几...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-7dd05c82647e411e3bb7e4e08d82ab94_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 14 Dec 2021 09:21:14 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-7dd05c82647e411e3bb7e4e08d82ab94_1440w.jpg'
+---
+
+<div>   
+<strong>把猫独自放在家里七天猫咪会生气吗？</strong><br>宠仔PETINLOVE的回答<br><p data-pid="Qvwi2Ozr">养猫的铲屎官相信或多或少都会遇到需要出远门不在家的时候，那此时你的猫咪就有可能需要自己在家待几天。很多铲屎官担心把猫独自放家几天，猫咪会因此而生气。但我觉得大部分的猫咪不会生气，但是会孤独，会很想你，甚至想到有点抑郁。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-7dd05c82647e411e3bb7e4e08d82ab94_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="431" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-7dd05c82647e411e3bb7e4e08d82ab94_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="5HIKG_bF">所以不是非必要的情况，建议最好不要把猫咪独自放家里，即使是放家里，也要找人帮忙偶尔来看看猫咪，给它铲铲屎，换下水和粮。不然猫咪长时间呆在家里会抓狂抑郁的，它会觉得被主人抛弃了。</p><p data-pid="oop9DlPo">虽然说猫咪的性格很特立独行，但现在家养的猫也都是很恋主人的，像我家猫主子就特别粘我，每天下班都会在门口等着我回来，晚上睡觉还必须躺在我旁边睡。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-da172fb6657e498ebf50d5f5d253bb62_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="446" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-da172fb6657e498ebf50d5f5d253bb62_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="uTgZqySo">还记得去年国庆放假七天，我回老家参加朋友的婚礼，把它独自放家里待了几天，虽然说期间给它准备了充足的猫粮和水，但从监控可以看出它还是很孤独的，每天傍晚都会守在门口那里等我回家。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-489e1d10cceabc76ecc57ca9c8bb35ab_1440w.jpg" data-caption data-size="normal" data-rawwidth="834" data-rawheight="551" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-489e1d10cceabc76ecc57ca9c8bb35ab_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="YJJEtBWR">前两天还好，没等到我回家也只是失望地走开，后面几天的时间，等不到我回家就开始哀嚎，好像在诉说我为什么不回家，是不是不要它了，叫声可委屈了，我在监控这头看着也很着急，知道它肯定是想我了。但又没办法马上回去，只好叫朋友去我家帮我看看它。朋友去到我家给它添了粮换了水，帮忙铲了猫屎，陪了它一会就走了。朋友的到来也并未能完全缓解它的孤独和焦虑，后面的两天它依旧会每天守在门口等我回家。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-bcd6dcb5b53b04e2f2412672775b97d4_1440w.jpg" data-caption data-size="normal" data-rawwidth="620" data-rawheight="413" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-bcd6dcb5b53b04e2f2412672775b97d4_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="BqoFFsy7">终于，我在收假前夕赶了回去，一进门它就围着我叫不停，好像在说：“你这几天都去哪了？我好想你！”小模样别提多可怜了，我摸了摸它的头安慰了好一会儿。那天晚上它真的是对我寸步不离，洗手跟、吃饭跟、喝水跟，就连洗澡、上厕所都要在门口守着我，生怕它一不留神我又跑出去了。那一刻，我由衷地感受到它对我的需要。我不单单是它的主人，更是它相伴一生的家人。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-48b54ce48bece4e6831156c4d2a5d9ad_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="548" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-48b54ce48bece4e6831156c4d2a5d9ad_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="Rs_a-EWa">从那以后，我很少出远门，即使是遇到有事必须出门几天的情况，我都会尽可能的把它带上，或是把它寄养在有养猫经验的朋友家里，尽量不让它自己在家。</p><p data-pid="-4KhBo86">综合我上述的亲身经历，我觉得把猫独自放在家里七天并不一定会让猫咪生气，但会让它特别孤独想你。但有时候也需要根据不同猫咪的性格来分析，如果是比较高冷，独来独往的猫咪，或许独自在家待几天对它的影响不大，但如果是像我家猫主子这种比较粘人的猫咪，就不适合长期独自待在家里了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-37fa3a738cb48c2c6b0ea6002116cf55_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="400" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-37fa3a738cb48c2c6b0ea6002116cf55_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="K0iy_ruo">所以铲屎官们需要根据自家猫主子的性格来分析，总而言之，我个人建议，非必要情况还是不要让猫咪长期独自待在家里，因为搞不好有些猫咪焦虑的时候还会拆家，此外，更重要的是猫咪需要你的陪伴。既然养了它，就要对它负责。</p>  
+</div>
+            
