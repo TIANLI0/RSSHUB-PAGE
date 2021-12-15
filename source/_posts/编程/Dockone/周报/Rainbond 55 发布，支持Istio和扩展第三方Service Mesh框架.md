@@ -8,7 +8,7 @@ categories:
 headimg: 'https://grstatic.oss-cn-shanghai.aliyuncs.com/docs/5.5/community/change/goverance-change-example1.png'
 author: Dockone
 comments: false
-date: 2021-12-15 08:25:18
+date: 2021-12-15 09:21:20
 thumbnail: 'https://grstatic.oss-cn-shanghai.aliyuncs.com/docs/5.5/community/change/goverance-change-example1.png'
 ---
 
