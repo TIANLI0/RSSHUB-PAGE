@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/design-trends-2022/'
 author: Inside Design
 comments: false
-date: 2021-12-16 05:19:19
+date: 2021-12-16 06:24:57
 thumbnail: 'https://www.invisionapp.com/inside-design/design-trends-2022/'
 ---
 
