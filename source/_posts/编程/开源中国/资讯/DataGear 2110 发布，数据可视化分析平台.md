@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-636247d933d5080918b10b4014fbc7a2151.png'
 author: 开源中国
 comments: false
-date: Thu, 16 Dec 2021 00:46:00 GMT
+date: Thu, 16 Dec 2021 08:45:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-636247d933d5080918b10b4014fbc7a2151.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fwww.datagear.tech%2F" target="_blank">DataGear</a> 2.11.0发布，主要改进功能，具体更新内容如下：</p> 
+                                                                                            <p><a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fwww.datagear.tech%2F" target="_blank">DataGear</a> 2.11.0发布，主要改进功能，具体更新内容如下：</p> 
 <ul> 
  <li>新增：图表JS对象新增dataSetPropertySign()函数，用于获取/设置数据集属性数据标记；</li> 
  <li>新增：图表JS对象新增dataSetPropertySigns()函数，用于获取/设置数据集属性数据标记；</li> 
