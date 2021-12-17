@@ -1,0 +1,18 @@
+
+---
+title: '冬季养猫一定要注意什么？-猫太郎CATTARO的回答：每到冬天，猫咪动不动就要生病。天气冷了猫咪更不爱动了，太阳晒得少就经常会出现缺钙症状，会有关节问题。 冬...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-1c6134f15eb86d076786c286e80d5e80_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 17 Dec 2021 00:53:14 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-1c6134f15eb86d076786c286e80d5e80_1440w.jpg'
+---
+
+<div>   
+<strong>冬季养猫一定要注意什么？</strong><br>猫太郎CATTARO的回答<br><p data-pid="MUBmQPH5">每到冬天，猫咪动不动就要生病。天气冷了猫咪更不爱动了，太阳晒得少就经常会出现缺钙症状，会有关节问题。</p><h2><b>冬季养猫要注意什么？面对多发病要怎么预防和应对？</b></h2><p data-pid="Dajbl41U"><b>我觉得还是主要遵循以下几点：</b></p><p data-pid="PQOmH0ca">1. 保暖</p><p data-pid="ahHOioKm">猫咪相当于狗狗来说更怕冷。北方家庭还好会有暖气，日常注意保湿就好。但南方家庭在家一定要注意室内保暖，给猫咪准备足够舒适厚实的猫窝。如果是无毛猫这样特殊品类或者小猫，后者抵抗力不如成猫也很容易着凉生病，可以考虑给穿上小衣服。</p><p data-pid="Q-QUdlgQ">2. 增加互动</p><p data-pid="mBadQEmf">一到冬天就更不愿意活动了，但反而会更有食欲，很容易肥胖并由此引发肠胃病，所以家长在冬季更应该多和猫咪互动玩耍。</p><p data-pid="kDpPPYEJ">3. 多备水</p><p data-pid="cSSB4ZL1">多喝水总是不变的定律。在冬季，猫咪多少会因为自己不想多动或者嫌水冷而不愿意多喝水，可以准备多个喝水碗，放在猫咪常出没的地方提醒喝水；有条件可以时不时准备一些温水。</p><p data-pid="nXf3bv_I">4. 多发病预防（猫鼻支、肠胃病、皮肤病、心脏病）</p><p data-pid="cRfSck94">面对冬季猫咪几个易患疾病，也要有针对性的预防措施。</p><p data-pid="PXKouySS">①猫鼻支</p><p data-pid="FONuk609">猫鼻支是一种由于温度变换引起的上呼吸道急性感染疾病，且具有传染性。患上猫鼻支的症状和感冒相似，会打喷嚏、流鼻涕、眼分泌物变多等，也会食欲不正、没有精神，严重的会呼吸不畅，有很大的呼吸声，要尽早就医。</p><p data-pid="XWFnrckp">保证生活环境温度是避免患上猫鼻支最根本的方法，也要注意帮助猫咪提升免疫力，多补充蛋白质、维生素、钙质。比如给猫咪准备主食罐代替猫粮，可以选择鸽肉等营养元素更完善的肉罐，同时多喂营养膏等。</p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-1c6134f15eb86d076786c286e80d5e80_1440w.jpg" data-caption data-size="small" data-rawwidth="1269" data-rawheight="1692" data-default-watermark-src="https://pic4.zhimg.com/v2-fa491a0179d9899344379cda012a748b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-1c6134f15eb86d076786c286e80d5e80_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="yOcXcLcw">②猫肠胃病</p><p data-pid="Rb_RWLxk">和人一样，猫咪的肚子也很容易着凉而引起肠胃病，严重者会有炎症，出现腹泻、呕吐症状。尽量不要喂食生肉生水，家里常备一些猫咪用肠胃宝应对突发状况，发病多天就还是要看医生安排。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-2bdbceba347656d33a97fbc3f9f22b1a_1440w.jpg" data-caption data-size="normal" data-rawwidth="408" data-rawheight="275" data-default-watermark-src="https://pic3.zhimg.com/v2-2bb49a68859a07e74e688cea9f2f8d0e_b.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="Ep_rQ768">③皮肤病</p><p data-pid="QmWRk0f8">冬天猫咪洗澡次数减少，再加上光照不足，很容易导致猫咪皮肤问题，尤其长毛猫毛发会变得粗糙。可以给猫咪喂一些蛋黄，或者直接买卵磷脂粉改善皮肤问题。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-c0f1a150c576ecf2e1064df66399fe1c_1440w.jpg" data-caption data-size="normal" data-rawwidth="463" data-rawheight="347" data-default-watermark-src="https://pic1.zhimg.com/v2-2da9e7f329826a4d52d809b3859dd144_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c0f1a150c576ecf2e1064df66399fe1c_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="Yh3yB-oq">④心脏病</p><p data-pid="rbJQcsO3">这不是冬季猫咪多发病，对于有心脏病的猫猫，冬天一定不要外出了，在家也不要让它们玩的太疯，营养一定要更上，定时定量，还有就是定期要带去做一次检查。</p><figure data-size="small"><img src="https://pic2.zhimg.com/v2-26dd5b115ebe758d081d8a61f1c83961_1440w.jpg" data-caption data-size="small" data-rawwidth="620" data-rawheight="465" data-default-watermark-src="https://pic4.zhimg.com/v2-a33b92972cf04e749e1dcfae335eaac7_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-26dd5b115ebe758d081d8a61f1c83961_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="9UknpIPQ">一定要早做预防，才能够远离疾病，让猫猫更安全的度过寒冷冬季。</p>  
+</div>
+            
