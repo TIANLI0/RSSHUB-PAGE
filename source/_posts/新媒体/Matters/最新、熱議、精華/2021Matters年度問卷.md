@@ -24,7 +24,7 @@ thumbnail: 'https://assets.matters.news/embed/fba8e3af-4e2c-4ff3-975d-e395297f21
 
 對社會對於女性美體的過度檢視很反感，但剛開始自己的確也覺得很醜，怎麼看都不像23歲該有的肚皮，當初到底在想什麼，為此羞惱。但現在一切都很自然，我還跟S說我之後會繼續穿比基尼的（他愣了一下回我好喔，不過到時我是不是真有那勇氣就再說了）
 </pre><p><strong>7）跟我們分享你在 2021 年相遇的一本好書、一部好電影或一首好歌</strong></p><pre class="ql-syntax" spellcheck="false">《原子習慣》、《玩命再劫》、《在這座城市遺失了你》
-</pre><p><strong>8）用一張照片分享 2021 年對你有重大意義的時刻。</strong></p><figure class="image"><img src="https://assets.matters.news/embed/fba8e3af-4e2c-4ff3-975d-e395297f214a.jpeg" data-asset-id="fba8e3af-4e2c-4ff3-975d-e395297f214a" referrerpolicy="no-referrer"><figcaption><span>門外。那天的月亮好圓好大好亮。</span></figcaption></figure><p><strong>9）請填空：2021，<u>Your life</u> matters.</strong></p><p><strong>10）今年的妳，快樂嗎？（這題留給你，請向自己發出一個靈魂的提問，然後寫下你的回答）</strong></p><pre class="ql-syntax" spellcheck="false">不快樂多過於快樂的時候，有對家人難以表達的意見，有對朋友各自忙碌的焦慮，有和伴侶相處的摩擦和吵不完的架，有偶爾對寶寶不足的耐心，對自己不了解，不知道自己喜歡什麼不知道未來長什麼樣子的憂慮，對自己和對生活的期待和失望等等。
+</pre><p><strong>8）用一張照片分享 2021 年對你有重大意義的時刻。</strong></p><figure class="image"><img src="https://assets.matters.news/embed/fba8e3af-4e2c-4ff3-975d-e395297f214a.jpeg" data-asset-id="fba8e3af-4e2c-4ff3-975d-e395297f214a" referrerpolicy="no-referrer"><figcaption><span>門外。那天的月亮好圓好大好亮。</span></figcaption></figure><p><strong>9）請填空：2021，<u>Your life</u> matters.</strong></p><p><strong>10）今年的妳，快樂嗎？（這題留給你，請向自己發出一個靈魂的提問，然後寫下你的回答）</strong></p><pre class="ql-syntax" spellcheck="false">茫然、不快樂多過於快樂的時候，有對家人難以表達的意見，有對朋友各自忙碌的焦慮，有和伴侶相處的摩擦和吵不完的架，有偶爾對寶寶不足的耐心，對自己不了解，不知道自己喜歡什麼不知道未來長什麼樣子的憂慮，對自己和對生活的期待和失望等等。
 
 但這不是谷底。更糟的不是沒有過，明年再見。
 </pre>  
