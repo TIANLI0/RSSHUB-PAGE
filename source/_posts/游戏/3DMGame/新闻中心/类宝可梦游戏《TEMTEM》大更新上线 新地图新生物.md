@@ -14,10 +14,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211217/1639710129_7438
 
 <div>   
 <p style="text-indent:2em;">
-类宝可梦游戏《TEMTEM》上线了阿伯里岛更新，新增了一个岛屿地图、31种新TEMTEM生物以及30多种新技术。
+类宝可梦游戏《TEMTEM》上线了阿伯里岛更新，新增了一个岛屿地图、31种新TEMTEM生物以及30多种新技术。此外，《TEMTEM》Steam版国区售价现已从109元永涨至134元。
 </p>
 <p style="text-indent:2em;">
-<strong>宣传视频：</strong>
+<strong>宣传视频：</strong> 
 </p>
 <p align="center">
 <iframe src="https://player.youku.com/embed/XNTIwMjAwODYxMg
@@ -31,7 +31,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211217/1639710129_7438
 此外，官方还在更新公告中表示，跨平台进度功能正在开发中，将在未来分享更多信息。
 </p>
 <p style="text-indent:2em;">
-<strong>视频截图：</strong>
+<strong>视频截图：</strong> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211217/1639710129_743849.jpg" alt="类宝可梦游戏《TEMTEM》大更新上线 新地图新生物" referrerpolicy="no-referrer"> 
