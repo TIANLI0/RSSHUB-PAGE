@@ -16,8 +16,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211219/s_828d004f141a4f66a6cfd98c66
 <p>相信不少消费者都遇到过电脑和手机App的“弹窗广告”“开机广告”“开屏广告”。</p>
 <p>近日，江苏省消保委接到一些消费者投诉，<strong>一种新型的“摇一摇”开屏广告悄然现身，引发了大量网友讨论，在广大用户的关注之下，央视CCTV-2也曝光了这件事情。</strong></p>
 <p class="newsinfo_vedio"><a class="mydrivers_player" href="https://weibo.com/2258727970/L6EsvBzOF">视频</a></p>
-
-<p><span style="color:#ff0000;"><strong>据介绍，这种摇一摇广告会然你可能只是在打开App时，眨了一下眼睛，或是晃动了一下身体，广告页面就会立即弹入你的视线。</strong></span></p>
+<p><span style="color:#ff0000;"><strong>据介绍，这种摇一摇广告会让你只是在打开App时眨了一下眼睛，或是晃动了一下身体，广告页面就会立即弹入你的视线。</strong></span></p>
 <p>江苏消保委工作人员告诉记者，这种广告通常都是利用手机某项传感器功能，监测到人体的行动状态，<strong>从而使用户感觉“手一抖”，就被迫看了广告。</strong></p>
 <p>商家以误导方式诱使用户进入广告页面，变相强迫消费者观看广告的行为，<strong>涉嫌侵犯消费者的自主选择权。</strong></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211219/828d004f141a4f66a6cfd98c66cd5738.jpg" target="_blank"><img alt="手一抖被迫看广告！央视批App摇一摇开屏广告：涉嫌侵权" h="398" src="https://img1.mydrivers.com/img/20211219/s_828d004f141a4f66a6cfd98c66cd5738.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
