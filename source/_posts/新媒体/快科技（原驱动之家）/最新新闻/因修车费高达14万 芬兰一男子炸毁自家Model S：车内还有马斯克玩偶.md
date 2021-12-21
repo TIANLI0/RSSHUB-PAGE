@@ -13,7 +13,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211221/s_9a771ada96b241fca41eb3208a
 ---
 
 <div>   
-<p>近日，一名来自芬兰的男子干了一件大事，引发了广泛关注：<strong>他将自家的特斯拉Model S拉到荒郊野外，绑上60磅（约27公斤）炸药，随后还车内塞了一个马斯克人性玩偶，最后引爆炸药炸毁了这台车</strong>。</p>
+<p>近日，一名来自芬兰的男子干了一件大事，引发了广泛关注：<strong>他将自家的特斯拉Model S拉到荒郊野外，绑上60磅（约27公斤）炸药，随后还车内塞了一个马斯克人形玩偶，最后引爆炸药炸毁了这台车</strong>。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211221/9a771ada96b241fca41eb3208a88c0c5.jpg" target="_blank"><img alt="因修车费高达14万 芬兰一男子炸毁自家Model S：车内还有马斯克玩偶" h="400" src="https://img1.mydrivers.com/img/20211221/s_9a771ada96b241fca41eb3208a88c0c5.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211221/ea5d398cb5844be18ddf0e434c53d3c7.jpg" target="_blank"><img alt="因修车费高达14万 芬兰一男子炸毁自家Model S：车内还有马斯克玩偶" h="400" src="https://img1.mydrivers.com/img/20211221/s_ea5d398cb5844be18ddf0e434c53d3c7.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>据拍摄的视频显示，这位特斯拉Model S的芬兰车主名为托马斯·卡泰宁(Tuomas Katainen)，他的这台Model S最近频频出现问题，仪表盘上闪烁着许多错误代码，最后他被迫将车拖到了离他最近的特斯拉经销商处维修。</p>
@@ -32,7 +32,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211221/s_9a771ada96b241fca41eb3208a
  <p class="bqian"><a href="https://news.mydrivers.com/tag/tesila.htm"><i>#</i>特斯拉</a><a href="https://news.mydrivers.com/tag/tesilamodel_s.htm"><i>#</i>特斯拉Model S</a></p>
 <p class="url">
      
-<span>责任编辑：落木</span>
+<span>责任编辑：若风</span>
 </p>
         
 </div>
