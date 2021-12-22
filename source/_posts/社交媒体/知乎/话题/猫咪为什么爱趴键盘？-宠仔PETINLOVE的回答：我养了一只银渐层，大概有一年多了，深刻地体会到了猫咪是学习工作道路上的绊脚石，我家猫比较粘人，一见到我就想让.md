@@ -1,0 +1,18 @@
+
+---
+title: '猫咪为什么爱趴键盘？-宠仔PETINLOVE的回答：我养了一只银渐层，大概有一年多了，深刻地体会到了猫咪是学习工作道路上的绊脚石，我家猫比较粘人，一见到我就想让...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-6b28b6839622725bcb1bf60d17fc4573_1440w.jpg'
+author: 知乎
+comments: false
+date: Wed, 22 Dec 2021 07:14:15 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-6b28b6839622725bcb1bf60d17fc4573_1440w.jpg'
+---
+
+<div>   
+<strong>猫咪为什么爱趴键盘？</strong><br>宠仔PETINLOVE的回答<br><p data-pid="4MRpEgeW">我养了一只银渐层，大概有一年多了，深刻地体会到了猫咪是学习工作道路上的绊脚石，我家猫比较粘人，一见到我就想让我陪它玩，无论是在我学习还是工作的时候。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-6b28b6839622725bcb1bf60d17fc4573_1440w.jpg" data-caption data-size="normal" data-rawwidth="500" data-rawheight="334" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-6b28b6839622725bcb1bf60d17fc4573_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="tixE7TSR">刚开始只会在我工作时才会睡键盘上，各种撒娇耍赖，赶都赶不走，再后来，它就好像把我的键盘当成了自己的第二个猫窝，看到电脑开机时，就会自觉主动的睡在键盘上，没办法，我的Mac实在经受不住这样的体格，只好买了个机械键盘给猫主子当床垫。那到底是什么原因让猫咪开始钟爱键盘呢？</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-fa2b0245d3d79e087b418b0774045a0a_1440w.jpg" data-caption data-size="normal" data-rawwidth="554" data-rawheight="346" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-fa2b0245d3d79e087b418b0774045a0a_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="_uwsKvT5"><b>一、它想获得你更多的关注</b></p><p data-pid="etoJhe8-">对于上班族的铲屎官来说，白天需要上班工作，有时晚上也需要加班，所以一天下来总是盯着电脑，本来白天就很少陪猫咪，下班之后时间更少了。于是，猫咪就用实际行动来谴责我们的行为，趴到你的电脑上，妨碍你工作，用行动提醒你该陪陪它了。此时的铲屎官除了撸猫别无选择。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-2b8d231cbd4cc63aaad5ccc6a25b37a5_1440w.jpg" data-caption data-size="normal" data-rawwidth="1000" data-rawheight="667" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-2b8d231cbd4cc63aaad5ccc6a25b37a5_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="MD8hJpSK"><b>二、键盘的温度比较高</b></p><p data-pid="YCFtdbWP">猫咪天性怕冷，尤其是在冬天，它们喜欢晒太阳，喜欢到温和的地方。它们的正常体温是39度，所以对温度的要求更高，虽然在猫咪身上有一层厚厚的毛发，但是保暖效果还是有限的，于是在它们感到冷时，更喜欢寻找热乎的地方。拿我家猫咪来说，当白天阳光好时，它们更喜欢懒洋洋地趴在沙发上晒太阳，当晚上或者阴天时，就会选择暖气片或者键盘。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-6fc2ac94dc023a01aa8797fa17db23d4_1440w.jpg" data-caption data-size="normal" data-rawwidth="750" data-rawheight="416" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-6fc2ac94dc023a01aa8797fa17db23d4_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="wXCrvYP9"><b>三、猫咪的好奇心天性</b></p><p data-pid="1iIJ2tyz">养过猫咪的铲屎官应该都知道，猫咪的好奇心特别重。对于那种自带灯光的机械键盘，它不仅爱往上趴，还喜欢踩，任何新奇一点的东西，都能引起它的好奇心，对于一些新鲜事物，它往往还可以自顾自地玩起来，键盘也是同样的道理。它喜欢听那种滴滴答答充满节奏感的声音，而且，键盘按下去回弹时会让猫咪感到舒适。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-a68167e91f71d5b211af686ca78393ed_1440w.jpg" data-caption data-size="normal" data-rawwidth="800" data-rawheight="800" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-a68167e91f71d5b211af686ca78393ed_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="HVpD2OxW">不过，让我们的笔记本电脑成为猫窝，终究还是太奢侈了些，我们打工人也是有很多工作要处理的，不然，怎么能承受得起猫主子高昂的消费呢？因此，当猫咪爱上趴键盘时，我们还是要想一些对策的。在我们要专心工作时，可以为猫咪在另一个房间准备一些小玩具和食物，让它自己玩耍。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-da7f8944a0cf4ec4bd0048bd4a82d4ce_1440w.jpg" data-caption data-size="normal" data-rawwidth="800" data-rawheight="558" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-da7f8944a0cf4ec4bd0048bd4a82d4ce_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="qe_JWuwQ">当然，离开你的猫咪会感到十分委屈，如果于心不忍，那就在电脑旁放置一个纸箱子，箱子里垫上一些绒毛的垫子，为猫咪提供一个温暖的环境，这样，猫咪就能在一旁安安静静地看着你又不会影响你的工作，这是一个两全其美的办法。如果猫真的喜欢你的键盘，那就只好送它一个喽。</p><p></p>  
+</div>
+            
