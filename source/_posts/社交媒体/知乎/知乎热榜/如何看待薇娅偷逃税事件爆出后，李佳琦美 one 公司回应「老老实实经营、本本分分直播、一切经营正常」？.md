@@ -1,0 +1,18 @@
+
+---
+title: '如何看待薇娅偷逃税事件爆出后，李佳琦美 one 公司回应「老老实实经营、本本分分直播、一切经营正常」？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-a21e6199aca54e65b35bf878efa3ec67_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 21 Dec 2021 15:28:26 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-a21e6199aca54e65b35bf878efa3ec67_1440w.jpg'
+---
+
+<div>   
+我去买几个橘子的回答<br><br><p data-pid="qViK7K_S">别着急，一个都不会少的。</p><p data-pid="0EYsAXVx">我们看到出事后薇娅夫妇的道歉信，大致可以推断出杭州税务局是在2020年11月左右给各个网红直播主发了自查通知书，从那以后，薇娅夫妇可能确实是正常纳税。但那毕竟是40-45%左右的税啊，是个人都会心疼。但这不能成为偷逃税款的借口。</p><p data-pid="CjISoqYt">假设这个市场对于某样食品的总需求是200亿，而你通过直播卖了100亿的货，就意味着其他人最多就只能卖100亿元，你挤占了其他小微企业或者网红的生存空间、就业空间。而税收就是起着二次分配的作用，既然你挤占了别人的生存空间，那你就多交点税。</p><p data-pid="2Z1q0hBg">言归正传，你说李先生没逃税我是不信的，为什么李先生没有被查？</p><p data-pid="g1Vq4hgI">个人认为主要可能有以下两方面可能：</p><p data-pid="thIXqQxs">一是李先生主动补缴了税款，但鉴于目前我对于人性的了解，在雪梨、薇娅等女士被杭州税务局处罚之前，他是不会主动补缴的，毕竟涉及几个亿的税款，想想都肉痛。但是在薇娅女士出事后，再怎么痛他也会去补。毕竟补了是痛，不补是死，孰轻孰重，相信李先生还是能分清楚的。</p><p data-pid="_k3WL9Bu">二是李先生个人独资企业的注册地主要在上海。而目前来看，雪梨、薇娅等的个人独资企业注册地主要在杭州，而对雪梨、薇娅等作出处罚的行政机关都是杭州税务局，而杭州又是一个网红聚集的城市，相对地，网红偷逃税的现象也更多、更严重。上海的税务局可能还没有开展相关的稽查行动。所以李先生目前还是安全的。</p><p data-pid="-CWdfNbR">但中纪委都出来点名了：直播不是法外之地，所以上海税务局要加油哦，抓紧行动起来。要么让李先生补缴，要么就严惩……</p><p data-pid="xmbFBvzi">李先生现在最好的处理方式就是在被查之前，默默地把偷逃的税款给补交了，同时降低曝光率。</p><p data-pid="4XX8FaWD">这种时候还跳出来强调说自己是老实经营，本分直播，实在不是什么明智之举。一方面有diss黄女士之嫌，另一方等于在跟全网宣告：我没逃税。这句话放在互联网上无异于“来查我呀”！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-a21e6199aca54e65b35bf878efa3ec67_1440w.jpg" data-rawwidth="500" data-rawheight="608" data-size="normal" data-caption data-default-watermark-src="https://pic4.zhimg.com/v2-8b31bad8c92edb3264fe341b1579a4e2_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-a21e6199aca54e65b35bf878efa3ec67_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="GYIplymO">——————</p><p data-pid="KxpXlx59">最后给大家介绍下网红是如何“避税”的。</p><p data-pid="bOTmRa1E">网红基本都是通过将薪酬包装成个人独资企业的营业额，再按照核定征收税率进行偷税。</p><p data-pid="gu1jZOSU">首先我们来了解下工资薪酬和<a href="https://www.zhihu.com/search?q=%E5%8A%B3%E5%8A%A1%E6%8A%A5%E9%85%AC&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2238211934%7D" class="internal">劳务报酬</a>缴税的计算公示：</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-1e10a7cb57121068df83aff4ebb78e80_1440w.jpg" data-rawwidth="566" data-rawheight="367" data-size="normal" data-caption data-default-watermark-src="https://pic3.zhimg.com/v2-c37fcbcb97efe5e994592b25f69584c4_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-1e10a7cb57121068df83aff4ebb78e80_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="pvhQYon7"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-67474fd5c42ce728bb32478e9ed8e80e_1440w.jpg" data-rawwidth="560" data-rawheight="158" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-9f9200038d969ceb55907fd0b2fd0e66_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-67474fd5c42ce728bb32478e9ed8e80e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="pvhQYon7">当然，还有部分抵扣，这部分我们不得而知，先假设为0。</p><p data-pid="Z0g3uLOU">我们来分析下黄女士的6.43亿元税款（按照速算公示算，为了方便大家对应，所以单位未作统一）,假设薇娅的薪酬为X万元：</p><p data-pid="XeuMcJqF"><b>全部按工资薪酬算计算：（X万元-96万元）*45%-181920元=64300万元（应缴纳税款），推出X=14.2929亿元，</b></p><p data-pid="ieZPwC1R"><b>全部按劳务报酬算应缴纳：（X万元-5万元）*40%-7000元=64300万元（应缴纳税款），推出X=16.075亿元。</b></p><p data-pid="H7zWjtg3"><b>也就是说，黄女士2019年-2020年光在杭州偷逃税款的这部分薪酬收入大概就在15亿元左右。</b></p><p data-pid="kQNH65Ly"><b>而她可能还在合肥等地注册了个人独资企业……</b></p><p data-pid="JUMMxVSt"><b>这15亿被包装成了个人独资企业的营业收入，目前普遍的个人独资企业的核定征收利润率为3%以下，我们按3%来计算，利润为0.45亿元，这0.45亿元再按20%红利进行纳税，只需要缴纳900万，与64300万元差了将近6.34个亿。</b></p>  
+</div>
+            
