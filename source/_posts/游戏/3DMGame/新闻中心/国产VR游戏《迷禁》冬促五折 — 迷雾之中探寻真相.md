@@ -50,6 +50,9 @@ Abyss》正式版上线STEAM平台以来，受到了广大玩家和业内人士�
 </p>
 <p style="text-indent:2em;">
 活动持续两周，还没入手的小伙伴们，千万不要错过哦！！
+</p>
+<p style="text-indent:2em;">
+<a href="https://store.steampowered.com/app/1487450/_Lost_in_Abyss/" target="_blank">游戏下载地址>>>>>></a>
 </p>          
 </div>
             
