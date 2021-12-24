@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 未名新闻
  - 分类
-headimg: 'https://picsum.photos/400/300?random=7306'
+headimg: 'https://picsum.photos/400/300?random=463'
 author: 未名新闻
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=7306'
+thumbnail: 'https://picsum.photos/400/300?random=463'
 ---
 
 <div>   
