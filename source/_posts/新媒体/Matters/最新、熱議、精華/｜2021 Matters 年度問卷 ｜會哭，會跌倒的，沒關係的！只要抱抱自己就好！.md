@@ -156,7 +156,7 @@ thumbnail: 'https://assets.matters.news/embed/8472d69a-a94f-4618-b126-a6eed19b05
 不多說了，以免壞了動畫的美感，放上預告片連結，有時間得好好欣賞：
 </pre><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/-RAdHJ-aquE?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p><br></p><blockquote><strong>8.用一張照片分享 2021 年對你有重大意義的時刻。</strong></blockquote><figure class="image"><img src="https://assets.matters.news/embed/40b67561-f473-4e41-9448-74d0e9df3be4.jpeg" data-asset-id="40b67561-f473-4e41-9448-74d0e9df3be4" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><pre class="ql-syntax" spellcheck="false">這張照片是我在醫院接受骨髓移植手術的某段時間行程表。
 
-上面記錄著各種療程及我必須癌過去的日子。
+上面記錄著各種療程及我必須捱過去的日子。
 
 還記得當時我每天很痛的醒來過後，就會盯著牆壁上的這張紙看。
 
