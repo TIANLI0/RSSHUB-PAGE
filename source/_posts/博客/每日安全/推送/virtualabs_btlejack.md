@@ -5,17 +5,17 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=2525'
+headimg: 'https://picsum.photos/400/300?random=1769'
 author: 每日安全
 comments: false
-date: 2021-12-25 04:28:35
-thumbnail: 'https://picsum.photos/400/300?random=2525'
+date: 2021-12-25 05:19:45
+thumbnail: 'https://picsum.photos/400/300?random=1769'
 ---
 
 <div>   
 <q>BtleJack: a new Bluetooth Low Energy swiss-army knife</q>
 –
-<cite>
+ <cite>
 <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
