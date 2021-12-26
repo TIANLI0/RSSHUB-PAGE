@@ -1,0 +1,19 @@
+
+---
+title: '云计算IAAS系统架构图'
+categories: 
+ - 学习
+ - ProcessOn
+ - 推荐
+headimg: 'https://img.processon.com/chart_image/thumb/5b971e4ee4b0534c9bd461d7.png'
+author: ProcessOn
+comments: false
+date: 2021-12-26 06:26:34
+thumbnail: 'https://img.processon.com/chart_image/thumb/5b971e4ee4b0534c9bd461d7.png'
+---
+
+<div>   
+<img class="thumb" alt="云计算IAAS系统架构图" src="https://img.processon.com/chart_image/thumb/5b971e4ee4b0534c9bd461d7.png" referrerpolicy="no-referrer">
+<p>云计算IAAS系统架构图</p>  
+</div>
+            
