@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/041/097/251/original/75a122c111e8969c.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/041/098/417/original/14b1c48c8125dc0f.jpg'
 author: Mastodon
 comments: false
-date: Mon, 27 Dec 2021 10:06:21 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/041/097/251/original/75a122c111e8969c.jpg'
+date: Mon, 27 Dec 2021 11:18:59 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/041/098/417/original/14b1c48c8125dc0f.jpg'
 ---
 
 <div>   
-<hr><p>looking for a partner who would fuck me hard in all holes, my contacts are here - www.ddating.fun</p><br><img src="https://img.pawoo.net/media_attachments/files/041/097/251/original/75a122c111e8969c.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>looking for a partner who would fuck me hard in all holes, write here - <a href="https://urlz.fr/gyff" rel="nofollow noopener noreferrer" target="_blank">https://urlz.fr/gyff</a></p><br><img src="https://img.pawoo.net/media_attachments/files/041/098/417/original/14b1c48c8125dc0f.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
