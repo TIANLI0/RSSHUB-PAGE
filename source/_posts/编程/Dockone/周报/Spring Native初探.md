@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20211228/5127a93400dc7586c628da76f6c36662.png'
 author: Dockone
 comments: false
-date: 2021-12-28 13:27:27
+date: 2021-12-28 14:19:27
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20211228/5127a93400dc7586c628da76f6c36662.png'
 ---
 
@@ -27,7 +27,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 </div>
 <br>
 好了，我们这些“CRUD仔”们了解这些基础魔法就足够了，至于SVM如何解决反射、GC等问题的高级魔法还是交给大牛们吧。现在进入我们的正题：用Spring Boot来编写一个原生应用。<br>
-<h3>制作过程</h3><h4>Step 1：安装GraalVM和依赖工具</h4>因为大家都比较熟悉JDK安装过程，所以本过程带过了一些细节，不做重点讲解。首先我们需要安装GraalVM，笔者以自己的macOS系统为例，其他系统请参考官方安装文档。比较遗憾的是，GraalVM并没有提供针对M1优化的AArch64平台的包，我们只能使用AArch64平台，下载地址<a href="https://github.com/graalvm/graalvm-ce-builds/releases">点击这里</a>，我们使用Java 17版本的darwin压缩包，解压至：<br>
+<h3>制作过程</h3><h4>Step 1：安装GraalVM和依赖工具</h4>因为大家都比较熟悉JDK安装过程，所以本过程带过了一些细节，不做重点讲解。首先我们需要安装GraalVM，笔者以自己的macOS系统为例，其他系统请参考官方安装文档。比较遗憾的是，GraalVM并没有提供针对M1优化的AArch64平台的包，我们只能使用AMD64平台，下载地址<a href="https://github.com/graalvm/graalvm-ce-builds/releases">点击这里</a>，我们使用Java 17版本的darwin压缩包，解压至：<br>
 <pre class="prettyprint">/Library/Java/JavaVirtualMachines/<br>
 </pre><br>
 并且设置JAVA_HOME：<br>
@@ -256,7 +256,10 @@ root: info<br>
 <br>程序使用CPU和内存对比：<br>
 <ul><li>fatjar空载CPU 0.5%，内存使用528M</li><li>原生应用空载CPU 0.3%，内存使用85M  </li></ul><br>
 <br>如下表格：<br><br>
-【B】<br>
+<div class="aw-upload-img-list active">
+<a href="http://dockone.io/uploads/article/20211228/889a2be59698af45779285ea0d87b615.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20211228/889a2be59698af45779285ea0d87b615.png" class="img-polaroid" title="b.png" alt="b.png" referrerpolicy="no-referrer"></a>
+</div>
+<br>
 总体来讲，原生应用从产物大小，启动速度，运行负载来讲都优与Jar包应用，这还是在没有针对arm的指令集做优化的基础上的，但对比官方宣传的内存使用20M内存占用还有一定差距。<br>
 <h3>总结</h3>经过几天折腾，GraalVM的性能即使不编译为原生应用也优于HotSpot VM，在编译为原生应用后，性能也有一定的提升。但目前Spring Native还不够成熟，笔者想用undertow代替Tomcat Web容器而编译后的原生应用，始终无法运行。相信后面版本应该会修复一些问题。  <br>
 <br>本文总结了一种编译原生的方式，另一种生成原生镜像的方式大家可以自行研究（注意，编译成原生镜像需要阅读大量文章）。另外，由于时间有限，在两者的压测过程中，原生应用GC回收内存速度快于jar包应用，大家也可以深入研究原生内存回收方式。<br>
@@ -265,10 +268,10 @@ root: info<br>
 <ol><li><a href="https://www.graalvm.org/docs/introduction/" rel="nofollow" target="_blank">https://www.graalvm.org/docs/introduction/</a></li><li><a href="https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/" rel="nofollow" target="_blank">https://docs.spring.io/spring- ... ngle/</a></li><li><a href="https://openjdk.java.net/jeps/243" rel="nofollow" target="_blank">https://openjdk.java.net/jeps/243</a></li><li><a href="http://trufflesuite.com/truffle/" rel="nofollow" target="_blank">http://trufflesuite.com/truffle/</a></li><li><a href="https://github.com/graalvm/labs-openjdk-17" rel="nofollow" target="_blank">https://github.com/graalvm/labs-openjdk-17</a></li></ol><br>
 <br>作者：黄凯，58安居客新房技术部负责人。拥有10多年Java/Go研发经验，多年从事云计算研究和架构设计经验，对系统架构和业务架构都有一定研究。加入58安居客之前曾任职于百姓网、拼多多、沪江教育、IBM、HP等互联网和外企公司。
                                                                 <div class="aw-upload-img-list">
-                                                                                                                                                                                                </div>
+                                                                                                                                                                                                                                                                </div>
                                 
                                                                 <ul class="aw-upload-file-list">
-                                                                                                                                                                                                                    </ul>
+                                                                                                                                                                                                                                                                                            </ul>
                                                               
 </div>
             
