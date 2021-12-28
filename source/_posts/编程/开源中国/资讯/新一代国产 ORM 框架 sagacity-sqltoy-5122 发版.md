@@ -8,7 +8,7 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-a385d72ceb030d705e8e5803ca3cd4c09a1.png'
 author: 开源中国
 comments: false
-date: Tue, 28 Dec 2021 02:30:00 GMT
+date: Tue, 28 Dec 2021 02:31:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-a385d72ceb030d705e8e5803ca3cd4c09a1.png'
 ---
 
@@ -128,9 +128,7 @@ public void testOneToMany() &#123;
 </ul> 
 <div style="text-align:start">
  <img alt="阐述sqltoy为什么秒杀mybatis(plus)" src="https://p3-tt.byteimg.com/origin/pgc-image/b9d435e2852644c9a4c9e062cc3d46d7?from=pc" referrerpolicy="no-referrer">
-</div> 
-<p style="color:#333333; margin-left:0; margin-right:0; text-align:left"> </p> 
-<p> </p>
+</div>
                                         </div>
                                       
 </div>
