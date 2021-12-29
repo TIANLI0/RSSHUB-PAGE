@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-085f7c223daceed2ec459c43036e4577_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=8715'
 author: 知乎
 comments: false
-date: Wed, 29 Dec 2021 08:10:24 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-085f7c223daceed2ec459c43036e4577_1440w.jpg'
+date: Wed, 29 Dec 2021 08:50:34 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8715'
 ---
 
 <div>   
-亭午夜分的回答<br><br><p data-pid="xV_RMBTQ">天哪，看见有人写这首歌是流量歌手惯有的装逼唱腔，我笑了，亲亲这边建议出门右转拓展一下音乐审美呢。</p><p data-pid="palI8BVt">首先明确一点，刘雨昕这首歌的制作直接接轨了西海岸，甚至与国内本土化的rap都无关。</p><p data-pid="jdbuQj01">仔细听她的flow平平平平平下降上扬，歌里也加了很多yeahyeah烘托气氛，这是travis scott喜欢用的flow和音效。再比如说中间彝语一段轻声低语，这一段很像drake的风格。</p><p data-pid="uQeCpP9-">再说她个人的个性化处理，整首歌她是用一种很松弛的唱腔去诠释很chill的态度，我很喜欢她的尾音处理，所有尾音处理成yeah的发音，很原生态的感觉。</p><p data-pid="LyUDfa0q">整首歌的歌词是最让我惊喜的地方，她描述了一个城市与原生态对抗的一个状态∶在城市中迷茫，彩色的丛林中迷失方向，确能通过一些流淌在血液里的东西一些远古的彝族密语，黑日白月的传说唤醒我追寻新的奇迹。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-085f7c223daceed2ec459c43036e4577_1440w.jpg" data-rawwidth="1125" data-rawheight="2924" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pic4.zhimg.com/v2-416eb9225ea8e64569b415d65958845b_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-085f7c223daceed2ec459c43036e4577_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="wHuIpv4u">先更这些，还在忙考试周1551</p>  
+煎炸的饺子的回答<br><br><p data-pid="id8FzXbY">刚刚扫了一眼已有回答，看见有几个人说这首歌听起来像跳大神，我惊了——这个音乐感知度绝了——不是讽刺而是真心的。</p><p data-pid="k8fDjhye">为什么这么说呢？首先明确一个概念：民族风≠中国风。中华大地上生活着五十六个民族，除了汉族和藏蒙维壮回这五个拥有自治区的人数比较多的少数民族之外，还有很多人数不多的少数民族，其中生活在贵州的三十六个。</p><p data-pid="3Lb0CmGj">少数民族文化中最原始的根基就是对自然的崇拜，这一点不管是生活在世界的哪一个角落的那一个民族基本都是共通的，人类在蒙昧之时震慑于自然的力量，崇敬每一种自然现象，认为那些都是神灵的威压。为了更好地生存，人们开始寻求与自然“对话”的方式，最初的方式就是祭祀——古老的部落们相信通过这种仪式，可以与自然沟通，从而求“神灵”降下福祗，规避祸事——这也是“舞蹈”和“音乐”的其中一个起源。</p><p data-pid="nAk9QLAW"><b>所以，如果你们觉得这首歌是在“跳大神”，那么某程度上你们听到了刘雨昕想要传达的来自远古的声音。</b>至于喜不喜欢那就是另一回事了，这世界上确实很少有什么东西能得到所有人的喜欢。</p><p></p><p></p>  
 </div>
             
