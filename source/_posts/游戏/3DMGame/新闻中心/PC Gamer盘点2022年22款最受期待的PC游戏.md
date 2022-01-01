@@ -87,6 +87,12 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220101/1641039277_6931
 </p>
 <p style="text-indent:2em;">
 22.《潜行者2》，4.28
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220101/1641041772_587828.jpg" alt="PC Gamer盘点2022年22款最受期待的PC游戏" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+祝大家新年快乐 图Raphael Lacoste（前刺客信条美术总监）
 </p>          
 </div>
             
