@@ -5,18 +5,17 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=7057'
+headimg: 'https://picsum.photos/400/300?random=2807'
 author: 每日安全
 comments: false
-date: 2022-01-03 14:20:07
-thumbnail: 'https://picsum.photos/400/300?random=7057'
+date: 2022-01-03 15:23:06
+thumbnail: 'https://picsum.photos/400/300?random=2807'
 ---
 
 <div>   
 <q>shouganaiyo-loader - 强制向 JVM 进程注入 Agent 的工具</q>
 –
 <cite>
-
 <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
