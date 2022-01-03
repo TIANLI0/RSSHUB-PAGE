@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/6255bb01-df58-4710-8f3b-787583
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/6255bb01-df58-4710-8f3b-78758380747b.jpg" referrerpolicy="no-referrer"><p>之後會是寶具動畫SKIP嗎（開玩笑）</p>  
+<img src="https://img.4gamers.com.tw/news-image/6255bb01-df58-4710-8f3b-78758380747b.jpg" referrerpolicy="no-referrer"><p>2022年艾蕾泳裝一定行</p>  
 </div>
             
