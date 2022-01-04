@@ -1,0 +1,18 @@
+
+---
+title: '猫咪咽炎的诊断要点有哪些？-从从猫的回答：喉炎【Laryngitis 】为喉的急性或慢性炎症，其中前者多为在各种呼吸系统传染病或全身性传染病过程中出现的一个症状，...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-e5b1ddbe1dad35161d91621ecb1c38f6_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 04 Jan 2022 06:22:48 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-e5b1ddbe1dad35161d91621ecb1c38f6_1440w.jpg'
+---
+
+<div>   
+<strong>猫咪咽炎的诊断要点有哪些？</strong><br>从从猫的回答<br><p data-pid="D6F0HCIC">喉炎【Laryngitis 】为喉的急性或慢性炎症，其中前者多为在各种呼吸系统传染病或全身性传染病过程中出现的一个症状，而后者除由急性转变为慢性之外，还包括由喉口至勺状会厌褶、声褶等部位的粘膜和两侧性的慢性增生性（肉芽肿）喉炎。急性炎症多发，而慢性炎症很少能见到。</p><p data-pid="ojtFLaK2">原因：</p><p data-pid="ODHfpkf_">1．各种呼吸器官传染病，特别是病毒性上呼吸道传染病。</p><p data-pid="Du5uf9PB">2．在需要插入气管导管时，</p><p data-pid="7gnVA_c5">由于操作不当而损伤粘膜。</p><p data-pid="3f6cJuZT">3．由异物（骨或缝合针等）引起的损伤。</p><p data-pid="o43LKKFv">4．吸入带有刺激性的气体等，由化学性物质对粘膜的刺激所致。</p><p data-pid="I9PKEzvG">5．放入笼中饲养或发情期时，由于过度持续性鸣叫所致。</p><p data-pid="c4TthBlr">6．发生于喉内的肿瘤（扁平上皮癌或淋巴肉瘤等，一般恶性肿瘤较多）。</p><p data-pid="7JkdWgBN">7．原因不明的喉炎。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-e5b1ddbe1dad35161d91621ecb1c38f6_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="853" data-default-watermark-src="https://pic3.zhimg.com/v2-c97b9377f0eb2ccac839f0dcc305ceba_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-e5b1ddbe1dad35161d91621ecb1c38f6_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="uA83zR6q">症状：</p><p data-pid="AdwfkyjL">1．猫主一般在看到病猫采食时出现的异常后，才会意识到，由于病猫吞咽疼痛而表现难咽，而且频繁地做吞咽动作。</p><p data-pid="RCnheiUt">2．最典型的症状是发出嘶哑叫声等，声音发生质的变化，有时甚至发不出声音。</p><p data-pid="QHGV0l9w">3．几乎都出现喉的喘鸣音（喉狭窄音）。 4．触摸喉部和颈部气管时存在疼痛，快速刺激时可诱发咳嗽，最后可导致病猫出现吐欲。在采食时也发生咳嗽。不过是否发生自发性咳嗽暂无定论。</p><p data-pid="V8T1TfG7">5．无论何种原因，当喉和会厌软骨出现炎症性粘膜肿胀时，会引起呼吸困难。</p><p data-pid="mN5ptGU_">6．在重症的情况下，在出现精神沉郁和食欲不振等症状的同时，狂躁不安，出现明显仰头，喘明音的频度增加，最终出现张口呼吸。</p><p data-pid="zQ__8Ed7">7．一般不出现发热，但是，传染病引起的喉炎，则出现不同程度的体温升高（病毒性传染病时出现高热）和下颌淋巴结等局部淋巴结肿胀。</p><p data-pid="kagvXvrt">8．由于原因不同，有时症状突然发生。</p><p data-pid="aGKy43sk">9．引起喉炎的原发病的症状，根据其病情而依次表现。</p><p data-pid="xhWVNnkb">10．在继发于呼吸道传染病时，很难痊愈，而急性原发性的病例，一般需要1周以内的发病过程。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-cdbb7c4215361655f9fe43e918f77371_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="960" data-default-watermark-src="https://pic3.zhimg.com/v2-04f46e98ff5755fc06f49b106ccd5d86_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-cdbb7c4215361655f9fe43e918f77371_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="KdcguoTG">诊断：</p><p data-pid="tNVK7Jnn">1．在上述症状和病历的基础上，通过视诊喉和会厌软骨，确认病变。</p><p data-pid="qS4qeO8s">2．由猫病毒性鼻气管炎（FVR）引起的喉炎，出现浮肿和溃疡及继发细菌感染是其特征。</p><p data-pid="BDJ9jRTQ">3．除喉炎以外，不出现上部呼吸道病>疾病中一般看不到的症状时，由于可以局限喉查找原因，因此，最好经过全身麻醉，认真检查喉部。</p><p data-pid="1BQGR19-">4．为了进行喉部检查而一开始就实施全身麻醉时，往往弄不清引起喉炎的原发病的状况，对此应引起注意。</p><p data-pid="VMqWB4re">5．由缝合针引起的喉炎，由于是刺创，有时无法确认肉眼可见的病变，因此，应引起注意。</p><p data-pid="meLn0NuE">6．在发生螨麻痹症时，其初期症状有时也表现为类似本病的怪叫声或发不出声音。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-649e8a25108e308e048b5a5d30524c50_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="853" data-default-watermark-src="https://pic3.zhimg.com/v2-99f151bc76dcacf1617d60f82acd7ace_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-649e8a25108e308e048b5a5d30524c50_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
