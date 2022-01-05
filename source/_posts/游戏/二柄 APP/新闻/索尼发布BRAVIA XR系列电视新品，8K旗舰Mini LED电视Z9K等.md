@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/19/2022/01/05/0015410769.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-01-05 01:15:01
+date: 2022-01-05 02:42:10
 thumbnail: 'https://erbingeditor.diershoubing.com/19/2022/01/05/0015410769.jpg'
 ---
 
@@ -19,7 +19,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/19/2022/01/05/0015410769.jpg'
 4K Mini LED电视X95K（85''/75''/65''）
 4K QD-OLED电视A95K（65''/55''）
 4K OLED电视A90K（48''/42''）
-4K OLED电视A80K（75''/65''/55''）
+4K OLED电视A80K（77''/65''/55''）
 4K LED电视X90K（85''/75''/65''/55''）<br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015410769.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015424877.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015443773.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015459211.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015464923.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015479878.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015481918.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015502163.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015516321.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/19/2022/01/05/0015523662.jpg" referrerpolicy="no-referrer">  
 </div>
             
