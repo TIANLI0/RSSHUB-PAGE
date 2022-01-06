@@ -1,0 +1,19 @@
+
+---
+title: '沃尔沃推高级驾驶辅助系统Ride Pilot：将以订阅服务形式提供'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/01/cfe6bbaddc40ecf.png'
+author: cnBeta
+comments: false
+date: Thu, 06 Jan 2022 06:18:13 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/01/cfe6bbaddc40ecf.png'
+---
+
+<div>   
+<strong>沃尔沃日前宣布了一个新的高级驾驶辅助系统，叫做Ride Pilot系统。该系统可以让车辆在某些高速公路上自动驾驶且不需要任何人工监督。</strong>该公司在2022 CES上宣布了这款系统。据悉，Ride Pilot将作为一项订阅服务提供给美国加州的客户。<br>
+ <p style="text-align: left;">这是一个雄心勃勃的计划，当然有其自身的风险，另外还将沃尔沃跟其竞争对手区分开来，许多竞争对手正在计划将自动驾驶技术作为机器人出租车服务的一部分而不是用于个人拥有的生产汽车。但沃尔沃认为，通过将操作领域--或汽车可以自主驾驶的条件--限制在高速公路上，它所创造的车辆技术不仅更安全而且成本更低。</p><p style="text-align: left;">这家汽车制造商的首席技术官Henrik Green在接受The Verge采访时说道：“我们将不需要手握方向盘，也不需要眼睛盯着路。”但当被问及司机是否能在Ride Pilot启动的情况下在车里打盹时，Green却不以为然。</p><p style="text-align: left;">他说道：“我们在要求的唤醒时间上仍是非常有目的性的，没有任何区别。打盹需要一个醒来的时间，所以让我们看看我们能走多远、什么时候走。你需要能在一定时间内承担控制权并收回驾驶责任。”</p><p style="text-align: left;">在等待监管部门批准的情况下，这项新功能一开始将只对加州的客户开放。Green将该州描述为“在天气条件方面具有良好的地理位置：阳光明媚，道路状况良好”。</p><p style="text-align: left;">而沃尔沃即将推出的（未命名的）电动SUV将在今年晚些时候公布，它将是首款配备Ride Pilot的车辆。沃尔沃去年夏天发布的Concept Recharge概念车旨在预览这款SUV以及新驾驶辅助系统将如何跟供应商Luminar的完全集成的车顶激光雷达一起呈现。Recharge概念车的设计很可能会跟今年晚些时候即将到来的电动XC90继任者相似。</p><p style="text-align: left;">除了Luminar的激光雷达，沃尔沃的Ride Pilot系统将采用Zenseact开发的软件。Zenseact是沃尔沃的子公司，跟这家汽车制造商自己的工程师团队一起工作。位于佛罗里达州的Luminar跟Zenseact在瑞典的团队紧密合作，进而为批量生产的车辆开发全栈式自动驾驶软件。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/01/cfe6bbaddc40ecf.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/01/cfe6bbaddc40ecf.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Green不愿透露其计划何时正式启动Ride Pilot，但他指出，几乎肯定会在2022年之后的某个时候。“现在还不太清楚的是，从我们的信心和我们的验证来看，我们可以开始了，而且（法规）需要到位，”Green说道。</p><p style="text-align: left;">Ride Pilot是SAE标准下的三级自动驾驶系统，在这种系统中，在高度控制的环境中如在某些规划的高速公路上不需要司机的监督。但在第三级系统中，司机仍需要准备好在接到通知时进行控制，这使得它在某种程度上处于二级高级驾驶辅助系统（如特斯拉的Autopilot）和全无人驾驶车辆（如Waymo在亚利桑那州凤凰城的自动驾驶出租车服务）之间的模糊地带。</p><p style="text-align: left;">加州机动车管理局(DMV)监督着全美最大的自动驾驶汽车测试项目，有60多家公司被允许在公共道路上运营测试车辆。只有少数公司被批准在没有安全驾驶员的情况下操作完全自主的车辆，被批准为商业目的部署车辆的公司则更少了。</p><p style="text-align: left;">不过沃尔沃正在寻求做的事情有点不同。这家汽车制造商正在申请许可以通过该州的机动车管理局在公共道路上测试自动驾驶车辆。沃尔沃并没有将其车辆作为出租车或送货车队的一部分来部署，而是希望得到加州的批准将其三级自动驾驶系统作为订阅服务的一部分提供给客户--加州还没有为任何公司这样做。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/01/be3614d41dd9d18.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/01/be3614d41dd9d18.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">根据DMV的规定，希望在公共道路上部署具有三级能力的车辆的公司，另外还必须在向客户提供其技术之前获得该州的授权。不过沃尔沃目前没有申请部署许可证。</p><p style="text-align: left;">Green指出，鉴于很大一部分人是租赁车辆而不是拥有车辆，因此以订阅方式提供Ride Pilot对消费者来说是一个较低的障碍。“不是每个人都有大量的现金可用。订阅是一个非常低的障碍，你可以尝试。”</p><p style="text-align: left;">包括Waymo和Cruise在内的大多数自动驾驶汽车公司都表示，他们正在跳过3级，专门研究4级技术。原因是3级被认为是潜在的危险，因为司机有可能对他们何时需要接管车辆的控制权感到困惑。</p><p style="text-align: left;">其他汽车制造商已经被三级驾驶的承诺所绊倒。2018年，奥迪表示，其A8轿车将配备一项名为Traffic Jam Assist的功能，该功能在启动时会将减轻人类司机在走走停停的交通中的注意力。但这项功能取决于当地政府的批准，并且Traffic Jam Assist系统在全球大多数市场仍然处于休眠状态。奥迪没有计划激活该功能，而三级自动化仍是法律、监管和商业相关挑战的泥潭。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/01/15bd0b4c5010c47.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/01/15bd0b4c5010c47.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">另一个潜在的障碍是客户滥用的可能性。一个很好的例子是特斯拉的2级Autopilot测试版软件，尽管它的名字有误导性但在使用时仍要求司机保持警惕。特斯拉的客户却经常无视公司的警告，滥用Autopilot来记录自己表演危险的特技。这种破坏规则的行为是可以预期的，尤其是在一个追逐云计算已经成为许多人生活方式的社会中。</p><p style="text-align: left;">Green表示，对沃尔沃来说，确保其客户知道什么时候需要接管、什么时候在滥用系统，这是一个通信和技术方面的挑战。“在跟消费者的沟通中，它需要明确。在你操作车辆时，它需要在车内明确。所以是一个非常重要的领域。”</p>   
+</div>
+            
