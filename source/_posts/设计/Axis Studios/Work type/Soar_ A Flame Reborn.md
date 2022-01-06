@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14573/a_flame_reborn_axis_studios_8.-full.png'
 author: Axis Studios
 comments: false
-date: 2022-01-06 10:23:49
+date: 2022-01-06 11:17:54
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14573/a_flame_reborn_axis_studios_8.-full.png'
 ---
 
@@ -361,7 +361,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14573/a_flame_reborn_
 
     
                 
-                    <p>Axis brought new characters into the world of the classic RPG, AFK Arena, in the music video developed with Lilith Games, directed by Marc and Denis Bouyer. </p>
+                    <p>Axis brought new characters into the world of the classic mobile RPG, AFK Arena, in the music video developed with Lilith Games, directed by Marc and Denis Bouyer. </p>
 
 <p>A story of good overcoming evil, the cinematic piece uses dramatic storytelling and detailed character design to build upon what audiences know about the mobile game. Follow Talene as she meets infant Wilder Sprite Ashtar, who helps to awaken something much more extraordinary in her. </p>
 
