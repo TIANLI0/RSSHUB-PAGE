@@ -1,0 +1,29 @@
+
+---
+title: 'Crypto.com visa｜使用心得及儲值刷卡教學'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/106ede81-78cc-42d7-89c4-38ad5e7e41c6.png'
+author: Matters
+comments: false
+date: Thu, 06 Jan 2022 12:05:49 GMT
+thumbnail: 'https://assets.matters.news/embed/106ede81-78cc-42d7-89c4-38ad5e7e41c6.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/106ede81-78cc-42d7-89c4-38ad5e7e41c6.png" data-asset-id="106ede81-78cc-42d7-89c4-38ad5e7e41c6" referrerpolicy="no-referrer"><figcaption><span>我想要這張XD</span></figcaption></figure><p>既然當初都寫了申請全攻略，也承諾之後會寫出使用心得，秉持著帶進也要帶出的精神，心得都要寫了，就順便把如何使用的教學也附上吧！<br class="smart">經過漫長的等待，興奮的開卡啟用後，當然首先最重要的就是....需要先為卡片存入法定貨幣才能作日常消費、提領使用！</p><h2>入金教學</h2><p>那接下來就是重頭戲如何存入法定貨幣，目前有以下兩種儲值方式：</p><figure class="image"><img src="https://assets.matters.news/embed/6f7df83c-3685-4244-96e3-24b59d76c9a6.png" data-asset-id="6f7df83c-3685-4244-96e3-24b59d76c9a6" referrerpolicy="no-referrer"><figcaption><span>儲值畫面</span></figcaption></figure><p>一、虛擬貨幣</p><blockquote>Card（付款卡）→ Top Up（儲值）→ Crypto Wallet（加密貨幣錢包）</blockquote><p>可以將 BTC、ETH、LTC、XRP、ADA、DOGE、MATIC、TAUD、TCAD、TGBP、THETA、USDC 和 USDT 等多種虛擬貨幣從 Crypto Wallet 轉成法定貨幣(單位 SGD)存入卡片供日常消費或是提領</p><p>二、信用卡/簽帳卡</p><blockquote>Card（付款卡）→ Top Up（儲值）→ Credit Card（信用卡）</blockquote><p>可以使用 VISA/MASTER 信用卡（1% 手續費 + 1.5% 海外手續費），直接儲值法定貨幣(單位 SGD)存入卡片供日常消費或是提領。<br class="smart">另外貓奴刷的卡是國外刷卡回饋3%，所以個人覺得刷卡儲值對我來說是一個還不錯的選擇，方便又快速~<br class="smart"></p><p>使用以上兩種方式存入卡片後都可以再自行轉換幣別(SGD、JPY、AUD、EUR、GBP、HKD、USD)，但貓奴我目前就直接放著SGD直接消費了。<br class="smart"></p><h2>如何購買虛擬貨幣來儲值卡片</h2><p>上述第一個方式是用虛擬貨幣儲值，那我要從哪裡有虛擬貨幣呢？<br class="smart">APP內也有提供購買虛擬貨幣的方式，有三種購買方式<br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/246ec44b-a078-471f-bb71-c27945ef2efa.png" data-asset-id="246ec44b-a078-471f-bb71-c27945ef2efa" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/e6992fb9-8b7c-4f49-862a-fc4057ce6160.png" data-asset-id="e6992fb9-8b7c-4f49-862a-fc4057ce6160" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>一、信用卡<br class="smart">在這邊買幣跟在卡片刷卡儲值是不一樣的，我也是刷過一次2.99%之後才知道原來那不叫儲值...，在Crypto.com app裡面刷卡買幣會有2.99%的手續費，另外也還是要加上1.5%的國外刷卡手續費，所以我覺得是相當高...個人是比較不建議直接在這邊買...<br class="smart"></p><p>二、加密貨幣<br class="smart">比起信用卡刷卡買幣，貓奴我到是覺得可以直接用持有的CRO，或是從其他錢包轉加密貨幣過來，這邊附上把likecoin轉CRO後再入crypto.com app的小小小教學圖，就先假設<a href="https://app.osmosis.zone/" rel="noopener noreferrer" target="_blank">Osmosis</a>大家都很熟悉了，直接跳到把LIKE換成CRO的步驟吧XD</p><figure class="image"><img src="https://assets.matters.news/embed/369b957d-d4f7-467a-ac94-aecb76de81ae.png" data-asset-id="369b957d-d4f7-467a-ac94-aecb76de81ae" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>打開Crypto.com app -> 帳戶 -> 點擊 Crypto.com Coin -> 轉帳 -> 入金 -> 就可以看到你的地址啦~ 先把這個記下來，接下來會用到的</p><figure class="image"><img src="https://assets.matters.news/embed/c74ea605-2bea-46b2-8a68-cfe70933c4ef.png" data-asset-id="c74ea605-2bea-46b2-8a68-cfe70933c4ef" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>在Osmosis把LIKE換成CRO，並準備好你的Crypto.com app的地址後，再回到Keplr錢包，選擇Crypto.org，點Send就可以填入你Crypto.com app裡的地址就完成啦~<br class="smart">這樣你的錢包裡有就CRO可以換成SGD來儲值到卡片裡消費囉~<br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/47474173-0822-44d1-9283-1ed5812f3b56.png" data-asset-id="47474173-0822-44d1-9283-1ed5812f3b56" referrerpolicy="no-referrer"><figcaption><span>Keplr</span></figcaption></figure><p>三、法幣<br class="smart">我自己是沒有嘗試過法幣的方式，但爬文有看到說可以直接用美金帳戶 1:1兌換USDC，但因為貓奴我沒有外幣帳戶，所以詳情...需要再做功課XD<br class="smart"></p><p>這邊也來說說貓奴這兩週的使用心得，原本比較擔心的部分就是會不會很多地方沒辦法使用，但就這兩週使用下來的心得，卡片可以綁Linepay，增加了許多地方可以使用的機會，貓奴目前有使用過的地方有平常消費的7-11、中油、Uber、家樂福及新光三越，還不算是用過太多次，也還沒拿去買罐罐過（家裡還一堆...），但目前使用上有在7-11使用linepay失敗，但實體卡片OK的經驗，目前是還沒遇上刷不過的地方（刷的次數太少XD），之後有其他成功或是失敗的經驗就再分享給大家囉！</p><p>這邊附上之前爬文別的部落客整理得資訊（<a href="https://medium.com/@c715887410/%E5%9C%A8%E5%8F%B0%E7%81%A3%E7%94%B3%E8%BE%A6-mco-visa-%E6%B6%88%E8%B2%BB-%E6%8F%90%E9%A0%98-%E6%8A%95%E8%B3%87%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3%E6%9C%89%E5%A4%9A%E7%B0%A1%E5%96%AE-%E9%82%84%E6%9C%89-spotify-%E5%85%8D%E8%B2%BB%E8%81%BD-2b99de06077d#5769" rel="noopener noreferrer" target="_blank">資料來源</a>）</p><pre class="ql-syntax" spellcheck="false">實體門市⭕：50嵐(LINEPay)、八方雲集(LINEPay)、大苑子(LINEPay)、大遠百、大潤發、小北百貨、小米之家、中友百貨、中油、台灣大哥大、好樂迪、老虎城、定食8、屈臣氏、爭鮮、星巴克、家樂福、海底撈、康是美、清心福全(LINEPay)、麥當勞(LINEPay)、無印良品、萊爾富、順發3C、摩斯漢堡(LINEPay)、勤美誠品綠園道、愛買、新光三越、誠品、路易莎、達美樂、漢堡王(LINEPay)、遠傳、錢櫃、APPLE、DAISO大創百貨、GU、Ikea、7-11、Subway(LINEpay)、Uniqlo線上通路
+
+⭕：小米官網(PayPal)、中國人壽、台灣之星、京東、淘寶、富邦產險、達美樂官網、Agoda、Amazon、APPLE官網、Foodpanda、GU網路商店、iRent、KKBOX、Netflix、PChome購物(LINEPay)、Play 商店、Spotify、Steam(PayPal)、Uber、UberEats、Uniqlo網路商店、Yahoo!奇摩購物中心(LINEPay)支付方式
+
+⭕：LINEPay、PayPal實體門市
+
+❌：三商巧福、中華電信、全家、全聯、肯德基、國泰人壽、麥當勞(部分門市)、OK超商線上通路
+
+❌：東森購物、順發3C購物網、遠傳、樂天市場購物網、蝦皮購物、露天拍賣、momo購物網支付方式
+
+❌：街口支付、ApplePay、Google Pay、Pi拍錢包t.me/Cryptocom_Chinese，Crypto.com 官方中文頻道。
+</pre><p>也可以加入<a href="https://t.me/Cryptocom_Chinese" rel="noopener noreferrer" target="_blank">Crypto.com 官方中文 Telegram 群組</a>，裡面有許多已使用很久的前輩都很熱心回答問題，最後也再次附上貓奴的推薦碼</p><blockquote>貓奴個人推薦碼：<strong>qjd366s64h</strong><br class="smart">貓奴的推薦連結：<a href="https://crypto.com/app/qjd366s64h" rel="noopener noreferrer" target="_blank">https://crypto.com/app/qjd366s64h</a><br class="smart">透過推薦連結在 Crypto.com 註冊，申請 CRO Visa 卡，你我即可一同獲享 $25 USD :)</blockquote><p>以及申請進度（在Telegram群組內聽大家討論，感覺發卡速度有加快了~）<br class="smart">2021/11/21：申請<br class="smart">2021/11/21：第一階段審核通過<br class="smart">2021/11/21：填寫卡片申請<br class="smart">2021/11/27：地址驗證通過<br class="smart">2021/11/29：發卡狀態：已發出<br class="smart">2021/12/21：發卡狀態：已寄出，收到DHL簡訊<br class="smart">2021/12/23：收到卡片！<br class="smart"><br class="smart"></p>  
+</div>
+            
