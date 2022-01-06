@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220106/1641438351_3406
 
 <div>   
 <p style="text-indent:2em;">
-近日独立单机角色扮演游戏《幻想曹操传》上架Steam平台，将于本月发售，售价暂未公布。感兴趣的玩家可以关注下！
+近日独立单机角色扮演游戏《幻想曹操传》上架Steam平台，游戏计划于1月14日发售，售价49元，首发有8折优惠。感兴趣的玩家可以关注下！
 </p>
 <p style="text-indent:2em;">
 <strong><span style="color:#E56600;font-size:16px;">Steam商店地址：<a href="https://store.steampowered.com/app/1724910/_Fantasy_of_Caocao/" target="_blank"><strong><span style="color:#337FE5;"><u>点击进入</u></span></strong></a></span></strong> 
