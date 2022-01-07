@@ -13,6 +13,8 @@ thumbnail: 'https://img.36krcdn.com/20220107/v2_c3441b2528bb4f99ab3aa5c44f54bf2c
 ---
 
 <div>   
+<p>文 | 刘荷月</p> 
+<p>编辑 | 刘士武</p> 
 <p>当地时间1月4日，<a class="project-link" data-id="3969182" data-name="英伟达" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969182" target="_blank">英伟达</a>线上亮相拉斯维加斯的CES电子产品展览会，并在展会期间发布<a class="project-link" data-id="4260438" data-name="了数" data-logo="https://img.36krcdn.com/20210422/v2_8e636ec7be434dd5bf7deebc8bed2b62_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/4260438" target="_blank">了数</a>款最新产品。在最受人关注的显卡方面，英伟达推出了4款全新显卡产品，分别是用于桌面端的RTX 3050、RTX 3090 Ti以及用于笔记本端的RTX 3080 Ti和3070 Ti。</p> 
 <p>英伟达表示，目前仍有75%的玩家在使用GTX GPU，而RTX 3050则是用户从GTX 1050或GTX 1650升级到RTX系列的绝佳选择。据悉，RTX 3050将在1月27日开始全球发售，定价1899元人民币起。作为主打性价比的入门级RTX显卡，RTX 3050能够为光线追踪游戏提供稳定超过60fps的帧率，并搭载8GB GDDR6内存和第三代Tensor核心，后者使其能够实现其基于AI的DLSS功能。</p> 
 <p>对于新发布的被称为“最强消费级显卡”的RTX 3090 Ti，英伟达并没有透露太多新信息，据高级副总裁Jeff Fisher的说法，公司将在本月晚些时候提供关于其的更多细节。</p> 
