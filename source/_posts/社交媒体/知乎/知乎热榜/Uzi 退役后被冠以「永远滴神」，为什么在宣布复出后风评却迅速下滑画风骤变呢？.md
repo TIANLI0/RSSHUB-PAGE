@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5501'
+headimg: 'https://picsum.photos/400/300?random=2922'
 author: 知乎
 comments: false
-date: Thu, 06 Jan 2022 09:11:43 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5501'
+date: Thu, 06 Jan 2022 14:25:12 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2922'
 ---
 
 <div>   
-lll LLL的回答<br><br><p data-pid="tB9NsFz0">因为现在大量的粉丝都是引流狗</p><p data-pid="fqDnbtHS">就这么简单</p><p data-pid="bQQuEdtK">永远滴神这个梗</p><p data-pid="d_LnkZu5">来源就是主播山泥若之口，而他这样夸乌兹，本意是因为他参与赌博，而乌兹赢了之后相当于帮他在赌博里赢麻了。</p><p data-pid="iKJLa7Rj">就这么一个梗，居然还被GSL当做什么夸人的话到处说。</p><p data-pid="RVG-LKDl">就像春晚拿着过时的网络段子当啥新潮玩意儿一样，让人尴尬。（哦，今年说不定YYDS还真能上春晚了）</p><p data-pid="N_kya0Nz">连玩梗，都如此引流狗，你指望吹UZI的人们，都是啥水平</p><p data-pid="ZAUPJMcQ">我把话放这，能人均去抖音上刷几分钟集锦，都TM算是“核心玩家”了。</p><p data-pid="Q2PZx6g8">这种水平的人吹出来的虚假的繁荣，当然粉碎的足够快</p>  
+今天的风甚为喧嚣的回答<br><br><p data-pid="0oZwxvT5">因为uzi退役之后，lpl的成绩越来越好了，rng在离开uzi之后，米勒还评了rngb+战队，都认为他们应该会沦落成三流的队伍，但他们这一年却打出了rng最好的成绩，即使是s赛，也只是3:2输给了冠军队伍被淘汰的，没人能不服rng今年的成绩（除了edg）。</p><p data-pid="B1p-tjDe">而这也是uzi最后的一块遮羞布，当大家发现离开uzi的rng越来越好了，被放养的gala后期也能c，帮了上路，小虎也能打出巨大的作用，不禁让人想到了s7的时候，我毫不怀疑，如果当时rng的ad不是uzi，而是gala或者lwx和jakelove，那么s7的时候韩国人就不会在我们鸟巢内战了。</p><p data-pid="BEAXYQVh">作为一个曾经uzi的粉丝，去掉那层滤镜之后，才发现，s3s4的任性耍脾气，s7不会版本最强霞，s8奥班马探草送人头，生死局心态爆炸不捡灯笼，他已经是非常幸运，遇到会四保一的教练，和围绕着他打的队友，无冠确实是他自己的问题。</p>  
 </div>
             
