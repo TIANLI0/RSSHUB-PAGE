@@ -26,7 +26,7 @@ Gary总结2021年时表示即便是面临肆虐全球的疫情以及奥斯汀雪
 <img src="https://img.3dmgame.com/uploads/images/news/20220107/1641531890_528979.jpg" alt="Bioware总经理Gary：龙腾4含选择导向的单机体验" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-其中，Gary在展望部分透露：“Bioware工作室将全力开发《龙腾世纪》和《质量效应》下一代作品，并且开发人员致力将为《龙腾世纪》新作打造以选择导向为基础的单机游戏体验。”
+其中，Gary在展望部分透露：“Bioware工作室将全力开发《龙腾世纪》和《质量效应》下一代作品，并且开发人员致力于为《龙腾世纪》新作打造以选择导向为基础的单机游戏体验。”
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220107/1641531883_666133.jpg" alt="Bioware总经理Gary：龙腾4含选择导向的单机体验" referrerpolicy="no-referrer"> 
