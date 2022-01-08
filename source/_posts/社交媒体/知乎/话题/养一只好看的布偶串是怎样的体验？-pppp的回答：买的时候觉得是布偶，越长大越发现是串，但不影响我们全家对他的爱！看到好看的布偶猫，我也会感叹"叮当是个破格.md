@@ -1,0 +1,18 @@
+
+---
+title: '养一只好看的布偶串是怎样的体验？-pppp的回答：买的时候觉得是布偶，越长大越发现是串，但不影响我们全家对他的爱！看到好看的布偶猫，我也会感叹"叮当是个破格...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-0de8020917e5912c63a526d6153da116_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 08 Jan 2022 04:13:12 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-0de8020917e5912c63a526d6153da116_1440w.jpg'
+---
+
+<div>   
+<strong>养一只好看的布偶串是怎样的体验？</strong><br>pppp的回答<br><p data-pid="XcBl5dGE">买的时候觉得是布偶，越长大越发现是串，但不影响我们全家对他的爱！看到好看的布偶猫，我也会感叹"叮当是个破格的串，和真布偶差的很远！”两个孩子会生气的告诉我"叮当不是破猫，我们都爱他，不许你这么说！”</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-0de8020917e5912c63a526d6153da116_1440w.jpg" data-rawwidth="1920" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-55325ea1c98fa8f4a460daa21c9305ad_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-0de8020917e5912c63a526d6153da116_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-fd5771d61109513a63939d097615acb7_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-2a1bd2756476410877419e51743fc653_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-fd5771d61109513a63939d097615acb7_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-ebdba02e14e38dd7d9463585b4c60613_1440w.jpg" data-rawwidth="887" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-7e5541f45b9c059fc03f9ff32b04bb23_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-ebdba02e14e38dd7d9463585b4c60613_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-09c7f4915c8fb3959bf729a9ac746371_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-65a7e49b51b700b032d382386f8a8fe2_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-09c7f4915c8fb3959bf729a9ac746371_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-a723204c0ca1fbf69b8ca4df4f87585f_1440w.jpg" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-787ce2afb9be97735aecc00e3eefbc70_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-a723204c0ca1fbf69b8ca4df4f87585f_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-239158fdfd34a510d47756c11708ee7a_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-cfa7d849463280e8332c59e4d8e8a8ec_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-239158fdfd34a510d47756c11708ee7a_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-a9169c6175b9655d2b0aa8f84169af8f_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-a7eec7c3f888d13fa775352e15db216a_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-a9169c6175b9655d2b0aa8f84169af8f_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
