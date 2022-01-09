@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-36f822dee3618f5e12e175bc1f3d2f40_1440w.jpg'
+headimg: 'https://pic3.zhimg.com/v2-6db99f39c55e8cbb83912e57b0a9468c_1440w.jpg'
 author: 知乎
 comments: false
-date: Sun, 09 Jan 2022 04:42:39 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-36f822dee3618f5e12e175bc1f3d2f40_1440w.jpg'
+date: Sun, 09 Jan 2022 02:42:32 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-6db99f39c55e8cbb83912e57b0a9468c_1440w.jpg'
 ---
 
 <div>   
-鱼孜然的回答<br><br><p data-pid="affcXk4G">这个爆料大家也就图一乐，看看就好。按照以往的经验，基本上除了处理器型号之外的东西，都是爆料的不会太准确。</p><p data-pid="VTMAWeWz">但是如果这个是真的这样设计的话，“刘海”比之前的变得稍小了一些。</p><blockquote data-pid="lCCd7DCs">将 Face ID 硬件移至屏幕下方，也是比较合理的，因为 Face ID 的红外硬件将较少受到屏幕的影响，而将 iPhone 14 Pro 的刘海缩小到一个较小的打孔，感官上也更出色。</blockquote><p data-pid="azvmfnL2">emmm，怎么说呢。就是看个人主观了，越小当然是越好的，至少我个人是这样认为的。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-36f822dee3618f5e12e175bc1f3d2f40_1440w.jpg" data-caption data-size="normal" data-rawwidth="670" data-rawheight="698" data-default-watermark-src="https://pic2.zhimg.com/v2-0c3ac98889128b677bb6bc3d5530ca2a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-36f822dee3618f5e12e175bc1f3d2f40_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="ijTzsTLc">怕的就是挤出来的牙膏是有限的，大部分牙膏都浪费到了face ID上，那岂不是说其他部分都没有牙膏挤了吗？</p><p data-pid="lG3js6wB"><b>其实，我觉得还不如加个屏下指纹，用户体验或许会更高。</b></p><p></p>  
+牙膏有味道的回答<br><br><p data-pid="kCHKbrGC">iPhone 13还没捂热，iPhone 14爆料的消息已经来了，果粉们就是有想象力。</p><p data-pid="JsGkIPLO">iPhone 14系列的四款机型，背面基本上没什么变化，主要是正面存在争议，目前有三个传闻： </p><ul><li data-pid="_xM1clvP">居中打孔</li><li data-pid="qsqFtnsW">居中横条</li><li data-pid="d5atT6Ns">继续小刘海</li></ul><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-6db99f39c55e8cbb83912e57b0a9468c_1440w.jpg" data-rawwidth="1280" data-rawheight="810" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-f4c208877125c333aef82f679a4436d0_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-6db99f39c55e8cbb83912e57b0a9468c_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="7-TFQCFf">目前这三种方案，第二种的呼声比较高，但是还没有明确消息证实。</p><p data-pid="pnQigxhv">自从iPhone X采用刘海屏以来，苹果一直在试着缩小刘海屏的大小来提升屏占比，被大多数人诟病为挤牙膏式的创新。</p><p data-pid="W6HH8LaX">所以iPhone 14采用居中挖孔屏的设计还是有可能的。</p><p data-pid="vpBGTuvo">只不过这种居中药丸的屏幕不知道能否达到Face ID的功能，而且在交互体验上是否有提升，只能等真机来了才知道。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c15f22e9facc9df6fceb5f12ef011327_1440w.jpg" data-rawwidth="1170" data-rawheight="1191" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-1516040b69dfccce35dac9e3197956c6_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c15f22e9facc9df6fceb5f12ef011327_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="pgmK714U">但是14系列会取消mini，新增一款和Pro Max的6.7英寸相同尺寸的Max版。</p><p data-pid="uefR707b">主要也是因为13mini的销量不达苹果预期，可见消费者对小屏幕的需求并没有那么高。 ​但是SE系列会继续更新。</p><p data-pid="C_Funlth">标准版和Max可能会使用残血版A16，而Pro和Pro Max则会使用满血版。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-ededde936d8c4de407125a4830b3f808_1440w.jpg" data-rawwidth="1023" data-rawheight="920" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-3bd2cde1b358baa5f9ba3aeadb46b401_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-ededde936d8c4de407125a4830b3f808_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="OLvP5VSv">取消mini版，下一代iPhone 14系列的起售价极有可能会上涨，而且最高容量预计最高2TB起。</p><p data-pid="Kx0Tfyw6">我的iPhone12还能再战三年。</p><p></p>  
 </div>
             
