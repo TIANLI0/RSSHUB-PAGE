@@ -1,0 +1,18 @@
+
+---
+title: 'Core i9-12900HK性能远超Ryzen 9 5900HX，但功耗与温度并不低'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61dc04d48e9f094b34762e2b_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 10 Jan 2022 07:01:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61dc04d48e9f094b34762e2b_1024.jpg'
+---
+
+<div>   
+<p>在 CES 2022 上，Intel 发布的产品中最重量级的肯定是 12 代酷睿移动处理器，目前来看 45W 版本的 Alder Lake-H 会先于电压版的 Alder Lake-P 上市，新一代移动处理器最多 6 个 P-Core 加 8 个 E-Core，支持 DDR5-4800、LPDDR5-5200、DDR4-3200、LPDDR4x-4267 等四种内存，桌面平台提供的 PCI-E 5.0 到移动平台上就被砍掉了，不过现在 PCI-E 4.0 也够用了。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202201/61dc04d48e9f094b34762e2b_1024.jpg" data-height="565" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61dc04d48e9f094b34762e2b_1024.jpg" referrerpolicy="no-referrer"></div></div>Lab501 拿到了 12 代酷睿移动处理器的旗舰 Core i9-12900HK 的样品，它拥有 6P+8E 共 20 条线程，24MB L3 缓存，最高睿频能到 5GHz，基本功率是 45W，他们没有透露测试机器的型号，但它配备了 32GB DDR5-4800 内存，并采用了双 M.2 SSD 进行 Raid 0，这机器装的是 RTX 3080 Ti 显卡，但由于没有驱动所以无法进行全面测试。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202201/61dc04d48e9f094b34762e2c_1024.jpg" data-height="836" data-width="840" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61dc04d48e9f094b34762e2c_1024.jpg" referrerpolicy="no-referrer"></div></div>根据 Intel 官方给出的数据，Core i9-12900HK 在能耗比方面是远超上代的 Core i9-11980HK、AMD Ryzen 9 5900HX 以及苹果的 M1 Max 处理器的。游戏方面基于 Alder Lake 架构的 Core i9-12900HK 比上代 Tiger Lake 的 Core i9-11900HK 快 28%。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202201/61dc04d48e9f094b34762e2d_1024.jpg" data-height="559" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61dc04d48e9f094b34762e2d_1024.jpg" referrerpolicy="no-referrer"></div></div>Core i9-12900HK 的 Cinebench R20 得分较上代 Core i9-11980HK 高出 16.8%，而且它的跑分已经超过了 Ryzen Threadripper 1950X，Blender 2.78c 测试比上代快了 16.5%，而 Winrar 测试则比上代高出 29.7%，性能同样超出对手的 Ryzen 9 5900HX，但由于目前没有基于 Zen 3+ 架构的 Ryzen 9 6980HX 的跑分泄露，所以不太清楚这代 Intel 和 AMD 到底谁更强些。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202201/61dc04d48e9f094b34762e2e_1024.jpg" data-height="817" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61dc04d48e9f094b34762e2e_1024.jpg" referrerpolicy="no-referrer"></div></div>根据软件记录，Core i9-12900HK 的最高频率能到 4.988GHz，最高 CPU Package 功耗是 113W，平均功耗 63W，CPU 最高温度是 99 ℃，平均温度 76 ℃。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202201/61dc04d48e9f094b34762e2f_1024.jpg" data-height="494" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61dc04d48e9f094b34762e2f_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

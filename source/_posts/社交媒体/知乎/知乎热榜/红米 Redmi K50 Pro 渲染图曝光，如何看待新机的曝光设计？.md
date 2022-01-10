@@ -1,0 +1,18 @@
+
+---
+title: '红米 Redmi K50 Pro 渲染图曝光，如何看待新机的曝光设计？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-4731ef9536569208d18898e41f4b1173_720w.jpg'
+author: 知乎
+comments: false
+date: Mon, 10 Jan 2022 09:05:54 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-4731ef9536569208d18898e41f4b1173_720w.jpg'
+---
+
+<div>   
+王之葵托利的回答<br><br><p data-pid="pfQ7y-NX">去年小米11系列和红米K40系列采用的是这样的一脉相承的设计。</p><p data-pid="gAQk02yn">K40系列就是小米11系列的“拉长”版。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-4731ef9536569208d18898e41f4b1173_720w.jpg" data-caption data-size="normal" data-rawwidth="344" data-rawheight="236" data-default-watermark-src="https://pic4.zhimg.com/v2-3ffbd175813f92aeaec6910d4fccf99b_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="ZdV_AKjQ">虽然有人觉得好看，有人觉得不好看，但是光是看背面，就能看出这是一家的机器。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c2384f1f141a77669ca733988f830de5_720w.jpg" data-caption data-size="normal" data-rawwidth="374" data-rawheight="321" data-default-watermark-src="https://pic4.zhimg.com/v2-1e3727567403626f6c4c17219430a728_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="zF1iO48v">估计今年小米12和红米K50的设计师是分开赶稿的，结果就拿出了两套风格迥异的模组。</p><p data-pid="cqfiniYp">小米12系列走上了精致化的路，这模组颜值还是很高的吧？</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-223ee8ab41efd21ae0a74bc4abd2f39e_720w.jpg" data-caption data-size="normal" data-rawwidth="363" data-rawheight="416" data-default-watermark-src="https://pic3.zhimg.com/v2-f405a479f2a5313b8a919ff3dd4308d4_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="MtygPFJq">而红米K50的这个三个差不多大小的摄像头的设计，初看感觉一般，不是很好看，主要在于这模组周围留“黑”的地方太多了，也没有重点突出。</p><p data-pid="Dy3Bt5tg">不过这张渲染图，正面顶部挖孔依旧很小，底部下巴看着控制的也很不错。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-1f0d8df24573f6eebb6a980f361e4210_1440w.jpg" data-caption data-size="normal" data-rawwidth="820" data-rawheight="820" data-default-watermark-src="https://pic3.zhimg.com/v2-94b097833fd6fa34d51a6fc3cf32f603_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-1f0d8df24573f6eebb6a980f361e4210_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="FtYIWlru">这个设计大概率是真的，因为手机壳也曝光了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-6dab8baf2593038fbe2aba3e78c8ebf7_720w.jpg" data-caption data-size="normal" data-rawwidth="415" data-rawheight="400" data-default-watermark-src="https://pic1.zhimg.com/v2-acc0ead0a975458e03ea9654dcf71f63_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="VTtKUnPR">曝光的K50系列的处理器参数如下所示：</p><p data-pid="f1_gbpp3">K50系列的标准版用的依旧是骁龙870（去年到底屯了多少货？！)</p><p data-pid="6kDwctsh">首发还有一个电竞版，用的是骁龙8Gen1，之前海报上的那个冰冰凉的双VC版本的骁龙8GEN1，估计是电竞版了。</p><p data-pid="XWIn00Bm">采用的也都是侧面指纹，直屏。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-cf638b4b55bf486dc51847358a555f51_720w.jpg" data-caption data-size="normal" data-rawwidth="412" data-rawheight="433" data-default-watermark-src="https://pic1.zhimg.com/v2-ec0f8429477208f84b912fd607ba507b_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="w3THxR8Q">春节后要换机的，可以期待一波骁龙870版本的红米K50和骁龙8Gen版本的K50电竞版。</p><p data-pid="_oprF67L">天玑9000的Pro版本要稍晚一些到。</p><p><br></p><p data-pid="KTzTpCa8">年货节换机的，12+256G的K40已经在清仓甩卖了，2099！！！</p><blockquote data-pid="d6WY88iF">2022年年货节手机推荐之小米手机推荐，想要趁着年货节买小米手机的冲鸭，爆肝7000字的超详细推荐~ - 王之葵托利的文章 - 知乎 </blockquote><a href="https://zhuanlan.zhihu.com/p/455126694" data-draft-node="block" data-draft-type="link-card" class="internal">王之葵托利：2022年年货节手机推荐之小米手机推荐，想要趁着年货节买小米手机的冲鸭，爆肝7000字的超详细推荐~</a><p></p>  
+</div>
+            
