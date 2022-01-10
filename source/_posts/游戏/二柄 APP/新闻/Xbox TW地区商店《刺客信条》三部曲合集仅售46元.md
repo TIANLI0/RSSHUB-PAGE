@@ -8,11 +8,11 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2022/01/10/1113187917.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-01-10 03:24:37
+date: 2022-01-10 04:30:30
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/01/10/1113187917.jpg'
 ---
 
 <div>   
-疑似临时工错误标注？目前Xbox TW地区商店《刺客信条：起源》+《刺客信条：奥德赛》+《刺客信条：英灵殿》三部曲合集仅售200新台币（折合约46元人民币）。<br><img src="https://erbingeditor.diershoubing.com/6/2022/01/10/1113187917.jpg" referrerpolicy="no-referrer">  
+疑似临时工操作？目前Xbox TW地区商店《刺客信条：起源》+《刺客信条：奥德赛》+《刺客信条：英灵殿》三部曲合集仅售200新台币（折合约46元人民币）。<br><img src="https://erbingeditor.diershoubing.com/6/2022/01/10/1113187917.jpg" referrerpolicy="no-referrer">  
 </div>
             
