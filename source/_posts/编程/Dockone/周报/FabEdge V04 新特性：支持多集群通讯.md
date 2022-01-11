@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img-blog.csdnimg.cn/img_convert/458297b630f8df51ca96f3b72bdaa1b1.webp?x-oss-process=image/format,png'
 author: Dockone
 comments: false
-date: 2022-01-11 09:22:25
+date: 2022-01-11 10:24:53
 thumbnail: 'https://img-blog.csdnimg.cn/img_convert/458297b630f8df51ca96f3b72bdaa1b1.webp?x-oss-process=image/format,png'
 ---
 
@@ -19,9 +19,9 @@ thumbnail: 'https://img-blog.csdnimg.cn/img_convert/458297b630f8df51ca96f3b72bda
 轻边缘：计算能力受限，网络条件差，业务单⼀，数量庞⼤，地理位置分散，⽐如智慧小区，车联网，无人机等。 <br>
 重边缘：计算能力相对充足，网络条件相对稳定，业务复杂，可靠性，安全性有⼀定要求，比如5G MEC，工业互联网，智慧城市等。<br>
 <br><img src="https://img-blog.csdnimg.cn/img_convert/d63ec4bfd32ed35297f5abffbf3b6d38.webp?x-oss-process=image/format,png" alt="请输入图片名称" referrerpolicy="no-referrer"><br>
-<br>FabEdge是⼀个基于kubernetes构建的，专注于边缘计算场景的容器网络⽅案，解决了边缘计算场景下⽹络管理复杂，割裂互不通信，缺少拓扑感知能力，无法提供就近访问等问题，使能云边、边边之间的业务协同。FabEdge 支持 KubeEdge，SuperEdge， OpenYurt 等边缘计算框架管理的轻量边缘节点。在最新发布的V0.4版中，加⼊对重边缘，也就是边缘集群的⽀持，完成了对所有边缘场景的全覆盖。<br>
+<br>FabEdge 是⼀个基于 kubernetes 构建的，专注于边缘计算场景的容器网络⽅案，解决了边缘计算场景下⽹络管理复杂，割裂互不通信，缺少拓扑感知能力，无法提供就近访问等问题，使能云边、边边之间的业务协同。FabEdge 支持 KubeEdge，SuperEdge， OpenYurt 等边缘计算框架管理的轻量边缘节点。在最新发布的V0.4版中，加⼊对重边缘，也就是边缘集群的⽀持，完成了对所有边缘场景的全覆盖。<br>
 <br><img src="https://img-blog.csdnimg.cn/img_convert/cead1b1553f57572875cef2cb76b7278.webp?x-oss-process=image/format,png" alt="请输入图片名称" referrerpolicy="no-referrer"><br>
-<br>以上图为例，共有三个集群，集群blue是host集群，负责管理其它集群的通讯；集群 red，green 是两个成员集群，会上报本集群的网络配置信息到host集群blue。将集群 red 和 green 加入 community1 后，FabEdge 会自动建立集群 red 和 green 之间的隧道，允许两个集群之间的 pod 和 service 之间的互访。<br>
+<br>以上图为例，共有三个集群，集群 blue 是 host 集群，负责管理其它集群的通讯；集群 red，green 是两个成员集群，会上报本集群的网络配置信息到 host 集群 blue。将集群 red 和 green 加入 community1 后，FabEdge 会自动建立集群 red 和 green 之间的隧道，允许两个集群之间的 pod 和 service 之间的互访。<br>
 <br>FabEdge 多集群通讯的的交互过程见下图：<br>
 <br><img src="https://img-blog.csdnimg.cn/img_convert/5f30f520cf10ff4917d39e2f42a38efb.webp?x-oss-process=image/format,png" alt="请输入图片名称" referrerpolicy="no-referrer"><br>
 <ol><li><br>在 host 集群中先创建集群 green 和 red，获取相应 token。</li><li><br>使⽤获取的token注册集群 green 和 red。</li><li><br>集群 green 和 red 汇报本集群网络端点信息到host集群。</li><li><br>将集群 green 和 red 加⼊⼀个 community。</li><li><br>集群 green 和 red 定时从 host 集群拉取远程的端点信息。</li><li><br>host集群根据 community 信息，为集群 green 和 red 下发相关的端点信息到成员集群 operator。</li><li><br>成员集群 green 和red的 operator 为自己 connector 更新 configmap。</li><li><br>成员集群 green 和 red 的 connector 根据⾃⼰的 configmap 发起到对⽅的隧道。</li><li><br>隧道建⽴成功后，成员集群 green 和 red 可以互相通讯。</li></ol><br>
