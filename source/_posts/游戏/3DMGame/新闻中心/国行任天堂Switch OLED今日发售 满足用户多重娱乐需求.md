@@ -14,10 +14,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220111/1641874851_2608
 
 <div>   
 <p style="text-indent:2em;">
-腾讯引进Nintendo <a target="_blank" href="https://www.3dmgame.com/games/switch/">Switch</a>（OLED版）于1月11日正式发售。Nintendo Switch（OLED版）是Nintendo Switch的全新款式，配置更新包括：色彩更艳丽的7.0寸OLED屏幕、角度调节更自由宽广的转轴式支架、全新扬声器、增至64GB的主机内存、独有的时尚配色和外观设计等。无论在何时、何地、与何人一起，Nintendo Switch（OLED版）都能满足用户的多重娱乐需求。
+腾讯引进Nintendo Switch（OLED版）于1月11日正式发售，官方标准版售价2599元，健身环大冒险游戏套装版售价3098元。Nintendo Switch（OLED版）是Nintendo Switch的全新款式，配置更新包括：色彩更艳丽的7.0寸OLED屏幕、角度调节更自由宽广的转轴式支架、全新扬声器、增至64GB的主机内存、独有的时尚配色和外观设计等。无论在何时、何地、与何人一起，Nintendo Switch（OLED版）都能满足用户的多重娱乐需求。
 </p>
 <p style="text-indent:2em;">
-<strong>产品介绍视频：</strong>
+<strong>产品介绍视频：</strong> 
 </p>
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=338112318&bvid=BV1BR4y1g7co&cid=481605204&page=1" allowfullscreen="true" width="640" height="498" frameborder="no">
@@ -31,11 +31,9 @@ Switch（OLED版）的更多产品信息，请前往<a href="https://www.nintend
 腾讯引进Nintendo Switch（OLED版）主机可获得由腾讯提供的一年官方保修服务，任天堂丰富的官方周边产品如Nintendo
 Switch专业手柄、多种配色的Joy-Con、Joy-Con充电握把等也可享受对应的三包服务。
 </p>
-<p style="text-indent:2em;">
-</p><p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220111/1641874851_260877.jpg" alt="国行任天堂Switch OLED今日发售 满足用户多重娱乐需求" referrerpolicy="no-referrer">
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220111/1641874851_260877.jpg" alt="国行任天堂Switch OLED今日发售 满足用户多重娱乐需求" referrerpolicy="no-referrer"> 
 </p>
-<p></p>
 <p style="text-indent:2em;">
 腾讯引进Nintendo Switch（OLED版）是一部可配合不同场合切换形态的游戏机，集电视模式、桌面模式、掌上模式于一身，随时随地都能随心所欲地切换合适的游戏模式畅享游戏乐趣。
 </p>
