@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/spider20220112/244/w640h404/20220112/363e-bc6df5fa7011fb9c234d8bbe301c6955.jpg'
 author: 新浪财经
 comments: false
-date: Wed, 12 Jan 2022 13:26:02 GMT
+date: Wed, 12 Jan 2022 13:33:49 GMT
 thumbnail: 'https://n.sinaimg.cn/spider20220112/244/w640h404/20220112/363e-bc6df5fa7011fb9c234d8bbe301c6955.jpg'
 ---
 
@@ -25,6 +25,8 @@ thumbnail: 'https://n.sinaimg.cn/spider20220112/244/w640h404/20220112/363e-bc6df
 <p>　　2021年12月份，全国居民消费价格同比上涨1.5%。其中，城市上涨1.6%，农村上涨1.2%；食品价格下降1.2%，非食品价格上涨2.1%；消费品价格上涨1.5%，服务价格上涨1.5%。</p>
 <p>　　12月份，全国居民消费价格环比下降0.3%。其中，城市下降0.3%，农村下降0.3%；食品价格下降0.6%，非食品价格下降0.2%；消费品价格下降0.4%，服务价格持平。</p>
 <p>　　2021年全年，全国居民消费价格比上年上涨0.9%。</p>
+<p>　　【相关报道】</p>
+<p>　　<a href="https://finance.sina.com.cn/china/2022-01-12/doc-ikyamrmz4808125.shtml" target="_blank" title="2021年CPI上涨0.9%，2022年物价走势如何？">2021年CPI上涨0.9%，2022年物价走势如何？</a>  </p>
 <p>　　<strong>NO.4  <a target="_blank" href="https://finance.sina.com.cn/china/gncj/2022-01-12/doc-ikyamrmz4607872.shtml">中国GDP超万亿城市增至24座！首座4万亿城市诞生</a></strong></p>
 <p cms-style="font-L">　　中国城市GDP“万亿俱乐部”再迎扩容，城市竞争版图迎来微妙变化。</p>
 <p cms-style="font-L">　　东莞2021年GDP突破万亿元大关，成为第24个万亿之城。而北京GDP超过4万亿元，成为全国首个官宣的4万亿元城市。</p>
