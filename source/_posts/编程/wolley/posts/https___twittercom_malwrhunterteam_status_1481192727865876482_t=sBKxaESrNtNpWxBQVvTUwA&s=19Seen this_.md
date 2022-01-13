@@ -8,11 +8,11 @@ categories:
  - 编程
  - wolley
  - posts
-headimg: 'https://picsum.photos/400/300?random=8661'
+headimg: 'https://picsum.photos/400/300?random=8361'
 author: wolley
 comments: false
 date: Thu, 13 Jan 2022 13:00:12 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8661'
+thumbnail: 'https://picsum.photos/400/300?random=8361'
 ---
 
 <div>   
