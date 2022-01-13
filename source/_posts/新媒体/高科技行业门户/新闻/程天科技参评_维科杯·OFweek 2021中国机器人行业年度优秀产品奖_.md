@@ -1,0 +1,19 @@
+
+---
+title: '程天科技参评_维科杯·OFweek 2021中国机器人行业年度优秀产品奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/12/weining/1641989602503058868.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 12 Jan 2022 12:11:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/12/weining/1641989602503058868.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">维科杯·OFweek 2021中国<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>行业年度评选(简称OFweek Robot Awards 2021)，是由中国高科技行业门户OFweek维科网及旗下权威的机器人专业媒体-OFweek维科网·机器人共同举办。此次活动旨在为机器人行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek维科网平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想机器人行业的未来。</p><p style="text-indent: 2em; text-align: left;">维科杯· OFweek 2021中国机器人行业年度评选“OFweek Robot Awards 2021”将于2022年1月11日－29日为网络投票阶段，颁奖典礼将于4月20日在深圳举办。</p><p style="text-indent: 2em; text-align: left;">目前，活动正处于火热的网络投票阶段，业内企业积极响应。<strong>杭州程天科技发展有限公司已正式参评“维科杯·OFweek 2021中国机器人行业年度优秀产品奖”。</strong></p><p style="text-indent: 2em; text-align: left;">参评奖项：维科杯·OFweek 2021中国机器人行业年度优秀产品奖</p><p style="text-indent: 2em; text-align: left;"><strong>产品名称：悠行外骨骼机器人</strong></p><p style="text-indent: 2em; text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/12/weining/1641989602503058868.png" title="1641989602503058868.png" alt="blob.png" referrerpolicy="no-referrer"></strong></p><p style="text-indent: 2em; text-align: left;"><strong>参评理由：</strong></p><p style="text-indent: 2em; text-align: left;">1. 核心产品包含外骨骼机器人，康复辅助机器人以及工业用机器人3大产品线。其中，外骨骼机器人分为5个系列（UGO悠行、Kid GO儿童外骨骼、GO GO助力外骨骼、坐卧式床边外骨骼以及DEUS概念外骨骼），以满足不同患者的多元康复需求。</p><p style="text-indent: 2em; text-align: left;">2. 覆盖2代产品，5款型号的悠行外骨骼机器人产品均已自主完成临床适用范围为中枢神经病变（涵盖截瘫、偏瘫患者）的下肢外骨骼机器人NMPA注册证，达世界领先水平。</p><p style="text-indent: 2em; text-align: left;">3. 悠行外骨骼机器人系列产品是由程天科技完全自助研发，拥有自主知识产权的智能高端康复<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>器械，是国内首款采用意图检测技术的智能高端<span class="hrefStyle"><a href="http://robot.ofweek.com/IND-8321232-yiliaojiqiren.html" target="_blank" title="医疗机器人">医疗机器人</a></span>，是外骨骼技术在医疗康复领域应用的重大突破。</p><p style="text-indent: 2em; text-align: left;">4. 程天科技借助核心元器件的自研自产优势，将包括机器人关节模组、麦克纳姆轮模组和伺服运动控制方案等在内的产品推向工业市场，为企业提供机器人整体解决方案，目前已远销全球12个国家和地区，覆盖300+客户。</p><p style="text-indent: 2em; text-align: left;">基于神经可塑性原理，解决了不可逆神经损伤患者的日常功能代偿及可逆损伤患者的早期康复，可促进中枢神经系统损伤的恢复，逐步提升下肢自主行走的能力。外骨骼机器人的这种智能康复是以主动、被动结合的方式，实现复杂全方位康复训练、加速康复效果、提供运动康复反馈与评估。</p><p style="text-indent: 2em; text-align: left;">国内首个创新型医疗器械用于中枢神经变病的外骨骼机人注册证，填补国内空白，水平达世界领先，同时也是国内首款采用意图检测技术的智能高端医疗机器人，是外骨骼技术在医疗康复领域应用的重大突破。</p><p style="text-indent: 2em; text-align: left;"><strong>企业介绍：</strong></p><p style="text-indent: 2em; text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/12/weining/1641989545478005221.png" width="288" height="296" referrerpolicy="no-referrer"></strong></p><p style="text-indent: 2em; text-align: left;">杭州程天科技发展有限公司于2017年1月成立，是一家集研发、生产和销售为一体的科技型企业。程天科技致力于通过人工智能（AI）与机器人技术，配合数据分析及云计算等方式为行动失能、弱能的伤友、老年人及康复医疗机构提供智能康复器械、康复辅具产品和智能化解决方案，促进医疗康复、养老产业发展。以造福肢体残疾患者与行动不便者为已任。同时也涉及娱乐、工业、运动等领域外骨骼技术的研究和产品开发。</p><p style="text-indent: 2em; text-align: left;">2018年程天科技获得了Pre-A轮融资，引入产业投资人，资金和资源的注入更加速了程天科技的发展。程天科技全体员工秉承“解决问题，信任彼此，与时俱进”的企业文化，拓展人类的感知与体能，满足人们对便捷移动、自由生活的核心需求，忠于企业使命，技术和格局与时俱进、保持技术的先进性，提供更好的机器人产品。坚持在智能技术领域精耕细作，通过技术提升产品的安全性和先进性，通过人文关怀提升用户体验，不断完善外骨骼技术产业链，成为全球外骨骼领域领军企业。人工智能时代已来，未来必将是人机结合的时代，外骨骼必然成为人类的又一个附属器官，程天外骨骼的一小步，便是人类的一大步</p><p style="text-indent: 2em; text-align: left;">投票时间：本届“OFweek Robot Awards 2021”活动将于2022年1月11日进入投票阶段，欢迎各位踊跃投票！</p><p style="text-indent: 2em; text-align: left;">投票地址：https://www.ofweek.com/award/2021/robot/vote.html</p> 
+  
+</div>
+            
