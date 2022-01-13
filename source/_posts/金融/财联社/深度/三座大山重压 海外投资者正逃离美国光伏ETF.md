@@ -5,16 +5,17 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=1337'
+headimg: 'https://img.cls.cn/images/20220113/eK216e4GG1.jpg'
 author: 财联社
 comments: false
 date: Thu, 13 Jan 2022 07:19:45 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1337'
+thumbnail: 'https://img.cls.cn/images/20220113/eK216e4GG1.jpg'
 ---
 
 <div>   
 <div class="m-b-10"><p><strong>财联社（上海，编辑 卞纯）讯</strong>，在加息预期、补贴可能减少以及拜登基础设施计划停滞不前等诸多因素的影响下，一度繁荣的美国光伏ETF正在丧失对投资者的吸引力。</p>
 <p><strong>景顺旗下规模24亿美元的太阳能ETF（代码TAN）去年12月遭遇了4.17亿美元的资金流出，创下该基金近14年历史上最糟糕的一个月。其份额价格自去年10月以来下跌近30%后，资金外流仍在继续。</strong></p>
+<p><img src="https://img.cls.cn/images/20220113/eK216e4GG1.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p>金融服务公司WallachBeth Capital的ETF主管Mohit Bajaj表示，随着美联储准备加息，光伏股面临压力。</p>
 <p>“投资者正在削减损失并平仓，”Bajaj称，光伏公司可能会遭受损失，因为它们严重依赖杠杆来为其经营活动融资。利率上升可能会侵蚀其长期现金流的价值，使太阳能发电厂等项目的价值降低。</p>
 <p>CFRA的ETF和共同基金研究主管Todd Rosenbluth表示，随着美联储准备加息，高增长科技公司遭到大规模抛售，光伏股也被卷入。加州上个月提议削减对家庭屋顶光伏系统的补贴，也令该行业受到打击。</p>
