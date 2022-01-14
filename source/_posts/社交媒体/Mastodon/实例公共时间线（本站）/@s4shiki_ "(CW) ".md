@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/041/536/934/original/84a43f638445e0a5.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/041/537/816/original/1dc9b2fe4492b286.png'
 author: Mastodon
 comments: false
-date: Fri, 14 Jan 2022 10:21:49 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/041/536/934/original/84a43f638445e0a5.jpg'
+date: Fri, 14 Jan 2022 11:14:11 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/041/537/816/original/1dc9b2fe4492b286.png'
 ---
 
 <div>   
-<hr><p>天国</p><br><img src="https://img.pawoo.net/media_attachments/files/041/536/934/original/84a43f638445e0a5.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>わーいここなら凍らないー</p><br><img src="https://img.pawoo.net/media_attachments/files/041/537/816/original/1dc9b2fe4492b286.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/041/537/825/original/3655f2d5529a6014.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/041/537/827/original/de50a32141249c44.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
