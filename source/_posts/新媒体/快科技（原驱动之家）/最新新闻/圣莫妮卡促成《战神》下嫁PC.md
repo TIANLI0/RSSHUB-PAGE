@@ -27,9 +27,9 @@ thumbnail: 'https://img1.mydrivers.com/img/20220115/s_f917a7c757074630ac592f23a7
 <p align="center"><a href="https://img1.mydrivers.com/img/20220115/c2ec51f75552468e8ff7782d7c9f9e4e.jpg" target="_blank"><img alt="圣莫妮卡促成《战神》下嫁PC" h="750" src="https://img1.mydrivers.com/img/20220115/s_c2ec51f75552468e8ff7782d7c9f9e4e.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220115/f209334019184d6c88e857a644e02cf6.jpg" target="_blank"><img alt="圣莫妮卡促成《战神》下嫁PC" h="866" src="https://img1.mydrivers.com/img/20220115/s_f209334019184d6c88e857a644e02cf6.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>尽管新战神目前已登陆PC平台，但Barlog不能肯定《战神：诸神黄昏》是否步其后尘，最终决定权在索尼手上。</p>
-<p>“这需要一个过程，公司与工作室看问题的角度是不一样的”，Barlog称，他宣称是工作室的人出面建议索尼将新战神移植给PC：</p>
+<p>“这需要一个过程，公司与工作室看问题的角度是不一样的”，Barlog称，他透露是工作室的人出面建议索尼将新战神移植给PC：</p>
 <p>“各单位都表示这想法（PC版）不错，我们应该好好研究一下。最后把索尼说烦了，好吧好吧，大家开干。”</p>
-<p>PC版战神支持带鱼屏与高帧率4K，DF数毛工作室盛赞圣莫妮卡的移植工作非常出色，游戏体验胜过主机版，GPU效率非常出色，N卡用户在DLSS的加持下用2060就能跑到4K@60FPS。</p>
+<p>PC版战神支持带鱼屏与高帧率4K，DF数毛工作室盛赞圣莫妮卡的移植工作非常出色，游戏体验胜过主机版，GPU效率令人满意，N卡用户在DLSS的加持下用2060就能跑到4K@60FPS。</p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220115/166465f2a3da4809bc1a7f125ba895f3.jpg" style="text-align: -webkit-center;" target="_blank"><img alt="圣莫妮卡促成《战神》下嫁PC" h="354" src="https://img1.mydrivers.com/img/20220115/s_166465f2a3da4809bc1a7f125ba895f3.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220115/fc4b778c29bb4881b045997674050783.jpg" target="_blank"><img alt="圣莫妮卡促成《战神》下嫁PC" h="357" src="https://img1.mydrivers.com/img/20220115/s_fc4b778c29bb4881b045997674050783.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220115/3045330e352046278dcaa5dbc7e69d8f.jpg" target="_blank"><img alt="圣莫妮卡促成《战神》下嫁PC" h="363" src="https://img1.mydrivers.com/img/20220115/s_3045330e352046278dcaa5dbc7e69d8f.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
