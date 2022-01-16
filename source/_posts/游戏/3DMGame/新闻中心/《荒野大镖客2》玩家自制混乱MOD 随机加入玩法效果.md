@@ -26,7 +26,7 @@ MOD作者shdel近日发布了《<a target="_blank" href="https://www.3dmgame.com
 另外，如文章开头所述，玩家可以激活Twitch整合，开放给观众投票来决定激活某种效果。
 </p>
 <p style="text-indent:2em;">
-感兴趣的玩家可点此下载这款MOD，需要使用Script Hook RDR2方可开启。
+感兴趣的玩家可<a href="https://www.nexusmods.com/reddeadredemption2/mods/1269" target="_blank"><strong><span style="color:#E53333;">点此下载</span></strong></a>这款MOD，需要使用Script Hook RDR2方可开启。
 </p>
 <p style="text-indent:2em;">
 《荒野大镖客2》“混乱”MOD预览视频：
