@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/9c74485f-2edd-48cc-997a-3940e6
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/9c74485f-2edd-48cc-997a-3940e62bca73.jpg" referrerpolicy="no-referrer"><p>笑了 🤣</p>  
+<img src="https://img.4gamers.com.tw/news-image/9c74485f-2edd-48cc-997a-3940e62bca73.jpg" referrerpolicy="no-referrer"><p>狡猾他狡猾他 🤣</p>  
 </div>
             
