@@ -67,7 +67,7 @@ thumbnail: 'https://img.36krcdn.com/20220118/v2_120b3670dff04343b5c6f19dcd6baaed
 <p>难道是验证技术的价值？</p> 
 <p>众所周知，元宇宙以六大支撑技术为基础，那么在这六大支撑技术之内，哪个最具市场价值？我们可以从市场的反馈来看。</p> 
 <p class="image-wrapper"><img data-img-size-val="550,424" src="https://img.36krcdn.com/20220118/v2_7ab6bbc5e5fe467da5459e262a73e6b8_img_000" referrerpolicy="no-referrer"></p> 
-<p>此前，“炒房热”席卷各大元宇宙平台如TheSandbox、Decentraland、虹宇宙等等，而在这些元宇宙平台的背后，有一项技术应用尤为<a class="project-link" data-id="235198" data-name="瞩目" data-logo="https://img.36krcdn.com/20220109/v2_89c78900ad6d4ae69c97eed3d53e9a6c_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4461801211?mp=zzquote" target="_blank">瞩目</a>——“区块链”。之所以能引发这么大的流量和话题，取决于区块链技术所带来的数据确权。</p> 
+<p>此前，“炒房热”席卷各大元宇宙平台如TheSandbox、Decentraland、虹宇宙等等，而在这些元宇宙平台的背后，有一项技术应用尤为<a class="project-link" data-id="235198" data-name="瞩目" data-logo="https://img.36krcdn.com/20220118/v2_ccfa43fba0fa4219ae281039d3a57f8d_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4461801211?mp=zzquote" target="_blank">瞩目</a>——“区块链”。之所以能引发这么大的流量和话题，取决于区块链技术所带来的数据确权。</p> 
 <p>基于区块链技术的去中心化、不可篡改、可追溯等特征，使得虚拟世界的数据确权在技术层面得以实现，不会因为运营公司的倒逼或主体服务器损坏而消失。这种数据确权进一步稳定了元宇宙的基础体系。</p> 
 <p>由此，我们完全可以从这些早期产品所引发的狂热反馈来看到未来区块链技术对于元宇宙的价值与意义，以确立未来技术研发的重点与运营的导向。</p> 
 <p>又或者是验证新场景？</p> 
