@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=1533'
+headimg: 'https://pic3.zhimg.com/v2-30a1c07a0a49fbb4b95a54886e83adae_1440w.jpg'
 author: 知乎
 comments: false
-date: Tue, 18 Jan 2022 23:42:32 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1533'
+date: Wed, 19 Jan 2022 00:21:58 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-30a1c07a0a49fbb4b95a54886e83adae_1440w.jpg'
 ---
 
 <div>   
-南浮生的回答<br><br><p data-pid="nphH7kHf"><b>山东日照当地人来答，</b></p><p data-pid="DwX4eFZm"><b>我很纳闷。。。这位医生的医德何在？</b></p><p data-pid="m66hhElV"><b>为了赚流量，真是什么到敢干了。。。</b></p><p data-pid="4ovr6wNk"><b>从民事上来看</b>，男医生的行为涉嫌侵犯个人隐私。民法典有规定，任何组织或者个人不得以刺探、侵扰、泄露、公开等方式侵害他人的隐私权。</p><p data-pid="HNnkh5Jo">具体到本案中，厉某在给女患者做手术过程中，偷拍私处并直播，是典型的侵犯个人隐私行为，对此承担侵权责任。</p><p data-pid="YIQqPvxA">除此之外，厉某属于医院的职工，根据民法典规定，这位女患者还可以请求医院给予赔偿。而平台由于接到举报就很快切断封禁，没有让侵害行为进一步扩大，因此不负赔偿责任。</p><p data-pid="YFTJQOUq"><b>从行政上来看，</b>厉某某的行为属于偷拍、散布个人人隐私。</p><p data-pid="CDYR-ZQg">根据治安管理处罚法规定，处五日以下拘留或者五百元以下罚款；情节较重的，处五日以上十日以下拘留，可以并处五百元以下罚款。</p><p data-pid="L9lDeA2S">即便按照现行法律，厉某也有可能被吊销医生执业证书，今后难以行医。当然，更大的可能是被责令暂停执业活动。</p><p data-pid="v56nvmsQ">而这件事也显示出，涉事医院管理上的混乱。因此，恐怕涉事医院也会被处以相应的处罚。</p><p data-pid="qQj9gm7Z"><b>为了流量，竟无下限地出卖病人的隐私，病人被麻醉，就成了他非法牟利的原材料，此种行为与禽兽何异？这样的情况，医患关系能好？</b></p><p data-pid="scbIag3u"><b>强烈呼吁相关部门重拳出击，确保病人的隐私安全。</b></p>  
+孟三宝的回答<br><br><p data-pid="MXYRh5-I">看了一下现有答案，发现大家仅讨论了该麻醉师本人。</p><p data-pid="_IJLNRXz">但我认为还有一个疑问需要和大家讨论：</p><h2>警方情况通报中写道：「疑似在网上直播妇科手术片段」</h2><p data-pid="uBqYBZ8n"><b>携带设备拍摄的肯定是麻醉师不用多加讨论。但直播的主体是不是该名麻醉师？</b></p><ul><li data-pid="WEB6Lg8H">如果是，那我们应该依法处理该名麻醉师。</li><li data-pid="_Alsh8op">如果不是，那问题来了，麻醉师是否存在贩卖「手术隐私」以满足特殊人群的癖好？恰好这次购买直播观看的人更疯狂，选择同步直播到B站。</li></ul><p data-pid="EVbA9CJE">如果是上述第二种情况，又有多少患者的隐私被泄漏？这个背后是否存在更大的黑色产业链？厕所偷拍、酒店偷拍早就被揭露过了。那这种类型是不是也存在巨大市场？只不过之前没有浮出水面？</p><p data-pid="Gpwoh4kZ"><b>如果该麻醉师通过贩卖该类视频，那就存在获利行为。就不仅仅是侵犯公民隐私权的问题了，很可能涉及刑事犯罪！</b></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-30a1c07a0a49fbb4b95a54886e83adae_1440w.jpg" data-rawwidth="1080" data-rawheight="1834" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-b7eb081de2f09b4f6c3a08df220fb10d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-30a1c07a0a49fbb4b95a54886e83adae_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
