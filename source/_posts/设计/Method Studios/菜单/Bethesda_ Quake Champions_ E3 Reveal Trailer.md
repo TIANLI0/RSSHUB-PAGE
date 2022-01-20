@@ -8,7 +8,7 @@ categories:
 headimg: 'https://d2xl3i29vwgm2y.cloudfront.net/media/static/50/2f/502fee1a-cc90-4d00-8e91-7e972425990d/quakers_champions_111.jpg'
 author: Method Studios
 comments: false
-date: 2022-01-20 10:23:00
+date: 2022-01-20 11:19:22
 thumbnail: 'https://d2xl3i29vwgm2y.cloudfront.net/media/static/50/2f/502fee1a-cc90-4d00-8e91-7e972425990d/quakers_champions_111.jpg'
 ---
 
