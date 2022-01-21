@@ -1,0 +1,19 @@
+
+---
+title: 'AI赋能新基建，思必驰智慧轨交方案助力城市可持续发展'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/21/yuanchen/1642734918346016126.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 21 Jan 2022 03:11:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/21/yuanchen/1642734918346016126.png'
+---
+
+<div>   
+<p style="white-space: normal; text-indent: 2em; text-align: left;">中国城市轨道交通协会在《“十四五”铁路科技创新规划》中提出了持续推进智慧城轨建设；交通运输部科学研究院《城市轨道交通蓝皮书》中指出，人工智能等技术已与交通行业深度融合，新一轮科技革命将深入推进城市轨道交通行业发展与变革。</p><p style="white-space: normal; text-indent: 2em; text-align: left;">作为国内专业的对话式人工智能平台公司，思必驰基于自主研发的全链路智能语音技术，推出轨交智慧车站Turnkey产品解决方案，目前已在多城市落地，助力轨道交通智能化升级。</p><p style="white-space: normal; text-indent: 2em; text-align: left;"><strong><span class="hrefStyle"><a href="https://www.ofweek.com/ai/" target="_blank" title="AI">AI</a></span>赋能，助力多省轨交高效运行</strong></p><p style="white-space: normal; text-indent: 2em; text-align: left;">畅通、高效、可靠的交通方式不仅是出行者选择交通方式的基础，也是城市交通管理者追求的目标。随着我国城市化进程不断发展，“作为新基建”重点建设领域的轨道交通，也亟需新技术赋能升级。</p><p style="white-space: normal; text-indent: 2em; text-align: left;">当前车站环境中，传统购票方式在客流量较大的情况下容易造成排队拥堵，导致乘客出行体验较差。为有效提升轨交车站服务质量，思必驰推出轨交智慧车站Turnkey产品解决方案，提供无接触的智能语音购票、智能语音咨询、智能客服一体机、智能语音控制大屏等，助力车站设备实现智能化服务升级。该方案目前已落地广东、江苏、陕西、河北等多条地铁路线。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/21/yuanchen/1642734918346016126.png" title="AI赋能新基建，思必驰智慧轨交方案助力城市可持续发展" alt="AI赋能新基建，思必驰智慧轨交方案助力城市可持续发展" referrerpolicy="no-referrer"></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><strong>多模态交互与全双工技术，实现畅快购票</strong></p><p style="white-space: normal; text-indent: 2em; text-align: left;">传统售票机，由于乘客对目的地的站点及线路不熟悉，需要花费大量的时间在选取目的地上面。传统购票方式一般需要35秒以上才能完成购票，思必驰助力传统售票机升级后，从识别乘客人脸到最终完成语音选站仅需3到5秒，整个购票过程仅需十几秒时间，大大节约了乘客选站购票时间。</p><p style="white-space: normal; text-indent: 2em; text-align: left;">当乘客站在售票机前，思必驰多模态交互技术通过摄像头可检测到人脸并主动交互询问，定向增强用户人声，并且对地铁内的广播声、嘈杂人声、非业务办理人员的声音进行有效的降噪和抑制处理。交互过程中，思必驰全双工交互技术让交流更加流畅自然，让乘客体验到人与人而非是人与机器的对话感觉，支持连续交互、动态断句、语义打断、噪声拒识等功能，提供模糊搜索、周边地点搜索、站点搜索等方式进行购票，提高购票效率，</p><p style="white-space: normal; text-indent: 2em; text-align: left;">不止是购票，当乘客需要客服帮助时，可通过客服一体机、机器人等进行语音咨询，并且处理票卡相关问题，1个智能客服中心支持4个乘客同时进行语音咨询，该功能还支持中英文语种及粤语、上海话、四川话等方言识别。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/21/yuanchen/1642734932770045470.png" title="AI赋能新基建，思必驰智慧轨交方案助力城市可持续发展" alt="AI赋能新基建，思必驰智慧轨交方案助力城市可持续发展" referrerpolicy="no-referrer"></p><p style="white-space: normal; text-align: center; text-indent: 2em;">思必驰语音购票界面示例</p><p style="white-space: normal; text-indent: 2em; text-align: left;"><strong>全链路语音交互与知识管理平台，智慧轨交运营利器</strong></p><p style="white-space: normal; text-indent: 2em; text-align: left;">对轨交管理者而言，思必驰智慧轨交方案可以帮助客服坐席视频与乘客对讲，并在每一次服务后自动录入转写对话内容；车站整体监控操作都可以通过可见即可说技术，实现车控中心里的大屏语音指令控制及数据调用，大大提升了管理效率及服务水平。</p><p style="white-space: normal; text-indent: 2em; text-align: left;">车站的高效运行，离不开后台强大的AI知识数据管理。思必驰轨交知识管理平台包括客服知识、车站信息、常用功能、留言反馈等模块。通过客服知识模块设置回答乘客疑问如“怎么开发票？”“电子票怎么买？”，还可以编辑票务政策、安全法规等内容发布。车站信息模块可以用作后台设置站内卫生间电梯等设施地点，以及车站出入口、周边公交线路指示信息。整体而言，思必驰轨交知识管理平台可用于站点运营，并作为轨交政策、管理规定提供数据来源，满足轨交管理者智慧运营的需求。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/21/yuanchen/1642734953021018754.jpeg" title="AI赋能新基建，思必驰智慧轨交方案助力城市可持续发展" alt="AI赋能新基建，思必驰智慧轨交方案助力城市可持续发展" referrerpolicy="no-referrer"></p><p style="white-space: normal; text-indent: 2em; text-align: left;">此外，思必驰智慧轨交方案采取Turnkey的方式快速部署，针对各城市轨交的共同点和不同诉求，实现标准化及可定制化。</p><p style="white-space: normal; text-indent: 2em; text-align: left;">全球城市化正在加速前进，用先进的技术引领城市可持续发展，是思必驰的重要使命之一。未来，思必驰将在轨交领域不断开拓，为推进城市智能化发展贡献科技力量。</p> 
+  
+</div>
+            
