@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220121/1642751675_1050
 游戏预告
 </h3>
 <p align="center">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTIwNDA4NDAwMA?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTIwNDA4NDAwMA?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
 <p style="text-indent:2em;">
