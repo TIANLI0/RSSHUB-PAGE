@@ -1,0 +1,18 @@
+
+---
+title: '由于工作压力，想养一只猫咪，目前打算想养一只英短或加菲，请问有没有什么好的购买建议或指导？-玫斯METZ的回答：英短没问题，但是加菲的话，可以三思而后行~ ...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-5a4e885438f248ec47f3931ab0d4d280_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 21 Jan 2022 07:13:42 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-5a4e885438f248ec47f3931ab0d4d280_1440w.jpg'
+---
+
+<div>   
+<strong>由于工作压力，想养一只猫咪，目前打算想养一只英短或加菲，请问有没有什么好的购买建议或指导？</strong><br>玫斯METZ的回答<br><p data-pid="f8jqWf9-">英短没问题，但是加菲的话，可以三思而后行~</p><p data-pid="SU6V7gvv"><b>先天因素 特殊品种</b></p><p data-pid="fuCxwYPW">加菲有天生的泪痕问题，因为它们的鼻道短，而且非常容易堵塞，除了<b>加菲猫、波斯猫，</b>其实有些犬种也有这个问题：<b>巴哥、西施、日本狆</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-5a4e885438f248ec47f3931ab0d4d280_1440w.jpg" data-caption data-size="normal" data-rawwidth="300" data-rawheight="137" data-default-watermark-src="https://pic2.zhimg.com/v2-efe9158f12a0ccadd9c9495d8651df71_b.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="ayIkKcJz">这种现象通常出现在天生鼻道短的品种，天生泪痕，无法根治。鼻泪管曲度变得很大，所以排出泪水的量有限，即使是正常的分泌泪水量也无法负荷，就会造成难看泪痕甚至黑眼眶。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-3076373df1d215ad0143f0ff5e553ec9_1440w.jpg" data-size="normal" data-rawwidth="550" data-rawheight="330" data-default-watermark-src="https://pic3.zhimg.com/v2-0a4787f8d72317efb0996528ebba6536_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-3076373df1d215ad0143f0ff5e553ec9_r.jpg" referrerpolicy="no-referrer"><figcaption>天生泪痕，无法根治，只有更多护理。</figcaption></figure><p data-pid="FI65yzQa"><b>还有就是病理因素，鼻泪管堵塞</b></p><p data-pid="8VAiizc1">因为很多宠物的鼻泪管天生较狭窄，多余的泪液无法经由鼻泪管流至鼻咽而溢出时眼睛就会产生泪痕。当鼻泪管存在炎症或者有其他物质进入时，会造成整个管道完全堵塞或是不完全堵塞的情形，于是眼泪也就无法正常从鼻泪管排出，自然就会外溢出，进而也就形成难看的泪痕。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-6c5a5bf9b0b49bd6d6a726d0ea95425f_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="516" data-default-watermark-src="https://pic1.zhimg.com/v2-bab13e13d8b6414f231f6a48b9aee470_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-6c5a5bf9b0b49bd6d6a726d0ea95425f_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="l-7jf4Ji"><b>眼部多护理</b></p><p data-pid="0sZJSXly">重要的是，勤劳清洁擦拭，主人还可以给猫咪每周做三次眼部按摩，可以有效帮助鼻泪管畅通，减少眼泪的出现：</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-2d8d42af80bb9415c6a32def5c482c09_1440w.jpg" data-caption data-size="normal" data-rawwidth="680" data-rawheight="680" data-default-watermark-src="https://pic3.zhimg.com/v2-6f40bdd8eded6de41fb6d3ae148da4fa_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-2d8d42af80bb9415c6a32def5c482c09_r.jpg" referrerpolicy="no-referrer"></figure><ul><li data-pid="nnFrPWUB">先用棉签蘸温水擦拭下；</li><li data-pid="9y0eL0nM">接着用纸巾擦干；</li><li data-pid="YTNg3ncT">这时，一般的方法已经擦过了，但还是有泪痕；</li></ul><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-17f1ccfa8a814d8ec4b3fa4a52462e87_1440w.jpg" data-caption data-size="normal" data-rawwidth="500" data-rawheight="500" data-default-watermark-src="https://pic4.zhimg.com/v2-b91f02731703f70b726640c97cdc460f_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-17f1ccfa8a814d8ec4b3fa4a52462e87_r.jpg" referrerpolicy="no-referrer"></figure><ul><li data-pid="YSvbFHp2">然后，我们在猫眼部倒一点【泪痕护理液】；</li><li data-pid="gVsrcZUL">用棉签逆着毛发的方向进行擦拭清理，一定要清理毛发的根部；</li><li data-pid="rY7dwvxh">切记：少量多次，可以给它适当的按摩几下；</li><li data-pid="Z1lCKysC">继续用棉签蘸温水洗掉护理液，也可以用宠物湿纸巾擦干净；这时，泪痕已经少了很多啦~</li><li data-pid="LhlUgCg7">最后一步：用柔软的刷子蘸取【泪痕粉】轻轻涂在泪痕上，【泪痕粉】是可以不用清洗掉。</li><li data-pid="Okrykucm">这样我们的小猫咪就又变得干净和可爱啦~</li></ul><p data-pid="bOC9FpyK">所以，养加菲的话，就需要多（天）多（天）护理！<br> </p>  
+</div>
+            
