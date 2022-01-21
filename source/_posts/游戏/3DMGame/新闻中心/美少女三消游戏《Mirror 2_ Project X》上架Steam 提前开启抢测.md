@@ -14,19 +14,19 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220121/1642747208_8544
 
 <div>   
 <p style="text-indent:2em;">
-比起原本发售日提前一周，美少女三消游戏《Mirror 2: Project X》于1月21日今天商家Steam， 提前开启抢测，一起来了解下。
+比起原本发售日提前一周，美少女三消游戏《Mirror 2: Project X》于1月21日今天上架Steam， 提前开启抢测，一起来了解下。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220121/1642747208_854428.jpg" alt="美少女三消游戏《Mirror 2: Project X》上架Steam 提前开启抢测" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220121/1642747208_854428.jpg" alt="美少女三消游戏《Mirror 2: Project X》上架Steam 提前开启抢测" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>《Mirror 2: Project X》：<a href="https://store.steampowered.com/app/1832640/Mirror_2_Project_X/" target="_blank">Steam 地址</a></strong>
+<strong>《Mirror 2: Project X》：<a href="https://store.steampowered.com/app/1832640/Mirror_2_Project_X/" target="_blank">Steam 地址</a></strong> 
 </p>
 <p style="text-indent:2em;">
 •《Mirror 2：Project X》是一款基于UE4引擎打造的卡通渲风格剧情向游戏。在游戏中，你是联邦研究保护局FBRP的研究员，为保护人类应对来源不明的各种超自然现象及物体的研究工作。你将走进一个位面重叠的平行宇宙世界，人类面临的不可知事物何其之多，你所做出的每个选择都将影响游戏的结局。
 </p>
 <p style="text-indent:2em;">
-<strong>•《Mirror 2：Project X》的游戏特点：</strong>
+<strong>•《Mirror 2：Project X》的游戏特点：</strong> 
 </p>
 <p style="text-indent:2em;">
 1.宏大的世界观，让你沉浸其中不能自拔。
