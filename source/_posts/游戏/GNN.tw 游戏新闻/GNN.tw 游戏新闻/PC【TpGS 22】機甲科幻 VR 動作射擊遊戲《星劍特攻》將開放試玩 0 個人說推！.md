@@ -15,7 +15,7 @@ thumbnail: 'https://p2.bahamut.com.tw/S/2KU/92/024b5044ecc8cf2d31c3cce58c1f2yk5.
 ---
 
 <div>   
-專注 VR 遊戲開發的藝術維欣（Art Zero）首次進軍台北國際電玩展，將於 1 月 22 日至 1 月 25 日四天展期中，展出首款結合手部追蹤及平滑移動技術的日系機甲科幻 VR 動作射擊遊戲《星劍特攻（Sin Breaker Rig）...
+專注 VR 遊戲開發的藝術維欣（Art Zero）首次進軍台北國際電玩展，將於 1 月 22 日至 1 月 25 日四天展期中，展出首款結合手部追蹤及平滑移動技術的日系畫風、機甲科幻 VR 動作射擊遊戲《星劍特攻（Sin Breaker R...
 繼續閱讀
 <img src="https://p2.bahamut.com.tw/S/2KU/92/024b5044ecc8cf2d31c3cce58c1f2yk5.JPG" referrerpolicy="no-referrer">  
 </div>
