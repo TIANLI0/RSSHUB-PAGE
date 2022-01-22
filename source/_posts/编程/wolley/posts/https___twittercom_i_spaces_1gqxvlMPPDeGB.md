@@ -5,11 +5,11 @@ categories:
  - 编程
  - wolley
  - posts
-headimg: 'https://picsum.photos/400/300?random=5619'
+headimg: 'https://picsum.photos/400/300?random=8026'
 author: wolley
 comments: false
 date: Sat, 22 Jan 2022 01:30:38 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5619'
+thumbnail: 'https://picsum.photos/400/300?random=8026'
 ---
 
 <div>   
