@@ -24,7 +24,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/01/24/220124081359877_u1628
                 
 <div class="topicContent front_content"><p>　　新一周（1.16～1.23）的 Steam 销量榜出炉，圣莫妮卡工作室于 2018 年推出的动作游戏《战神》登陆 Steam 平台第二周仍保持着销量榜首，本作目前在 Steam 上的好评率为 96%。
 
-</p><p style="text-align: center;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/01/24/220124081359877_u162815.jpg" class referrerpolicy="no-referrer"><br></p><p>　　上上周发售的《怪物猎人 崛起》销量也维持在第二的未知，好评率回升至 86%。
+</p><p style="text-align: center;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/01/24/220124081359877_u162815.jpg" class referrerpolicy="no-referrer"><br></p><p>　　上上周发售的《怪物猎人 崛起》销量也维持在第二的位置，好评率回升至 86%。
 
 </p><p style="text-align: center;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/01/24/22012408141323_u162815.jpg" class referrerpolicy="no-referrer"><br></p><p>　　位于第三的是多人合作主视角射击游戏《严阵以待》。
 
