@@ -1,0 +1,18 @@
+
+---
+title: '猫会发腮吗，一般是多大的时候？-帕星球养宠乐园的回答：并不是所有的猫咪都能长成这一张大圆脸！因为这并不是简单的_吃胖_了，而是——发腮！！ l 啥是发腮？...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-762b66d6ac7e9f961e709b1e469bc33c_1440w.jpg'
+author: 知乎
+comments: false
+date: Wed, 26 Jan 2022 02:35:51 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-762b66d6ac7e9f961e709b1e469bc33c_1440w.jpg'
+---
+
+<div>   
+<strong>猫会发腮吗，一般是多大的时候？</strong><br>帕星球养宠乐园的回答<br><p data-pid="-1fCcyeT">并不是所有的猫咪都能长成这一张大圆脸！因为这并不是简单的“吃胖”了，而是——发腮！！</p><p data-pid="-8cakY7Z"><b>l</b> <b>啥是发腮？</b></p><p data-pid="N1IOF3B_">猫咪发腮，是<b>公猫才有的第二性征</b>。一般在公猫十个月大左右，雄性激素水平逐渐提高所致。表现就是两腮长肉肉（不是双下巴！不是双下巴！不是双下巴！）。</p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-762b66d6ac7e9f961e709b1e469bc33c_1440w.jpg" data-caption data-size="small" data-rawwidth="1036" data-rawheight="1049" data-default-watermark-src="https://pic1.zhimg.com/v2-220e1758d13e72e5ee21f1efb51530b8_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-762b66d6ac7e9f961e709b1e469bc33c_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="AwxhhCaI"><b>影响猫咪发腮的因素有哪些？</b><br><b>1、基因</b><br>母猫是不会发腮的！就跟女孩子不会有喉结一样。母猫脸上肉肉的，多半就是胖的（偷笑）。<br>而公猫发腮很大程度和基因有关！<br>比如英短、美短这样的品种，就比较容易发腮，而像暹罗这种天生身材纤纤的猫咪就比较难发腮，只会长胖哈哈哈哈哈哈哈。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-9fdf02efa1deb5c1d00ade66a842acda_1440w.jpg" data-caption data-size="normal" data-rawwidth="500" data-rawheight="500" data-default-watermark-src="https://pic4.zhimg.com/v2-53b9d076026a594e4568ec9db22109df_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-9fdf02efa1deb5c1d00ade66a842acda_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="Yzi6vgDb"><b>发腮也得看遗传（主要是看猫爸爸）！</b></p><p data-pid="oI3ApoR5">有的猫咪，“家谱里的男丁”都没有发腮，那么这只喵基本也是不会发腮的。</p><h2><b>2、绝育</b></h2><p data-pid="jVtkNjtS">过早地给猫咪绝育，也是会影响发腮的。</p><p data-pid="6bSzC--s">甚至有的喵在发腮之后被割铃铛，也会影响腮的大小。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="wGcwtzh5"><b>3、跟胖没关系！</b></p><p data-pid="7We2CJ78">有的铲屎官觉得猫咪胖了，就是发腮了。醒醒啊！那只是双下巴！！！<br>发腮，是脸颊两边鼓起的2块<b>肌肉</b>，会有一点硬硬的，不是软塌塌的；而双下巴，就是下巴后的肥肉，软软的。两者摸起来也是有区别的！而且一般因为变胖而脸圆的猫咪，全身都会胖；但如果是发腮，猫咪可能只有脸比较圆。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-0a949c527d92a2bfa79ac301085cf8c5_1440w.jpg" data-caption data-size="normal" data-rawwidth="244" data-rawheight="220" data-default-watermark-src="https://pic1.zhimg.com/v2-2901bebcf34ee7ead95f25a6b6a390a0_b.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="kX_rjg50"><b>如何让猫发腮？</b><br>虽然说猫咪发腮与否和基因关系更大。<br>但是在猫咪成长过程中，给它足够完善的营养，才能保证发育发腮！</p><ul><li data-pid="rnVn8A9g"><b>要吃肉！</b>猫咪正处于发育期发腮，高动物蛋白是保证猫咪正常发育的基础。</li><li data-pid="gSocdOHh"><b>健康饮食！</b>少盐、少糖、低油的猫咪主食，能减少肾脏和肠胃负担，保证健康。</li><li data-pid="IAJ8LBkY"><b>营养全面！</b>除了蛋白质、脂肪成分，也要注意猫咪所需的维生素、微量元素，让猫咪吃的更科学、更全面。</li></ul><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-f92c1bf42b9bfbcba063ed8715938617_1440w.jpg" data-caption data-size="normal" data-rawwidth="571" data-rawheight="571" data-default-watermark-src="https://pic1.zhimg.com/v2-2e1331ff2b8d11e41f558903051458e4_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-f92c1bf42b9bfbcba063ed8715938617_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="gL6jgpX-">猫咪脸圆圆的固然可爱，但也不要一昧的追求发腮。如果为了把猫咪“喂”发腮，而使猫咪长胖长胖长胖，反而得不偿失，要知道，猫咪太过肥胖，是会影响它们的身体健康的。</p><p data-pid="BDRhD5xZ">所以，心态一定要摆正，不要太过追求。</p>  
+</div>
+            
