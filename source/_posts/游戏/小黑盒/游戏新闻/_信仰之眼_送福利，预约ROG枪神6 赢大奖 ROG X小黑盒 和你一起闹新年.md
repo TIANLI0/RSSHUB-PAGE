@@ -1,0 +1,18 @@
+
+---
+title: '_信仰之眼_送福利，预约ROG枪神6 赢大奖 ROG X小黑盒 和你一起闹新年'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/01/26/4b774ec839eabce25f44e5d76fc47507/thumb.png'
+author: 小黑盒
+comments: false
+date: 2022-01-26 10:23:36
+thumbnail: 'https://imgheybox.max-c.com/web/2022/01/26/4b774ec839eabce25f44e5d76fc47507/thumb.png'
+---
+
+<div>   
+<p>过去2021年，游戏本的持续火热让笔记本行业热闹纷呈，整个PC市场再次焕发生机！<br></p><p>2022年春节即将到来，大家必然对新款游戏本都有着新的期待！而“信仰之眼”——ROG必然不会让你失望！2月10日ROG将发布最新旗舰游戏本枪神6，现已开始预约！同大家一起闹新年，2022年ROG的好戏才刚刚开始！</p><p><img class="lazy" data-height="394" src="https://imgheybox.max-c.com/web/2022/01/26/4b774ec839eabce25f44e5d76fc47507/thumb.png" data-width="543" referrerpolicy="no-referrer"></p><p>那么新的“枪神”在新年能给我们什么新的惊喜呢？<br></p><p></p><p><img class="lazy" data-height="288" src="https://imgheybox.max-c.com/web/2022/01/26/4db99b30d3eed779523d596bf242bad2/thumb.jpeg" data-width="550" referrerpolicy="no-referrer"></p><p>ROG枪神6首发搭载了Intel Core i9-12900H处理器，“等等党”们终于等到了！这也是目前12代移动端序列中最强悍的一款处理器，采用14核心20线程设计，单核睿频5.0Hz。枪神6更内置 16GB DDR5-4800 内存，标配 1TB PCIe 4.0 固态硬盘。全面性能优化，助你新年游戏杀敌无往不胜！</p><p></p><p><img class="lazy" data-height="755" src="https://imgheybox.max-c.com/bbs/2022/01/26/09f7768160b967042527ff7ffe548cdc/thumb.png" data-width="859" referrerpolicy="no-referrer"></p><p></p><p>作为最新枪神游戏本，显卡的能力也不容小觑，枪神6搭载150W满功耗NVIDIA GeForce RTX 3070Ti GPU 8GB显卡，支持实时光线追踪，DLSS提升画质和帧率。</p><p><img class="lazy" data-height="713" src="https://imgheybox.max-c.com/web/2022/01/26/68478bb716bba42ea18fbd45b055936f/thumb.png" data-width="1267" referrerpolicy="no-referrer"></p><p>就算是配置要求极高的《赛博朋克2077》，2K分辨率全最高且开启光追和DLSS的设定下，游戏内平均帧数在50帧以上，性能表现强悍。</p><p><img class="lazy" data-height="421" src="https://imgheybox.max-c.com/web/2022/01/26/21fe79f5c4586b124d22bf809ca22d0a/thumb.png" data-width="589" referrerpolicy="no-referrer"></p><p>更支持双显三模式切换输出，独显输出，增强游戏性能，提高帧数；混合输出，低负载用集显，省电延长续航；集现模式，屏蔽独显功耗，延长续航时间。</p><p></p><p><img class="lazy" data-height="587" src="https://imgheybox.max-c.com/bbs/2022/01/26/5ff04ce27ccdf5bce4a8d4fde62c18d7/thumb.png" data-width="738" referrerpolicy="no-referrer"></p><p></p><p>新年要闹就闹大的，15.6寸电竞赛事级2.5K大屏，刷新率高达240Hz，2560x1440超高分辨率，100% P3广色域，满足你的“帧强好胜”，助你游戏“屏屏得手”！</p><p>更多新年ROG点击<a href="https://item.m.jd.com/product/100032622596.html?&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL&ad_od=share&utm_user=plusmember&gx=RnFkwmNZbDLen9RWroJ0VAmR2uygNrZsWsV42w" target="_blank">【点击进入ROG枪神6预约界面】</a></p><p><br></p><p>"信仰之眼"送福利，截图预约赢大奖，现在ROG携手小黑盒邀你一起预约ROG枪神6赢大奖！</p><p><br></p><p><b>活动时间</b></p><p>2022年01月26日-02月1日</p><p><b>参与方式</b></p><p><a href="https://item.m.jd.com/product/100032622596.html?&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL&ad_od=share&utm_user=plusmember&gx=RnFkwmNZbDLen9RWroJ0VAmR2uygNrZsWsV42w" target="_blank">【点击进入ROG枪神6预约界面】</a>预约枪神6并截图，将截图发送至评论区即可参与抽奖。</p><p><b>奖品</b></p><p></p><p><img class="lazy" data-height="348" src="https://imgheybox.max-c.com/bbs/2022/01/26/fe3f3e547b450a8daa4820bc42f5f021/thumb.png" data-width="870" referrerpolicy="no-referrer"></p><p></p><p>ROG魔导士键盘*1</p><p></p><p><img class="lazy" data-height="359" src="https://imgheybox.max-c.com/bbs/2022/01/26/a8f1633d68d9ace7b01e12cc6ffa06ef/thumb.png" data-width="554" referrerpolicy="no-referrer"></p><p></p><p>ROG U盘*10</p><p><b>参与须知</b></p><p>1.评论必须为原创首发，代投、搬运、转载等均视为无效。 </p><p>2.通过随机数抽取的方式，于截止时间统计出获奖名单。 </p><p>3.获奖名单将在活动结束后由官方在活动贴内进行公布，并统一进行奖励发放。 </p><p>4.开奖后请用户注意查收站内信，虚拟奖品将在开奖一周内为用户发放。 </p><p>5.（官方联系方式）有疑问的用户可在“我-设置-帮助中心&问题反馈”中进行工单反馈。</p>  
+</div>
+            
