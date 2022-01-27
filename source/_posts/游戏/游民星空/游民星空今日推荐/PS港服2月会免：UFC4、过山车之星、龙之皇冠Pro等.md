@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 游民星空
  - 游民星空今日推荐
-headimg: 'https://picsum.photos/400/300?random=9161'
+headimg: 'https://picsum.photos/400/300?random=7963'
 author: 游民星空
 comments: false
 date: Thu, 27 Jan 2022 11:16:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9161'
+thumbnail: 'https://picsum.photos/400/300?random=7963'
 ---
 
 <div>   
-2022年2月港服PS+会免游戏阵容公开  
+2022年2月港服PS+会免游戏阵容公开。  
 </div>
             
