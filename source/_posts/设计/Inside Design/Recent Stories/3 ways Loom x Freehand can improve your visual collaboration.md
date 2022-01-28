@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/loom-freehand-collaboration/'
 author: Inside Design
 comments: false
-date: 2022-01-28 06:24:42
+date: 2022-01-28 07:18:34
 thumbnail: 'https://www.invisionapp.com/inside-design/loom-freehand-collaboration/'
 ---
 
