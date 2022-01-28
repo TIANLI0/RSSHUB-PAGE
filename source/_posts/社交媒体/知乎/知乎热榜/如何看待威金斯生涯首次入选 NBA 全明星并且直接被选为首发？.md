@@ -1,0 +1,18 @@
+
+---
+title: '如何看待威金斯生涯首次入选 NBA 全明星并且直接被选为首发？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-9004eb271a79eeb006ed01662fc3a264_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 28 Jan 2022 04:27:00 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-9004eb271a79eeb006ed01662fc3a264_1440w.jpg'
+---
+
+<div>   
+名叫小c读作小c的回答<br><br><p></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-9004eb271a79eeb006ed01662fc3a264_1440w.jpg" data-rawwidth="687" data-rawheight="648" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-cd785ceddbdfe9bb3a6c0faed2d07d6d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-9004eb271a79eeb006ed01662fc3a264_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="dELOAV62">谢邀，维金斯入选实属正常。</p><p data-pid="GHTIlaAR">我在很早之前就专门分析了维金斯能够首发的原因。</p><p data-pid="_ahCTLgL">目前来看，首发全都被我预测对了。</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/answer/2298567725" data-image="https://pic2.zhimg.com/v2-257c371fce6ca11ab72048a3392cd630_bh.jpg" data-image-width="894" data-image-height="1828" class="internal">2022赛季，NBA球员安德鲁·维金斯能进全明星吗？</a><p><br></p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/answer/2319161692" data-image="https://pic3.zhimg.com/v2-ddaf40cdcbf26afbc430b011d89ab117_bh.jpg" data-image-width="1280" data-image-height="720" class="internal">2022 NBA 全明星第 3 轮投票，詹姆斯反超库里成新票王，最终首发阵容将会有哪些球星？</a><p data-pid="4cwgXIMX">谈谈维金斯入选后的心情吧，</p><p data-pid="2CbSh3wS">其实对于嘴哥入选我只有喜悦和祝福，顶着状元的光环，堂堂枫叶乔丹，进入NBA的第一件事就是被交易，这换做正常人心态可能都崩了，但他依然用温暖治愈人心的笑容笑对生活，将此中的艰涩自我消化。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-30164f0226290cdba0dc298511229f6d_720w.jpg" data-rawwidth="268" data-rawheight="369" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-2e7702a1aa18d0cf209db3882dafe30b_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="DkyfPwZI">来到森林狼队也并非一番风顺，本以为这位狼队的少主能够成为联盟前十的球星，和唐斯拉文巴特勒一起带领球队成为西部列强之一，但由于各种因素加上恩师的离世，维金斯的状态始终不温不火，外界说的最多的一句话就是“维金斯没有努力”，枸杞哥的外号也因此而来。</p><p data-pid="inM8rHFq">到勇士后的生活就更惨了，正好遇到勇士的重建期，满目疮痍，百废待兴，为了适应勇士的打法，调整调整再调整，经过两个赛季的磨练才能够有今天的高效率。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e40b299f182400243d5a8689fe2afa3e_1440w.jpg" data-rawwidth="641" data-rawheight="510" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-b70a637e9fd6191a306a3e12a6ac3e8e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e40b299f182400243d5a8689fe2afa3e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="YKjGph23">维金斯是同届新秀(2014年)第五个入选全明星的人，恩比德、约基奇、拉文和兰德尔都已经比他更早的证明了自己，作为一个八年的老兵，依然对提高自己这件事积极乐观，并能做出成绩，这本身就已经是一件很了不起的事。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-4240cba9dd58003222970e0c50d9c281_1440w.jpg" data-rawwidth="720" data-rawheight="1405" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-dd0b950eada6b89493c8ea9e7a1c5319_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-4240cba9dd58003222970e0c50d9c281_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="nOtQ57GS">加油维金斯，勇士队未来还需要你来扛。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-f21836de20920ba8f8af53bcb42520c7_1440w.jpg" data-rawwidth="640" data-rawheight="640" data-size="normal" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-f21836de20920ba8f8af53bcb42520c7_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
