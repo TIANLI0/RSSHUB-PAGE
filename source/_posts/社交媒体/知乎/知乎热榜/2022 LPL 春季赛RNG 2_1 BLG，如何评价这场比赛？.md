@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-d2f9faed4741a3eda598a51438fcd1d6_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=626'
 author: 知乎
 comments: false
-date: Thu, 27 Jan 2022 14:37:47 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-d2f9faed4741a3eda598a51438fcd1d6_1440w.jpg'
+date: Thu, 27 Jan 2022 15:58:23 GMT
+thumbnail: 'https://picsum.photos/400/300?random=626'
 ---
 
 <div>   
-乖悟的回答<br><br><p data-pid="hAVJGgqL">这三局比赛看下来，这个版本浓浓的运营风还是溢出屏幕了，无论是双方赛后板子零星的输出，还是整个游戏的节奏，拖发育运营成为了这个版本的主旋律。</p><p data-pid="NlUrzB_2">那么对于RNG来说，在运营的版本，他们对于兵线的管理，对于团战的经验，能够帮助他们很好的适应这个版本，不过今天的主角是bin，是两局对位几乎碾压的bin。</p><p data-pid="1kbvPO7n">第一局的格温与第三局的青钢影，bin就突出一个词：自信。无论是防gank还是配合队友gank，bin很明显融入了整个RNG的氛围之中，队友换资源我立马开溜，打团需要我我绝不后退，这样的角色对于RNGL来说太过于关键了。</p><p data-pid="IIJt0gzx">不过还是要夸一夸bin这两局找机会的能力，无论是格温下路瞬秒AD还是青钢影野区瞬秒雷克塞，两波完美的单人切入直接改变了对局的走向。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-d2f9faed4741a3eda598a51438fcd1d6_1440w.jpg" data-rawwidth="1407" data-rawheight="923" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-c1255ce3ddcad902583405916fe032b0_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-d2f9faed4741a3eda598a51438fcd1d6_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="IIJt0gzx"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-06eb62936098105c9d065c0b7b565967_1440w.jpg" data-rawwidth="1430" data-rawheight="923" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-526ad10e00532d99a23d23c4842df892_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-06eb62936098105c9d065c0b7b565967_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="IIJt0gzx">bin哥厉害！</p>  
+樱花Sama的回答<br><br><p data-pid="Es4EJzzL"><b>当时的转会期，小虎说国产只有两个上单来RNG，他才愿意回中，一位Bin，一位Breathe。</b></p><p data-pid="ehAf3aEw">今天的焦点，就是两队的上单。</p><p data-pid="135U3F8f">三把BP，两队都把上单的对线期看作重中之重，BP上给足了照顾。</p><p data-pid="nnM0SVpi">单以结果来说，今天Bin先赢呼吸哥一次，顺带破了BLG对RNG的血脉压制。</p><p data-pid="Huaa6COp"><b>我觉得呼吸哥今天拿到蛮王，也打出了自己的实力，真的是十分强的国产上单。</b>但是Bin在融入RNG后，在持续的拿到胜利之后，<b>Bin的自信心明显增强，在稳住对线以及增强防Gank能力后，Bin这一路对于RNG的整体辐射作用明显增强，RNG在运营层面更能从容不迫。</b>当然，运营这一点也与目前版本偏中后期有关系。</p><p data-pid="gXBYin7j">如果你经常看RNG比赛，很多时候上单都是制约RNG多线开花的关键点。去年的极致4保1小虎，暴露出的就是战略储备层面的单一，小虎一破产，有时候中下就很难站出来。今年有Bin这位选手，真的大有可为。</p><p data-pid="ddHoQfFn"><b>着重要提的一点，就是Bin的稳定性增强，不再贪图一兵一头的胜负，而是会去考虑自己作为上单位对于队伍的意义。</b>有了上单，你的拉扯面就会很广；有了上单，你的运营就能多一份底气。当BLG多人多次想尝试抓Bin作为突破口，<b>Bin已经退到二塔了</b>，这在赛季初是没有的。当然，也没了0/2这种逆风开局了。作为上单，有时候打线是很孤独的，尤其是前面的发育期，还要经常受到对面中野的照顾。耐得住性子，先不死，再图压制，最终图对队友的辐射，Bin真的再慢慢变好。</p><p data-pid="BvijV1JE">除了稳定性，<b>Bin的英雄池还是能够信任的</b>，这对于RNGBP的帮助，非常重要。以前的RNG，总是要在一路低你一头，尤其在上单位，真的，作为RNG粉丝的多年之痛。今年有Bin的到来，上单位目前没怎么吃过亏，只是赛季初发挥不够好，我是很高兴的。</p><p data-pid="JlftPu-A">今天2：1拿下，也挺艰难的，RNG全队失误今天很少，BLG其实也很少，两队都打得非常好。<b>有些朋友说看着困，其实不是，这恰恰是两队运营实力的体现。</b>那种开起来的团，都是双方机会找得好，而不是真的失误给到的破绽。</p><p data-pid="c-D6zgnX">因此，我今天真的挺高兴，高兴的是比赛赢了，更高兴的是RNG现在有我以前期待的那种样子了，上中下都能站出来，依靠野辅联动找机会打。上单的强势，三路强才是真的强。</p><p data-pid="CcyCwPo2">今天写了蛮多的，重点写下上单。当然，RNG其他队员也打得非常好，RNG其他四名队员以及教练组对于Bin的信任，才有年前优异的战绩。从赛季初对于磨合的担忧，到现在RNG的渐入佳境，真的非常开心。</p><p data-pid="q2TYbK2_">希望年后继续保持吧，<b>版本变动之时，才是对RNG的考验之时</b>，期待RNG后续的比赛。</p><p data-pid="-4zVG0xR">恭喜RNG！</p>  
 </div>
             
