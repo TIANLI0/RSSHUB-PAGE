@@ -5,11 +5,11 @@ categories:
  - 金融
  - 世界经济论坛
  - 报告
-headimg: 'https://picsum.photos/400/300?random=8515'
+headimg: 'https://picsum.photos/400/300?random=8831'
 author: 世界经济论坛
 comments: false
-date: 2022-02-02 01:09:46
-thumbnail: 'https://picsum.photos/400/300?random=8515'
+date: 2022-02-02 02:32:35
+thumbnail: 'https://picsum.photos/400/300?random=8831'
 ---
 
 <div>   
