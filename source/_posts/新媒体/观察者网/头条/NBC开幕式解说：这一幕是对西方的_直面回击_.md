@@ -90,7 +90,7 @@ NBC奥运主播格思里为澳裔，常年主持NBC晨间新闻节目，经验�
 有趣的是，观察者网注意到，《纽约时报》面对这一场景竟然“乱了阵脚”，把点火仪式的报道标题反复改了又改，最终定为<strong>“由一名有维吾尔名字的运动员”点燃圣火</strong>——只因“至死”都不愿承认这一事实。
 </p>
 <p style="text-align:center;">
-<img src="https://i.guancha.cn/news/external/2022/02/05/20220205134832359.jpg" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
+<img src="https://i.guancha.cn/news/external/2022/02/05/20220205142012457.png" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
 </p>
 <p>
 也有人早已看破《纽约时报》的“小心思”：如果开幕式没有维吾尔族运动员，那么《纽约时报》又要说“中国刻意避免让维吾尔族运动员露面”，如果有，那又成了“中国向西方发表声明”，<strong>无论如何《纽约时报》都会有自己的议程。</strong> 
@@ -99,10 +99,10 @@ NBC奥运主播格思里为澳裔，常年主持NBC晨间新闻节目，经验�
 <img src="https://i.guancha.cn/news/vcg/2022/02/05/20220205132203107.png" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
 </p>
 <p>
-正因如此，有外国网民认为冬奥会开幕式怎么安排，完全是东道主的决定。这位网民认为《纽约时报》报道中方此举“有挑衅意味”，简直就是西方“自私自利”、“自以为是”的典范。<strong>“向谁挑衅了？到底谁被挑衅了？这些西方宣传人士想东想西的，中国为什么要在乎呢？”</strong> 
+正因如此，有外国网民说，开幕式怎么安排，完全是东道主的决定。这位网民认为，《纽约时报》说中方此举“有挑衅意味”（provocative），简直是西方教科书式的“自私自利”、“自以为是”的表现。<strong>“向谁挑衅了？到底谁被挑衅了？这些西方宣传人士想东想西的，中国为什么要在乎呢？”</strong> 
 </p>
 <p style="text-align:center;">
-<img src="https://i.guancha.cn/news/vcg/2022/02/05/20220205132602942.png" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
+<img src="https://i.guancha.cn/news/hmt/2022/02/05/20220205142001962.png" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
 </p>
 <p>
 <strong>2008→2022：NBC“沧海桑田”</strong> 
