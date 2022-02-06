@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/042/097/669/original/84c87f4646b73e8b.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/042/098/429/original/7144404139c5b8dc.jpg'
 author: Mastodon
 comments: false
-date: Sun, 06 Feb 2022 04:26:31 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/042/097/669/original/84c87f4646b73e8b.png'
+date: Sun, 06 Feb 2022 05:12:53 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/042/098/429/original/7144404139c5b8dc.jpg'
 ---
 
 <div>   
-<hr><p>これ以上描くと価格と完璧につりあわなくなるのでここまでにしておこう・・・</p><br><img src="https://img.pawoo.net/media_attachments/files/042/097/669/original/84c87f4646b73e8b.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>pixivにも貼ったけどこっちに修正薄めの貼っておくんご。<br>かわいいよねジュジュちゃん。</p><br><img src="https://img.pawoo.net/media_attachments/files/042/098/429/original/7144404139c5b8dc.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/042/098/441/original/af80024642f3405d.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/042/098/449/original/f8fecd8db0722f40.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/042/098/453/original/8515a7eb0be1f69f.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
