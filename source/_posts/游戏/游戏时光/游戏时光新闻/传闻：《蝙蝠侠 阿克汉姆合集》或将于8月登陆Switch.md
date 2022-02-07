@@ -26,9 +26,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/02/07/220207102110590_u1628
 
 </p><p style="text-align: center;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/07/220207102110590_u162815.jpg" class referrerpolicy="no-referrer"><br></p><p>　　《蝙蝠侠 阿克汉姆合集》早在 2018 年就主机和 PC 平台推出，收录了 Rocksteady 的《蝙蝠侠 阿克汉姆》名作三部曲，分别为《阿克汉姆疯人院》《阿克汉姆城》《阿克汉姆骑士》。事实上《蝙蝠侠 阿克汉姆城》曾登陆过 Wii U 平台，这也是 Rocksteady 旗下唯一一款在任系主机上推出过的蝙蝠侠游戏。
 
-</p><p style="text-align: center;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/07/22020710211761_u162815.jpg" class referrerpolicy="no-referrer"><br></p><p>　　Rocksteady 目前正在开发一款以“后蝙蝠侠”时代为主题的动作冒险游戏《哥谭骑士》（Gotham Knights），预计将于 2022 年推出，不知道本作是否会延期发售。
-
-</p><p style="text-align: right;">来源：<a href="https://www.videogameschronicle.com/news/it-looks-like-the-batman-arkham-games-could-be-coming-to-switch/">videogameschronicle</a></p></div>
+</p><p style="text-align: center;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/07/22020710211761_u162815.jpg" class referrerpolicy="no-referrer"><br></p><p>　　Rocksteady 目前正在开发《自杀小队 杀死正义联盟》，预计将于 2022 年推出。</p><p style="text-align: right;">来源：<a href="https://www.videogameschronicle.com/news/it-looks-like-the-batman-arkham-games-could-be-coming-to-switch/">videogameschronicle</a></p></div>
                 
                 
   
