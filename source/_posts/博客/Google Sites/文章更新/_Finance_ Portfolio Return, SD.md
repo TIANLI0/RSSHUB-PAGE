@@ -5,15 +5,15 @@ categories:
  - 博客
  - Google Sites
  - 文章更新
-headimg: 'https://picsum.photos/400/300?random=3702'
+headimg: 'https://picsum.photos/400/300?random=7646'
 author: Google Sites
 comments: false
-date: Mon, 07 Feb 2022 10:08:43 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3702'
+date: Mon, 07 Feb 2022 11:24:31 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7646'
 ---
 
 <div>   
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr">功能：計算Portoflio Return, SD<div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Portfolio Return, SD</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbz5UICGm28rjea13FJvIcaVothyOOR-6XQkrl1VsrTIZ_KAAvA/exec?mid=ACjPJvEZ4MnweL56SxUI22-b-5ZdDwQ77YGyJIF0fRlOIQ1x3eSf08ry4Zv40mFpu1fNiXbVp1CCeOyTUIOLBaIYngRGBMekROTO6BcB91hsEtL8S_t84G5sK_JOU4YdopmGwGg7ZIF7N0VwVigTR_ROroEpJNeWehHlOw&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Portfolio Return, SD" width="100%" height="400" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_169202620"></iframe></div></div></div></div><br></div></div></td></tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr">功能：計算Portoflio Return, SD<div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Portfolio Return, SD</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbz5UICGm28rjea13FJvIcaVothyOOR-6XQkrl1VsrTIZ_KAAvA/exec?mid=ACjPJvE693MsYmY3KB76vAF90R3ThXCgoeWj8gwm8U4GE_lycy7t-Tadm0hFxOe80Aotj5KSkeCv4SO8cwVu2gQPydImRh3KIMBshSgjVilFbzd_aSYcxSSRPLcT4UbS0SVwX8SuI4sr6VJ1R0UMKgPfSLwrLVALJi3o3w&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Portfolio Return, SD" width="100%" height="400" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_1146067390"></iframe></div></div></div></div><br></div></div></td></tr></tbody></table>
   
 </div>
             
