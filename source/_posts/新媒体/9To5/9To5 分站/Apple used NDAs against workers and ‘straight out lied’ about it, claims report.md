@@ -36,10 +36,11 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/App
 <p>Ifeoma Ozoma, who helped organize the letter, told me Sunday that there “at the very least should be an investigation and, in my personal opinion, should be fines levied against the company for using a formal process to lie to a federal agency” […]</p>
 <p>Ozoma, who has advocated for greater worker protections against NDAs, said Apple has “straight out lied” to federal regulators and investors.</p>
 </blockquote>
+<p>Complaints filed <a href="https://www.scribd.com/document/551032149/Gjovik-s-SEC-Whistleblower-Complaint-Alleging-a-Fraudulent-Response-by-Apple-in-Response-to-a-Shareholder-Proposal" target="_blank" rel="noreferrer noopener">with both the SEC</a> and the <a href="https://www.scribd.com/document/551032148/Gjovik-s-NLRB-Charge-Alleging-Apple-s-Employee-Handbook-and-Policies-are-Unlawful" target="_blank" rel="noreferrer noopener">National Labor Relations Board</a> (NLRB) by former Apple employee <a href="https://9to5mac.com/2021/09/09/apple-fires-engineering-manager-ashley-gjovik-for-allegedly-violating-companys-rules/" target="_blank" rel="noreferrer noopener">Ashley M. Gjøvik</a> include the same allegations.</p>
 <p>California has already banned the use of NDAs in matters relating to employment discrimination, and seven other states are calling on the SEC to extend those protections to workers across the US.</p>
 <p>We’ve reached out to Apple for comment, and will update with any response.</p>
 <p><em>Photo: <a href="https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Scott Graham</a>/<a href="https://unsplash.com/s/photos/contract?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3B3CgSI"><img class="aligncenter wp-image-785795 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/JRNY-Native-banner.jpg?quality=82&strip=all" alt width="800" height="160" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
