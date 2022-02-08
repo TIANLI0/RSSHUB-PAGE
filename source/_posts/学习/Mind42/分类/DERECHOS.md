@@ -1,0 +1,19 @@
+
+---
+title: 'DERECHOS'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e394f570-b330-499d-8d59-ee284254fb44&size=gallery'
+author: Mind42
+comments: false
+date: 2022-02-08 05:18:23
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e394f570-b330-499d-8d59-ee284254fb44&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e394f570-b330-499d-8d59-ee284254fb44&size=gallery" referrerpolicy="no-referrer"><p>
+                    derechos                </p>  
+</div>
+            
