@@ -1,0 +1,19 @@
+
+---
+title: 'logback日志系统'
+categories: 
+ - 学习
+ - ProcessOn
+ - 推荐
+headimg: 'https://img.processon.com/chart_image/thumb/60a126011e08533129c9397c.png'
+author: ProcessOn
+comments: false
+date: 2022-02-10 02:32:36
+thumbnail: 'https://img.processon.com/chart_image/thumb/60a126011e08533129c9397c.png'
+---
+
+<div>   
+<img class="thumb" alt="logback日志系统" src="https://img.processon.com/chart_image/thumb/60a126011e08533129c9397c.png" referrerpolicy="no-referrer">
+<p>logback详细配置和使用</p>  
+</div>
+            
