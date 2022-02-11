@@ -1,0 +1,71 @@
+
+---
+title: '冬奥村的_tony_出圈，巴赫说一定会再来一次'
+categories: 
+ - 金融
+ - 新浪财经
+ - 新浪财经－国內
+headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
+author: 新浪财经
+comments: false
+date: Fri, 11 Feb 2022 05:11:31 GMT
+thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
+---
+
+<div>   
+<div class="video-2017" id="videoList0" style></div>
+
+<!--/video-list-->
+<p cms-style="font-L">　　冬奥村的“tony”出圈，有运动员称剪到了“这辈子最好的发型”。另据新华每日电讯，国际奥委会主席巴赫表示，一定会再来这里理发。</p><!-- news_keyword_pub,stock, -->
+
+
+
+
+
+
+
+<!-- 正文下iframe -->
+
+
+<!-- 正文下iframe -->
+
+<!-- 总声明-->
+
+
+
+
+
+
+
+
+
+
+
+<!-- 总声明-->
+
+<!-- 文末二维码 start -->
+
+
+            <!-- 文末二维码 start -->
+            <style>
+            .appendQr_wrap&#123;border:1px solid #E6E6E6;padding:8px;&#125;
+            .appendQr_normal&#123;float:left;&#125;
+            .appendQr_normal img&#123;width:74px;&#125;
+            .appendQr_normal_txt&#123;float:left;font-size:20px;line-height:74px;padding-left:20px;color:#333;&#125;
+            </style>
+            <div class="clearfix appendQr_wrap">
+                <div class="appendQr_normal"><img src="https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png" referrerpolicy="no-referrer"></div>
+                <div class="appendQr_normal_txt">海量资讯、精准解读，尽在新浪财经APP</div>
+            </div>
+            <!-- 文末二维码 start -->
+
+            <!-- 文末二维码 start -->
+
+<!-- 编辑姓名及工作代码 -->
+
+<p class="article-editor">责任编辑：王翔 </p>
+<!-- 编辑姓名及工作代码-->
+
+  
+</div>
+            
