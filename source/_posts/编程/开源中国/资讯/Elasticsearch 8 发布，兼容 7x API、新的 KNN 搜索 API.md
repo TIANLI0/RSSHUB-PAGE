@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1441'
+headimg: 'https://static.oschina.net/uploads/space/2022/0211/152931_bbF7_4937141.png'
 author: 开源中国
 comments: false
-date: Fri, 11 Feb 2022 07:03:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1441'
+date: Fri, 11 Feb 2022 15:02:00 GMT
+thumbnail: 'https://static.oschina.net/uploads/space/2022/0211/152931_bbF7_4937141.png'
 ---
 
 <div>   
 <div class="content">
                                                                                             <p>Elasticsearch 是一个基于 Lucene 库的搜索引擎。它提供了一个分布式、支持多租户的全文搜索引擎，具有 HTTP Web 接口和无模式 JSON 文档。Elasticsearch 是用 Java 开发的，并在 Apache 许可证下作为开源软件发布。官方客户端在 Java、.NET（C#）、PHP、Python、Apache Groovy、Ruby 和许多其他语言中都是可用的。</p> 
+<p><img height="409" src="https://static.oschina.net/uploads/space/2022/0211/152931_bbF7_4937141.png" width="700" referrerpolicy="no-referrer"></p> 
 <p>时隔近三年，Elasticsearch 8 正式发布，新增的功能包括：</p> 
 <h3>7.x REST API 兼容性</h3> 
 <p>8.0 为 Elasticsearch REST APIs 引入了一些重大的变化。虽然更新你的应用程序以适应这些变化十分重要，但在升级后寻找和更新每一个 API 调用可能对开发者而言十分痛苦且容易出错。为了使这个过程变得更加容易，Elasticsearch 已经在 REST API 中增加了对 7.x 兼容性 header 的支持。这些可选的 header 文件让你向 8.0 集群发出 7.x 兼容的请求，并收到 7.x 兼容的响应。</p> 
