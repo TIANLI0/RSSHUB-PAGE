@@ -1,0 +1,18 @@
+
+---
+title: 'chihuahua 和你一起做公益!     捐起來!!!!'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/15083877-cb2a-4e66-90ab-d11ba2a8aac8.jpeg'
+author: Matters
+comments: false
+date: Sat, 12 Feb 2022 15:13:22 GMT
+thumbnail: 'https://assets.matters.news/embed/15083877-cb2a-4e66-90ab-d11ba2a8aac8.jpeg'
+---
+
+<div>   
+<p>繼上一篇神木的新年新希望~ 神木在之前就買了2台變形平板分別來操作2個錢包帳號，有人可能會說再開一個錢包切換就好了，但是呢神木覺得我的是我的，幫助別人是別人的就不喜歡混再一起(超級固執 XD 也避免一台電腦中毒 大家一起不見的窘境XD</p><p>就在今天終於搞定拉～　紀錄一下！！！ ２０２２年　２／１２號！！！</p><p>26700吉娃娃幣 大概台幣 3181塊 包含了上一篇溫暖的支持</p><p>還有大家的按讚~</p><p>感謝以下支持 你們的愛心都放在裡面了～</p><p>@DAISY 我終於知道他們為啥說妳標不到了..... 我也標不到.. 有人好心點幫我標一下 感謝!</p><p><a class="mention" href="https://matters.news/@w2791099" target="_blank" data-display-name="白毛戳一下" data-user-name="w2791099" data-id="VXNlcjo2MTQxMQ">﻿<span>@白毛戳一下</span>﻿</a></p><p><a class="mention" href="https://matters.news/@nk980710" target="_blank" data-display-name="白鼬筆寬麵" data-user-name="nk980710" data-id="VXNlcjo2MDc1OA">﻿<span>@白鼬筆寬麵</span>﻿</a></p><p><a class="mention" href="https://matters.news/@ch847009" target="_blank" data-display-name="志工爺爺" data-user-name="ch847009" data-id="VXNlcjo0NjY3Ng">﻿<span>@志工爺爺</span>﻿</a></p><p><a class="mention" href="https://matters.news/@shaojohnwj" target="_blank" data-display-name="JohnShao" data-user-name="shaojohnwj" data-id="VXNlcjozMTAy">﻿<span>@JohnShao</span>﻿</a></p><p><a class="mention" href="https://matters.news/@thumbb13555" target="_blank" data-display-name="碼農日常" data-user-name="thumbb13555" data-id="VXNlcjo1NzI3NA">﻿<span>@碼農日常</span>﻿</a></p><figure class="image"><img src="https://assets.matters.news/embed/15083877-cb2a-4e66-90ab-d11ba2a8aac8.jpeg" data-asset-id="15083877-cb2a-4e66-90ab-d11ba2a8aac8" referrerpolicy="no-referrer"><figcaption><span>大家的愛心</span></figcaption></figure><p>後續計畫一半的利息錢轉投其他貨幣繼續質押，另一半定期捐款，捐款人我都想好名稱了</p><p><strong> Chill－huahua</strong> 希望那些捐款團體可以讓我用這個名子．．如果不行我再想想ＸＤ</p><p>大家一起笑哈哈~</p><p>也稍微宣傳一下 <a class="mention" href="https://matters.news/@thumbb13555" target="_blank" data-display-name="碼農日常" data-user-name="thumbb13555" data-id="VXNlcjo1NzI3NA">﻿<span>@碼農日常</span>﻿</a> <a class="mention" href="https://matters.news/@wwhowbuhow" target="_blank" data-display-name="雞蛋糕 GCAKE" data-user-name="wwhowbuhow" data-id="VXNlcjo1OTMyNg">﻿<span>@雞蛋糕 GCAKE</span>﻿</a> 的chihuahua驗證器</p><p>大家一起吉起來， 本次愛心跟我自己投資全部都投到碼農這裡拉~</p><figure class="image"><img src="https://assets.matters.news/embed/a046675d-32d8-460e-a3ea-356e6f7c2e58.jpeg" data-asset-id="a046675d-32d8-460e-a3ea-356e6f7c2e58" referrerpolicy="no-referrer"><figcaption><span>碼吉起來</span></figcaption></figure><p>另一個新希望 我也在努力中拉~ 這個禮拜我都沒吃澱粉類了.... ... 救我......我好餓...XD</p><p>但是身體清爽很多~肚子也消下去了~ 希望可以在瘦得快一點</p><p>用吉娃娃給的利息錢刷卡吃的減肥套餐!!! 這年頭減肥比吃肥還難..... 這樣就要130塊....認真 來說真的不貴而且超好吃，但是我可以買兩個炸雞排耶(小聲  好想吃炸雞排.....嗚嗚 QAQ</p><p>繼續持續下去!!!! 神木瘦起來!!</p><figure class="image"><img src="https://assets.matters.news/embed/19e27d4d-fb67-4c8f-a149-cdb8edaad35d.jpeg" data-asset-id="19e27d4d-fb67-4c8f-a149-cdb8edaad35d" referrerpolicy="no-referrer"><figcaption><span>好吃的減肥餐</span></figcaption></figure><p>如果你還不了解吉娃娃趕緊來官網看看，不要當買幣當作養幾百隻吉娃娃八XD</p><p>快來下面推特看看，一起來加入八～～～</p><p><a href="https://twitter.com/ChihuahuaChain" rel="noopener noreferrer" target="_blank">chihuahua</a></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>沒事沒事　有什麼事情　都可以跟我說　我還在</p>  
+</div>
+            
