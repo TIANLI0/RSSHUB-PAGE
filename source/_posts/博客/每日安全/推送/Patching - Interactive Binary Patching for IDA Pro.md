@@ -5,18 +5,18 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=77'
+headimg: 'https://picsum.photos/400/300?random=3277'
 author: 每日安全
 comments: false
-date: 2022-02-12 08:23:16
-thumbnail: 'https://picsum.photos/400/300?random=77'
+date: 2022-02-12 09:20:20
+thumbnail: 'https://picsum.photos/400/300?random=3277'
 ---
 
 <div>   
 <q>Patching - 一款为 IDA Pro 提供交互式 Patch 功能的插件</q>
 –
 <cite>
-<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+ <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
 <span class="text-muted"><small>• 1 day ago</small></span>
