@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://img.3dmgame.com/uploads/images/news/20220213/1644754385_111998.jpg'
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220213/1644756840_736781.jpg'
 author: 3DMGame
 comments: false
 date: Sun, 13 Feb 2022 12:15:00 GMT
-thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220213/1644754385_111998.jpg'
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220213/1644756840_736781.jpg'
 ---
 
 <div>   
@@ -28,6 +28,12 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220213/1644754385_1119
 </p>
 <p style="text-indent:2em;">
 《Nope》电影讲述加州内陆一个孤独峡谷中的居民目睹了一个离奇和令人毛骨悚然的发现。电影预告片留下了很多疑问，电影似乎涉及到了外星人绑架。
+</p>
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220213/1644756840_736781.jpg" alt="外星人绑架？《逃出绝命镇》导演新片《Nope》发正式预告" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+视频画面：
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220213/1644754385_111998.jpg" alt="外星人绑架？《逃出绝命镇》导演新片《Nope》发正式预告" referrerpolicy="no-referrer"> 
