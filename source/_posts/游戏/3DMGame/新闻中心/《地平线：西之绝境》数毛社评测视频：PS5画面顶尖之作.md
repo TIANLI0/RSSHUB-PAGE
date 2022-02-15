@@ -21,7 +21,7 @@ Foundry（以下简称DF）油管频道发布了对《地平线：西之绝境�
 <img src="https://img.3dmgame.com/uploads/images/news/20220215/1644891838_928184.jpg" alt="《地平线：西之绝境》数毛社评测视频：PS5画面顶尖之作" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>《地平线：西之绝境》分辨率和帧数：</strong>
+<strong>《地平线：西之绝境》分辨率和帧数：</strong> 
 </p>
 <p style="text-indent:2em;">
 PS4：动态1080P/30FPS
@@ -30,7 +30,7 @@ PS4：动态1080P/30FPS
 PS4 Pro：动态1800P棋盘渲染/30FPS
 </p>
 <p style="text-indent:2em;">
-PS5：原生4K/30FPS，10800P棋盘渲染/60FPS
+PS5：原生4K/30FPS，1800P棋盘渲染/60FPS
 </p>
 <p style="text-indent:2em;">
 <strong>DF技术分析视频：</strong> 
