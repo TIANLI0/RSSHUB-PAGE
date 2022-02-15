@@ -47,7 +47,7 @@ thumbnail: 'https://img.cls.cn/images/20220215/GMAI0nZOes.jpg'
 <p><strong>《盘中宝》：盘中有「宝」，快人一步！ </strong></p>
 <p>2月14日09:07《盘中宝》梳理出“辉瑞新冠药进口获紧急批准”的资讯，引用券商观点解读此动态，提及新冠治疗药物的后续催化有望持续。上市公司中，<strong>精华制药</strong>孙公司中间体规划年产能为230吨，<strong>其股价在2月14日、15日连续封住涨停，截至2月15日收盘，区间大涨10.21%</strong>。</p>
 <p><img src="https://img.cls.cn/images/20220215/NbOl6sUm0b.jpg" alt="image" referrerpolicy="no-referrer"></p>
-<p><img src="https://img.cls.cn/images/20220215/K0eNmm3t1i.jpg" alt="image" referrerpolicy="no-referrer"></p>
+<p><img src="https://img.cls.cn/images/20220215/h4662vU99s.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p>如您正使用财联社APP端，订阅可点击：</p>
 <p>订阅《盘中宝》请点击此处>>></p>
 <p>订阅《风口研报》请点击此处>>></p>
