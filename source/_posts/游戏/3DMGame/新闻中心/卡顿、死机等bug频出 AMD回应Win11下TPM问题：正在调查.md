@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220217/1645110680_8549
 我门之前报道过，在AMD平台上，TPM模块似乎还有别的问题，不少人都遇到了周期性死机、卡顿、系统不稳定、声音播放出现噼啪声及屏幕鼠标乱窜等问题。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220217/1645110680_854992.png" alt="卡顿、死机等bug频出 AMD回应Win11下TPM问题：正在调查" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220217/1645110680_854992.png" alt="卡顿、死机等bug频出 AMD回应Win11下TPM问题：正在调查" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 目前元凶基本上锁定在了AMD平台的fTPM功能上，后者可以让用户在没有物理TPM模块的情况下也能开启TPM类似的功能。
