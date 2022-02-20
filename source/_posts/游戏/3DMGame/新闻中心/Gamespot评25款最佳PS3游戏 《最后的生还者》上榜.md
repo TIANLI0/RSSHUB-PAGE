@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220220/1645337951_6863
 近日，外媒Gamespot列出了25款他们心目中PS3平台的最佳游戏，以下是具体名单（排名不分先后），《蝙蝠侠：阿卡姆之城》、《猎天使魔女》等知名大作上榜，GS表示他们只收录了每个系列中的一款游戏，因此大家不会在榜单中找到多款《神秘海域》、《质量效应》或《蝙蝠侠》游戏。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220220/1645337951_686393.jpg" alt="Gamespot评25款最佳PS3游戏 《最后的生还者》上榜" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220220/1645337951_686393.jpg" alt="Gamespot评25款最佳PS3游戏 《最后的生还者》上榜" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 最佳PS3游戏TOP25
@@ -62,7 +62,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220220/1645337951_6863
 《最后的生还者》
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220220/1645338413_463051.jpg" alt="Gamespot评25款最佳PS3游戏 《最后的生还者》上榜" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220220/1645338413_463051.jpg" alt="Gamespot评25款最佳PS3游戏 《最后的生还者》上榜" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《质量效应2》
@@ -101,7 +101,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220220/1645337951_6863
 《幽浮：未知敌人》
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220220/1645338425_511594.jpg" alt="Gamespot评25款最佳PS3游戏 《最后的生还者》上榜" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220220/1645338425_511594.jpg" alt="Gamespot评25款最佳PS3游戏 《最后的生还者》上榜" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
