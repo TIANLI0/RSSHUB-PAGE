@@ -69,6 +69,6 @@ thumbnail: 'https://img.36krcdn.com/20220223/v2_5446e310e474478dad2aa6d5445684e4
 <p><strong>可以窥见，测评市场是一块巨大的蛋糕。不过这条赛道并不好走，抖音上的测评博主，大多都在掉粉，甚至一些千万粉丝级账号已经停更，只有一些头部账号在持续发力。</strong></p> 
 <p>有资深行业人士告诉剁椒TMT，测评行业头部玩家有的已经在筹备IPO了。</p> 
 <p>一边是观众对于测评审美疲劳，一边是测评行业内部互撕，测评的风口还能吹多久？</p> 
-<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=Mzg2MTcwMjk2OA==&mid=2247504684&idx=1&sn=6eeccffb19fd16ff129fa76ff4d1a3a6&chksm=ce118d7bf966046db5dcf05672bd74ea805d29c36aa3227ea7aef55bacc7e578f0f0be9f2199#rd">“剁椒娱投”（ID：ylwanjia）</a>，作者：妙啊，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=Mzg2MTcwMjk2OA==&mid=2247504684&idx=1&sn=6eeccffb19fd16ff129fa76ff4d1a3a6&chksm=ce118d7bf966046db5dcf05672bd74ea805d29c36aa3227ea7aef55bacc7e578f0f0be9f2199#rd">“剁椒娱投”（ID：ylwanjia）</a>，作者：妙啊，36氪经授权发布。</p>  
 </div>
             
