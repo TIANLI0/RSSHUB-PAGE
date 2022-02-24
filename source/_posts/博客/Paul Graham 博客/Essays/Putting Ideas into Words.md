@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=1611'
+headimg: 'https://picsum.photos/400/300?random=1305'
 author: Paul Graham 博客
 comments: false
-date: 2022-02-23 15:22:34
-thumbnail: 'https://picsum.photos/400/300?random=1611'
+date: 2022-02-24 01:20:28
+thumbnail: 'https://picsum.photos/400/300?random=1305'
 ---
 
 <div>   
@@ -105,7 +105,7 @@ including writing. In the limit case (e.g. Seneca's letters),
 conversation in the latter sense becomes essay writing.<br><br>It can be very useful to talk (in either sense) with other people
 as you're writing something. But a verbal conversation will never
 be more exacting than when you're talking about something you're
-writing.<br><br><br><br><font color="888888"> <b>Thanks</b> to Trevor Blackwell and Robert
-Morris for reading drafts of this.  </font><br><br>  
+writing.<br><br><br><br><font color="888888"> <b>Thanks</b> to Trevor Blackwell, Patrick
+Collison, and Robert Morris for reading drafts of this.  </font><br><br>  
 </div>
             
