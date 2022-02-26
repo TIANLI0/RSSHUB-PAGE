@@ -1,0 +1,19 @@
+
+---
+title: 'PEOPLE GENIE-SOCIAL RELATIONSHIPS'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=7ed427ab-adb8-4bb8-be5e-62652a906034&size=gallery'
+author: Mind42
+comments: false
+date: 2022-02-26 14:19:38
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=7ed427ab-adb8-4bb8-be5e-62652a906034&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=7ed427ab-adb8-4bb8-be5e-62652a906034&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
