@@ -1,0 +1,22 @@
+
+---
+title: '從零打造我的Telegram翻譯機器人'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/a9bd3f4b-9f10-42c0-80bd-279a01b8550d.png'
+author: Matters
+comments: false
+date: Sun, 27 Feb 2022 08:16:03 GMT
+thumbnail: 'https://assets.matters.news/embed/a9bd3f4b-9f10-42c0-80bd-279a01b8550d.png'
+---
+
+<div>   
+<p>前情提要，如副標，想自動化在統一的端點可以看到幣圈的一手消息，所以有了構想(串接Twitter爬蟲 --> Telegram --> 自動翻譯機器人 --> Telegram )，你可能會好奇，為什麼不是Twitter爬蟲 --> Backedn Process --> Telegram，讓流程更簡潔，因為前段的爬蟲我現階段透過現成的免費服務IFTTT來完成，因為省下爬蟲的需要的投入，偷懶帶來的複雜度增加尚可接受，所以最後定調為這個流程。</p><figure class="image"><img src="https://assets.matters.news/embed/a9bd3f4b-9f10-42c0-80bd-279a01b8550d.png" data-asset-id="a9bd3f4b-9f10-42c0-80bd-279a01b8550d" referrerpolicy="no-referrer"><figcaption><span>flowchart for twitterInfoStreamer</span></figcaption></figure><h2><a href="https://ifttt.com/explore" rel="noopener noreferrer" target="_blank">IFTTT</a>監聽推特名人</h2><p>原本想自己寫code去爬twitter，但是高頻的爬蟲自己實現與維護effort其實並不小，調查之後發現IFTTT可以提供五個來源的爬蟲服務，意思就是免費版可以訂閱五個Twitter名人，付費可解鎖更多，端賴你對資訊獲取的需求。</p><p>服務內涵上，既然是爬蟲服務，在乎的應該是爬蟲的內容，以及爬蟲的時間差。內容部分，目前還沒有遇到掉資料的情況，基本上追蹤的Twitter名人發推的之後，都可以在Telegram得到相關的資訊；爬蟲的時間差，個人實測大概在1分鐘上下，以免費服務來說我個人是非常滿意。綜上所述，最後採用IFTTT取代原先想自己造輪子的想法，除非未來在時間差的部分想要調優，不然可能會選擇付費服務，而不是自己打造。</p><p>此段我沒有詳細的說明IFTTT的設定流程，如果讀者有興趣，我可以在下一篇文章針對這個服務得各個細節再深入說明，或者可在留言區交流。</p><h2>好的資訊，要貼近使用者</h2><p>一手資訊打入Telegram之後，其實如果英文相當好的同學，基本上後續的翻譯串接不太需要了，但是因為前期爬蟲已經有些許時間差，如果英文閱讀再遭遇困難，如果是想透過這些資訊做幣圈交易的夥伴可能就錯過了很多時間，所以接著我想要串接自動翻譯服務，讓資訊更好閱讀，也讓非英語母語人士可以更快抓到資訊的重點。</p><h2>Telegram機器人設定</h2><p>我是透過Telegram Bot API串接Telegram的訊息，取得訊息翻譯之後再傳回群組，所以這邊有兩段內容需要處理，也就是訊息的取得，以及訊息的傳入。</p><p><strong>一、創建機器人並取得授權</strong></p><figure class="image"><img src="https://assets.matters.news/embed/54644c3f-7430-4c03-9505-b5ff43cac31d.png" data-asset-id="54644c3f-7430-4c03-9505-b5ff43cac31d" referrerpolicy="no-referrer"><figcaption><span>botfather telegram</span></figcaption></figure><p>(1) 機器人創建：Telegram機器人的創建是透過BotFather頻道創建，可以直接搜索BotFather，<strong><em>/newbot</em></strong>，輸入想要創建的機器人名稱就完成創建啦，值得注意的是，機器人的後綴必須是<strong><em>底線bot</em></strong>，或者<strong><em>Bot結尾</em></strong>喔。</p><p>(2) 取得bot_token：創建之後BotFather會立即跟你說他的bot_token，之後忘記也可以再跟BotFather詢問，我是馬上複製到我的小本本～</p><p>(3) 將機器人加入到指定group：在指定group，選擇加入成員，輸入剛剛你幫機器人取的名字，點擊加入就可以看到機器人啦～</p><p>(4) 取得chat_id：這個Id是你這個group的Id，可以在瀏覽器直接透過以下網址找到，<a href="https://api.telegram.org/botTOKEN/getUpdates" rel="noopener noreferrer" target="_blank"><strong><em>https://api.telegram.org/botTOKEN/getUpdates</em></strong></a>，TOKEN請改成剛剛上面BotFather跟你說的那個bot_token。應該會看到以下資訊，chat_id就是那個有減號開頭的id，以下方為例，就是<strong><em>-6XXXXXXXX</em></strong>。</p><pre class="ql-syntax" spellcheck="false">&#123;"ok":true,"result":[&#123;"update_id":376020027,"message":&#123;"message_id":11,"from":&#123;"id":212XXXXXX,"is_bot":false&#125;,"chat":&#123;"id":-6XXXXXXXX,"type":"group","all_members_are_administrators":true&#125;,"date":1645942772,"text":"test"&#125;&#125;,...
+</pre><p><strong>二、透過Bot API 獲取對話資訊</strong></p><p>這塊就比較容易了，只要透過方才上述的<a href="https://api.telegram.org/botTOKEN/getUpdates" rel="noopener noreferrer" target="_blank"><strong><em>https://api.telegram.org/botTOKEN/getUpdates</em></strong></a>，你就可以獲取從機器人加入之後的群組對話了，不過他有緩存消除時間，每天都會刷新，所以隔日的資訊要保存在你local，不然就掰了。</p><p><strong>三、透過Bot API傳入對話資訊</strong></p><p>這邊也透過直接打<a href="https://api.telegram.org/botTOKEN/sendMessage?chat_id=CHAT_ID&parse_mode=Markdown&text=%E4%BD%A0%E6%83%B3%E8%AA%AA%E7%9A%84%E8%A9%B1" rel="noopener noreferrer" target="_blank"><strong>https://api.telegram.org/botTOKEN/sendMessage?chat_id=CHAT_ID&parse_mode=Markdown&text=你想說的話</strong></a>，以bot_token取代TOKEN，chat_id取代CHAT_ID，你想說的話就是你想說的話XD，就可以把「你想說的話」傳到剛剛的群組內了。</p><h2>用Python完成翻譯服務</h2><p>路都打通了，剩下最後一部就是要翻譯內文，這邊的話我透過python三方library，translate-api，來協助我翻譯，幾行code就可以完成翻譯的服務，感覺非常方便，目前的使用沒有踩到雷，可能因為我的使用場景不是高流量吧！如果你遭遇了困難，歡迎留言我們一起看下。</p><p>一、安裝translate-api</p><pre class="ql-syntax" spellcheck="false">pip install translate-api
+</pre><p>二、透過google翻譯，將原文翻譯成繁體中文：這邊只是用google舉例，translate-api非常強大支援很多翻譯引擎，以及可以指定超多的語言方向，如果你想深入研究，或在不同場景使用，可以參考<a href="https://pypi.org/project/translate-api/" rel="noopener noreferrer" target="_blank">這篇文件</a>。</p><pre class="ql-syntax" spellcheck="false">import translators as ts
+ts.google(text, to_language="zh-TW")
+</pre><h2>總結</h2><p>看到這裡，相信你也完成了這個推特名人訂閱翻譯服務，文章不長，很多細節可能要動手做才會體會到，如果我的文章內有不清楚的，期待你留言跟我交流。Telegram的機器人非常多樣，這只是個開始，期待這篇文章有幫助到需要動手打造第一個機器人的你，也歡迎你跟我分享你的創作。</p><p>反饋可以激勵我繼續創作，如果你覺得寫得不錯，拍拍手我會很感謝；如果有哪裡可以再調整，請直接的告訴我，最後，感謝每個花時間讀過這篇文章的你/妳。</p>  
+</div>
+            

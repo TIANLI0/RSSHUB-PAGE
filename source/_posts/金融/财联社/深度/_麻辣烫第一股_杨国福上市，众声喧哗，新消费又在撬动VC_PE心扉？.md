@@ -5,15 +5,15 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=8190'
+headimg: 'https://picsum.photos/400/300?random=4348'
 author: 财联社
 comments: false
 date: Sat, 26 Feb 2022 23:22:35 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8190'
+thumbnail: 'https://picsum.photos/400/300?random=4348'
 ---
 
 <div>   
-<div class="m-b-10"><p>《科创板日报》（记者 陈美）讯，在消费赛道，本周让VC/PE们最关注的，除了头部茶饮喜茶全面下调饮品价格，“杨国福麻辣烫”上市，恐怕是最心动的一件事。</p>
+<div class="m-b-10"><p><strong>《科创板日报》（记者 陈美）讯，</strong>在消费赛道，本周让VC/PE们最关注的，除了头部茶饮喜茶全面下调饮品价格，“杨国福麻辣烫”上市，恐怕是最心动的一件事。</p>
 <p>2月22日，“杨国福麻辣烫”向港交所递交招股书，这使得一碗麻辣烫也能撑起一个IPO。</p>
 <p>然而，与600亿估值的喜茶不同，“杨国福麻辣烫”并未获得资本的加持。对此，有消息称，上市前，“杨国福麻辣烫”曾开放过融资渠道，但200亿估值吓跑了所有投资人。</p>
 <p>不管怎样，杨国福一旦IPO成功，实控人杨国福将成为最大受益人。</p>
