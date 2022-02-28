@@ -1,0 +1,18 @@
+
+---
+title: '有什么安全长效的宠物口腔护理产品吗？-clean33的回答：我有看到 @ping. 的分享，也很好奇家宠乐这个产品。分享过来大家也帮我看一下——我家猫口腔异味也大 ---...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-73ac883672b071bd93f8b82be92dfd46_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 28 Feb 2022 07:15:49 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-73ac883672b071bd93f8b82be92dfd46_1440w.jpg'
+---
+
+<div>   
+<strong>有什么安全长效的宠物口腔护理产品吗？</strong><br>clean33的回答<br><p data-pid="ovHjIJkR">我有看到 @ping. 的分享，也很好奇家宠乐这个产品。分享过来大家也帮我看一下——我家猫口腔异味也大 </p><p data-pid="eyUqfUEA">------------------------------分割线----------------------------------------</p><p data-pid="PnCtFzG9">我家里有三只猫咪。其中一只口臭挺严重的小橘，打个哈欠能让我原地去世，</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-73ac883672b071bd93f8b82be92dfd46_1440w.jpg" data-caption data-size="normal" data-rawwidth="961" data-rawheight="1280" data-default-watermark-src="https://pic4.zhimg.com/v2-478a00fa9da66c0818ce729bbdd2261b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-73ac883672b071bd93f8b82be92dfd46_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="2fBOyPx4">之前有用过口腔喷雾，感觉没什么用，然后就用了朋友推荐的这支家宠乐小白精华给猫猫用</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-ae4d3058e01ca472c5e22c58596b778e_1440w.jpg" data-caption data-size="normal" data-rawwidth="961" data-rawheight="1280" data-default-watermark-src="https://pic1.zhimg.com/v2-c3b6722f5c00d51f46bab1890d05b4f0_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-ae4d3058e01ca472c5e22c58596b778e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="s09G2yJg">一开始还怕加到猫猫的饮用水里猫猫不爱喝，结果猫猫一点也不排斥</p><p data-pid="L-4IIHty">每次我换新的水还跟到碗前等着要喝，一点也不会影响哈哈。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-378e1fe6bf0e0f1de090a27ff1f3dcba_1440w.jpg" data-caption data-size="normal" data-rawwidth="1155" data-rawheight="866" data-default-watermark-src="https://pic2.zhimg.com/v2-311164cfa127821abd54170e7ecba74d_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-378e1fe6bf0e0f1de090a27ff1f3dcba_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="wiHFd1_y">但是还是另外弄一碗浓度较高的专门给小橘喝。一周左右口臭就有些许改善，两周后口臭程度又降低了很多，过程中我也还在网上买了清洁指套给小橘清洁牙齿，现在口腔整体清洁了很多，继续使用中…</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-f3a55b685cbe141a0af60ed45b390242_1440w.jpg" data-size="normal" data-rawwidth="961" data-rawheight="1280" data-default-watermark-src="https://pic3.zhimg.com/v2-fc71a230da3214b6068795b68b5be02a_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-f3a55b685cbe141a0af60ed45b390242_r.jpg" referrerpolicy="no-referrer"><figcaption>继续给它喝</figcaption></figure><p data-pid="W_argknv">另外，感觉猫猫现在好能喝水，每天<b>铲屎尿团也多了好多</b>，喝的多尿得多也是有好处的吧～</p><p data-pid="s3gk78L_">---------------------------------- 我是分割线——-----————————-------------</p><p data-pid="eQWGIicO"> 我也去家宠乐 店铺看了下商品介绍，上面说小白精华属于不添加化学杀菌剂、无防腐剂、无香精诱食剂等，主要成分是矿物质离子液、赤藓醇、蓝莓提取物；</p><p data-pid="LPfzrCYo">看起来是新品牌，产品包装很可爱</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-d1064c5ff5407bd43cd6be3d8aa434ef_1440w.jpg" data-caption data-size="normal" data-rawwidth="708" data-rawheight="936" data-default-watermark-src="https://pic1.zhimg.com/v2-3b7feb5860f34689fb636505086544bc_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-d1064c5ff5407bd43cd6be3d8aa434ef_r.jpg" referrerpolicy="no-referrer"></figure>  
+</div>
+            
