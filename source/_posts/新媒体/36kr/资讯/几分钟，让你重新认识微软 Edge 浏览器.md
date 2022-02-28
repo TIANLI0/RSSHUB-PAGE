@@ -33,11 +33,11 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_3bc02080f19c4dfbb43bfc5e88111996
 <p>首先，我们可以给 Edge 换一个好看的外观。</p> 
 <p>打开浏览器，点击页面右上的三点在弹出的菜单栏中找到「设置」选项，再从「设置」页中找到「外观」就可以设置浏览器的配色和主题了。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,575" src="https://img.36krcdn.com/20220228/v2_e3cd05346a814a8ba27a9f28388e24c9_img_000" referrerpolicy="no-referrer"></p> 
-<p>找到「发现更多主题」点击后将打开微软官网中的「Edge 外接程序」页，在里面你可以发现许多 Edge 的特色主题，选取自己喜欢的，再点击「获取主题」即可，浏览器的配色和标签页背景会随之更改。</p> 
+<p>找到「发现更多主题」点击后将打开<a class="project-link" data-id="3967413" data-name="微软" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3967413" target="_blank">微软</a>官网中的「Edge 外接程序」页，在里面你可以发现许多 Edge 的特色主题，选取自己喜欢的，再点击「获取主题」即可，浏览器的配色和标签页背景会随之更改。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,574" src="https://img.36krcdn.com/20220228/v2_fab5b8d45ef24cafb692c8c5beaa2af8_img_000" referrerpolicy="no-referrer"></p> 
 <p class="image-wrapper"><img data-img-size-val="1080,574" src="https://img.36krcdn.com/20220228/v2_c3f73a653e164d1aa4af4c710ac3cb93_img_000" referrerpolicy="no-referrer"></p> 
 <p>和 IE 一样，Edge 也拥有起始页、主页、标签页三种可自定义的常用页面。</p> 
-<p>为了方便理解，我们不妨将起始页看作是打开浏览器后第一个弹出的网页，把主页看作是点击浏览器左上角的「home」键时回到的网页，而标签页则是一个常用的页面集合面板，它不是网页，没有地址。</p> 
+<p>为了方便理解，我们不妨将起始页看作是打开浏览器后第一个弹出的网页，把主页看作是点击浏览器<a class="project-link" data-id="518404" data-name="左上角" data-logo="https://img.36krcdn.com/20210813/v2_50e29c84e6b1478f8d42d404892c9701_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/518404" target="_blank">左上角</a>的「home」键时回到的网页，而标签页则是一个常用的页面集合面板，它不是网页，没有地址。</p> 
 <p>这些页面在设置里的「开始、主页和新建标签页」中都可以调整。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,574" src="https://img.36krcdn.com/20220228/v2_1997c8d2fa214ed3ba8286ddb9586ae6_img_000" referrerpolicy="no-referrer"></p> 
 <p>按照上图的设置，目前浏览器的三个页面呈现如下。</p> 
@@ -71,10 +71,10 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_3bc02080f19c4dfbb43bfc5e88111996
 <p class="image-wrapper"><img data-img-size-val="1080,579" src="https://img.36krcdn.com/20220228/v2_0b0a4fadafa640aba4e1ac5a5643d926_img_000" referrerpolicy="no-referrer"></p> 
 <p>下次再需要看资料的时候之前找到的网页可以立刻全部打开，等写完文章后不需要这些资料了，又可以通过删除集锦一键删除所有的网页。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,752" src="https://img.36krcdn.com/20220228/v2_a13709330a25466583b498b1ad426051_img_000" referrerpolicy="no-referrer"></p> 
-<p>除了收录网页，「集锦」里还能收录句子。在网页中选取特定的句段右键「添加进集锦」后，该句段将会直接在「集锦」中显示出来，并下标来源，这样以后引用起来就节省了再次重新阅读整篇文章的时间。</p> 
+<p>除了收录网页，「集锦」里还能收录句子。在网页中选取特定的句段右键「添加进集锦」后，该句段将会直接在「集锦」中显示出来，并下标来源，这样以后引用起来就节省了再次重<a class="project-link" data-id="347076" data-name="新阅" data-logo="https://img.36krcdn.com/20210811/v2_ef7682857d584965925e6772f60cb55b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/347076" target="_blank">新阅</a>读整篇文章的时间。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,608" src="https://img.36krcdn.com/20220228/v2_55dfc94e1e084ae28c48d37a02df80fa_img_000" referrerpolicy="no-referrer"></p> 
 <h2><strong>三、浏览器插件的获取与安装</strong></h2> 
-<p>浏览器插件有点像微信里的小程序，依托着主程序，它们不需要再安装在电脑的软件列表中，而是像插件一下嵌入在浏览器里，在用户上网时发挥如「文本即时翻译」「语法纠错」「屏蔽广告」等便捷功能。</p> 
+<p>浏览器插件有点像<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>里的小程序，依托着主程序，它们不需要再安装在电脑的软件列表中，而是像插件一下嵌入在浏览器里，在用户上网时发挥如「文本即时翻译」「语法纠错」「屏蔽广告」等便捷功能。</p> 
 <p>众所周知 Chrome 浏览器最厉害的地方在于它对插件的包容性，如今，使用了和 Chrome 一样的 Chromium 内核的Edge对插件的支持度已经不逊前者了。Chrome 能用的插件，Edge 基本也能用，且 Edge 插件的寻找和安装甚至更加便捷。</p> 
 <p>插件在 Edge 中叫「扩展程序」，点击浏览器上方类似拼图的图标即可打开「扩展程序」 管理页，点击「获取 Microsoft Edge 扩展」即可导航到「Edge 外接程序」。在这里我们可以轻松地找到各种各样的插件灵活安装。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,574" src="https://img.36krcdn.com/20220228/v2_b41468c9c6ea4b56bad678ba4d571ea9_img_000" referrerpolicy="no-referrer"></p> 
@@ -90,7 +90,7 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_3bc02080f19c4dfbb43bfc5e88111996
 <p>AdGuard 广告拦截器顾名思义是一款广告拦截插件，中英文网站的广告它都能去除。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,574" src="https://img.36krcdn.com/20220228/v2_b819c581d2d34d268b91065309f2ab8e_img_000" referrerpolicy="no-referrer"></p> 
 <p class="image-wrapper"><img data-img-size-val="969,732" src="https://img.36krcdn.com/20220228/v2_5873d8730e0d4cf187b1c6e8ec70fad9_img_000" referrerpolicy="no-referrer"></p> 
-<p>以百度搜索为例，搜索「好吃的东西」，在关闭 AdGuard 广告拦截器插件时第一页会有京东和淘宝的广告推广，而打开插件后，原来的广告就不见了。</p> 
+<p>以<a class="project-link" data-id="28215" data-name="百度" data-logo="https://img.36krcdn.com/20210806/v2_f96267de58b643faae02c0cb24debbed_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/28215" target="_blank">百度</a>搜索为例，搜索「好吃的东西」，在关闭 AdGuard 广告拦截器插件时第一页会有<a class="project-link" data-id="27570" data-name="京东" data-logo="https://img.36krcdn.com/20210806/v2_40d01763039949f194e3818a1b4fa75d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/27570" target="_blank">京东</a>和淘宝的广告推广，而打开插件后，原来的广告就不见了。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,574" src="https://img.36krcdn.com/20220228/v2_d9604766741146c79fbdc6bf97b05ac1_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">▲ 开启前</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,574" src="https://img.36krcdn.com/20220228/v2_49beaa8e4a244e5087d115b1f75fa024_img_000" referrerpolicy="no-referrer"></p> 
@@ -143,7 +143,7 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_3bc02080f19c4dfbb43bfc5e88111996
 <p class="img-desc">▲ 在其他 PDF 阅读器中打开文档</p> 
 <h3><strong>Internet Explorer 兼容模式</strong></h3> 
 <p>自微软宣布 Win11 不再内置IE浏览器起，我们就必须意识到IE被淘汰只是时间的问题，不过目前确实还有不少学校、政府办事机构没来得及升级官网，不用IE浏览器打开就会出现各种 bug。</p> 
-<p>似乎早已经料想到会发生这种情况，Edge 预先安排好的 Internet Explorer 兼容模式此时立刻能派上用场。</p> 
+<p>似乎早已经料想到会发生这种情况，Edge 预先安排好的 Internet Explorer 兼容模式此<a class="project-link" data-id="173252" data-name="时立" data-logo="https://img.36krcdn.com/20210808/v2_dd0efbd9369846f6ab6cc94c84f84411_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/173252" target="_blank">时立</a>刻能派上用场。</p> 
 <p>我们要做的就是打开浏览器的设置页面，找到左手边导航栏里的「默认浏览器」一项，将「允许在 Internet Explorer 模式下重新加载网站」设为「允许」，然后再添加需要用IE模式打开的网站地址。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,524" src="https://img.36krcdn.com/20220228/v2_136d78749c7147f9aadab60dd14934ef_img_000" referrerpolicy="no-referrer"></p> 
 <p>设置成功后能看见标记了的网站的地址栏前方会出现熟悉的 IE 图标，地址栏下方也会有浏览器的提示。</p> 
