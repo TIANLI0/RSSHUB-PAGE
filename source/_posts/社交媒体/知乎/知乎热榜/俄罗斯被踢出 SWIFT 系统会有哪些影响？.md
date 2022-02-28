@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3599'
+headimg: 'https://pic2.zhimg.com/v2-bc09e9a7533578b5f493f7d3cf24dc54_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 28 Feb 2022 04:26:51 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3599'
+date: Mon, 28 Feb 2022 07:57:54 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-bc09e9a7533578b5f493f7d3cf24dc54_1440w.jpg'
 ---
 
 <div>   
-理想主义的毛建洲的回答<br><br><p data-pid="4T5wJC5O">先说结论：将俄罗斯踢出 SWIFT 国际结算系统是杀敌八百、自损一千。<b>即使将俄罗斯踢出 SWIFT 国际结算系统，实际上作为需求方的欧美也是不得不通过其它方式与俄罗斯进行交易。比如中国可以和俄罗斯使用中国的结算系统交易，采用人民币和卢布交易；欧盟和俄罗斯采用欧盟的新的结算系统交易，使用欧元和卢布，长此以往美国就是搬了石头砸自己的脚。</b></p><p data-pid="jFNw5S2-">首先科普一下SWIFT 国际结算系统是什么：</p><blockquote data-pid="kA6YT3_b">环球银行金融电信协会（英语：Society for Worldwide Interbank Financial Telecommunication，缩写：SWIFT），或译环球同业银行金融电讯协会，为总部位于比利时的全球性同业合作组织，是世界领先的金融报文传送服务机构[2]，为全球社群提供金融报文传送平台和通信标准，在国际贸易和商业活动起着举足轻重的作用。现时，SWIFT是全球金融机构与其往来银行的主要通信通道，其报文传送平台、产品和服务对接了全球超过11,000家银行、证券机构、市场基础设施和企业用户，覆盖200多个国家和地区。因此SWIFT 国际结算系统就是环球银行金融电信协会国际结算系统</blockquote><p data-pid="ZKbxKkt9">那么SWIFT 国际结算系统有什么用呢？</p><blockquote data-pid="9_gLWDpC">通过使用SWIFT，银行、托管公司、投资机构、中央银行、市场基础设施及企业客户能够彼此连接，通过交换结构化的电子报文完成相同的商业流程。</blockquote><p data-pid="apLGeJga">SWIFT是用来传输信息的通道，而资金结算有另外的CHIPS、CHAPS等系统，对于饱受制裁的俄罗斯而言其实起不到什么大的作用：<b>1、是俄罗斯央行已就西方金融制裁做好准备，通过创建俄罗斯银行金融信息系统与使用多国货币签署贸易协议，俄罗斯可最大限度削弱SWIFT制裁攻击；2、现在俄罗斯没有被制裁的领域对于欧洲国家，现如今俄罗斯的能源是他们不可或缺的、对于美国有色金属等不可或缺，这种情况下欧美国家投鼠忌器，或采取选择性制裁方式，从而削弱SWIFT制裁影响力。</b></p><p data-pid="ucs1C3IY">而SWIFT 国际结算系统交易大多数美元，这是美元霸权的基础组成的关键部分，<b>在中国寻求去美元化的情况下，制裁对中俄结算支付体系更大规模地使用人民币创造了契机。毕竟中国早在香港动乱情况下就想要摆脱SWIFT 国际结算系统了：</b></p><blockquote data-pid="aFprk-c9">在美国干涉香港事务的过程中，控制了全球80%以上的跨境支付的金融机构间金融信息传递系统SWIFT扮演了重要角色。原本应是国际通用的贸易结算工具，却成为少数国家打击对手的武器。如果美国想要制裁某个国家或者机构，可以直接切断该金融机构（或其对应的美元代理行）与美元跨境结算系统（CHIPS）的连接，从而使其无法进行任何与美元相关的交易。美国如果宣布对某个人或机构进行制裁，全球几乎所有国际性银行都需要检视自己有没有与被制裁人士有业务往来。有舆论担心，除了对特区官员实行金融消费限制之外，美国政府和少数政客会把中国大陆的结算系统与SWIFT“脱钩”，以便达到削弱、打击中国贸易系统，进而达到遏制中国经济发展的目的。</blockquote><p data-pid="6ryFYfw4"><b>SWIFT 国际结算系统应该成为保持独立性和原有的开放性的工具，而不应该成为某些国家的武器，现阶段对于俄罗斯不痛不痒的制裁也是给我们敲响了警钟，这对我们而言是好事，是时候建立独立开放、不被某些国家控制的国际结算系统了。</b></p>  
+时代之的回答<br><br><p data-pid="Sm_v5HTa">1.首先，会造成金融市场动荡。今天一大早，美油冲高到99美元，我立即开始做空。</p><p data-pid="4j0ttBiR">并且告诉大家，如果A股下跌，一定要抄底。</p><p data-pid="YtUsPFFV">我不断在知乎等多个平台发布文章，说了，任何消息面造成的大波动，都是机会！</p><p data-pid="Usx-hYRY">这些都是情绪性的恐慌而已，必然会修复。</p><p data-pid="rQrRsZt5">所以，这没有任何奇怪的，这几乎都可以说是规律了。</p><p data-pid="iRcbI6LO">2.对俄罗斯而言，时间越长，越不利，俄罗斯拖不起。</p><p data-pid="rToJoqrE">对外贸易基本上被锁死。如果不能快速解决问题，那么自己的经济可能先跨掉。</p><p data-pid="ug5o8rcD">俄罗斯国债的信用违约掉期暴涨，国债违约可能性增加，而且这是有先例的，俄罗斯在1998年就直接宣布违约。</p><p data-pid="GkPbc_4o">3.利好人民币，为人民币结算和人民币国际化，增加了一点催化剂。</p><p data-pid="B2DH6bDH">其实从美国加息表态以来，就是一直处于升值状态的，俄罗斯和乌克兰的危机，无非是继续强化这一趋势，这是过去几十年来，人民币首次逆势升值----在美元升值趋势下，人民币升值更快！而且人民币在SWIFT中占比，在1月份到了3.2%，创历史新高，正式超越了日元。</p><p data-pid="Dgo5RAm4">可以说，资金流入哪里，下一轮经济复苏就会在哪里率先发生。</p><p data-pid="65YfDk-5">我是时代之，一个<i>独立投资人￥</i><a href="https://www.zhihu.com/search?q=%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2%E5%B8%88&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2028099783%7D" class="internal">心理咨询师</a><i>，关注金融投资及自我升级，更多干货，欢迎关注公众号jingji-xinli，或者微信搜索公众号“时代之”。</i></p><figure data-size="small"><img src="https://pic2.zhimg.com/v2-bc09e9a7533578b5f493f7d3cf24dc54_1440w.jpg" data-caption data-size="small" data-rawwidth="720" data-rawheight="230" data-qrcode-action="hide" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-bc09e9a7533578b5f493f7d3cf24dc54_r.jpg" referrerpolicy="no-referrer"></figure>  
 </div>
             
