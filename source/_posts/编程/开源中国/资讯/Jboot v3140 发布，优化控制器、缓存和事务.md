@@ -8,13 +8,14 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-4e2b52b9390cc6691556f044a6c6803ab48.png'
 author: 开源中国
 comments: false
-date: Mon, 28 Feb 2022 00:51:00 GMT
+date: Mon, 28 Feb 2022 08:51:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-4e2b52b9390cc6691556f044a6c6803ab48.png'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <blockquote> 
+                                                                    
+                                                        <blockquote> 
  <p style="margin-left:0; margin-right:0; text-align:left">Jboot 一个更简单的分布式、微服务框架。</p> 
  <p style="margin-left:0; margin-right:0; text-align:left">Jboot是一个基于 JFinal、JFinal-Undertow、Dubbo、Seata、Sentinel、ShardingSphere、Nacos 等开发的微服务框架，帮助开发者降低微服务、分布式开发门槛。爽爽开发，快乐生活。</p> 
  <p style="margin-left:0; margin-right:0; text-align:left">支持 JDK8~JDK17。</p> 

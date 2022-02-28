@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2242'
+headimg: 'https://picsum.photos/400/300?random=8020'
 author: 开源中国
 comments: false
-date: Mon, 28 Feb 2022 00:43:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2242'
+date: Mon, 28 Feb 2022 08:43:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8020'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Fdromara%2Fhertzbeat">HertzBeat赫兹跳动</a><span style="background-color:#ffffff; color:#6a737d"><span> </span>是由</span><a href="https://gitee.com/link?target=https%3A%2F%2Fdromara.org">Dromara</a><span style="background-color:#ffffff; color:#6a737d">孵化，</span><a href="https://gitee.com/link?target=https%3A%2F%2Ftancloud.cn">TanCloud</a><span style="background-color:#ffffff; color:#6a737d">开源的一个支持网站，API，PING，端口，数据库，全站等监控类型，支持</span><span style="background-color:#ffffff; color:#40485b">阈值告警，告警通知(</span><span style="background-color:#efefef; color:#1c1e21">邮箱，webhook，钉钉，企业微信，飞书机器人</span><span style="background-color:#ffffff; color:#40485b">)</span><span style="background-color:#ffffff; color:#6a737d">，拥有易用友好的可视化操作界面的开源监控告警项目。</span>   </p> 
+                                                                    
+                                                        <p><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Fdromara%2Fhertzbeat">HertzBeat赫兹跳动</a><span style="background-color:#ffffff; color:#6a737d"><span> </span>是由</span><a href="https://gitee.com/link?target=https%3A%2F%2Fdromara.org">Dromara</a><span style="background-color:#ffffff; color:#6a737d">孵化，</span><a href="https://gitee.com/link?target=https%3A%2F%2Ftancloud.cn">TanCloud</a><span style="background-color:#ffffff; color:#6a737d">开源的一个支持网站，API，PING，端口，数据库，全站等监控类型，支持</span><span style="background-color:#ffffff; color:#40485b">阈值告警，告警通知(</span><span style="background-color:#efefef; color:#1c1e21">邮箱，webhook，钉钉，企业微信，飞书机器人</span><span style="background-color:#ffffff; color:#40485b">)</span><span style="background-color:#ffffff; color:#6a737d">，拥有易用友好的可视化操作界面的开源监控告警项目。</span>   </p> 
 <p><strong style="color:#333333">官网:<span> </span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fhertzbeat.com%2F" target="_blank">hertzbeat.com</a><span> </span>|<span> </span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Ftancloud.cn%2F" target="_blank">tancloud.cn</a></strong></p> 
 <p style="color:#40485b; margin-left:0em; margin-right:0em; text-align:start">此升级版本包含了大量特性与修复，包括用户急需的账户用户配置，丰富了主流第三方告警通知(企业微信机器人，钉钉机器人，飞书机器人)，更好看的邮件模版，自定义邮件服务器等，欢迎使用。</p> 
 <p style="color:#40485b; margin-left:0em; margin-right:0em; text-align:start">版本特性：</p> 

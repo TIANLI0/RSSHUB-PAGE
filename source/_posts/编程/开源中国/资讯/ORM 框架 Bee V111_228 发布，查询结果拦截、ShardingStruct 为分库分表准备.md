@@ -8,13 +8,14 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-ed6b3ba1140bdcf4dd8d4d66656b05cabae.bmp'
 author: 开源中国
 comments: false
-date: Mon, 28 Feb 2022 00:41:00 GMT
+date: Mon, 28 Feb 2022 08:41:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-ed6b3ba1140bdcf4dd8d4d66656b05cabae.bmp'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong style="color:#3498db">Bee，互联网新时代的Java ORM工具，更快、更简单、更自动，开发速度快，运行快，更智能！</strong></p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong style="color:#3498db">Bee，互联网新时代的Java ORM工具，更快、更简单、更自动，开发速度快，运行快，更智能！</strong></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong><span style="color:#c0392b">Bee让程序员/软件工程师，从手工编码中解放出来，Bee更适合智能软件制造时代！</span></strong></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong><span style="color:#e74c3c">立志做最懂用户的软件!</span></strong></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong><span style="background-color:#ffffff; color:#40485b">V1.11.0.2.28 (Special Day)</span></strong><br> <strong><span style="background-color:#ffffff; color:#40485b">增加ShardingStruct,简化多租户且为分库分表作准备</span></strong><br> <span style="background-color:#ffffff; color:#40485b">Column列名与属性名映射扩展支持</span><br> <span style="background-color:#ffffff; color:#40485b">支持自定义<strong>TypeHandler</strong>，</span>查询结果拦截，<span style="background-color:#ffffff; color:#40485b">处理查询的ResultSet结果</span><br> <span style="background-color:#ffffff; color:#40485b">PreparedSql自定义sql支持多表查询,<strong>返回多表关联Javabean结构数据</strong></span><br> <span style="background-color:#ffffff; color:#40485b">fixed bug:</span><br> <span style="background-color:#ffffff; color:#40485b">多表查询同一个实体自我关联查询禁止自我多次循环</span></p> 
