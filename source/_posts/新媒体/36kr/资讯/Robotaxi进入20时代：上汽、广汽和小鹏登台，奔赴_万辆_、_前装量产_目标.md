@@ -14,7 +14,7 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_411cac791fca4643916e8d8069f4bacb
 
 <div>   
 <p>安亭是上海汽车产业的大本营，如今也正在成为<strong>中国 Robotaxi 玩家</strong>的一块试验田。</p> 
-<p>自 2021 年下半年起，一支特别的 Robotaxi 车队开始出现在安亭，与之前 Robotaxi 以百度、小马智行和滴滴等自动驾驶公司为主导不同的是，这支 Robotaxi 玩家的「主人」变换为车企，身上赫然印着上汽、Momenta 的标识。</p> 
+<p>自 2021 年下半年起，一支特别的 Robotaxi 车队开始出现在安亭，与之前 Robotaxi 以<a class="project-link" data-id="28215" data-name="百度" data-logo="https://img.36krcdn.com/20210806/v2_f96267de58b643faae02c0cb24debbed_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/28215" target="_blank">百度</a>、小马智行和滴滴等自动驾驶公司为主导不同的是，这支 Robotaxi 玩家的「主人」变换为车企，身上赫然印着上汽、Momenta 的标识。</p> 
 <p>在广州，另一支由广汽与文远知行合作打造的 Roboaxi 车队很快也将上路。2021 年 12 月，广汽与文远知行已经达成战略合作，将在未来几年布局上万辆规模的 Robotaxi 车队。</p> 
 <p>赶在路上的还有造车新势力头部公司小鹏汽车，也是在 2021 年 11 月，小鹏汽车表示计划在今年下半年涉足 Robotaxi。</p> 
 <p>车企想要布局 Robotaxi 的意愿已经很明显。</p> 
@@ -25,13 +25,13 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_411cac791fca4643916e8d8069f4bacb
 <h2><strong>自动驾驶公司站 C 位，车企提供车辆，1.0 时代开启</strong></h2> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220228/v2_411cac791fca4643916e8d8069f4bacb_img_000" referrerpolicy="no-referrer"></p> 
 <p>Robotaxi 的起源，要从一批技术狂创立的自动驾驶公司说起。</p> 
-<p>启动于 2009 年的自动驾驶领头羊<strong>Waymo</strong>，在 2016 年从谷歌拆分独立，主攻 L4 级自动驾驶，即可以解放驾驶员双眼、双手和双脚的自动驾驶车辆。</p> 
+<p>启动于 2009 年的自动驾驶领头羊<strong>Waymo</strong>，在 2016 年从<a class="project-link" data-id="3968996" data-name="谷歌" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968996" target="_blank">谷歌</a>拆分独立，主攻 L4 级自动驾驶，即可以解放驾驶员双眼、双手和双脚的自动驾驶车辆。</p> 
 <p>2018 年底，Waymo 推出首个服务乘客的商业打车应用——Waymo One。至此，这些前身为 L4 级测试车的车辆，开始以「Robotaxi」的形象示人。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220228/v2_56a5fb175dba43a6a802a632b61e708e_img_000" referrerpolicy="no-referrer"></p> 
-<p>大西洋彼岸的中国，自动驾驶也早早起步。</p> 
+<p>大西洋<a class="project-link" data-id="31522" data-name="彼岸" data-logo="https://img.36krcdn.com/20210806/v2_4343778047fd4d08b98c067c8215dd98_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/31522" target="_blank">彼岸</a>的中国，自动驾驶也早早起步。</p> 
 <p>2013 年，百度内部成立深度学习实验室<strong>IDL</strong> (Institute of Deep Learning) ，这是百度的首个前瞻性研究机构。 </p> 
 <p>同年，百度的自动驾驶团队开始组建，自动驾驶项目正是源自 IDL 实验室。</p> 
-<p>以百度为领头羊，再加上小马智行、滴滴、AutoX、文远知行、元戎启行等一众自动驾驶公司，大家保持定力和大力投入。</p> 
+<p>以百度为领头羊，再加上小马智行、滴滴、AutoX、文远知行、<a class="project-link" data-id="3742" data-name="元戎启行" data-logo="https://img.36krcdn.com/20210806/v2_734386e2ed7b4b7f91f9d1b84fca5183_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/3742" target="_blank">元戎启行</a>等一众自动驾驶公司，<a class="project-link" data-id="32785" data-name="大家保" data-logo="https://img.36krcdn.com/20210806/v2_04ac28b6986040bd810fc103b8109493_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/32785" target="_blank">大家保</a>持定力和大力投入。</p> 
 <p>后来也推出了自家的 Robotaxi，一开始叫法各不相同，比如「自动驾驶出租车」、「无人驾驶出租车」、「自动驾驶网约车」、「Robotaxi」等，最终业内习惯性地称之为 Robotaxi。</p> 
 <p>这些国内公司在追赶 Waymo 的同时，也在适时抢滩商业化落地。</p> 
 <p>比如文远知行，甚至早在 2019 年就在广州黄埔区开展商业化运营，按照当地出租车价格进行收费。</p> 
@@ -43,7 +43,7 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_411cac791fca4643916e8d8069f4bacb
 <p>车企其实在悄悄地给自动驾驶公司打辅助。</p> 
 <p>2019 年，丰田对自动驾驶的重视程度非常高，分别在日本本土、北美和中国设立了研发机构。</p> 
 <p>在中国，丰田找到了小马智行，双方于 2019 年达成战略合作，宣布将共同研发自动驾驶车辆。</p> 
-<p>截至目前，双方已经合作研发了两代自动驾驶原型车，分别是雷克萨斯 RX 450h 和丰田 S-AM。</p> 
+<p>截至目前，双方已经合作研发了两代自动驾驶原型车，分别是<a class="project-link" data-id="3969511" data-name="雷克萨斯" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969511" target="_blank">雷克萨斯</a> RX 450h 和丰田 S-AM。</p> 
 <p>小马智行北京研发中心副总经理李林涛向汽车之心回忆， 「与丰田的合作，最初是以 Robotaxi 为原型的小规模车队进行示范性运营为主，整个过程涉及车辆改造、测试运营等，在第一代的后装量产基础上，由丰田提供车辆、线控底盘技术，小马提供自动驾驶软件系统、传感器套件、计算模块等。」</p> 
 <p>车企以辅助角色向自动驾驶公司提供车辆和线控底盘技术，可以归为 1.0 时代。接下来，以车企主导的 Robotaxi，将掀开 2.0 时代的序幕。</p> 
 <h2><strong>进入 2.0 时代：车企从幕后走到台前，出现合作派与自研派</strong></h2> 
@@ -58,14 +58,14 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_411cac791fca4643916e8d8069f4bacb
 <p>由于这三家的出行平台均归属于车企旗下，所以合作派也可以理解为车企借助自动驾驶公司打造了一支 Robotaxi 车队。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220228/v2_f40fcd1ae677449d9c8860ba52fd04dd_img_000" referrerpolicy="no-referrer"></p> 
 <p>自研派，指的是车企自己主导相关的车辆、底盘和技术方案研发。</p> 
-<p>最早在 2019 年 4 月，特斯拉提出将在明年布局 Robotaxi，计划在 2020 年底前部署 100 万辆 Robotaxi，以构建自己的出行网络。</p> 
+<p>最早在 2019 年 4 月，<a class="project-link" data-id="132410" data-name="特斯拉" data-logo="https://img.36krcdn.com/20200729/v2_e76e3d3d44c440138f072b13bc84a6dc_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/132410" target="_blank">特斯拉</a>提出将在明年布局 Robotaxi，计划在 2020 年底前部署 100 万辆 Robotaxi，以构建自己的出行网络。</p> 
 <p>不过，目前还未看到 Robotaxi 上路。</p> 
-<p>去年 11 月，小鹏汽车创始人、董事长兼 CEO 何小鹏表示，「我们将在明年 （2022 年） 进入 Robotaxi 市场。 我们并不希望在相当长的时间做一个出行运营 （公司） ，更愿意通过自己的产品和技术，与出行运营伙伴一起将出行做得更好。」</p> 
+<p>去年 11 月，小鹏汽车创始人、董事长兼 CEO 何小鹏表示，「我们将在明年 （2022 年） 进入 Robotaxi 市场。 我们并不希望在相当长的时间做一个出行运营 （公司） ，更愿意通过自己的产品和技术，与出行运营伙伴<a class="project-link" data-id="81906" data-name="一起" data-logo="https://img.36krcdn.com/20210709/v2_647b9860d6f7437caf1be2501d37698a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4772100123" target="_blank">一起</a>将出行做得更好。」</p> 
 <p>两派的核心区别在于，自动驾驶技术由谁来提供。</p> 
 <p>合作派中，车企与自动驾驶公司合作，借助的是自动驾驶公司的技术。</p> 
-<p>上汽的 Robotaxi 主要借助 Momenta 的技术支持，广汽的 Robotaxi 主要借助文远知行的支持，曹操出行主要借助元戎启行的技术，主打一步到位的 L4 自动驾驶。</p> 
+<p>上汽的 Robotaxi 主要借助 Momenta 的技术支持，广汽的 Robotaxi 主要借助文远知行的支持，<a class="project-link" data-id="68058" data-name="曹操出行" data-logo="https://img.36krcdn.com/20210807/v2_7318be77410d4cf8825e454afa787bc8_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/68058" target="_blank">曹操出行</a>主要借助元戎启行的技术，主打一步到位的 L4 自动驾驶。</p> 
 <p>这种合作模式中，车企会与自动驾驶公司共同定义一款自动驾驶车辆。</p> 
-<p>以广汽与文远知行的合作为例，文远知行倡导的是「铁三角」 （车企、出行平台、自动驾驶公司 ）模式。</p> 
+<p>以广汽与文远知行的合作为例，文远知行倡导的是「<a class="project-link" data-id="595546" data-name="铁三角" data-logo="https://img.36krcdn.com/20210814/v2_0d4ea453ae714f38b4d22b5e20c6d125_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/595546" target="_blank">铁三角</a>」 （车企、出行平台、自动驾驶公司 ）模式。</p> 
 <p>文远知行提供 L4 级软硬件解决方案和 Robotaxi 开放运营经验，广汽作为车企融入自身的制造、集成等能力，双方共同打造未来出行服务。</p> 
 <p>不同于过去只考虑性能和研发，在与广汽合作后，文远知行开始更加重视成本、设计和实用性。</p> 
 <p>文远知行执行总监董方亮告诉汽车之心：</p> 
@@ -81,7 +81,7 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_411cac791fca4643916e8d8069f4bacb
 <p>那么，车企为什么要布局 Robotaxi，它们的目标是什么，机会真的成熟了吗？</p> 
 <h2><strong>获取自动驾驶数据，布局时机逐渐成熟</strong></h2> 
 <p>短期来看，获取自动驾驶数据，将其反哺已有自动驾驶技术方案，是车企布局 Robotaxi 的核心目标。</p> 
-<p>合作派的代表上汽，其高管上汽集团副总裁陈德美曾表示，享道 Robotaxi 是上汽集团布局「<strong>电动化+智能网联化+共享化</strong>」的重大创新发展战略项目。</p> 
+<p>合作派的代表上汽，其高管<a class="project-link" data-id="25201" data-name="上汽集团" data-logo="https://img.36krcdn.com/20210806/v2_ae87078b4995423e83fe4061b19f2a1e_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25201" target="_blank">上汽集团</a>副总裁陈德美曾表示，享道 Robotaxi 是上汽集团布局「<strong>电动化+智能网联化+共享化</strong>」的重大创新发展战略项目。</p> 
 <p>项目将通过上海、苏州等地的运营，不断积累场景数据和运营经验，持续提升接管里程水平，在探索 Robotaxi 运营模式落地的同时，反哺上汽高级辅助驾驶方案的不断优化。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220228/v2_e4cd903b8919430eb7da7e6e4356a9c8_img_000" referrerpolicy="no-referrer"></p> 
 <p>何小鹏也表达了类似看法，他在去年的三季报电话会上，首次披露小鹏汽车涉足 Robotaxi 的想法，并表示：</p> 
@@ -122,7 +122,7 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_411cac791fca4643916e8d8069f4bacb
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220228/v2_bc78777a9398437a8e01b292d76e335f_img_000" referrerpolicy="no-referrer"></p> 
 <p>小鹏汽车所要布局的 Robotaxi，如果沿用特斯拉的路子，也必然会面临特斯拉类似的问题。小鹏是否会采用其他创新的方式，就要等到今年下半年项目启动后才能知晓。</p> 
 <p>在董方亮看来，想要真正实现 Robotaxi 盈利，需要诸多条件的成熟，智慧出行是一个逐步落地的过程，并非一蹴而就，它需要技术、商业化落地、运营和政策等多方面积累，不断沉淀，才能够真正实现大规模部署和商业化。</p> 
-<p>道路曲折，前途光明，有了自动驾驶公司在前，车企要前往何方也有了坐标系。</p> 
+<p>道路曲折，前途光明，有了自动驾驶公司在前，车企要前往何方也有了<a class="project-link" data-id="448051" data-name="坐标系" data-logo="https://img.36krcdn.com/20210812/v2_391a702d256949c6adae788e57507696_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/448051" target="_blank">坐标系</a>。</p> 
 <h2><strong>短期几百辆，几年后「前装量产」破万辆</strong></h2> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220228/v2_f0c9ffcb24a445b6bd25516410734651_img_000" referrerpolicy="no-referrer"></p> 
 <p>先来看在 Robotaxi 赛道耕耘多年的自动驾驶公司有哪些经验。</p> 
@@ -132,18 +132,18 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_411cac791fca4643916e8d8069f4bacb
 <p>在李林涛看来，更多的 Robotaxi 车队规模，主要是为了支撑更多的数据，以辅助自动驾驶算法的研发。从现阶段看，几百辆的规模是足以支持技术向前推进的。</p> 
 <p>从数十辆到上百辆，再到未来的数万辆，车企需要有一个合理的扩张节奏。</p> 
 <p>另一个经验涉足<strong>前装量产</strong>的节奏。</p> 
-<p>2021 年 12 月，吉利控股集团宣布与 Waymo 达成合作，由旗下高端智能电动品牌极氪为 Waymo One 无人驾驶车队提供专属车辆，并在美国投入商业化运营。</p> 
-<p>该车型基于浩瀚-M （SEA-M） 架构打造，由极氪欧洲创新中心 （CEVT） 设计与研发。浩瀚-M 是专门针对未来智能出行打造的架构。</p> 
+<p>2021 年 12 月，<a class="project-link" data-id="418657" data-name="吉利" data-logo="https://img.36krcdn.com/20200729/v2_d34c03d5cf22489bba17418696369a1b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/418657" target="_blank">吉利</a>控股集团宣布与 Waymo 达成合作，由旗下高端智能电动品牌极氪为 Waymo One 无人驾驶车队提供专属车辆，并在美国投入商业化运营。</p> 
+<p>该车型基于<a class="project-link" data-id="269232" data-name="浩瀚" data-logo="https://img.36krcdn.com/20210810/v2_53a193725d244436bf5a09b9b4cb0ef2_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/269232" target="_blank">浩瀚</a>-M （SEA-M） 架构打造，由极氪欧洲创新中心 （CEVT） 设计与研发。浩瀚-M 是专门针对未来智能出行打造的架构。</p> 
 <p>董方亮告诉汽车之心，极氪与 Waymo 的合作重点是<strong>前装量产</strong>，这将更好的保障 L4 级无人驾驶汽车的规模化和安全性。</p> 
 <p>「自动驾驶的首要任务是安全。只有进行前装量产，才能能够保障规模化部署：车辆一致性高、集成度高、安全性也高，这样才能够满足无人驾驶。」董方亮说。</p> 
 <p>至于何时启动前装量产，李林涛认为，因为在没有达到上万辆的规模时，进行前装并非经济性的选择。</p> 
-<p>值得注意的是，Robotaxi 或许是车企通往高级别自动驾驶的道路，但并非唯一一条路。</p> 
-<p>当上汽、广汽和小鹏进入 Robotaxi 赛道时，另外一些车企如蔚来、长城汽车等，要么尚未公布 Robotaxi 的相关计划，要么选择了延后推出。</p> 
-<p>蔚来汽车联合创始人、总裁秦力洪向汽车之心表示，「我们没有 Robotaxi 的计划，高端车不做 Robotaxi，暂时也没有这方面的想法。要不要 Robotaxi，自动驾驶数据都能获得，最后还是看测试车规模有多大，最后卖掉的车辆中 Pilot 开通的具体时长。」</p> 
-<p>据了解，为获取自动驾驶数据，蔚来 NAD 二代平台搭载 4 颗英伟达 Orin 芯片，共计 1016Tops 的算力，其中四分之一的算力专门用于个性化驾驶培训，系统 可以根据每辆车的路况数据进行定制化学习。</p> 
+<p>值得注意的是，Robotaxi 或许是车企通往高级别自动驾驶的道路，但并非唯一<a class="project-link" data-id="3969340" data-name="一条" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969340" target="_blank">一条</a>路。</p> 
+<p>当上汽、广汽和小鹏进入 Robotaxi 赛道时，另外一些车企如蔚来、<a class="project-link" data-id="25108" data-name="长城汽车" data-logo="https://img.36krcdn.com/20210806/v2_56654cabcd6f4936bbf31a3805988a69_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25108" target="_blank">长城汽车</a>等，要么尚未公布 Robotaxi 的相关计划，要么选择了延后推出。</p> 
+<p><a class="project-link" data-id="63630" data-name="蔚来汽车" data-logo="https://img.36krcdn.com/20210807/v2_69a755a63a494bd19fa2695bf4a2c439_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/63630" target="_blank">蔚来汽车</a>联合创始人、总裁秦力洪向汽车之心表示，「我们没有 Robotaxi 的计划，高端车不做 Robotaxi，暂时也没有这方面的想法。要不要 Robotaxi，自动驾驶数据都能获得，最后还是看测试车规模有多大，最后卖掉的车辆中 Pilot 开通的具体时长。」</p> 
+<p>据了解，为获取自动驾驶数据，蔚来 NAD 二代平台搭载 4 颗<a class="project-link" data-id="3969182" data-name="英伟达" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969182" target="_blank">英伟达</a> Orin 芯片，共计 1016Tops 的算力，其中四分之一的算力专门用于个性化驾驶培训，系统 可以根据每辆车的路况数据进行定制化学习。</p> 
 <p>秦力洪认为，「地理数据和道路学习什么量级的数据规模才算足够？你能把世界上每一寸道路都跑完吗？短期内不可能好。这里的关键在于算力和数据训练能否聚焦到某一个点上，让每一个使用的人各得其所。」</p> 
 <p>长城旗下的毫末智行 CEO 顾维灏对于实现自动驾驶的计划是，2022 上半年将交付城市 NOH，2022 下半年则计划交付<strong>全场景 NOH</strong>，在 2023 年，则将推出<strong>HSD</strong>（HAOMO Self-Driving） ，以及搭载 HSD 的 Robotaxi 车队。</p> 
 <p>观望也好，延后也好，无论如何车企布局 Robotaxi 的大幕已经拉开。 车企通过 Robotaxi 向高级别自动驾驶发力，这也让自动驾驶公司变得不再孤单，必将推动相关技术和商业化落地迈出一大步。</p> 
-<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzIzOTAzNzcwMg==&mid=2247508373&idx=1&sn=f2d39df5495cd4acaa1f6d6243214232&chksm=e932ddfcde4554ea50c8c59b011cb2f88988c4704c1b2ce34977886a4a4ec7a116e4c7ab844d#rd">“汽车之心”（ID：Auto-Bit）</a>，作者：张祥威，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzIzOTAzNzcwMg==&mid=2247508373&idx=1&sn=f2d39df5495cd4acaa1f6d6243214232&chksm=e932ddfcde4554ea50c8c59b011cb2f88988c4704c1b2ce34977886a4a4ec7a116e4c7ab844d#rd">“汽车之心”（ID：Auto-Bit）</a>，作者：张祥威，36氪经授权发布。</p>  
 </div>
             
