@@ -1,0 +1,18 @@
+
+---
+title: '如何评价吸猫撸狗正在掏空年轻人的钱包？-清雨QY的回答：春节的喜悦中想必大家都在不断买买买，每当这个时候大家都觉得钱不值钱，需要买的太多，而口袋的钱太少...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-c50ce6b7c1a42ef5929dc8e411a944f8_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 01 Mar 2022 01:26:59 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-c50ce6b7c1a42ef5929dc8e411a944f8_1440w.jpg'
+---
+
+<div>   
+<strong>如何评价吸猫撸狗正在掏空年轻人的钱包？</strong><br>清雨QY的回答<br><p data-pid="vdJGiqOx">春节的喜悦中想必大家都在不断买买买，每当这个时候大家都觉得钱不值钱，需要买的太多，而口袋的钱太少。</p><p data-pid="jCGkL7fp">春节有人花钱，而有的人却在想着怎么赚钱。</p><p data-pid="5qgy9cN-">这不，一名杭州女子留杭过节，瞅准了春节期间很多人要回家过年，宠物没人照看、饲养的机会，便网上发布可以代替照顾喂养猫狗的帖子，谁知下单的客户非常多，而女子竟然在10天撸猫撸狗就赚了5000元。</p><p data-pid="v6MFdv2a">女子之所以选择这个赚钱机会，一方面是因为她自己本身也喜欢养猫养狗，其次也是女子看准了春节假期的这个机会。</p><p data-pid="6RVPt9L-">赚钱过节二不误，女子不但过了个快乐的春节，还顺便赚了一笔钱。单从这个收入来说，确实是不错的兼职。</p><p data-pid="_E0hmREt">且不说这项兼职能够持续多久，通过这个兼职的过程，我们可以得知，一个好的副业想法，能够开启你未来无限的可能。</p><p data-pid="OsDCb-Ad">在这个快节奏的社会，很多人被家庭的房贷、教育、医疗三大压力压抑得喘不过气来，除了上班工作外，很多人还不断寻找各种兼职。但是，真正能够找到适合自己的兼职并找到钱的却不多。</p><p data-pid="wlVNVpD_">可见这位撸狗女子也是具有聪慧的财商和眼界的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-c50ce6b7c1a42ef5929dc8e411a944f8_1440w.jpg" data-caption data-size="normal" data-rawwidth="960" data-rawheight="638" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c50ce6b7c1a42ef5929dc8e411a944f8_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="8A1UGYVu">人们常说眼界决定一个人的高度，比起见识的广度，眼界更是一个人看待世界的深度，一个人的眼界与年龄无关，与见识有关，与交往的人脉相关！</p><p data-pid="laLNEafW">不管咋样，新年已经到来，过去的已经过去，新的一年，想让自己的生活焕然一新，那么就需要从以下开始做起：</p><p data-pid="q2Z9vQii"><b>NO 1、降低内耗</b></p><p data-pid="w-xsxCDR">一个人最可怕的不是贫穷，而是内耗。</p><p data-pid="-ZpwC5Q1">一边拿着手机舍不得放下，一边发愁工作还没做完；一边深感内疚、焦虑，一边深陷其中，无法自拔。</p><p data-pid="1du5GiUX">想过上好日子，突破自己，就得减少内耗，减少无聊的圈子，减少刷手机的时间，多读好书，多结识一些比自己层次高的人，坚持一段时间后，你会发现不一样的自己！</p><p data-pid="VrTuvcbR">而一个家庭中，想降低内耗，提升幸福感，那么就是“齐心协力”。</p><p data-pid="Wuzseu4-">在一个家庭当中，亲人之间是否和睦相处，各方的人心是否凝聚，这就决定了家庭发展的未来，以及你生活的质量。</p><p data-pid="jufFx0va">想让一家人“齐心”，那么建议一家人一起记账吧！</p><p data-pid="ITd94t-F"><b>“储蓄家庭账本”</b>是一款适合大多数家庭的账本。记账可以是一个人，但是可以通过账本的<b>“角色管理</b>”，让家庭的成员一起参与账本管理。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-7c8e7fc17ad514cd084f00c5a66e9858_1440w.jpg" data-caption data-size="normal" data-rawwidth="422" data-rawheight="459" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-7c8e7fc17ad514cd084f00c5a66e9858_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="oxssaH2J">这样一家人的各自消费、收支、负债都能看到，这样凝聚了家庭的责任感，共同攒钱、共同致富、共同提升家庭幸福感！</p><p data-pid="ATc6l8bl"><b>NO 2、管理好自己</b></p><p data-pid="dLOb2r7l">生活中，通常发现，同样在一个办公室上班，有的人买房买车，而有的人却存不下一分钱，为啥区别那么大呢？</p><p data-pid="t8fR3LFe">一个人顶级的自律，不是管理别人，而是管理好自己。</p><p data-pid="wSH8KFsN">生活中我们总是因为婚姻、工作等陷入危机，然后一蹶不振；一度只要求别人怎么做，挑剔别人的各种不好，到最后，才发现最失败的才是自己!</p><p data-pid="8Ntmh4p4"><b>想管理好自己，还得从自身的生活做起。管理好自己的健康、管理好自己的情绪、管理好自己的时间。</b></p><p data-pid="ilZJ-vhP">而管理自己，那么就需要设定一个目标，即赚钱目标、生意目标、娱乐目标等等，这样生活才会更有动力。</p><p data-pid="iMBDNi_x">这个目标，可以通过账本管理来实现。比如家庭储蓄可以通过“家庭储蓄账本”的“预算”设置年度攒钱目标。想尽快完成家庭负债，可以选择“资产负债账本”来规划负债的偿还计划，让家庭财务更清晰、健康！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-95071302bb77756f624aa65db138bdac_1440w.jpg" data-caption data-size="normal" data-rawwidth="472" data-rawheight="454" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-95071302bb77756f624aa65db138bdac_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
