@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2022/03/01/0952443041.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-03-01 08:26:30
+date: 2022-03-01 09:21:25
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/03/01/0952443041.jpg'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/03/01/0952443041.jpg'
 PS5《幽灵行者》（已可领取）
 PS4《兄弟：双子传说》（已可领取）
 PS4《团队索尼克赛车》（已可领取）
-PS4/PS5《对马之魂：奇谭模式》（还未开放领取）
+PS4/PS5《对马之魂：奇谭模式》（已可领取）
 领取时间为3月1日至4月4日，各位可在APP详情页内一键领取或商店中搜索游戏名找到。<br><img src="https://erbingeditor.diershoubing.com/6/2022/03/01/0952443041.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/03/01/0952446157.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/03/01/0952457093.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/03/01/0952467537.jpg" referrerpolicy="no-referrer">  
 </div>
             
