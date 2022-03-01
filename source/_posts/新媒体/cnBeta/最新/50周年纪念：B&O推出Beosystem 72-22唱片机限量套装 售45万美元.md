@@ -1,0 +1,19 @@
+
+---
+title: '50周年纪念：B&O推出Beosystem 72-22唱片机限量套装 售4.5万美元'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0301/9298b733c0ccf76.jpg'
+author: cnBeta
+comments: false
+date: Tue, 01 Mar 2022 03:16:01 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0301/9298b733c0ccf76.jpg'
+---
+
+<div>   
+<strong>为庆祝 Beogram 4000 系列唱片机诞生 50 周年，丹麦高端音响品牌 Bang & Olufsen 刚刚推出了限量款的 Beosystem 72-22 音频系统套装。</strong>其中包括了一台标志性的 4000 系列黑胶唱片机，一对 Beolab 18 无线扬声器、一把时髦的 Halo 遥控器、以及一个便于放置设备和收纳唱片的木柜。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0301/9298b733c0ccf76.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0301/9298b733c0ccf76.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（来自：B&O <a href="https://www.bang-olufsen.com/en/us/story/beosystem-72-22" target="_self">官网</a>）</p><p>其实早在 2020 年 10 月，该公司就已经设法从世界各地回购了近百台 Beogram 4000 系列唱片机。</p><p><a href="https://static.cnbetacdn.com/article/2022/0301/49d9a36847f4741.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0301/49d9a36847f4741.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p>作为 B&O Classic 计划的一部分，工程师们设法对这些唱片机进行了翻新修复，并以高达 11000 美元的高价销售。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=329546517&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: center;">Beosystem 72-22（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMzI5NTQ2NTE3LnNodG1s.html" target="_self">via</a>）</p><p>现在，作为 Recreated Classic Initiative 项目的一部分，该公司又根据 Jacob Jensen 于 1972 年打造的原始设计，煞费苦心地重新制作了 30 套“五十周年限量纪念款 Beosystem 音频系统”。</p><p><a href="https://static.cnbetacdn.com/article/2022/0301/e265d48cc8dd977.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0301/e265d48cc8dd977.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>Beosystem 72-22 套装中包括了一台唱片机、一对 Beolab 18 扬声器、以及一把 Beoremote Halo 遥控器。</p><p><a href="https://static.cnbetacdn.com/article/2022/0301/8f8dbf3aea01251.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0301/8f8dbf3aea01251.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>此外包装随附了一个“胡桃木礼盒”，消费者可将它作为唱片机底座、黑胶唱片收纳柜、无线连接集线器、以及 Halo 扬声器的充电座。</p><p><a href="https://static.cnbetacdn.com/article/2022/0301/e5dcb29bf140d78.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0301/e5dcb29bf140d78.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p>从没学上来讲，Beosystem 72-22 与 2020 年推出的版本略有不同。主要是用胡桃木饰面取代了橡木，并为 Titanium Tone 选用了珍珠喷砂阳极氧化铝（替代根据金属感的香槟色）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0301/7655b7df56670c5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0301/7655b7df56670c5.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p>在原版 4000 系列唱片机的基础上，工程师们还在外壳中腾出了额外的空间，以支持无线连接等新颖技术。</p><p><img src="https://static.cnbetacdn.com/article/2022/0301/f675916f8f26d80.jpg" alt="7.jpg" referrerpolicy="no-referrer"></p><p>唱片机可连接到一对外形靓丽的 Beolab 18 无线扬声器上，并通过随附的 Halo 遥控器（或配套的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a> App）来控制。</p><p><img src="https://static.cnbetacdn.com/article/2022/0301/448c44bd0fbeca1.jpg" alt="8.jpg" referrerpolicy="no-referrer"></p><p>即使唱片机没在工作，用户也可选择将来自移动设备的数字音源，流式传输到扬声器上进行播放。</p><p><a href="https://static.cnbetacdn.com/article/2022/0301/cb7585502c444d7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0301/cb7585502c444d7.jpg" alt="6.jpg" referrerpolicy="no-referrer"></a></p><p>感兴趣的朋友，可以拿出 45000 美元（约 28.4 万 RMB）去收藏一套。</p>   
+</div>
+            
