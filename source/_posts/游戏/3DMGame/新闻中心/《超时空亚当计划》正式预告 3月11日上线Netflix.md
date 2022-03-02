@@ -16,11 +16,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220302/1646201827_4617
 <p style="text-indent:2em;">
 科幻新片《超时空亚当计划》发布最新中字预告，本片将于3月11日上线Netflix平台。《超时空亚当计划》由肖恩·利维执导，瑞安·雷诺兹、马克·鲁法洛、珍妮佛·嘉纳等主演。
 </p>
-<p style="text-indent:2em;">
-</p><p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220302/1646201827_461747.jpg" alt="《超时空亚当计划》正式预告 3月11日上线Netflix" referrerpolicy="no-referrer">
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220302/1646201827_461747.jpg" alt="《超时空亚当计划》正式预告 3月11日上线Netflix" referrerpolicy="no-referrer"> 
 </p>
-<p></p>
 <p style="text-indent:2em;">
 <strong>预告片：</strong> 
 </p>
