@@ -13,8 +13,14 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://www.yystv.cn/p/undefined'
 ---
 
 <div>   
-<blockquote class="doc-blockquote"><p><b>
-    但凡屏幕前的玩家能够接受毫不吝惜的血浆与主角段子的“含妈量”，就能从中获得无比酣畅淋漓的8小时体验。</b></p></blockquote>
+<p><span style="font-size: 80%;"><b style="color: rgb(249, 150, 59);">实习生注：</b><font color="#000000">《影子武士3》现已加入App油盐币奖池，前往官网首页下载App即可免费抽取！</font></span></p>
+<blockquote class="doc-blockquote">
+    <p>
+        <b>
+            但凡屏幕前的玩家能够接受毫不吝惜的血浆与主角段子的“含妈量”，就能从中获得无比酣畅淋漓的8小时体验。
+        </b>
+    </p>
+</blockquote>
 <p>
     前阵子，在波兰游戏《消逝的光芒2》发售前，官方推特放出过这样的宣传语：我们的游戏要想打到100%完成度，需要500个小时。类似的营销格式引来了不少游戏的争相模仿，有的表示支持，有的只是跟风。
 </p>
