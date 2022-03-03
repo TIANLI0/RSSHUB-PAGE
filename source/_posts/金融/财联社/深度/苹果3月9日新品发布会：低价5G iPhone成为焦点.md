@@ -5,17 +5,16 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://img.cls.cn/images/20220303/z117qir9Wx.png'
+headimg: 'https://img.cls.cn/images/20220303/bnAk0VFpD1.png'
 author: 财联社
 comments: false
 date: Thu, 03 Mar 2022 01:21:04 GMT
-thumbnail: 'https://img.cls.cn/images/20220303/z117qir9Wx.png'
+thumbnail: 'https://img.cls.cn/images/20220303/bnAk0VFpD1.png'
 ---
 
 <div>   
 <div class="m-b-10"><p><strong>财联社（上海 编辑 牛占林）讯，</strong>苹果公司在美东时间周三(3月2日)向媒体发出了春季发布会的邀请函，会议将在3月8日(北京时间3月9日凌晨2点)举行，外界普遍预计苹果将在活动中发布新款低价iPhone SE、iPad Air等系列的新产品。</p>
 <p>这次活动的主题是“Peek Performance”，将在YouTube和苹果官网上进行直播。自2020年3月新冠疫情爆发以来，苹果的发布会一直都是在线上进行。</p>
-<p><img src="https://img.cls.cn/images/20220303/z117qir9Wx.png" alt="image" referrerpolicy="no-referrer"></p>
 <p>苹果市场营销高级副总裁格雷格·乔斯威亚克在推特上表示：“Peek Performance，3月8日，期待你的到来。”</p>
 <p>上一次苹果发布会是在2021年10月，当时苹果发布了新款MacBook Pro笔记本电脑。去年，苹果在4月份举行了春季发布会，推出了新款高端iPad和iMac电脑。</p>
 <p>据媒体和分析师报道，苹果可能会发布一款支持5G和指纹识别器的新款低价iPhone，以及一款中端iPad。</p>
