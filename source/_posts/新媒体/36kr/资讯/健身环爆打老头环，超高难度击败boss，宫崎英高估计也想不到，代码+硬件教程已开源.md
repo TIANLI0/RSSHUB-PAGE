@@ -13,7 +13,7 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_b73b40464b57446382cb3c5f9ebbadc3
 ---
 
 <div>   
-<p><span style="letter-spacing: 0px;">7天销量破1000万的《艾尔登法环》，彻底火出圈了。</span></p> 
+<p><span style="letter-spacing: 0px;">7天销量破1000万的《<a class="project-link" data-id="527445" data-name="艾尔" data-logo="https://img.36krcdn.com/20210813/v2_11378edeb96f44dd842f1cf6a6cb02c3_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/527445" target="_blank">艾尔</a>登法环》，彻底火出圈了。</span></p> 
 <p>被玩家们亲切称为“老头环”的它，首发当日在线人数就在Steam上<strong>登顶TOP 1</strong>，简直让毕设人无心搞学业，打工人无心再摸鱼，甚至不少人专门请了年假……</p> 
 <p class="image-wrapper"><img data-img-size-val="468,506" src="https://img.36krcdn.com/20220304/v2_b73b40464b57446382cb3c5f9ebbadc3_img_000" referrerpolicy="no-referrer"></p> 
 <p>作为魂系列游戏的代表作之一，《艾尔登法环》本来主打的就是“高难度”、“花样狗带”等别样的体验。</p> 
@@ -42,7 +42,7 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_b73b40464b57446382cb3c5f9ebbadc3
 <p class="image-wrapper"><img data-img-size-val="480,269" src="https://img.36krcdn.com/20220304/v2_3c0a140ed89d468bafc474d65fdcbe99_img_000" referrerpolicy="no-referrer"></p> 
 <p>到后面，小哥已经能够大胆挑战boss级别的怪物了，例如把一众玩家揍得嘤嘤直哭的“猎犬骑士”。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,446" src="https://img.36krcdn.com/20220304/v2_70fd4789660c4b4a8cfa5156795746bc_img_000" referrerpolicy="no-referrer"></p> 
-<p>先是自如地闪避boss的多段攻击：</p> 
+<p>先是<a class="project-link" data-id="3969617" data-name="自如" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969617" target="_blank">自如</a>地闪避boss的多段攻击：</p> 
 <p class="image-wrapper"><img data-img-size-val="480,269" src="https://img.36krcdn.com/20220304/v2_4568ea2cfda145b7aea8a371c84ce681_img_000" referrerpolicy="no-referrer"></p> 
 <p>趁boss攻击间隙立刻下蹲回血：</p> 
 <p class="image-wrapper"><img data-img-size-val="480,269" src="https://img.36krcdn.com/20220304/v2_9ecabf2c9cea4abf825dfaa86e202ffd_img_000" referrerpolicy="no-referrer"></p> 
@@ -88,7 +88,7 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_b73b40464b57446382cb3c5f9ebbadc3
 <p class="image-wrapper"><img data-img-size-val="480,270" src="https://img.36krcdn.com/20220304/v2_f97f079356074d51af032ddc9447706e_img_000" referrerpolicy="no-referrer"></p> 
 <p label="图片描述" classname="img-desc" class="img-desc" style><strong>△</strong>真·手忙脚乱</p> 
 <p>最离谱的事莫过于与用香蕉玩《黑暗之魂》，甚至还打死了boss，看来他的游戏水平是真的高。</p> 
-<p>不过也要提醒各位游戏宅一句，爆改游戏不能帮你减肥。</p> 
+<p>不过也要提醒各位<a class="project-link" data-id="356677" data-name="游戏宅" data-logo="https://img.36krcdn.com/20210811/v2_52069720e9f2434eb3bf11e01a3f683b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/356677" target="_blank">游戏宅</a>一句，爆改游戏不能帮你减肥。</p> 
 <p class="image-wrapper"><img data-img-size-val="640,360" src="https://img.36krcdn.com/20220304/v2_419d272fff244439a849a309851db0f6_img_000" referrerpolicy="no-referrer"></p> 
 <p>从脸型和腰围来看，整了这么多好活的Super Louis 64，为了打boss苦练身体也没有变瘦，所以还是放弃靠游戏减肥的幻想吧。</p> 
 <p class="image-wrapper"><img data-img-size-val="524,368" src="https://img.36krcdn.com/20220304/v2_b2c120bf66154d84b23e7ff393e19e16_img_000" referrerpolicy="no-referrer"></p> 
@@ -98,6 +98,6 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_b73b40464b57446382cb3c5f9ebbadc3
 <p>[1]https://www.youtube.com/watch?v=l6cC-T3a-Y0</p> 
 <p>[2]https://twitter.com/superlouis_64/status/1499099111269748743?s=21</p> 
 <p>[3]https://www.controllerbend.com/darksouls-ringfitmod.html[4]https://steamspy.com/[5]https://store.steampowered.com/app/1245620/_/</p> 
-<p class="editor-note">本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/t9k4GGxJjoalsCZBsv5lSg">“量子位”（ID:QbitAI）</a>，作者：晓查 萧箫，36氪经授权发布。</p>  
+<p class="editor-note">本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/t9k4GGxJjoalsCZBsv5lSg">“量子位”（ID:QbitAI）</a>，作者：晓查 萧箫，36氪经授权发布。</p>  
 </div>
             
