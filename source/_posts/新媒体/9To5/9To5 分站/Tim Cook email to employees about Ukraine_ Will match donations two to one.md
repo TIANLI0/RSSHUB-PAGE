@@ -32,7 +32,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/03/Tim
 <p>The email notes <a href="https://9to5mac.com/2022/03/01/apple-ukraine-statement-pause-product-sales/" target="_blank" rel="noreferrer noopener">the actions the company revealed yesterday</a>: pausing all product sales in the country, and removing access to <em>Russia Today</em> and <em>Sputnik.</em> The latter followed the example <a href="https://9to5mac.com/2022/03/01/tech-russian-sanctions-applied/" target="_blank" rel="noreferrer noopener">set by other tech giants</a>.</p>
 <p><em>Photo: <a href="https://unsplash.com/@theeastlondonphotographer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ehimetalor Akhere Unuabona</a>/<a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/33Li77L"><img class="aligncenter wp-image-789035 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/1Password-NB.png" alt width="749" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
