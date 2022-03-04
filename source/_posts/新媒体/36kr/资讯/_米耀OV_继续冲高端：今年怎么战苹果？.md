@@ -20,10 +20,10 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_9f2f64db602045b98c60fcb41150f1d5
 <p>不妨从进入2022年以来各手机厂商密集发布的新产品中嗅一下其中的火药味。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220304/v2_9f2f64db602045b98c60fcb41150f1d5_img_000" referrerpolicy="no-referrer"></p> 
 <p>除了苹果或将在今年春季发布会上推出低端手机——iPhone SE3外，本土厂商都在推高端机。</p> 
-<p>2022年，国产品牌小米、荣耀、OPPO、vivo都有一个共同的迫切目标：继续冲高端、战苹果。</p> 
+<p>2022年，国产品牌<a class="project-link" data-id="121888" data-name="小米" data-logo="https://img.36krcdn.com/20200729/v2_7ad3d765f1d844018b8f4e75c4c8050d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/121888" target="_blank">小米</a>、<a class="project-link" data-id="3969307" data-name="荣耀" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969307" target="_blank">荣耀</a>、OPPO、vivo都有一个共同的迫切目标：继续冲高端、战苹果。</p> 
 <p>激进者如小米的雷军、荣耀的赵明，都公开宣称要对标苹果、赶超苹果。</p> 
 <p>即便是OPPO这样的低调派，也曾昭告其“高端市场三分天下有其一”的野心。</p> 
-<p>2021年，华为手机逐渐退出市场后，小米、荣耀、OPPO、vivo纷纷试图抢占高端的蛋糕。但2021年高端市场的真正赢家和王者是苹果，安卓阵营的高端之路远未成功。</p> 
+<p>2021年，<a class="project-link" data-id="25167" data-name="华为" data-logo="https://img.36krcdn.com/20210806/v2_cdf6feb963574c9cb91b2818615c6072_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25167" target="_blank">华为</a>手机逐渐退出市场后，小米、荣耀、OPPO、vivo纷纷试图抢占高端的蛋糕。但2021年高端市场的真正赢家和王者是苹果，安卓阵营的高端之路远未成功。</p> 
 <p>如今，“米耀OV”的春季旗舰产品陆续登场，苹果的春季发布会已经近在眼前。2022年，本土智能手机的高端之战怎么打？靠什么战苹果？</p> 
 <h2><strong>磕产品，搞生态</strong></h2> 
 <p>从今年的新产品看，各大厂商几乎都使出了浑身解数，推出或即将推出目前为止代表其最高水平的高端机。</p> 
@@ -34,7 +34,7 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_9f2f64db602045b98c60fcb41150f1d5
 <p>对比一下的话你会发现，今年春季<strong>本土厂商的旗舰机在硬件配置上都很用力，在处理器、影像系统、续航等方面走向高端，PK苹果。</strong></p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220304/v2_93cf24412a3b41cfbb77ee84c50c020b_img_000" referrerpolicy="no-referrer"></p> 
 <p>以小米为例，12Pro定位“全能高端旗舰”，对标苹果性能最强的iPhone 13 Pro Max；小米12定位“小尺寸高端旗舰”，对标的是苹果的销量主力iPhone 13。</p> 
-<p>小米12 Pro身兼多个“全球首发”：全球首发骁龙8旗舰平台；全球首发第二代低功耗2K屏幕；首次支持“智能动态刷新率”技术；全球首发索尼最新一代顶级相机IMX707，自研“CyberFocus万物追焦”技术；具备行业内首个大容量单电芯120W安全快充。</p> 
+<p>小米12 Pro身兼多个“全球首发”：全球首发骁龙8旗舰平台；全球首发第二代低功耗2K屏幕；首次支持“智能动态刷新率”技术；全球首发索尼最新一代顶级相机IMX707，自研“CyberFocus万物追焦”技术；具备行业内首个大容量单电芯120W安<a class="project-link" data-id="169288" data-name="全快充" data-logo="https://img.36krcdn.com/20210808/v2_87b6c23eccca4874adedc05f739115f1_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/169288" target="_blank">全快充</a>。</p> 
 <p>但在价格上，小米12 Pro与iPhone13 Pro Max存在明显差距，前者零售价4699元起，最高5399元；后者零售价8999元起。</p> 
 <p><strong>不过，如果横向对比“米耀OV”今年春季的旗舰产品，仍呈现出硬件配置同质化、甚至堆料的特点。</strong></p> 
 <p>他们无一例外都采用了新一代骁龙8旗舰平台。骁龙8 Gen 1于去年底发布，是高通首款使用ARM最新Armv9架构的芯片，也是2022年安卓阵营的旗舰芯片。</p> 
@@ -49,7 +49,7 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_9f2f64db602045b98c60fcb41150f1d5
 <p>vivo也在影像赛道上开启了高端之路。他们一边与蔡司联合研发解决低反射率、眩光、杂影等影像问题的方案，同时自研影像芯片。</p> 
 <p>ISP芯片V1是vivo自主研发的第一颗专业影像芯片，去年底发布的vivo X70系列首次搭载了V1。V1芯片开发历时24个月，投入研发人力超300 人。</p> 
 <p>借助V1，vivo X70系列在提升黑光夜视、极光视频、游戏MEMC帧率方面实现了突破。</p> 
-<p>小米也在去年底发布了新一代自研充电芯片——澎湃P1，小米12 Pro首发搭载了这款芯片。</p> 
+<p>小米也在去年底发布了新一代自研充电芯片——<a class="project-link" data-id="3968629" data-name="澎湃" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968629" target="_blank">澎湃</a>P1，小米12 Pro首发搭载了这款芯片。</p> 
 <p>小米官方称，澎湃P1历经18个月，耗资过亿，在小米12 Pro上首次实现“120W单电芯”充电方案。疾速模式下，一杯咖啡的时间即可为小米12 Pro疾速满电。</p> 
 <p>苹果的硬件很成功，但苹果的成功并非只靠硬件，它靠的是硬件和iOS操作系统打造的一体化商业生态。</p> 
 <p>本土智能手机厂商要与苹果PK，只靠硬件是不够的，他们也要把生态建起来。</p> 
@@ -69,7 +69,7 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_9f2f64db602045b98c60fcb41150f1d5
 <p>小米以23%的份额位居第二，年增速30%；OPPO增长了78%，市场份额达到5%；realme更是暴涨518%，以4%的市场份额位居第五。</p> 
 <p>虽然三星和苹果分布位居第一和第三，但他们在欧洲都呈下滑状态。</p> 
 <p>2022年，本土手机厂商在欧洲市场的争夺将更加激烈。</p> 
-<p>早在2020年9月，雷军就在微博透露，“最近两年主攻欧洲市场”。2022年开春，小米又在内部清晰了高端化的战略目标：三年内拿下国产高端手机市场份额第一。</p> 
+<p>早在2020年9月，雷军就在<a class="project-link" data-id="38685" data-name="微博" data-logo="https://img.36krcdn.com/20210807/v2_2b8eedaf020b41248fe5832758ad5407_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/38685" target="_blank">微博</a>透露，“最近两年主攻欧洲市场”。2022年开春，小米又在内部清晰了高端化的战略目标：三年内拿下国产高端手机市场份额第一。</p> 
 <p>毫无疑问，欧洲将是小米在2022年的必争之地。</p> 
 <p>2022年，荣耀的关键词就是全球化。他们的目标是，未来三五年内，海外市场能够超过中国市场。</p> 
 <p>目前在欧洲市场暂时落后的荣耀正在奋力追赶。在欧洲，荣耀将重点通过高端旗舰手机，构建高端品牌和市场。</p> 
@@ -101,11 +101,11 @@ thumbnail: 'https://img.36krcdn.com/20220304/v2_9f2f64db602045b98c60fcb41150f1d5
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220304/v2_0086d4a8d2704104b42598d074bea7ec_img_000" referrerpolicy="no-referrer"></p> 
 <p>今年2月8日，在小米的高端化战略研讨会上，雷军提到，高端之路是小米的生死之战，高端之路也不可能一蹴而就；它是一次技术、产品、品牌、品质、服务的全面突破。小米要保持长期战略定力以及持续的投入，坚决执行5年1000亿研发计划。</p> 
 <p>即便追随者们来势汹汹，市场对于2022年苹果的业绩依然乐观。</p> 
-<p>天风证券分析师郭明錤曾预测，2022年iPhone的出货量将达2.5-2.6亿台。他认为，到2023年，在智能手机品牌中，苹果的成长能见度最佳，其中关键在于iPhone的生态优势与带动换机需求的产品策略。</p> 
+<p><a class="project-link" data-id="39983" data-name="天风证券" data-logo="https://img.36krcdn.com/20210807/v2_a90166a5f7f84d0ab6a15e786020d1fe_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/39983" target="_blank">天风证券</a>分析师郭明錤曾预测，2022年iPhone的出货量将达2.5-2.6亿台。他认为，到2023年，在智能手机品牌中，苹果的成长能见度最佳，其中关键在于iPhone的生态优势与带动换机需求的产品策略。</p> 
 <p>在即将举行的苹果春季发布会上，苹果或将推出新款 iPhone SE，它可能是苹果有史以来最便宜的 5G iPhone，可以覆盖更多的5G 换机需求。</p> 
 <p>网传iPhone14也将在今年9月推出，这个系列或是苹果有史以来售价最低的大尺寸手机。</p> 
 <p>2021年，苹果通过抢占华为让出的蛋糕快速增长后，今年势必把增长动力再次放在产品层面。这让苹果今年春季和秋季的新品发布会更令人期待。</p> 
 <p>当然，如果苹果愿意在今年开启一场价格战，追随者们将会面临更大的压力。</p> 
-<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=Mzg4NzYyNDAxNg==&mid=2247484777&idx=1&sn=2b5826052bdf1bad7d89326e64987472&chksm=cf86dd56f8f1544088853069d8ebfa09f5e1fc83322c453e142768bc9af6a11315a889e03bee#rd">“好看商业”（ID：IGreatBI）</a>，作者：周一围，编辑：安心，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=Mzg4NzYyNDAxNg==&mid=2247484777&idx=1&sn=2b5826052bdf1bad7d89326e64987472&chksm=cf86dd56f8f1544088853069d8ebfa09f5e1fc83322c453e142768bc9af6a11315a889e03bee#rd">“好看商业”（ID：IGreatBI）</a>，作者：周一围，编辑：安心，36氪经授权发布。</p>  
 </div>
             
