@@ -1,0 +1,19 @@
+
+---
+title: '全球首款DDR4＋DDR5双内存主板诞生 可惜是H610'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0306/9434c17181d0a67.jpg'
+author: cnBeta
+comments: false
+date: Sun, 06 Mar 2022 15:14:37 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0306/9434c17181d0a67.jpg'
+---
+
+<div>   
+Intel 12代酷睿同时支持DDR4、DDR5内存的，但各家主板厂商都不约而同地要么支持DDR4、要么支持DDR5，没有任何一款具备两种插槽，而在DDR3/DDR4过渡时代，同时支持两种内存的主板不在少数。<br>
+ <p>直到今天，这样的主板终于出现了，可惜有些另类。</p><p>昂达低调发布了一款“<strong>H610M+</strong>”，基于Intel H610芯片组，支持12代酷睿，最高i7，<strong>内存插槽有一条DDR4、一条DDR5，最高频率分别为3200MHz、4800MHz，最大容量32GB。</strong></p><p>只可惜，真想上DDR5内存的用户，也不会选择这种入门级的主板，而且两种内存都只能用一条，连个双通道都无法实现。</p><p>如果谁能做到Z690主板上、各有两条就好了……</p><p><a href="https://img1.mydrivers.com/img/20220306/6596fe15dbf04c0285f8fee56ed43ed1.jpg" style="text-align: -webkit-center;" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0306/9434c17181d0a67.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0306/9434c17181d0a67.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0306/9434c17181d0a67.jpg" referrerpolicy="no-referrer"></a></p><p>(这官图的颜色有点诡异)</p><p>其他方面，这块板子的规格也很普通：mATX小板型、8相供电电路(无散热片)、24+8针供电接口、三个SATA 6Gbps硬盘接口，一个M.2 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,677,11303" target="_blank">SSD</a>插槽(支持PCIe 3.0 x4)、一条PCIe 5.0 x16和一条PCIe x1扩展插槽、千兆网卡(预留M.2无线网卡插槽)、VGA+HDMI输出接口、两个USB 3.0和两个USB 2.0接口、三个音频口。</p><p>不过有一点倒是昂达的特色，那就是<strong>“PECVD”防护工艺技术</strong>，据说可比其它主板拥有更高的防溅水、防尘、防潮湿、防盐雾、抗老化、耐腐蚀等能力，让主板使用更耐久、寿命更长。</p><p>价格暂时不详。</p><p><a href="https://img1.mydrivers.com/img/20220306/174716aeab9a49e8b4dd95ef805ac862.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0306/58363e2e10b5a5f.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0306/58363e2e10b5a5f.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0306/58363e2e10b5a5f.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220306/3407d6289f864b5598054a7b0ca26383.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0306/4bc7c110717d08b.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0306/4bc7c110717d08b.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0306/4bc7c110717d08b.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220306/1088e858bbab468095cb0a69c7438c22.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0306/ae3c2888140d799.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0306/ae3c2888140d799.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0306/ae3c2888140d799.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220306/3d13959b45e243dba25f1a295afe6512.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0306/562680fa0b11e98.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0306/562680fa0b11e98.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0306/562680fa0b11e98.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220306/018002aa7bc048d3b5a14361c5f0f84b.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0306/9673425c927127c.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0306/9673425c927127c.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0306/9673425c927127c.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
