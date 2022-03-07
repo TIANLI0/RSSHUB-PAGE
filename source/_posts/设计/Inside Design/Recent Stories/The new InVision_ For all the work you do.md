@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/new-invision-company-announcement/'
 author: Inside Design
 comments: false
-date: 2022-03-07 04:27:13
+date: 2022-03-07 05:19:22
 thumbnail: 'https://www.invisionapp.com/inside-design/new-invision-company-announcement/'
 ---
 
