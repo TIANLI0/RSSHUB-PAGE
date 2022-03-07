@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/042/865/461/original/712f934a0a9ed6aa.jpeg'
+headimg: 'https://picsum.photos/400/300?random=3486'
 author: Mastodon
 comments: false
-date: Mon, 07 Mar 2022 10:14:38 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/042/865/461/original/712f934a0a9ed6aa.jpeg'
+date: Mon, 07 Mar 2022 10:57:14 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3486'
 ---
 
 <div>   
-🔞お兄ちゃん、コイツまたオナホ買ってる…<hr><p>パッケージの各面はこんなん．<br>凝ったデザインで、パッケージにも力が入っているのがわかります．<br>二階堂りおちゃんはSSI JAPANのキャラクターで，今回僕が購入した以外にもトルソー型のオナホールや，なんと頭から足の先まで備わったドール型の製品もあるそうです．<br>ドールって，それもうオナホちゃうやん．</p><br><img src="https://img.pawoo.net/media_attachments/files/042/865/461/original/712f934a0a9ed6aa.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/042/865/466/original/81c28767e6023ad5.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/042/865/469/original/b06ffea962f33083.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/042/865/472/original/987db48cf8c9a4c0.jpeg" alt="image " referrerpolicy="no-referrer">  
+🔞お兄ちゃん、コイツまたオナホ買ってる…<hr><p>ケ　ツ　ド　ラ　ム　</p><br><video src="https://img.pawoo.net/media_attachments/files/042/866/340/original/3dc040a8b9211791.mp4" controls loop>video </video>  
 </div>
             
