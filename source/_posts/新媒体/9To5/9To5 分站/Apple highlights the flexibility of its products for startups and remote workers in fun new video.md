@@ -23,7 +23,12 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/03/App
 <blockquote class="wp-block-quote">
 <p>Apple hardware, software, and services work together to give your employees the power and flexibility to do whatever needs doing — whether you’re running a startup, scale-up, or global enterprise. See how four misfits turn a brilliant idea into a booming small business with the power of Apple.</p>
 </blockquote>
-<p>While the 7-minute video is not yet available on YouTube, you can watch it directly on the <a href="https://www.apple.com/business/" target="_blank" rel="noreferrer noopener">Apple Business website</a>.</p>
+<p>You can watch the 7-minute video directly on the <a href="https://www.apple.com/business/" target="_blank" rel="noreferrer noopener">Apple Business website</a> or on YouTube:</p>
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<iframe class="youtube-player" width="1000" height="563" src="https://www.youtube.com/embed/GC5Gmkn92Bg?version=3&rel=0&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div>
+</figure>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3CrMehr"><img class="aligncenter wp-image-790929 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/03/DC_9to5Mac_Mar22_V1.jpeg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
