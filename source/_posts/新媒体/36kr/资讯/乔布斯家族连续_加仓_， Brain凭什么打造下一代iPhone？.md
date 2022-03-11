@@ -5,17 +5,17 @@ categories:
  - 新媒体
  - 36kr
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3031'
+headimg: 'https://picsum.photos/400/300?random=2761'
 author: 36kr
 comments: false
 date: Fri, 11 Mar 2022 05:08:31 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3031'
+thumbnail: 'https://picsum.photos/400/300?random=2761'
 ---
 
 <div>   
 <p>虽然乔布斯已去世十年有余，但是与他有关的科技故事，还远远没有结束。 </p> 
 <p>2021年6月，人工智能公司Brain Technologies （以下简称为Brain） 宣布获得由乔布斯遗孀Laurene Powell Jobs参与投资的5000万美元融资。 <strong>这是继2016年6月的千万美元投资后，Laurene Powell Jobs第二次“加仓”Brain。</strong></p> 
-<p>值得注意的是，或许是因为早已看尽科技行业的蜃楼山市，乔布斯去世后，Laurene对科技行业兴致索然，十余年来，除Brain外，并未直接投资其他科技公司。 </p> 
+<p>值得注意的是，或许是因为早已看尽科技行业的<a class="project-link" data-id="157169" data-name="蜃楼" data-logo="https://img.36krcdn.com/20210808/v2_ed7d0a90ecb5439388f71791c4ec74d3_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/157169" target="_blank">蜃楼</a>山市，乔布斯去世后，Laurene对科技行业兴致索然，十余年来，除Brain外，并未直接投资其他科技公司。 </p> 
 <p>官方资料显示，Brain的目的，是希望通过更通用的AI技术，让技术和代码变得有温度、能共情，最终建立一个以人为中心的数字世界。2020年，Brain推出了世界上第一个可以帮助用户思考的即时生成型界面，可以基于用户的目标即时渲染和生成相关的界面和应用。 </p> 
 <p>五年时间，两次吸引乔布斯家族投资，难道Brain的即时生成型界面真的比得上苹果的iOS系统？ </p> 
 <h2><strong>01  iOS们的致命缺陷</strong></h2> 
@@ -26,7 +26,7 @@ thumbnail: 'https://picsum.photos/400/300?random=3031'
 <p>正如Brain创始人Jerry Yue 所言：“ <strong>计算机在输出‘Hello world’或者做任何运算或执行的时候，它是不知道执行的原因的，它只是在执行人类写好的函数。</strong> 每个函数并不知道自己为什么存在，今天写程序也只是在用固定的方式连接界面和背后的函数。这也是虽然数十亿的人每天重复使用着这些软件它们也无法自我学习和提升的原因。” </p> 
 <p>现代计算平台这种被动的操作逻辑，与前信息时代，人类使用辘轳、耧车、石磨盘等农业用具在本质上类似。在决策时，都需要人类产生想法，找到正确的工具，进行操作，最终才能达成目的。 </p> 
 <p>而之所以如今的计算平台相较于传统农业设备可以迸发出更大的价值，主要是得益于前者具备超快的芯片算力以及网联能力，进而可以带来效率提升。 </p> 
-<p>但 <strong>iOS等计算平台没能解决的一个问题是，平台内的软件生态存在严重的孤岛化倾向。</strong> 比如在百度这个主打搜索的App中，我们就找不到微信公众号的内容。这在某种程度上，反而会降低我们的使用效率。 </p> 
+<p>但 <strong>iOS等计算平台没能解决的一个问题是，平台内的软件生态存在严重的孤岛化倾向。</strong> 比如在<a class="project-link" data-id="28215" data-name="百度" data-logo="https://img.36krcdn.com/20210806/v2_f96267de58b643faae02c0cb24debbed_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/28215" target="_blank">百度</a>这个主打搜索的App中，我们就找不到<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号的内容。这在某种程度上，反而会降低我们的使用效率。 </p> 
 <p>虽然近两年，有关部门看到了上述信息孤岛化的问题，试图通过政策的强力去改造App，但是归根结底，iOS等计算平台的运行逻辑，就是通过应用程序，将流量分发到不同的App。因此，扭转上述困局最有效的办法，其实还是寄希望于计算平台的迁移。 </p> 
 <h2><strong>02  Brain打造下一代计算平台</strong></h2> 
 <p>也正是在这个背景下，JerryYue 于2015年12月创立了人工智能公司 Brain，试图用AI的力量，革新人类信息的分发模式。 </p> 
@@ -50,7 +50,7 @@ thumbnail: 'https://picsum.photos/400/300?random=3031'
 <p>也正由此，Brain的AI技术甚至可以深入人类智慧的高峰——哲学层面。 </p> 
 <p>Jerry透露，在一次测试中，他曾问Brain的AI，“人是否拥有自由意志？”结果AI回到道：“答案取决于你探讨的问题。探讨的问题距离生存欲望越近的时候，你的自由意志越低，如果探讨的问题距离生存欲望越远，你的自由意志越高。” </p> 
 <p><strong>令人惊奇的是，该问题并不是来自于网络上的copy，而是AI的“思考”。</strong></p> 
-<p>这很难不让人想起2013年美国导演斯派克·琼斯指导的科幻电影《她》。该电影讲述了一个人工智能无限发达的时代背景下，男主西奥多爱上了人工智能系统萨曼莎的故事。 </p> 
+<p>这很难不让人想起2013年美国导演<a class="project-link" data-id="218164" data-name="斯派克" data-logo="https://img.36krcdn.com/20210809/v2_d0ca1240c62f48f2a40a115e8ed0eb3b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/218164" target="_blank">斯派克</a>·琼斯指导的科幻电影《她》。该电影讲述了一个人工<a class="project-link" data-id="578654" data-name="智能无限" data-logo="https://img.36krcdn.com/20210814/v2_527877aed12c48d1a9585f9f20ebd875_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/578654" target="_blank">智能无限</a>发达的时代背景下，男主西奥多爱上了人工智能系统萨曼莎的故事。 </p> 
 <p>电影大量展示了与Brain打造的产品类似的主动式人工智能语音交互的场景。比如，当西奥多想要写字的时候，只需要对着萨曼莎说话，文字即可输入屏幕，并且说一句“打印”，即可见到纸质文件。 </p> 
 <p>更重要的是，萨曼莎也具有哲学思辨能力，在影片的最后，它和男主都坦言：“我从没像爱过你这样爱过别人...” </p> 
 <p>当“她”成为现实，还有谁会忍受“Siri”呢？ </p> 
