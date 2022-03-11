@@ -16,18 +16,18 @@ thumbnail: 'https://img.36krcdn.com/20220311/v2_a117181a873544f8a918bd1e2266b2a7
 <p>NFT的暗潮一直在涌动。</p> 
 <p>这两年来，我们几乎隔一段时间就能听到NFT艺术品卖出高价的消息，比如去年加密艺术家Beeple的NFT数字艺术品《每一天：前5000天》拍出6934万美元的高价。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220311/v2_a117181a873544f8a918bd1e2266b2a7_img_000" referrerpolicy="no-referrer"></p> 
-<p>巨头们也在低调入场，比如软银互联网部门计划今年春天，要在180个国家推出一个NFT市场，此外根据路透社的消息，<a class="project-link" data-id="24961" data-name="腾讯" data-logo="https://img.36krcdn.com/20201201/v2_016524a9a477434cb3584e1558f3257a_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/24961" target="_blank">腾讯</a>也首次在NFT赛道参投国外NFT游戏公司Immutable。</p> 
-<p>NFT的创富<a class="project-link" data-id="457408" data-name="浪潮" data-logo="https://img.36krcdn.com/20210812/v2_079b6194026a457fb6ca0d50e1203979_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/457408" target="_blank">浪潮</a>也推动着一批批渴望一夜暴富的人涌入这个风口。众多明星、大V、企业都已入场，比如周杰伦与好友合伙创办的潮牌发售NFT项目幻想熊，限量1万个，不到一小时全部售出，总价超过6200万元人民币。</p> 
-<p>徐静蕾收藏的NFT高达700多个。林俊杰、余文乐等明星都曾在社交媒体上秀出自己购买的数字资产。王家卫电影NFT作品《花样年华：一<a class="project-link" data-id="189304" data-name="刹那" data-logo="https://img.36krcdn.com/20210809/v2_b0589c00b5724ec8beb139ffb9e7adea_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/189304" target="_blank">刹那</a>》在<a class="project-link" data-id="323480" data-name="苏富比" data-logo="https://img.36krcdn.com/20210810/v2_9017e88d37ad42789638226f7cf02fb4_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/323480" target="_blank">苏富比</a>香港秋拍以428.4万港元价格成交......</p> 
+<p>巨头们也在低调入场，比如软银互联网部门计划今年春天，要在180个国家推出一个NFT市场，此外根据路透社的消息，腾讯也首次在NFT赛道参投国外NFT游戏公司Immutable。</p> 
+<p>NFT的创富浪潮也推动着一批批渴望一夜暴富的人涌入这个风口。众多明星、大V、企业都已入场，比如周杰伦与好友合伙创办的潮牌发售NFT项目幻想熊，限量1万个，不到一小时全部售出，总价超过6200万元人民币。</p> 
+<p>徐静蕾收藏的NFT高达700多个。林俊杰、余文乐等明星都曾在社交媒体上秀出自己购买的数字资产。王家卫电影NFT作品《花样年华：一刹那》在苏富比香港秋拍以428.4万港元价格成交......</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220311/v2_ea633f8cd57b4685b062d3e52895d52d_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">《花样年华：一刹那》片段截图</p> 
 <p>但与此同时，NFT抄袭与窃取作品的消息也层出不穷。</p> 
-<p>今年2月开始，国外一音乐NFT交易平台HitPiece未经音<a class="project-link" data-id="103261" data-name="乐艺" data-logo="https://img.36krcdn.com/20210808/v2_72952a56f4804e93808c75f147288b9a_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/103261" target="_blank">乐艺</a>人的许可就在平台上出售其音乐作品，遭遇了Eve 6、Deerhoof、Sadie Dupuis、Jack AntonoffJack Antonoff等多位音乐人的愤怒抨击，指责该平台窃取了他们的音乐作品，引发了业界的高度关注，美国唱片协会也向该平台发出了律师函。</p> 
-<p>这导致HitPiece最终被迫发表道歉声明，并表示：“当数字商品在HitPiece上销售时，艺术家会<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20210807/v2_966db147ab4646ef82349f069ce61219_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>报酬。”</p> 
+<p>今年2月开始，国外一音乐NFT交易平台HitPiece未经音乐艺人的许可就在平台上出售其音乐作品，遭遇了Eve 6、Deerhoof、Sadie Dupuis、Jack AntonoffJack Antonoff等多位音乐人的愤怒抨击，指责该平台窃取了他们的音乐作品，引发了业界的高度关注，美国唱片协会也向该平台发出了律师函。</p> 
+<p>这导致HitPiece最终被迫发表道歉声明，并表示：“当数字商品在HitPiece上销售时，艺术家会得到报酬。”</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220311/v2_57f4f930b88d4652aea1ddb2c79c9833_img_000" referrerpolicy="no-referrer"></p> 
 <p>Deerhoof在推特上回应说："他们偷了你的音乐，在他们的网站上拍卖NFT，当他们被抓到时，他们说不用担心，你会'得到报酬'。</p> 
 <p>在越来越大的舆论压力之下，HitPiece完全撤出了其NFT市场。</p> 
-<p>在国内，也在今年2月5日，自媒体<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公号“抄袭的艺术”曝光了一组关于NFT卡通头像的对比图，直指中央美院<a class="project-link" data-id="79988" data-name="建筑学院" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/79988" target="_blank">建筑学院</a>教师王文栋抄袭著名的NFT系列作品“无聊猿游艇俱乐部”。</p> 
+<p>在国内，也在今年2月5日，自媒体微信公号“抄袭的艺术”曝光了一组关于NFT卡通头像的对比图，直指中央美院建筑学院教师王文栋抄袭著名的NFT系列作品“无聊猿游艇俱乐部”。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220311/v2_c2f488a14f79412eb943a3a13c83baf7_img_000" referrerpolicy="no-referrer"></p> 
 <p>此前，NBA球星库里和著名歌手贾斯汀·比伯等名人都曾花费十几万美元到百万美元不等去购买“无聊猿”头像。而被“抄袭的艺术”曝光的这组王文栋作品，名为“无聊悟空”，脸型、表情等与“无聊猿”看上去颇为相似。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220311/v2_a9698c2c63124227862ff4b1132e82ba_img_000" referrerpolicy="no-referrer"></p> 
@@ -47,14 +47,14 @@ thumbnail: 'https://img.36krcdn.com/20220311/v2_a117181a873544f8a918bd1e2266b2a7
 <p>比如说，一个摄像师拍摄了一张艺术照，通过jpg格式保存，但是这张照片是可以复制N份的，所有的信息都是一样，也可以修改。</p> 
 <p>在这里NFT的价值在于，可以给这张jpg格式的照片标记唯一身份，网络上虽可以复制无数份，但核对信息就只有一张jpg是合法的，这是判断正品与复制品的唯一依据，借此就能确认版权。</p> 
 <p><strong>创作者基于版权的确定，可以自定义作品的数量，在NFT市场进行售卖。</strong></p> 
-<p>也因此，众多艺术家、音<a class="project-link" data-id="84161" data-name="乐家" data-logo="https://img.36krcdn.com/20210807/v2_fed0c962b4bc4123882692d8d4afce10_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/84161" target="_blank">乐家</a>和体育特许经营公司都在使用NFT将自己过去免费或收费的数字商品货币化。</p> 
+<p>也因此，众多艺术家、音乐家和体育特许经营公司都在使用NFT将自己过去免费或收费的数字商品货币化。</p> 
 <p>可以知道，对于数字商品消费者来说，它彰显了自己在某个收藏或艺术品领域的权利，同时，它也是一种风险投资，<strong>这种投资不像股票等风险投资有一定的市场预期，NFT的价格是波动的，但收益与风险都要更大。</strong>你有可能卖出高价，也有可能仅仅是收藏了个寂寞。</p> 
 <p>对数字商品的内容生产者来说，它可以用来确认自己的数字商品的版权，相对于现实世界存在的版权作品有正版标识，容易确认版权，但是在虚拟世界中却行不通。</p> 
 <p>对于数字商品生产者来说，NFT可以让自己的作品实现唯一性确权，由此衍生出数字商品货币化价值，实现商业价值的变现。</p> 
 <h2><strong>透视NFT的模式短板，还有哪些bug要补？</strong></h2> 
 <p>NFT有它的商业价值与前景，但当前NFT的商业规则、体系与模式并不是完美无缺的，还有一些体系化的机制短板与bug需要解决。</p> 
 <p>首先从本质上来看，<strong>NFT其实就是伪装成数字作品的加密货币，其唯一性依托于某加密货币平台之上</strong>——毕竟，发布NFT，需要挑一个市场平台。</p> 
-<p>在目前，国外比较有代表性的NFT平台是OpenSea与Rarible，在国内则有很多NFT平台，典型的是NFT中国。此外，腾讯、阿里、 京东 、<a class="project-link" data-id="1923" data-name="小红书" data-logo="https://img.36krcdn.com/20210806/v2_23269e4c48bb4297958eabf2916f2018_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/1923" target="_blank">小红书</a>等互联网企业都加入了NFT赛 道，<strong>腾讯有“幻核”，支付宝有蚂蚁链，京东上线了NFT发行平台灵稀，淘宝也发布了基于区块链技术的官方艺术平台“有隐”等。</strong></p> 
+<p>在目前，国外比较有代表性的NFT平台是OpenSea与Rarible，在国内则有很多NFT平台，典型的是NFT中国。此外，腾讯、阿里、 京东 、小红书等互联网企业都加入了NFT赛 道，<strong>腾讯有“幻核”，支付宝有蚂蚁链，京东上线了NFT发行平台灵稀，淘宝也发布了基于区块链技术的官方艺术平台“有隐”等。</strong></p> 
 <p><strong>不可篡改、唯一性是NFT的特征，但其实这两个特征实现起来都不容易。</strong></p> 
 <p>首先不可篡改的前提是区块链是运行在全球的设备上，但国内许多平台都在自家服务器上搞NFT，巨头们其实掌控着自家平台数据篡改的权限。</p> 
 <p><strong>从唯一性来看，也仅仅是在具体NFT平台上具备唯一性。</strong></p> 
@@ -71,7 +71,7 @@ thumbnail: 'https://img.36krcdn.com/20220311/v2_a117181a873544f8a918bd1e2266b2a7
 <p>比如从央美教师王文栋被指抄袭著名NFT“无聊猿”事件来看，他的作品依然能卖钱——王文栋创作的第1件悟空首次成交价格为99元人民币（已成交）；尽管与无聊猿的价格比起来是天壤之别，但毕竟，他也赚到钱了。</p> 
 <p>当前，腾讯、阿里等国内互联网公司的NFT相关产品平台上，都已经删掉NFT，改成“数字藏品”，这或许是这些平台也看到了NFT背后的隐患以及它整个运行机制还存在诸多问题没有解决，这些平台定位开始去NFT化，试图从数字内容创作领域入手，去引导推动有价值的数字爆品出现。</p> 
 <p>NFT在当前正处于野蛮生长期，一个新事物，越在野蛮生长期，对于许多人来说，往往意味着有赚钱的机会。</p> 
-<p>毕竟当前整个NFT交易机制的不透明，存在许多操作的空间，这也是为何越来越多的资本、机构与平台都试图通过NFT寻找<a class="project-link" data-id="431525" data-name="财富密码" data-logo="https://img.36krcdn.com/20210812/v2_c7a0b8206e834a398c36bfe1700463e0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/431525" target="_blank">财富密码</a>与营销机会。</p> 
+<p>毕竟当前整个NFT交易机制的不透明，存在许多操作的空间，这也是为何越来越多的资本、机构与平台都试图通过NFT寻找财富密码与营销机会。</p> 
 <p>而根据业内的爆料来看，<strong>NFT的许多操作案例依然沿袭着那个熟悉的击鼓传花的套路游戏</strong>——发行方一早一开始就联系好大V、主播、明星，他们先买，交了钱，然后粉丝才会跟着交钱买，明星、名人们在合适的时机抽身，后来的粉丝们成为最终的接盘侠。</p> 
 <p>从当前来看，创作者、发行方或许能赚到钱，但抄袭者、窃取者的生存空间也颇为广阔，更别提永赚不亏的平台，毕竟，在NFT市场，你的操作基本上都与交易有关，从发布到撤销，都要付费。</p> 
 <p>如何从机制层面完善NFT在唯一性、原创确权、版权追责、交易透明性等层面的bug与短板，还有很远的路要走，也还需要时间来检验。</p> 
