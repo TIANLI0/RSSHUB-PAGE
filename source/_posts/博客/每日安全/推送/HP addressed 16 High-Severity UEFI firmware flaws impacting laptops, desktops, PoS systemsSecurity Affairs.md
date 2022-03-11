@@ -5,14 +5,22 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=6241'
+headimg: 'https://picsum.photos/400/300?random=7451'
 author: 每日安全
 comments: false
-date: 2022-03-11 01:26:25
-thumbnail: 'https://picsum.photos/400/300?random=6241'
+date: 2022-03-11 02:45:13
+thumbnail: 'https://picsum.photos/400/300?random=7451'
 ---
 
 <div>   
-HP addressed 16 High-Severity UEFI firmware flaws impacting laptops, desktops, PoS systemsSecurity Affairs  
+<q>HP 刚刚修复了 UEFI 固件的 16 个高危漏洞</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 22 hours ago</small></span>
+</cite>
+  
 </div>
             
