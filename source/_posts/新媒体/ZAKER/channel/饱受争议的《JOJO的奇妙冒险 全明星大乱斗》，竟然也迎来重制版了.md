@@ -1,0 +1,18 @@
+
+---
+title: '饱受争议的《JOJO的奇妙冒险 全明星大乱斗》，竟然也迎来重制版了'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/622ab09db15ec06114203eef_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 11 Mar 2022 01:02:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/622ab09db15ec06114203eef_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202203/622ab09db15ec06114203eef_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/622ab09db15ec06114203eef_1024.jpg" referrerpolicy="no-referrer"></div></div>即便作为坚定的 JO 厨，掏钱之前估计心里还得再多掂量掂量。<p></p><p>北京时间 3 月 10 日凌晨 6 点，索尼举行了新一期的 State of Play 发布会，期间公布了众多第三方游戏的新消息或是新预告，包括《最终幻想：起源》和《幽灵线：东京》等游戏在内。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202203/622ab09db15ec06114203ef0_1024.jpg" data-height="614" data-width="596" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622ab09db15ec06114203ef0_1024.jpg" referrerpolicy="no-referrer"></div></div>▲ State Of Play 新内容汇总<p></p><p>其中比较引人注目——尤其引 JOJO 系列爱好者注目的，是《JOJO 的奇妙冒险 全明星大乱斗》即将迎来重制版，万代南梦宫也公布了该游戏的首支预告片。</p><p>该作预计于今年初秋发售，支持中文，并且依旧由原版开发商 CyberConnect2（即 "CC2"）负责制作，支持包括 STEAM、Switch、PS5 在内的多个平台。</p><p>相比于原版，本作将拥有多达 50 名角色可供选择，并且一至六部的出场角色皆使用了日版动画中的声优进行配音。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202203/622ab09db15ec06114203ef1_1024.jpg" data-height="606" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622ab09db15ec06114203ef1_1024.jpg" referrerpolicy="no-referrer"></div></div>被星星标记所占据的格子，应该就是本作新添加进的角色<p></p><p>据发布公告所言，该作将以 2013 年发售的原版为基础，调整原有的游戏节奏、追加跳跃冲刺等操作，并且加入了许多拟音字——以如实重现荒木原作的观感表现。</p><p>与此同时，公告中也公布了重制版中主要的游戏模式，游戏中也添加进了收集要素，玩家可以进行系列中登场的各类角色之间的战斗，挑战预计超过 100 种的各式规则，通关后即可获得角色的特殊服装和画像图鉴。</p><p>另外据视频中的展示，重制版可能添加了角色援助或切角的功能，似乎在玩法内容上有不同体验。</p><p>不过，即便距离原版发售已经过去了 9 年，依然有粉丝还没从之前原版的 " 阴影 " 里走出来。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202203/622ab09db15ec06114203ef2_1024.jpg" data-height="297" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/622ab09db15ec06114203ef2_1024.jpg" referrerpolicy="no-referrer"></div></div>▲粉丝吐槽<p></p><p>虽说 CC2 老本行就是制作漫改游戏，在还原度和表现力上广受动漫粉丝认可，但原版《JOJO 的奇妙冒险 全明星大乱斗》的表现堪称 " 灾难 "：相较于演出表现，格斗系统本身非常单薄；剧情破碎、故事流程短；初始售价高，随后又光速降价……</p><p>对于原版曾经出现过的问题，不少玩家还是心有余悸。再加上预告片里展示的人物模型看起来就像搬运了原版的老建模，让人很难不怀疑这是又一个 " 扩充增强包 "。</p><p>即便作为坚定的 JO 厨，掏钱之前估计心里还得再多掂量掂量。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202203/622ab09db15ec06114203ef3_1024.jpg" data-height="734" data-width="784" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/622ab09db15ec06114203ef3_1024.jpg" referrerpolicy="no-referrer"></div></div>但愿 CyberConnect2 的这个重制版，是吸取过原版教训再放出来的吧。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
