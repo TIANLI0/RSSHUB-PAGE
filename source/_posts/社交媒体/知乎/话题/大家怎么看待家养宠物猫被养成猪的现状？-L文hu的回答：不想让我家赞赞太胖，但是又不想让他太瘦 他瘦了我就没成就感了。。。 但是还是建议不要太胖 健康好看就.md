@@ -1,0 +1,18 @@
+
+---
+title: '大家怎么看待家养宠物猫被养成猪的现状？-L文hu的回答：不想让我家赞赞太胖，但是又不想让他太瘦 他瘦了我就没成就感了。。。 但是还是建议不要太胖 健康好看就...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-c057e645d5386180321661e9ab4ad11a_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 12 Mar 2022 11:14:14 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-c057e645d5386180321661e9ab4ad11a_1440w.jpg'
+---
+
+<div>   
+<strong>大家怎么看待家养宠物猫被养成猪的现状？</strong><br>L文hu的回答<br><p data-pid="a2fIPO_o">不想让我家赞赞太胖，但是又不想让他太瘦</p><p data-pid="-Kw6Pup9">他瘦了我就没成就感了。。。</p><p data-pid="Tpr44KJS">但是还是建议不要太胖</p><p data-pid="ohNpe_jH">健康好看就行</p><p data-pid="OU9a5sYC">btw，去年冬天我家猫见了粮跟见了亲爹一样，今年开春就感觉吃饭不是很积极了，体重也因为经常跑酷肉眼可见的瘦了</p><p data-pid="W62SWXvZ">不知道咋回事了，求各位大佬解答一下</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-c057e645d5386180321661e9ab4ad11a_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-ace5b7d6a1b9dc85af0569cbd8bd4544_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-c057e645d5386180321661e9ab4ad11a_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-96099057e8bdbfdfbd340d0ce7dc76ce_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-b72c13fd720e4c46521164a7d3b5f08b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-96099057e8bdbfdfbd340d0ce7dc76ce_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-0ce86423eb43944bbeff46dc63cca1dc_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-c36f0cd8bef87bc3ba8b02ba2d37a9b8_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-0ce86423eb43944bbeff46dc63cca1dc_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-64b5c2f2a2b95b4c2543ed7aad96ca99_1440w.jpg" data-rawwidth="1394" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-360d0e90bbd49e6e383d573ac6a86223_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-64b5c2f2a2b95b4c2543ed7aad96ca99_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-07e9177226338d5a1e9cff0f21b76f28_1440w.jpg" data-rawwidth="1394" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-3004099ddf81e7658dbd1307a53139d5_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-07e9177226338d5a1e9cff0f21b76f28_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-64decb36d0acce63630b39fbcb0587a1_1440w.jpg" data-rawwidth="2048" data-rawheight="1394" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-a047d501ed80eebe52f25ce6d39a9d89_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-64decb36d0acce63630b39fbcb0587a1_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
