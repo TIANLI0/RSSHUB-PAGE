@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/03/12/220312161623547_u524.
 
                 
                 
-                    <div class="topicContent front_content sort_content">新一期「ID@Xbox发布会」将于3月17日2点举办，届时会带来一些独立游戏的情报。阵容包括有《Finji》《Whitethorn》《Shredders》等。</div>
+                    <div class="topicContent front_content sort_content">新一期「ID@ Xbox发布会」将于3月17日2点举办，届时会带来一些独立游戏的情报。阵容包括有《Finji》《Whitethorn》《Shredders》等。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/03/12/220312161623547_u524.jpg" src="https://img01.vgtime.com/game/cover/2022/03/12/220312161623547_u524.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
