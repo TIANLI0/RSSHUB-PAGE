@@ -17,7 +17,7 @@ thumbnail: 'https://img.36krcdn.com/20220311/v2_16d73f2be0924f2682f69a55c3b43837
 <p>在这些新品当中，最“不起眼”的可能就要数Studio Display了。毕竟作为一款准专业级的显示器产品，它既没有iPhone 13系列和新款iPhone SE那么广泛的受众群体，也不像iPad Air或Mac Studio配备了那么恐怖的芯片和性能配置。 </p> 
 <p>但如果看过我们三易生活对于这场发布会的产品分析，就会知道Studio Display其实是一款相当有竞争力的产品。事实上，它并不只是一款27英寸，具备5K分辨率的HDR600显示器，在机身中苹果还为其配备了一颗1200万像素的超广角摄像头，以及一套号称“同级别最强”的六单元杜比全景声扬声器系统。 </p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220311/v2_16d73f2be0924f2682f69a55c3b43837_img_000" referrerpolicy="no-referrer"></p> 
-<p>不知道大家有没有注意到，我们此前对于Studio Display的评价，其实有那么一点点不太合理的地方。因为我们曾说“在与它同样的价位上，你几乎不可能同时买得到一块5K分辨率的HDR600显示器、加一颗1200万像素的高端网络会议摄像头，再加上一套杜比全景声的SoundBar”。 </p> 
+<p>不知道大家有没有注意到，我们此前对于Studio Display的评价，其实有那么一点点不太合理的地方。因为我们曾说“在与它同样的价位上，你几乎不可能同时买<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20210807/v2_966db147ab4646ef82349f069ce61219_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>一块5K分辨率的HDR600显示器、加一颗1200万像素的高端网络会议摄像头，再加上一套杜比全景声的SoundBar”。 </p> 
 <p>但实际上这句话里，其实是不需要加“几乎”二字的。因为迄今为止，从未有过任何一款用于个人电脑的音箱或SoundBar产品支持杜比全景声技术。所以这压根不是钱的问题，而是你买不到。 </p> 
 <h2><strong>为什么会这样？首先你要知道什么是“全景声”</strong></h2> 
 <p>说到“杜比全景声”，可能许多朋友第一感觉它只不过是一个更先进点的环绕声技术而已。但实际上这个认知是完全错误的，“全景声”与“环绕声”是完全不同的东西，它们之间的关系有点像“先有鸡还是先有蛋”这个问题一样微妙。 </p> 
@@ -46,7 +46,7 @@ thumbnail: 'https://img.36krcdn.com/20220311/v2_16d73f2be0924f2682f69a55c3b43837
 <p>明白了以上这些道理，我们再来看主流的PC多媒体音箱就会发现，无论是传统的2.0书架箱、2.1，或者5.1多声道音箱，还是近年来比较火的桌面级SoundBar，这类产品一是摆放位置的随机性较大，从形状上就很难保障扬声器单元之间有足够的间距和精确的位置关系。其二则是受制于成本因素，绝大多数的主流PC音箱也不可能像专业级的家庭影院或高端影院耳机那样，配备复杂的调音和校准设备。 </p> 
 <p>“杜比全景声”至今不能用于PC游戏制作，也导致其在PC音频领域并不流行 </p> 
 <p>或许正是因为如此，虽然杜比全景声技术自发布以来已经过去了10年时间，但纵观杜比公司的官网就能看到，他们似乎从来就没动过将“全景声”推广到PC市场的心思。事实上，杜比至今也没有推出适用于任何PC游戏的全景声制作解决方案，而是专心将其作为一种视频音效标准进行推广。而这也在某种程度上为杜比全景声在移动设备、电视和影院领域大放异彩，却唯独在个人电脑、特别是个人电脑音箱市场中“遇冷”的局面，做出了“贡献”。 </p> 
-<p>【本文图片来自网络】 </p> 
-<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzA4MTk2NTk5Nw==&mid=2649807814&idx=1&sn=7b12db4f18c4e63c8b6fd580f2e66d9d&chksm=87889d04b0ff1412f68b8922b1ec702aed4d36f38b55e84b076a1e4fb4c5004b809c00e41532#rd">“三易生活”（ID：IT-3eLife）</a>，作者：三易菌，36氪经授权发布。</p>  
+<p>【本<a class="project-link" data-id="4260349" data-name="文图" data-logo="https://img.36krcdn.com/20220120/v2_a43f6ad2664a4e2ab6610982e99ef898_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4302601113?mp=zzquote" target="_blank">文图</a>片来自网络】 </p> 
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzA4MTk2NTk5Nw==&mid=2649807814&idx=1&sn=7b12db4f18c4e63c8b6fd580f2e66d9d&chksm=87889d04b0ff1412f68b8922b1ec702aed4d36f38b55e84b076a1e4fb4c5004b809c00e41532#rd">“三易生活”（ID：IT-3eLife）</a>，作者：三易菌，36氪经授权发布。</p>  
 </div>
             
