@@ -1,0 +1,18 @@
+
+---
+title: '2月出海手游市场：原神依旧yyds，王者荣耀加速补短板'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b290_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 14 Mar 2022 00:16:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b290_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b290_1024.jpg" data-height="872" data-width="1360" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b290_1024.jpg" referrerpolicy="no-referrer"></div></div>3 月 14 日，Sensor Tower 商店情报平台公布的 2 月出海手游数据显示，米哈游《原神》保持迅猛发展态势，收入迎来又一轮峰值，蝉联海外手游收入榜榜首。<p></p><p>腾讯《PUBG Mobile》紧随其后，位居第二。三七互娱旗下《Puzzles & Survival》收入稳步增长，排名挺进 TOP5。</p><p>值得关注的是，2 月 4 日当天，腾讯《王者荣耀》日流水纪录创海外上市 5 年来新高，这也推动其重回出海手游收入榜第 29 名。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b291_1024.jpg" data-height="836" data-width="960" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b291_1024.jpg" referrerpolicy="no-referrer"></div></div>从出海手游下载量来看，腾讯《PUBG Mobile》势头正猛，以超过 1160 万次下载蝉联榜首。同时，《王者荣耀》也由于在巴西、墨西哥等拉美市场的发力布局表现亮眼，排名前进 7 位至第 10 名。<p></p><p>上线以来《王者荣耀》依靠微信、QQ 的社交流量池，加上扎实稳定的更新质量，始终稳坐国内 " 全民游戏 " 的宝座。</p><p>根据 Sensor Tower 公布的 2021 年 3 月全球热门移动游戏收入数据，《王者荣耀》登顶全球第一。其中，来自国内市场 App Store 的占比达 96.3%，海外版本占比仅为 3.7%。</p><p>难以打开海外市场，可以说是《王者荣耀》目前遇到的主要问题之一。不过目前来看，随着腾讯不断在全球游戏产业的深化布局，《王者荣耀》加速全球化也正被提上日程。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b292_1024.jpg" data-height="867" data-width="1373" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b292_1024.jpg" referrerpolicy="no-referrer"></div></div>2014 年后，腾讯游戏的海外投资进入快车道。据不完全统计，截至 2021 年 12 月 21 日，腾讯游戏投资遍布欧美、亚洲、大洋洲等区域的 17 个国家 55 家公司，仅在各国资本市场上市的就有约 10 家。<p></p><p>腾讯在 2021 年 Q3 财报中披露，将网络游戏业务划分方式从原先 " 端游 " 和 " 手游 " 变为 " 本土市场游戏 " 和 " 国际市场游戏 "。这一举措，也被外界普遍认为腾讯游戏对于出海业务展露野心。</p><p>近日有消息称，腾讯游戏在 2021 年 9 月将《王者荣耀》海外版 Arena of Valor 升级为重要的战略级项目，投放预算也实现翻倍提升。《王者荣耀》此次在海外市场取得的不俗成绩，或是腾讯不断谋划布局的结果。</p><p>值得一提的是，在 Sensor Tower 商店情报平台公布的数据中，沐瞳科技旗下的《Mobile Legends: Bang Bang》，位居 2 月出海手游收入榜第 11 位。这是《王者荣耀》在出海之路上必然要面对一个对手。</p><p>《Mobile Legends: Bang Bang》无论是游戏设计、玩法机制，还是英雄人物等，都与《王者荣耀》如出一辙，因此有着 " 东南亚版王者荣耀 " 之称。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b293_1024.jpg" data-height="854" data-width="1416" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622ef94bb15ec056ba55b293_1024.jpg" referrerpolicy="no-referrer"></div></div>沐瞳科技与腾讯也一直纠纷不断，沐瞳科技还曾因创始人徐振华违反保密协议、商业禁止协议被判赔付腾讯 1940 余万，创同类案件最高赔偿纪录。与腾讯不断交恶的沐瞳科技，选择了同样与腾讯展开竞争的字节跳动。<p></p><p>2021 年 3 月 22 日，沐瞳科技与字节跳动旗下游戏业务品牌朝夕光年达成战略收购协议，加强在游戏、电竞等领域与字节跳动的深度融合，共同开拓全球游戏市场。</p><p>同属 MOBA 类手游的头部产品，或许《Mobile Legends: Bang Bang》在海外市场的成功，对《王者荣耀》来说既是刺激，也是指引。</p><p></p><div class="zaker_div"><div class="zk_remark"><p>ZAKER 新闻出品</p><p></p><p>文 / 曾宪天 实习生 娄新雅</p></div><div class="edi_oper"></div></div><p></p>  
+</div>
+            
