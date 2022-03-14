@@ -26,7 +26,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220314/1647235074_6425
 喜欢截图保存视频留念的玩家记得要定期检查照片数量，可以通过拷贝数据，或者用NS自带的分享工具转移到智能手机上。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220314/1647235074_642541.png" alt="任天堂提醒：NS截图视频保存数量有上限 多余空间也无法保存" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20220314/1647235074_642541.png" alt="NS截图视频保存数量有上限 多余空间也无法保存" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

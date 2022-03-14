@@ -1,0 +1,19 @@
+
+---
+title: '设计师分享2022款Galaxy A73新渲染图：基础小改 但有望支持5G'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0314/622e5ee44ac33f9.jpg'
+author: cnBeta
+comments: false
+date: Mon, 14 Mar 2022 06:23:36 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0314/622e5ee44ac33f9.jpg'
+---
+
+<div>   
+<strong>近日，有关三星 Galaxy A73 5G 新机的传闻开始浮现网络。推测与上一代机型相比，2022 款最大的变化，就是支持 5G 移动网络。</strong>本月早些时候，三星已经发布了首批 Galaxy A / M 系列新机，包括入门级的 Galaxy A13 / A23 和 Galaxy M23 / M33 。至于 Galaxy A 系列的中端新品，预计会有 Galaxy A33 / A53，以及更高配置的 A73 。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0314/622e5ee44ac33f9.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：<a href="https://nl.letsgodigital.org/smartphones/samsung-galaxy-a73-5g/" target="_self">LetsGoDigital</a>）</p><p>在 2021 年 11 月分享的概念渲染图的基础上，荷兰科技博客 LetsGoDigital 再次携手 Parvez Khan（又名 Techinizo Concept），制作了 Galaxy A73（2022）的一系列高清概念渲染图。</p><p>预计 Galaxy A73（2022）新机会配备更快的 5G 芯片组、6.7 英寸 @ FHD+ AM<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_88234%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">OLED</a> 高刷屏（从 90Hz 提升到 120Hz），前置 32MP Infinity-O 居中打孔单摄 + 后置四摄的组合。</p><p><a href="https://static.cnbetacdn.com/article/2022/0314/9a1b88874b45d9e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0314/9a1b88874b45d9e.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>与上一代 4G 机型一样，2022 款 Galaxy A 系列新机会延续 IP67 防水防尘等级，可在 1 米深的水下坚持 30 分钟，且采用了屏下指纹方案。</p><p>音量±调节和电源键都在放置在了右侧，底部为麦克风 / 扬声器格栅、SIM 卡槽、已经  USB 充电 / 数据端口。</p><p><a href="https://static.cnbetacdn.com/article/2022/0314/8f8c5d57f2ff37c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0314/8f8c5d57f2ff37c.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>此前<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>已经为 Galaxy A 系列配备过立体声扬声器，而 Galaxy A73 有望进一步增强音频体验。遗憾的是，2022 款中端新机将无缘 3.5mm 耳机插孔（算是跟上了 Galaxy S 系列）。</p><p>至于传说中的 1.08 亿像素主摄，据说 Galaxy A73 已改成 64MP 光学防抖 @ f/1.8 广角主摄，以及 12MP @ f/2.2 超广角 + 5MP @ f2.4 微距 + 5MP 深度传感器的后置四摄组合。</p><p><a href="https://static.cnbetacdn.com/article/2022/0314/aee1b6ca96d0907.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0314/aee1b6ca96d0907.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>这意味着 2022 款 Galaxy A73 5G 新机不仅主摄没有升级，还将 8MP 长焦端（3X 光变 / 10X 数码变焦）给砍掉、并换成了 5MP 深度传感器。</p><p>对于期盼着 Galaxy A73 可带来较 Galaxy S21 FE 更出色的相机系统的粉丝们来说，5MP 微距和深度传感器的附加价值，更多是拿来凑数的。</p><p><a href="https://static.cnbetacdn.com/article/2022/0314/cc5fc5982a9e30a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0314/cc5fc5982a9e30a.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>好消息是，曾被推测采用高通骁龙 750G 芯片组的 SM-A736B（Galaxy A52 5G 同款 SoC），已被 Geekbench 基准测试数据库曝光为更强的骁龙 778G（广受好评的 Galaxy A52s 同款 SoC）。</p><p>作为一款 6nm 八核 5G 芯片组，其配备了一个 2.4GHz Cortex A78 高性能核心、三个 2.2GHz A78 性能核心、以及四个 1.9GHz A55 节能核心。</p><p><a href="https://static.cnbetacdn.com/article/2022/0314/aa40399c7174d75.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0314/aa40399c7174d75.jpg" alt="6.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>软件方面，推测 2022 款 Galaxy A73 5G 新机会预装基于 Android 12 定制的 OneUI 4.1，辅以四年系统 + 5 年安全更新支持，但电池可能还是支持 25W 快充的 5000 mAh 容量。</p><p>至于售价，新机可能较旧款略贵一些（约 500 欧元 / 2468 RMB），但仍会低于今年 1 月推向欧洲市场的 Galaxy S21 FE（约 750 欧元 / 5202 RMB）。</p>   
+</div>
+            
