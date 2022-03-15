@@ -13,7 +13,7 @@ thumbnail: 'https://img.36krcdn.com/20220315/v2_4cc8a31f2fdb478b9d7acb846e59f60a
 ---
 
 <div>   
-<p>3·15晚会还没开始，豆瓣已经率先“塌房”。</p> 
+<p>3·15晚会还没开始，<a class="project-link" data-id="26593" data-name="豆瓣" data-logo="https://img.36krcdn.com/20210806/v2_4e872bd063fd454fbf0f838e551acbc8_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/26593" target="_blank">豆瓣</a>已经率先“塌房”。</p> 
 <p>今天下午，国家网信办宣布<strong>针对豆瓣存在的严重网络乱象，派出工作督导组进驻豆瓣网督促整改。</strong></p> 
 <p>这一消息释放出两大信号。</p> 
 <p>首先，“严重网络乱象”这一措辞之严厉，对豆瓣存在的问题进行了定性。</p> 
@@ -26,14 +26,14 @@ thumbnail: 'https://img.36krcdn.com/20220315/v2_4cc8a31f2fdb478b9d7acb846e59f60a
 <p>豆瓣身上久治不愈的“重症“之一，即盈利问题。</p> 
 <p><strong>一个业内共识是，豆瓣的盈利模式老旧且单一</strong>。</p> 
 <p>一个成熟的互联网内容社区，盈利方式无非三点：各种形式的广告、增值服务以及电商卖货。而现今的豆瓣靠的是什么呢？</p> 
-<p>论豆瓣评分，面对猫眼、淘票票以及当当等拥有庞大的用户基数的劲敌，豆瓣不能掌握定价权，即便打价格战也并不占优势。以小说《三体》为例，其在豆瓣书店价格为18.4元，而在当当的价格为11.5元，用户会选择哪个平台一目了然。</p> 
+<p>论豆瓣评分，面对猫眼、<a class="project-link" data-id="87489" data-name="淘票票" data-logo="https://img.36krcdn.com/20210807/v2_0ccab44b010049b99dc4aa3c3f340c34_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/87489" target="_blank">淘票票</a>以及当当等拥有庞大的用户基数的劲敌，豆瓣不能掌握定价权，即便打价格战也并不占优势。以小说《三体》为例，其在豆瓣书店价格为18.4元，而在当当的价格为11.5元，用户会选择哪个平台一目了然。</p> 
 <p class="image-wrapper"><img data-img-size-val="1017,576" src="https://img.36krcdn.com/20220315/v2_4cc8a31f2fdb478b9d7acb846e59f60a_img_000" referrerpolicy="no-referrer"></p> 
-<p>更何况，去年#起底豆瓣账号黑产交易#登上热搜，媒体报道，豆瓣账号已经成了公开买卖的商品，“养号”、“卖号”早已经成为黑色产业链，“评分注水“成豆瓣的标签之一，而豆瓣依然没有从中找到财富密码。</p> 
-<p>同时，豆瓣也没有跟上时代步伐，走直播电商或KOL带货等方式。2018年，豆瓣内上新了市集功能，售卖豆瓣自营的包括台历、雨伞、香薰等各类文创周边，试图加速商业化，但终究没有形成规模。</p> 
+<p>更何况，去年#起底豆瓣账号黑产交易#登上热搜，媒体报道，豆瓣账号已经成了公开买卖的商品，“养号”、“卖号”早已经成为黑色产业链，“评分注水“成豆瓣的标签之一，而豆瓣依然没有从中找到<a class="project-link" data-id="431525" data-name="财富密码" data-logo="https://img.36krcdn.com/20210812/v2_c7a0b8206e834a398c36bfe1700463e0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/431525" target="_blank">财富密码</a>。</p> 
+<p>同时，豆瓣也没有跟上时代步伐，走直播电商或KOL带货等方式。2018年，豆瓣内上新了市集功能，售卖豆瓣自营的包括台历、雨伞、香薰等各类文创周边，试<a class="project-link" data-id="85529" data-name="图加" data-logo="https://img.36krcdn.com/20210807/v2_d001f5f3b04648f58af0983bec26d599_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/85529" target="_blank">图加</a>速商业化，但终究没有形成规模。</p> 
 <p><strong>唯一能依靠的，仅剩广告业务。</strong></p> 
 <p>而提起广告，不得不提到豆瓣的内容社区——小组。</p> 
-<p>豆瓣小组曾是豆瓣吸引用户的一大卖点，用户们可以依照兴趣自由建立小组进行讨论。尽管小组内满眼繁荣，但组与组之间存在强大的壁垒，用户们几乎只在小组内活动，组内的KOL拥有话语权，自然也可以带动组员消费。</p> 
-<p>这与当初的微博遇到的问题相似，于是豆瓣开始转换思路，走上了信息流推荐之路。</p> 
+<p>豆瓣小组曾是豆瓣吸引用户的一大卖点，用户们可以依照兴趣自由建立小组进行讨论。尽管小组内满眼繁荣，但组与组之间存在强大的<a class="project-link" data-id="4263750" data-name="壁垒" data-logo="https://img.36krcdn.com/20210716/v2_63cfc02f48d341b99c257491f917fc19_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4226801031" target="_blank">壁垒</a>，用户们几乎只在小组内活动，组内的KOL拥有话语权，自然也可以带动组员消费。</p> 
+<p>这与当初的<a class="project-link" data-id="38685" data-name="微博" data-logo="https://img.36krcdn.com/20210807/v2_2b8eedaf020b41248fe5832758ad5407_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/38685" target="_blank">微博</a>遇到的问题相似，于是豆瓣开始转换思路，走上了信息流推荐之路。</p> 
 <p>只不过，很多用户表示，豆瓣算法推送给的内容并不合他们的口味，并且许多广告信息由于制作地过于简陋，常常会当做无用信息刷过去。也就是说，豆瓣的算法推送并不精准，而广告的数量也不足以以量取胜造成铺天盖地的效果。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,1758" src="https://img.36krcdn.com/20220315/v2_6c8f27cc34cd4d2fb76afb4840b7f0e9_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">豆瓣的信息流广告</p> 
@@ -46,7 +46,7 @@ thumbnail: 'https://img.36krcdn.com/20220315/v2_4cc8a31f2fdb478b9d7acb846e59f60a
 <p>阿桃自诩资深豆瓣玩家，她认为豆瓣是“精神角落”一般的存在，没有厚重的滤镜、没有现编的故事，大家各自分享生活，是目前为数不多能保持真实的网络平台。</p> 
 <p>她喜欢在豆瓣上逛各位新奇的兴趣小组，比如在“吹牛逼不用担心被嘲讽”小组里一边羡慕别人一边感受同辈压力，转身在“同辈压力研究中心”小组里寻找共鸣，今年情人节，她逛了一天“豆瓣劝分小组”，360度无死角围观爱情中的痴男怨女、渣男渣女们，为自己的实践经验为0的爱情知识添砖加瓦。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,811" src="https://img.36krcdn.com/20220315/v2_21c193fbf7b14b69ad7a6a36c0176b85_img_000" referrerpolicy="no-referrer"></p> 
-<p>从家具装修到旅游攻略，亦或者是一些小众爱好，阿桃关注了近200个小组，话题五花八门，但甭管多冷门，都能找到兴趣相投的人。</p> 
+<p>从家具装修到旅游攻略，亦或者是一些小众爱好，阿桃关注了近200个小组，话题五花八门，但甭管多冷门，都能找到兴趣<a class="project-link" data-id="59325" data-name="相投" data-logo="https://img.36krcdn.com/20210807/v2_035f510f01314ea7866973ece8cec344_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/59325" target="_blank">相投</a>的人。</p> 
 <p>小众、独特，这是豆瓣早期的标签，也是阿桃喜欢豆瓣的原因。但她不知道的是，正是由于这份“特立独行”，让看似阳光的豆瓣小组出现了阴影。</p> 
 <p><strong>这部分，成了豆瓣里的“饭米粒“。</strong></p> 
 <p>一个典型的案例，就是豆瓣鹅组。</p> 
@@ -61,6 +61,6 @@ thumbnail: 'https://img.36krcdn.com/20220315/v2_4cc8a31f2fdb478b9d7acb846e59f60a
 <p>如今6年过去，眼下的豆瓣既没有保护好自己的精神家园，也没有在现实层面取得胜利，甚至<strong>从之前的“求生活”，变成了现在的“求生存”</strong>。</p> 
 <p>这个陪伴互联网走过近20年的产品，近期听到他的消息，全部是在负面通报里。</p> 
 <p>不知道这次撞上南墙，阿北会回头吗？</p> 
-<p class="editor-note">本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/wFpVYSGhl4r93fFxx8PBbw">“AI蓝媒汇”（ID:lanmeih001）</a>，作者：段诗，36氪经授权发布。</p>  
+<p class="editor-note">本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/wFpVYSGhl4r93fFxx8PBbw">“AI蓝媒汇”（ID:lanmeih001）</a>，作者：段诗，36氪经授权发布。</p>  
 </div>
             

@@ -18,10 +18,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220315/1647346336_5051
 3月下旬的新增游戏。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220315/1647346336_505194.jpg" alt="Xbox Game Pass 3月下旬游戏阵容泄露" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220315/1647346336_505194.jpg" alt="Xbox Game Pass 3月下旬游戏阵容泄露" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>它们是：</strong>
+<strong>它们是：</strong> 
 </p>
 <p style="text-indent:2em;">
 《F1 2021》
@@ -50,6 +50,9 @@ Pass本月早些时候上线了一批新游戏，包括《漫威银河护卫队�
 </p>
 <p style="text-indent:2em;">
 2月份的XGP游戏包括《全面战争：战锤3》、《机械守护者》、《Madden NFL 22》和《超级棒球3》。
+</p>
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220315/1647348571_744469.jpg" alt="Xbox Game Pass 3月下旬游戏阵容泄露" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
