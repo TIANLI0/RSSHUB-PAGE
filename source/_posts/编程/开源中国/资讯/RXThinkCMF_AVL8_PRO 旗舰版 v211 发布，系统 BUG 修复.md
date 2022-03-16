@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/ruoxi520_admin/RXThinkCMF_AVL8_PRO/raw/master/public/uploads/demo/1.png'
 author: 开源中国
 comments: false
-date: Wed, 16 Mar 2022 00:54:00 GMT
+date: Wed, 16 Mar 2022 08:54:00 GMT
 thumbnail: 'https://gitee.com/ruoxi520_admin/RXThinkCMF_AVL8_PRO/raw/master/public/uploads/demo/1.png'
 ---
 
