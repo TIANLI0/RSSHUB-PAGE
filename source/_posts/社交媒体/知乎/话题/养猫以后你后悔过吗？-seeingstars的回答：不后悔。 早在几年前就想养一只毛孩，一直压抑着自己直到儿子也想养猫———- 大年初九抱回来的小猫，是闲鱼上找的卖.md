@@ -1,0 +1,18 @@
+
+---
+title: '养猫以后你后悔过吗？-seeingstars的回答：不后悔。 早在几年前就想养一只毛孩，一直压抑着自己直到儿子也想养猫———- 大年初九抱回来的小猫，是闲鱼上找的卖...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-1e8b36c1595e13844dc0304fef2f69ca_1440w.jpg'
+author: 知乎
+comments: false
+date: Wed, 16 Mar 2022 06:23:55 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-1e8b36c1595e13844dc0304fef2f69ca_1440w.jpg'
+---
+
+<div>   
+<strong>养猫以后你后悔过吗？</strong><br>seeingstars的回答<br><p data-pid="LiI11KnF">不后悔。</p><p data-pid="bqTRzROG">早在几年前就想养一只毛孩，一直压抑着自己直到儿子也想养猫————-</p><p data-pid="RjskoOEn">大年初九抱回来的小猫，是闲鱼上找的卖家，看了一眼主页感觉她家还挺干净的，于是等着她家大猫生了定的小猫，定了以后又感觉好像不那么喜欢，正在纠结的时候她家第二只大猫也生了，刚想问的时候得知四只小猫瞬间都订出去了，也就死了想换猫的心，想着到日子接回来了也会很喜欢。就是这么巧，几天后和卖家闲聊无意间得知她第二只大猫下的一只小猫被人退了，原因是慢慢长出了一个鼻贴。我莫名其妙激动起来，要卖家给我看看那只被退订的小猫，视频一打开瞬间就被它的可爱击昏头了，哇哇地卖力叫着…当时就决定之前那只换它了。</p><p data-pid="JtbUCXk0">接到它的时候它身上还是毛茸茸的小卷卷，不安地把鼻子凑在猫包的网布上吱吱地叫（是的它不是喵喵的叫，而是像发声小玩具一样的吱吱声）到家里儿子也很激动，一直抱着它搂着它，它应该是应激赶上秃毛期，身上的毛两星期内脱光了～我一心想着让它快点适应环境，也是非常信任卖家，没有及时去体检哎。第四天早晨它在床上呱呱地吐，每次都是一坨吐白色唾液。卖家说它吃东西不得劲或者吃得急了有可能会导致吐。我也没觉得猫吐是什么大事，也没去医院看。吐了两天后来它倒也没有再吐。到家二十天了，它还有一点猫癣没有治好，我抱到医院给医生看，问打疫苗的事情，医生建议我给它做个检查。检查结果出来没有猫瘟，但有冠状病毒，真的欲哭无泪啊…虽然医生一直说放轻松冠状病毒很多猫都有。。。哎，只怪自己第一次养猫什么也不懂。希望它健康吧。</p><p data-pid="tih4nEbZ">说说养猫的快乐吧，它真的超级聪明，握手一天就学会了，它知道不能咬人，每次都是做做要咬人的样子从来不敢真下嘴。有一次用手捏着肉干喂它把我手咬破了，之后再从我手上吃东西都是撅着嘴轻轻叼了肉干再吃，宁可掉到地上再去捡也不再张大嘴吃了。它卧在阳光下晒太阳的样子真的超级治愈，看到它在那呼噜着睡，觉得世间一切都是美好的。</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-1e8b36c1595e13844dc0304fef2f69ca_1440w.jpg" data-rawwidth="2560" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-28ee38dbb3297f30acce3490e047e4c4_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-1e8b36c1595e13844dc0304fef2f69ca_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-d36e7126e97b6041c138e15ae6df2534_1440w.jpg" data-rawwidth="1920" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-595e1b0619a82f81187da12a3d9c8bab_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-d36e7126e97b6041c138e15ae6df2534_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-a4f034aee9090b2ab408907a48b954fd_1440w.jpg" data-rawwidth="1920" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-9d515ab48545be82f28ccfd471a111da_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-a4f034aee9090b2ab408907a48b954fd_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="ZFOCkyRY">不仅秃了，还像个爷们儿一样奔放 </p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-f02015665f2b7cea5d58be422d509fee_1440w.jpg" data-rawwidth="1920" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-090bc9d2acabe92387787163ac270e28_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-f02015665f2b7cea5d58be422d509fee_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="11TOV3_j">要说缺点也不是没有，它是个超级馋的小猫，只要听到人嘴动，必须扒着裤子爬到腿上闻闻你嘴里嚼什么～我觉得还好，它急切的眼神噗噗的呼吸在我眼里都是可爱，孩子爸爸受不了它扒在桌子边上舔 它的品种原因虽然不怎么掉毛但是耳朵更爱出油，隔个两三天就得给它掏耳朵才能保持清洁。我觉得掏耳朵过程挺解压，可能对有些不那么爱它的人来说就是麻烦。还有就是生病这一块，它刚到家的时候身上起了猫癣，那会不懂看淘宝评价和各种小视频讲自己治猫癣，也学者样给它治，最后猫癣还是没有完全好，背上一块不是猫癣的地方发红掉毛的地方反而越来越严重。后来兽医看了说我用的药劲太猛，不能瞎用药。人也累猫也受罪…现在背上已经长出来毛了，恢复了。</p><p data-pid="Sxi44IYe">目前没有后悔养猫。超级爱它。</p>  
+</div>
+            
