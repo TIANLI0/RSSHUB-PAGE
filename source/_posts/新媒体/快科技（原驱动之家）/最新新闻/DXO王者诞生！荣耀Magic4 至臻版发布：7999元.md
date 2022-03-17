@@ -1,0 +1,52 @@
+
+---
+title: 'DXO王者诞生！荣耀Magic4 至臻版发布：7999元'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220317/s_a8e2a513a4dc4fd1b1557d74148cab81.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Thu, 17 Mar 2022 21:14:57 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220317/s_a8e2a513a4dc4fd1b1557d74148cab81.jpg'
+---
+
+<div>   
+<p>今天晚上，荣耀Magic4 至臻版正式发布。</p>
+<p>售价方面，<span style="color:#ff0000;"><strong>荣耀Magic4 至臻版售价7999元（12GB+512GB）</strong></span>，3月17日22点开启预售，4月份上市发售，有陶瓷黑、陶瓷白两种配色。</p>
+<p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220317/a8e2a513a4dc4fd1b1557d74148cab81.jpg" target="_blank"><img alt="DXO王者诞生！荣耀Magic4 至臻版发布" h="336" src="https://img1.mydrivers.com/img/20220317/s_a8e2a513a4dc4fd1b1557d74148cab81.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>作为荣耀最强悍的高端旗舰，荣耀Magic4 至臻版的看点之一是影像。</p>
+<p>这次<span style="color:#ff0000;"><strong>荣耀Magic4 至臻版广角主摄升级为1/1.12英寸5000万像素超大底感光元件</strong></span>，具备23mm焦距、1.4μm单像素尺寸、f/1.6光圈，一同升级的还有：8P光学镜头、OIS光学防抖、闭环式马达自动对焦系统。</p>
+<p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220317/5e604c72221a4f49b474ced2bf432fe1.jpg" style="text-align: -webkit-center;" target="_blank"><img alt="DXO王者诞生！荣耀Magic4 至臻版发布" h="309" src="https://img1.mydrivers.com/img/20220317/s_5e604c72221a4f49b474ced2bf432fe1.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>不仅如此，<span style="color:#ff0000;"><strong>荣耀Magic4 至臻版搭载了业界最高的6400万像素100X潜望式长焦主摄级摄像头。</strong></span></p>
+<p>该摄像头支持3.5X光学变焦、10X混合变焦、100X数字变焦，并支持OIS光学防抖与EIS电子双重防抖，让用户在高倍率变焦场景下，依然能捕捉效果清晰且稳定的影像效果。</p>
+<p>此外，荣耀Magic4 至臻版搭载6400万像素超广角主摄像头，这是全球首款双自由曲面6400万超广角摄像头，采用1/2英寸大底、0.7μm单像素尺寸、11mm焦距、f/2.2光圈、支持126°超广视角。</p>
+<p>而且这枚超广角主摄像头还支持2.5cm微距摄影，近在咫尺的微观之美也能清晰呈现。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220317/aca1232d93f542f8854557ab9b4eb295.jpg" target="_blank"><img alt="DXO王者诞生！荣耀Magic4 至臻版发布" h="330" src="https://img1.mydrivers.com/img/20220317/s_aca1232d93f542f8854557ab9b4eb295.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>除了拥有强悍的硬件，荣耀还为其配备了强大的影像系统。</p>
+<p>这次荣耀Magic4 至臻版再次升级荣耀自研HONOR Image Engine图像引擎，<strong>通过异构不同芯片平台，插件化整合芯片能力，实现软硬件的能力全面释放，为手机行业的影像技术带来新突破。</strong></p>
+<p>官方介绍，荣耀从影像技术的底层着手，通过解构不同的高阶算法，分离出策略引擎并重构影像流程，让影像处理流程效率最大化，软硬结合在不同平台下集成和打造端到端的影像能力。</p>
+<p>该机在DXOMARK的影像评分是146分，是<span style="color:#ff0000;"><strong>DXOMARK排行榜上表现最好的智能手机，没有之一。</strong></span></p>
+<p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220317/c0dda26bfe8849418631423cab4490ef.jpg" style="text-align: -webkit-center;" target="_blank"><img alt="DXO王者诞生！荣耀Magic4 至臻版发布" h="334" src="https://img1.mydrivers.com/img/20220317/s_c0dda26bfe8849418631423cab4490ef.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>工业设计上，荣耀Magic4 至臻版将极致对称美学思想贯穿于整个机身设计。</p>
+<p>该机延续了“缪斯之眼”这一设计，对称的圆形排列镜头组件整体居中，而且在基于对电影镜头系统的理解与提炼下，荣耀Magic4 至臻版采用了更为大底的摄像头元器件，让包罗万象的均衡之美在镜头中呈现得淋漓尽致。</p>
+<p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220317/d239ee5220d74774acb378280d449245.jpg" style="text-align: -webkit-center;" target="_blank"><img alt="DXO王者诞生！荣耀Magic4 至臻版发布" h="290" src="https://img1.mydrivers.com/img/20220317/s_d239ee5220d74774acb378280d449245.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>核心配置上，荣耀Magic4 至臻版采用真10.7亿色LTPO超级四曲面屏，刷新率为120Hz，支持1920Hz高频PWM调光，搭载高通骁龙8旗舰处理器，前置1200万+3D TOF摄像头，支持3D人脸识别，电池容量为4600mAh，支持100W有线、50W无线快充。</p>
+<p>值得注意的是，荣耀Magic4 至臻版支持IP68级防尘抗水，能做到有效防止粉尘进入，不仅可轻松应对日常淋雨、泼洒等情境，甚至能够在最深1.5米的水下浸泡30分钟。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220317/478f08a0d8df4981ace34ee61eac0d3e.jpg" target="_blank"><img alt="DXO王者诞生！荣耀Magic4 至臻版发布" h="311" src="https://img1.mydrivers.com/img/20220317/s_478f08a0d8df4981ace34ee61eac0d3e.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
+
+           
+           
+<p class="end"><img src="https://icons.mydrivers.com/news/end_article.png" referrerpolicy="no-referrer"></p> 
+<div style="overflow: hidden;font-size:14px;">
+           <p class="zhuanzai"><strong>如需转载请务必注明出处：快科技</strong></p>  
+          <p class="url"><span style="color:#666">责任编辑：振亭</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
+        </div>
+        <div class="page_article" id="bnext">
+ 
+</div>
+<p class="bqian">话题标签：<a href="https://news.mydrivers.com/tag/rongyaomagic.htm">荣耀Magic</a><a href="https://news.mydrivers.com/tag/dxomark.htm">DxOMark</a><a href="https://news.mydrivers.com/tag/rongyaomagic4.htm">荣耀Magic4</a><a href="https://news.mydrivers.com/tag/rongyaomagic4_pro.htm">荣耀Magic4 Pro</a><a href="https://news.mydrivers.com/tag/magic4_zhizhenban.htm">Magic4 至臻版</a>  </p>
+        
+</div>
+            
