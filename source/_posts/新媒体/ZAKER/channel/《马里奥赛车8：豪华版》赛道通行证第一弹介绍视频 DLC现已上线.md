@@ -1,0 +1,18 @@
+
+---
+title: '《马里奥赛车8：豪华版》赛道通行证第一弹介绍视频 DLC现已上线'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6233f92bb15ec07ff748f6b4_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 17 Mar 2022 20:11:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6233f92bb15ec07ff748f6b4_1024.jpg'
+---
+
+<div>   
+<p>任天堂今日发布了《马里奥赛车 8：豪华版》赛道通行证 DLC 第一弹的介绍视频，通行证第一弹现已发布。游戏 DLC 中包含的 48 条新赛道中，将分 6 次推出，玩家可以开通任天堂 Switch Online + 订阅会员，或以 169 港币单独购买的方式来游玩 DLC 内容。</p><p>第一弹新增 8 个赛道包括手游《马里奥赛车巡回赛》的三条赛道以及来自《马里奥赛车 64》的“可可山”、《马里奥赛车 Wii》的“椰树商城”、《马里奥赛车 DS》的“蘑菇岭”、GBA 版《马里奥赛车：超级赛道》中的“空中花园”，以及 3DS 游戏《马里奥赛车 7》中的“蟾蜍赛道”。此外还有两个赛事：“金色冲刺杯”和“幸运猫杯”。</p><p><strong>介绍视频</strong></p><p></p><div style="background-color:#ececec" id="XNTg1MTU5MTAyMA?client_id=5a73c0df8eb0d91d" class="iframe_video"><iframe height="100%" width="100%" src="//player.youku.com/embed/XNTg1MTU5MTAyMA?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen style="max-width: 100%; word-wrap: break-word !important; box-sizing: border-box !important; z-index: 1;"></iframe></div><p></p><p><strong>视频截图</strong></p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202203/6233f92bb15ec07ff748f6b4_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6233f92bb15ec07ff748f6b4_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202203/6233f92bb15ec07ff748f6b5_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6233f92bb15ec07ff748f6b5_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202203/6233f92bb15ec07ff748f6b6_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6233f92bb15ec07ff748f6b6_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202203/6233f92bb15ec07ff748f6b7_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6233f92bb15ec07ff748f6b7_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202203/6233f92bb15ec07ff748f6b8_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6233f92bb15ec07ff748f6b8_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202203/6233f92bb15ec07ff748f6b9_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6233f92bb15ec07ff748f6b9_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
