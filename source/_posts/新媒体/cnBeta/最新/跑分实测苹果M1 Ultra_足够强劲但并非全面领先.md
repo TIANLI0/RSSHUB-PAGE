@@ -1,0 +1,21 @@
+
+---
+title: '跑分实测苹果M1 Ultra_足够强劲但并非全面领先'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0320/d9e02b9ac070651.png'
+author: cnBeta
+comments: false
+date: Sun, 20 Mar 2022 02:26:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0320/d9e02b9ac070651.png'
+---
+
+<div>   
+5nm工艺、1140亿晶体管、20核心CPU、64核心GPU……在苹果的宣传中，在很多苹果拥趸的眼中，M1
+Ultra芯片赫然成了秒天秒地的存在，无论性能还是功耗，无论AMD锐龙9 5950X、Intel酷睿i9-12900K处理器还是NVIDIA
+RTX 3090显卡，都不是对手。<br>
+ <p>不过实测显示，GPU性能方面，M1 Ultra相比于RTX 3090依然差距巨大，GeekBench 5计算性能落后超过50％，游戏性能也差得多。</p><p><img src="https://static.cnbetacdn.com/article/2022/0320/d9e02b9ac070651.png" referrerpolicy="no-referrer"></p><p>那么CPU性能呢？这个封装面积三倍于<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a>锐龙的家伙，是否真的能秒杀x86旗舰？</p><p>这里汇总了外媒的一些测试，一起来看看：</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0320/02c060f6ec62a73.png"><img data-original="https://static.cnbetacdn.com/article/2022/0320/02c060f6ec62a73.png" src="https://static.cnbetacdn.com/thumb/article/2022/0320/02c060f6ec62a73.png" referrerpolicy="no-referrer"></a></p><p><strong>CineBench R23测试中，锐龙9 5950X单核心、多核心分别领先M1 Ultra 4％、21％，而在GeekBench 5测试中，M1 Ultra单核心、多核心分别有4％、34％的优势。</strong></p><p>到底该看哪一个？大家应该知道，GeekBench测试更有利于<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>，经常被称为“Applebench”。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0320/acf48d847f02fff.png"><img data-original="https://static.cnbetacdn.com/article/2022/0320/acf48d847f02fff.png" src="https://static.cnbetacdn.com/thumb/article/2022/0320/acf48d847f02fff.png" referrerpolicy="no-referrer"></a></p><p><strong>换上i9-12900K，CineBench R23单多核心遥遥领先M1 Ultra 28％、27％，GeekBench 5测试中单核心也领先12％，多核心却输了37％。</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0320/d76d5e168e81a59.png"><img data-original="https://static.cnbetacdn.com/article/2022/0320/d76d5e168e81a59.png" src="https://static.cnbetacdn.com/thumb/article/2022/0320/d76d5e168e81a59.png" referrerpolicy="no-referrer"></a></p><p>另一家专门测试多核心，情况也是类似，GeekBench 5依然是苹果的天下，CineBench R23里就原形毕露了，但是落后只有10％左右，不得不说依然够强。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0320/5c00d753cd95a8e.png"><img data-original="https://static.cnbetacdn.com/article/2022/0320/5c00d753cd95a8e.png" src="https://static.cnbetacdn.com/thumb/article/2022/0320/5c00d753cd95a8e.png" referrerpolicy="no-referrer"></a></p><p>来点实际的，<strong>Adobe Premiere PRO <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a> H.264视频转码测试，M1 Ultra相比M1 Max进步明显，快了整整一倍(毕竟二合一)，也比锐龙9 5950X、i9-12900K与RTX 3090的组合快了不少，显然确实非常适合专业创作。</strong></p><p><img alt="苹果M1 Ultra秒天秒地干掉AMD、Intel旗舰？分分钟被教做人" h="337" src="https://img1.mydrivers.com/img/20220320/b80fbfb75eb3456d997883a7e2608335.png" w="600" referrerpolicy="no-referrer"></p><p><img alt="苹果M1 Ultra秒天秒地干掉AMD、Intel旗舰？分分钟被教做人" h="337" src="https://img1.mydrivers.com/img/20220320/f942337271ec45e18c87b01a57ec573a.png" w="600" referrerpolicy="no-referrer"></p><p>第三家，CineBench R23测试中，M1 Ultra面对i9-12900K，单核性能落后18.5％，多核性能则落后8.9％，而对比M1 Max，很自然地单核性能基本不变，多核性能翻番。</p><p><img alt="苹果M1 Ultra秒天秒地干掉AMD、Intel旗舰？分分钟被教做人" h="337" src="https://img1.mydrivers.com/img/20220320/27182914a1324b1bb8fcdedb3a3a3fee.png" w="600" referrerpolicy="no-referrer"></p><p>PugetBench Premiere Pro测试中，M1 Ultra与i9-12900K、RTX 3080 Ti的组合旗鼓相当，对比M1 Max则只提升了5.3％。</p><p><img alt="苹果M1 Ultra秒天秒地干掉AMD、Intel旗舰？分分钟被教做人" h="337" src="https://img1.mydrivers.com/img/20220320/6671fc2ee7904776b2a951c5fc0007cf.png" w="600" referrerpolicy="no-referrer"></p><p>PugetBench Photoshop测试中，M1 Ultra表现一般，对比i9-12900K、RTX 3080 ti的组合落后了超过20％。</p><p>简而言之，<strong>M1 Ultra确实足够强劲，基准跑分虽有落后但绝对值得AMD、Intel警醒警惕，在特定工作负载中也很有优势，但如果现在就夸它可以秒天秒地，不把x86放在眼里，还是有些言过其实了。</strong></p><p>有传闻称，苹果还计划再把两个M1 Ultra拼接在一起，那样的话即便频率有所下降，多核性能也足以完全挑落AMD、Intel，只是这么做对于单核性能并无益处。</p>   
+</div>
+            
