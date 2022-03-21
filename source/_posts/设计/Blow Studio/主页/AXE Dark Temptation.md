@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.blowstudio.es/wp-content/uploads/2018/07/axe_linx_africa.jpg'
 author: Blow Studio
 comments: false
-date: 2022-03-21 12:35:44
+date: 2022-03-21 13:27:17
 thumbnail: 'https://www.blowstudio.es/wp-content/uploads/2018/07/axe_linx_africa.jpg'
 ---
 
