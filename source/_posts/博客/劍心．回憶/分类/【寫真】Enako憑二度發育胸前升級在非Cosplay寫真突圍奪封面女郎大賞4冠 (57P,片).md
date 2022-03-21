@@ -5,11 +5,11 @@ categories:
  - 博客
  - 劍心．回憶
  - 分类
-headimg: 'https://picsum.photos/400/300?random=9906'
+headimg: 'https://picsum.photos/400/300?random=7438'
 author: 劍心．回憶
 comments: false
 date: Mon, 21 Mar 2022 14:38:11 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9906'
+thumbnail: 'https://picsum.photos/400/300?random=7438'
 ---
 
 <div>   
