@@ -1,0 +1,18 @@
+
+---
+title: '如何评价 Redmi K50 旗舰系列首销 5 分钟销量超 33 万台？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-58249a3210e791fb84aaedeb4abcceb6_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Tue, 22 Mar 2022 10:22:45 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-58249a3210e791fb84aaedeb4abcceb6_1440w.jpg?source=b1748391'
+---
+
+<div>   
+易青的回答<br><br><p data-pid="MtYR3vqR">我知道K50会火，但我没想到K50会这么火。。。</p><p data-pid="WFrS9JVY">在今天K50首销数据出来之前，上一条数码圈重磅新闻，是<b>2022年国内手机市场同比出货量下降22.6%。</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-58249a3210e791fb84aaedeb4abcceb6_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1446" data-rawheight="423" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-58249a3210e791fb84aaedeb4abcceb6_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="VAOR_G6e">而这个22.6%，还是有新iPhone救场情况下的数据。只算国产手机品牌的话，2022年1-2月，中国国产品牌手机出货量累计3843.4万部，<b>同比下降27.9%.</b></p><p data-pid="YBpPWWY7">这对于整个手机行业的影响其实不亚于原子弹轰炸，是毁灭性的。本来大家都合计疫情第三年了，消费会慢慢好转。但没想到各方面因素综合在一起，消费者更加理性克制了。这个时候我们再来看K50的3首销33万台数据，就能知道其中含金量有多高。</p><p data-pid="Bk5eGtO3">作为对比，K40全渠道5分钟首销数据是30万台。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-8b057f71a6c2e7ebeaf0fc6749c0f06a_720w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="410" data-rawheight="546" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="kWT8DzB1"><b>K50在去掉了6+128G版本、其他版本普遍上涨200-300元、全国市场大幅下跌的情况下，销量同比增长了10%。</b></p><b><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-91065049745ac090a48dc4c7939c5672_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="2160" data-rawheight="2880" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-91065049745ac090a48dc4c7939c5672_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure></b><p data-pid="VIoPFkk2">这就相当于，升级后的我单独去开大龙了，尽管身上套着三个debuff，还是比升级前更快地单杀了大龙。</p><p data-pid="8OBhFQf7">这个比喻的核心在哪里？</p><p data-pid="N0Rht6JU"><b>升级。</b></p><p data-pid="D2bTnD0I">按照规则来的游戏升级打怪原则是，玩家升一级，就把怪也升一级，大家齐头并进，打的有来有回。对于K50来说，自家产品涨价是怪，市场的debuff是怪，友商的对标竞品也是怪。这次所面对的怪，确实跨了一个大步，一下上了三个台阶，一下子把游戏提到了困难模式。</p><p data-pid="EUWRg2MT"><b>但谁能想到K50来了个撑杆跳啊。。。</b></p><p data-pid="jTeVtzJ2">全球首发天玑8100--这是个真神U，实际表现和口碑双登顶；</p><p data-pid="6JFviabK">三星2K E4高刷柔性屏首次放到2500价位--今天还有友商同价位新品用BOE/天马的FHD；</p><p data-pid="SokhNwfp">201g的机身里塞进去了5500mah电池--不说是同价位最大的，就是所有市场主流手机里最大的电池；</p><p data-pid="2jc5fyfH">OIS？有；67W快充？有；多功能NFC?有；红外？有；X轴线性马达？有；立体双扬声器？有；大面积液冷？也有。</p><p data-pid="krhejQcD"><b>K50的成功，其实就是处理器、屏幕、大电池三个爆点，带着一堆面面俱到完善的长板，形成的一个综合效应。</b></p><p data-pid="FUi3qe1z">天玑8100强到什么地步？拳打888，脚踢870.无论是性能还是功耗，都是2022年最独一无二的中高端神U。除非追求极致拍照或者挂着散热背夹跑极致性能的用户，不然从哪个方面来说，它都是当之无愧的第一选择。</p><p data-pid="0MFdTM9Q">三星的2K E4高刷柔性屏在这个价位是什么水准？2021年搭载这块屏幕，起售家最低的机型是自家的小米11--3999元，而友商更是普遍用在了5000+的机型上。</p><p data-pid="192mCdRa">5500mah大电池是什么概念？配合天玑8100的功耗，我已经有好几年没有感受过这么令人放心的的续航了，20%我都敢拿着出门--上次这种体验还是2016年的小米6.</p><p data-pid="Wdhvttcv">这三个点，随便哪一个拿出来都可以让用户留下深刻印象，更何况K50还一下集成了仨。最为核心的是，还没有短板，无论是相机、充电还是外观设计，亦或是其他的外围元器件数量，都是这个价位的佼佼者。</p><p data-pid="lw71we8s"><b>再配合2399起售的价格，K50成了。</b></p><p data-pid="hfTsADVJ"><b>理所当然，顺水推舟地成了。</b></p><p data-pid="25JXxKNl">我真的觉得Redmi把性价比这三个字，理解透了，贯彻到底了，不然根本做不到这个撑杆跳。</p><p data-pid="5WC0Jpx4">我换个例子，友商今天对标K50的竞品，有爆点吗？有。</p><p data-pid="zq97MZQA">有几个？一个。有缺点吗？那就多了。</p><p data-pid="d7oCxB7F"><b>Redmi正在做的性价比，是“多爆点+无短板”、“我全都要”；而友商们所理解的性价比，是“取一舍一”。</b></p><p data-pid="BvRLAet4">更难能可贵的是，K系列从K20开始摸索，K30逐渐成形，K40走向巅峰，到如今的K50由技入道，一直坚持把”性价比”这三个字一以贯之。代代传承的产品理念和用户口碑，不是想模仿，就能够学会的。</p><p data-pid="_ia5aI4u">Redmi，永远值得我们的期待。</p><p></p><p></p>  
+</div>
+            
