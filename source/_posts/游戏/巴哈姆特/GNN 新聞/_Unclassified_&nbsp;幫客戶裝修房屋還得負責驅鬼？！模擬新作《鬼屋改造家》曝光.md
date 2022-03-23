@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.JPG?v=1648026595267'
 author: 巴哈姆特
 comments: false
-date: 2022-03-23 09:21:22
+date: 2022-03-23 10:24:58
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.JPG?v=1648026595267'
 ---
 
@@ -18,19 +18,19 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.
 <div>
 <div>
 <div>
-　　PlayWay S.A. 公開由遊戲開發商 Image Power S.A.打造的模擬遊戲新作《鬼屋改造家（Haunted House Renovator）》，玩家將在充滿超自然現象的廢棄房屋中，想辦法滿足客戶需求，將房屋進行大改造。</div>
+　　PlayWay S.A. 公開由遊戲開發商 Image Power S.A.打造的模擬遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%BC%E5%B1%8B%E6%94%B9%E9%80%A0%E5%AE%B6" target="_blank">鬼屋改造家</a>（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Haunted+House" target="_blank">Haunted House</a> Renovator）》，玩家將在充滿超自然現象的廢棄房屋中，想辦法滿足客戶需求，將房屋進行大改造。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.JPG?v=1648026595267" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.JPG?v=1648026595267" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　《鬼屋改造家》要讓玩家成為世界上首個在超自然現象環境下讓鬼屋重現輝煌過往的改造家，玩家所完成的一切得讓客戶無可挑剔......儘管壁櫥裡還有你藏起來的幾具骷髏。玩家要在充滿鬼怪的環境裡開啟工作模式，任務就是讓鬼屋可以住人，但若只是在牆上貼個新壁紙並不能滿足居住者的安全感，玩家得想想辦法，好好處理那些可能會飄來飄去的玩意兒。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%BC%E5%B1%8B%E6%94%B9%E9%80%A0%E5%AE%B6" target="_blank">鬼屋改造家</a>》要讓玩家成為世界上首個在超自然現象環境下讓鬼屋重現輝煌過往的改造家，玩家所完成的一切得讓客戶無可挑剔......儘管壁櫥裡還有你藏起來的幾具骷髏。玩家要在充滿鬼怪的環境裡開啟工作模式，任務就是讓鬼屋可以住人，但若只是在牆上貼個新壁紙並不能滿足居住者的安全感，玩家得想想辦法，好好處理那些可能會飄來飄去的玩意兒。</div>
 <div>
  </div>
 <div>
@@ -40,7 +40,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.
 <div>
  </div>
 <div>
-　　玩家在遊戲中，可以先對廢棄的鬼屋進行探查，尋找超自然現象活動的踪跡。玩家要想辦法處理各種鬧鬼事件，玩家可以用方法驅趕鬼怪，例如有時可以用聖水就簡單解決問題，但有時得費盡利力氣開壇做法，或者用家具把到鬧鬼地窖的門堵住。</div>
+　　玩家在遊戲中，可以先對廢棄的鬼屋進行探查，尋找超自然現象活動的踪跡。玩家要想辦法處理各種<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A7%E9%AC%BC" target="_blank">鬧鬼</a>事件，玩家可以用方法驅趕鬼怪，例如有時可以用聖水就簡單解決問題，但有時得費盡利力氣開壇做法，或者用家具把到<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A7%E9%AC%BC" target="_blank">鬧鬼</a>地窖的門堵住。</div>
 <div>
  </div>
 <div>
@@ -88,7 +88,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/fc05c5d443e7dd839801ee092c1fod05.
 <div>
  </div>
 <div>
-　　PC《鬼屋改造家》尚未公開遊戲上市時程。</div>
+　　PC《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%BC%E5%B1%8B%E6%94%B9%E9%80%A0%E5%AE%B6" target="_blank">鬼屋改造家</a>》尚未公開遊戲上市時程。</div>
 </div>
 <div>
  </div>
