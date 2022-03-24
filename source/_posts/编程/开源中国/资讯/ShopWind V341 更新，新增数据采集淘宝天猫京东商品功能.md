@@ -14,8 +14,7 @@ thumbnail: 'https://images.gitee.com/uploads/images/2021/0615/112143_486e2600_79
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#40485b">        ShopWind是一款基于Yii2.0框架深度重构的B2B2C、O2O行业的电商系统软件，您可以轻松创建和发布属于自己品牌的专业的电商平台，进行全方位的品牌宣传和产品推广。ShopWind v3.x标准版开始走向开源，打造一款完全开源的电商系统，可以免费用于商业运营或者二次开发，免于商业版权的烦恼。v3.x商业版包含PC、手机H5、微商城、APP客户端（Andorid+iOS）、微信小程序、今日头条小程序等多端，其中PC端为开源免费项目，移动端为增值项目。ShopWind提供专业、快速、安全的底层软件设计和免费的更新升级服务，做好完善的开发文档和接口文档方便开发者在底层软件的基础上开发各种应用、模板、或者插件。</span></p> 
+                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#40485b">        ShopWind是一款基于Yii2.0框架深度重构的B2B2C、O2O行业的电商系统软件，您可以轻松创建和发布属于自己品牌的专业的电商平台，进行全方位的品牌宣传和产品推广。ShopWind v3.x标准版开始走向开源，打造一款完全开源的电商系统，可以免费用于商业运营或者二次开发，免于商业版权的烦恼。v3.x商业版包含PC、手机H5、微商城、APP客户端（Andorid+iOS）、微信小程序、今日头条小程序等多端，其中PC端为开源免费项目，移动端为增值项目。ShopWind提供专业、快速、安全的底层软件设计和免费的更新升级服务，做好完善的开发文档和接口文档方便开发者在底层软件的基础上开发各种应用、模板、或者插件。</span></p> 
 <ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
  <li>官网网址：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.shopwind.net" target="_blank">https://www.shopwind.net</a></li> 
  <li>开发文档：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdeveloper.shopwind.net%2F" target="_blank">https://developer.shopwind.net</a></li> 
