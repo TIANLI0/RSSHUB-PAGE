@@ -1,0 +1,18 @@
+
+---
+title: '猫咪是放在笼子里养好，还是放养好？-Erch的回答：_图片_ _图片_ _图片_ _图片_ _图片_ 我家是放养的。我家是多猫家庭，之前还没做绝育的时候，隔离过，也就是笼...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-b97328d193b99ae5c61374248e2e23d7_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 25 Mar 2022 07:17:26 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-b97328d193b99ae5c61374248e2e23d7_1440w.jpg'
+---
+
+<div>   
+<strong>猫咪是放在笼子里养好，还是放养好？</strong><br>Erch的回答<br><p></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-b97328d193b99ae5c61374248e2e23d7_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-af6aea3d93555e773b1002ddcad5fa54_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-b97328d193b99ae5c61374248e2e23d7_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-1f0be872e7bf3f316850aa70eacd7ba3_1440w.jpg" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-165ad49dafd0599a06f56958946561b3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-1f0be872e7bf3f316850aa70eacd7ba3_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-9e453caad6e8cff5660493d45644746b_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-06dc3d45e5d1978e249cc85bb02d426a_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-9e453caad6e8cff5660493d45644746b_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-91fd7ac6aed8ac113c8c0b3211ee63ca_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-ccb3d01cfa2599f89ec8b9dec31743e2_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-91fd7ac6aed8ac113c8c0b3211ee63ca_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-b02c46acb90cd7d3c482adb65407a026_1440w.jpg" data-rawwidth="1620" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-66d89b4961f08f988a256330a6f51b78_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-b02c46acb90cd7d3c482adb65407a026_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="WQvLrqYW">我家是放养的。我家是多猫家庭，之前还没做绝育的时候，隔离过，也就是笼养过一段时间。</p><p data-pid="ETMnfwCp">我个人肯定还是觉得放养好一些。这个要看养猫的初衷和铲屎官本身的情况了吧。</p><p data-pid="ebZFWEro">首先我确实是没有把猫咪当成“宠物”来养的，可能当成孩子更贴切一点儿吧，或者说家庭成员。可能我考虑问题比较简单了。我觉得把他们从笼子里放出来肯定对于猫咪本身来说是更自由，更舒服的。当然这个前提是铲屎官可以接受。</p><p data-pid="4jHvj65T">之前也看过，有的人家从把猫咪抱回来就一直是笼养的，其实也可以。因为确实，铲屎官白天不在家，真的很难每天都去检查插座、电源等等这些，真的是不怕一万就怕万一。这个铲屎官家里就是白天把猫咪关进笼子，晚上下班放出来活动，晚上铲屎官睡前他们也回笼子，早上再出来活动一会儿，上班前回笼子。因为猫咪一直是这样的生活轨迹，所以它们也不会痛苦甚至有时候，在外边儿溜达一会儿会自己回去睡觉，而且猫咪确实白天大部分的时间也是在睡觉的，这种养猫的方式可能更安全些。而且这样养猫，我猜测猫毛也会相对没那么多，最起码不会满屋飞毛。</p><p data-pid="J4MlC-YA">但如果真的你没有什么过敏或者说是家里天然气也都在橱柜里，家里也没那么多插排线什么的，其实放养也是没那么危险，而且，猫咪放养肯定会和铲屎官更亲近的，和你一起吃饭睡觉，你去哪儿他都跟着你，也真的很幸福。</p><p data-pid="54Mc7SGc">总之，从安全、卫生角度出发，肯定是笼养更好些；</p><p data-pid="9pa1OJSk">如果从幸福感角度出发，肯定是放养幸福感更高！</p>  
+</div>
+            
