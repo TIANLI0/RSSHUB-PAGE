@@ -8,7 +8,7 @@ categories:
 headimg: 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/apex-legends-3-1-2022-5-43-52-pm.png.adapt.1920w.png'
 author: 巴哈姆特
 comments: false
-date: 2022-03-25 10:26:32
+date: 2022-03-25 11:19:45
 thumbnail: 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/apex-legends-3-1-2022-5-43-52-pm.png.adapt.1920w.png'
 ---
 
