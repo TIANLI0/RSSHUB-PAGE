@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.JPG?v=1648196536084'
 author: 巴哈姆特
 comments: false
-date: 2022-03-25 08:26:40
+date: 2022-03-25 09:22:24
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.JPG?v=1648196536084'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.
 <div>
 <ul class="bh-grids-img" style="width:70%">
 <li class="bh-grids-img-box" style="width: 99.61%;">
-<figcaption style="padding-bottom: 30.01%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.JPG?v=1648196536084" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.JPG 2x" style="max-width: unset;" title="《俠客風雲傳》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 30.01%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.JPG?v=1648196536084" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/30cb4f7acdf34f2cbf0a052dab1fpld5.JPG 2x" style="max-width: unset;" title="《俠客風雲傳》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《俠客風雲傳》</figure>
 </li>
