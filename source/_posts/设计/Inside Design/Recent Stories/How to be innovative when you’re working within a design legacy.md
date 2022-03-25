@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/robin-petravic-heath-ceramics-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2022-03-25 07:20:29
+date: 2022-03-25 08:25:46
 thumbnail: 'https://www.invisionapp.com/inside-design/robin-petravic-heath-ceramics-design-better-podcast/'
 ---
 
